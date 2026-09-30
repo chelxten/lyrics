@@ -1,4 +1,5 @@
 ---
+title: a,½Ibk&m;bkef;BuD;ygap
 font: win
 ---
 (a,½Ibk&m;bkef;BuD;ygap)3 (xm0&)3
