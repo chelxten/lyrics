@@ -1,9 +1,9 @@
 ---
-title: uREkfyftxJüc&pfawmf 
+title: taMumif;t&if
 font: win
 ---
 
-touf&Sifonf ukd,fawmftm; uREkfyf,lwif0wfaqmifrnf (t&mcyfodrf;wwfEkdifNyD)2
+uREkfyftxJüc&pfawmf touf&Sifonf ukd,fawmftm; uREkfyf,lwif0wfaqmifrnf (t&mcyfodrf;wwfEkdifNyD)2
 
 uREkfyftem;em; b,folrSr&Sd&ifvnf; uREkfyfESifh tNrJc&pfawmf&SdaeNyD (t&m&mNyD;jynfhpkHNyD)2
 
