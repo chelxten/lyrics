@@ -22,7 +22,9 @@ A free, searchable lyrics site. Each song is a text file in `songs/`, and GitHub
 
 The home page welcomes visitors with four buttons: **Song library** (search and read every song, at
 `#/songs`), **Song sheet**, **PowerPoint** and **Subtitles**. The last three use the songs picked
-with **+** in the library.
+with **+** in the library; the bar at the bottom of the library links to all three. On the song
+sheet and slides pages you can also add songs with the **Add songs** search box: tap a result to
+add or remove it, or press Enter to add the best match.
 
 ## Edit songs in the admin panel
 

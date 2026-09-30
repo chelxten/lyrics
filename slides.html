@@ -17,9 +17,15 @@
       <h2>Songs <span class="muted" id="song-count"></span></h2>
       <ol id="sheet-songs" class="sheet-songs"></ol>
       <p id="no-songs" class="muted" hidden>
-        No songs picked yet. Go to the <a href="./#/songs">song list</a> and tap <b>+</b> next to the songs you want.
+        No songs yet. Search for songs below, or tap <b>+</b> next to songs in the <a href="./#/songs">song library</a>.
       </p>
-      <p class="muted add-more"><a href="./#/songs">+ Add more songs</a></p>
+      <div class="add-songs">
+        <label>Add songs
+          <input id="add-search" type="search" placeholder="Search a title or a line you remember…" autocomplete="off">
+        </label>
+        <ul id="add-results" class="add-results" hidden></ul>
+        <p class="muted add-more"><a href="./#/songs">Or pick songs in the song library →</a></p>
+      </div>
 
       <label>Title slide <small class="muted">Optional, shown first</small>
         <input id="deck-title" placeholder="e.g. Homecell, 12 October" autocomplete="off">
@@ -114,6 +120,7 @@
   <div id="measure" class="slide-measure slide-text" aria-hidden="true"></div>
 
   <script src="selection.js"></script>
+  <script src="search.js"></script>
   <script src="setlist.js"></script>
   <script src="slides.js"></script>
 </body>

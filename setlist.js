@@ -14,9 +14,13 @@
     editor: $('#line-editor'),
     editTitle: $('#edit-title'),
     editText: $('#edit-text'),
+    addSearch: $('#add-search'),
+    addResults: $('#add-results'),
   };
+  const MAX_ADD_RESULTS = 8;
 
   let songsBySlug = {};
+  let searchable = []; // the songs prepared for SongSearch
   let picked = [];
   let edits = {}; // slug -> { text, base } where base is the song's lyrics when it was edited
   let editing = null; // slug open in the editor
@@ -140,6 +144,7 @@
           </span>
         </li>`)
       .join('');
+    renderAddResults();
   }
 
   ui.list.addEventListener('click', (e) => {
@@ -162,6 +167,69 @@
     SongSelection.set(picked);
     editsChanged();
     page.update();
+  });
+
+  // ---- Add songs by searching, as well as with + in the song library ----
+
+  function renderAddResults() {
+    const query = ui.addSearch.value.trim();
+    ui.addResults.hidden = !query;
+    if (!query) {
+      ui.addResults.innerHTML = '';
+      return;
+    }
+    const { words, hits } = SongSearch.search(searchable, query);
+    if (!hits.length) {
+      ui.addResults.innerHTML = `<li class="add-note">No songs match “${escapeHtml(query)}”.</li>`;
+      return;
+    }
+    ui.addResults.innerHTML = hits
+      .slice(0, MAX_ADD_RESULTS)
+      .map(({ song, snippet }) => {
+        const on = picked.includes(song.slug);
+        return `
+          <li><button type="button" data-slug="${escapeHtml(song.slug)}" aria-pressed="${on}" title="${on ? 'Remove' : 'Add'}">
+            <span class="add-text">
+              <span class="title">${SongSearch.highlight(song.title, words)}</span>
+              ${snippet ? `<span class="snippet">${SongSearch.highlight(snippet, words)}</span>` : ''}
+            </span>
+            <span class="add-mark" aria-hidden="true">${on ? '✓' : '+'}</span>
+          </button></li>`;
+      })
+      .join('') + (hits.length > MAX_ADD_RESULTS ? `<li class="add-note">${hits.length - MAX_ADD_RESULTS} more: type more words to narrow it down.</li>` : '');
+  }
+
+  // Adds a song to the end of the list, or removes it if it's already there.
+  function toggleSong(slug) {
+    if (picked.includes(slug)) {
+      picked = picked.filter((s) => s !== slug);
+      if (editing === slug) closeEditor();
+    } else {
+      picked = [...picked, slug];
+    }
+    SongSelection.set(picked);
+    editsChanged();
+    page.update();
+  }
+
+  ui.addSearch.addEventListener('input', renderAddResults);
+  ui.addSearch.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') {
+      ui.addSearch.value = '';
+      renderAddResults();
+    }
+    if (e.key !== 'Enter') return;
+    e.preventDefault();
+    // Enter adds the best match that isn't on the list yet.
+    if (!ui.addSearch.value.trim()) return;
+    const hit = SongSearch.search(searchable, ui.addSearch.value).hits.find(({ song }) => !picked.includes(song.slug));
+    if (!hit) return;
+    ui.addSearch.value = '';
+    toggleSong(hit.song.slug);
+  });
+  ui.addResults.addEventListener('click', (e) => {
+    const button = e.target.closest('button[data-slug]');
+    if (button) toggleSong(button.dataset.slug);
   });
 
   // ---- Editor: change the words or lines of a song for the sheet and slides only ----
@@ -251,6 +319,7 @@
     viewOnly = Boolean(link.viewOnly);
     const data = await fetch('songs.json', { cache: 'no-cache' }).then((r) => r.json());
     songsBySlug = Object.fromEntries(data.map((s) => [s.slug, s]));
+    searchable = data.map(SongSearch.prepare);
     if (link.songs.length) {
       picked = link.songs.filter((slug) => songsBySlug[slug]);
       if (!viewOnly) SongSelection.set(picked);

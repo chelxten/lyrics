@@ -299,9 +299,15 @@ mark {
   white-space: nowrap;
 }
 body.has-tray main { padding-bottom: 110px; }
-/* On phones the bar holds two buttons, so it drops the arrows and the word "songs" */
+.tray-info, .tray-actions { display: flex; align-items: center; gap: 10px; }
+/* On narrow screens the buttons go on a second row */
+@media (max-width: 680px) {
+  .sheet-tray { flex-direction: column; gap: 8px; padding: 10px 12px; border-radius: 24px; }
+  .tray-actions { gap: 6px; }
+  body.has-tray main { padding-bottom: 150px; }
+}
+/* On phones the buttons drop their arrows */
 @media (max-width: 480px) {
-  .sheet-tray { gap: 8px; padding-left: 14px; }
   .tray-button { padding: 8px 10px; font-size: 0.9rem; }
   .sheet-tray .wide-only { display: none; }
 }
@@ -514,3 +520,46 @@ body.has-tray main { padding-bottom: 110px; }
 @media (max-width: 560px) {
   .welcome-links { grid-template-columns: 1fr; }
 }
+
+/* Sheet and slides: add songs by searching */
+.add-songs { margin: 0 0 16px; }
+.ui .add-songs label { margin-bottom: 0; }
+.add-results {
+  list-style: none;
+  margin: 6px 0 0;
+  padding: 0;
+  overflow: hidden;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+.ui .add-results li { margin: 0; }
+.add-results li + li { border-top: 1px solid var(--border); }
+.ui .add-results button {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  width: 100%;
+  padding: 8px 10px;
+  text-align: left;
+  background: none;
+  border: none;
+  border-radius: 0;
+}
+.ui .add-results button:hover { background: var(--bg); }
+.add-text { flex: 1; min-width: 0; display: flex; flex-direction: column; }
+.add-results .title { font-weight: 600; overflow-wrap: anywhere; }
+.add-results .snippet { font-size: 0.8rem; color: var(--muted); white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.add-mark {
+  flex: none;
+  display: grid;
+  place-items: center;
+  width: 28px;
+  height: 28px;
+  font-size: 1.1rem;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+}
+.add-results button[aria-pressed="true"] .add-mark { background: var(--accent); border-color: var(--accent); color: var(--on-accent); }
+.add-note { padding: 8px 10px; font-size: 0.85rem; color: var(--muted); }
+.add-songs .add-more { margin: 8px 0 0; }

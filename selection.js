@@ -66,10 +66,15 @@
       const tray = document.createElement('div');
       tray.className = 'sheet-tray';
       tray.innerHTML = `
-        <span class="count"></span>
-        <button type="button" class="link-button">Clear</button>
-        <a class="tray-button" href="sheet.html">Song sheet<span class="wide-only"> →</span></a>
-        <a class="tray-button" href="slides.html">Slides<span class="wide-only"> →</span></a>`;
+        <span class="tray-info">
+          <span class="count"></span>
+          <button type="button" class="link-button">Clear</button>
+        </span>
+        <span class="tray-actions">
+          <a class="tray-button" href="sheet.html">Song sheet<span class="wide-only"> →</span></a>
+          <a class="tray-button" href="slides.html#format=full">PowerPoint<span class="wide-only"> →</span></a>
+          <a class="tray-button" href="slides.html#format=captions">Subtitles<span class="wide-only"> →</span></a>
+        </span>`;
       tray.querySelector('button').addEventListener('click', () => {
         if (confirm('Remove all picked songs?')) save([]);
       });
