@@ -1,4 +1,5 @@
 ---
+title: qufuyftyfESH
 font: win
 ---
 uREfkyfpdwfESvkH;tawG;tac:rsm; tMuHpnftvkH;pkH ukd,fawmf&SifxH0,f tyfESH
@@ -9,7 +10,7 @@ uREkfyfjyK&mtrIoGm;&mvrf; ukd,fawmfyJhukdifay;yg tpOfnGefjyykdYaqmifyg ^uREkfyft
 
 0dnmOfawmf tpOfapmifhryg az;ryg tm;enf;ol uREkfyftm;
 
-ESvkH;tpGrf;owdå &Sdaomt&m ocifa&SUawmfrSm ylaZmfyg\
+ESvkH;tpGrf;owåd &Sdaomt&m ocifa&SUawmfrSm ylaZmfyg\
 
 qufuyfjcif;tm; auseyfrlyg qkawmif;yg\ tzbk&m;
 
