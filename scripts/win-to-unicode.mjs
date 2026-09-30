@@ -54,9 +54,10 @@ function convert(text) {
   s = s.replace(new RegExp(`(${CONS}${MEDIALS}\u1031?)${KINZI}`, 'g'), '\u1004\u103A\u1039$1');
   s = s.replace(new RegExp(`(${CONS}${MEDIALS}\u1031?)${KINZI_I}`, 'g'), '\u1004\u103A\u1039$1\u102D');
 
-  // Sort the marks after each consonant into Unicode storage order.
+  // Sort the marks after each consonant into Unicode storage order, dropping doubled marks
+  // (typos like "ff"), which are never valid.
   s = s.replace(/[\u102B-\u1038\u103A-\u103E]+/g, (marks) =>
-    [...marks].sort((a, b) => (RANK[a] ?? 99) - (RANK[b] ?? 99)).join(''));
+    [...new Set(marks)].sort((a, b) => (RANK[a] ?? 99) - (RANK[b] ?? 99)).join(''));
 
   // ကျွန်ုပ်: here the asat belongs before the u vowel.
   return s.replace(/\u1014\u102F\u103A/g, '\u1014\u103A\u102F');

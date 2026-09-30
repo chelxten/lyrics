@@ -86,7 +86,7 @@ function renderList() {
   const { words, hits } = search(input.value);
   count.textContent = input.value.trim()
     ? `${hits.length} ${hits.length === 1 ? 'match' : 'matches'}`
-    : `${songs.length} ${songs.length === 1 ? 'song' : 'songs'}`;
+    : `${songs.length} ${songs.length === 1 ? 'song' : 'songs'} · tap + to add songs to a printable song sheet`;
 
   results.innerHTML = hits
     .map(({ song, snippet }) => `
@@ -94,7 +94,7 @@ function renderList() {
         <span class="title">${highlight(song.title, words)}</span>
         ${song.artist ? `<span class="artist"> · ${highlight(song.artist, words)}</span>` : ''}
         ${snippet ? `<div class="snippet">“${highlight(snippet, words)}”</div>` : ''}
-      </a></li>`)
+      </a>${SongSelection.pickButton(song.slug, song.title)}</li>`)
     .join('');
 }
 
@@ -124,6 +124,7 @@ function renderSong(slug) {
       ${isAdmin() ? `<a class="back" href="admin.html#/edit/${encodeURIComponent(song.slug)}">Edit</a>` : ''}
     </div>
     <h1>${escapeHtml(song.title)}</h1>
+    <p>${SongSelection.pickButton(song.slug, song.title, true)}</p>
     ${meta ? `<p class="meta">${meta}</p>` : ''}
     ${song.tags.length ? `<ul class="tags">${song.tags.map((t) => `<li>${escapeHtml(t)}</li>`).join('')}</ul>` : ''}
     <div class="lyrics">${lyrics}</div>`;
@@ -146,6 +147,7 @@ function route() {
 }
 
 input.addEventListener('input', renderList);
+SongSelection.mountTray();
 window.addEventListener('hashchange', route);
 
 fetch('songs.json', { cache: 'no-cache' })

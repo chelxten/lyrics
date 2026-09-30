@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Song Sheet · Lyrics Library</title>
+  <link rel="stylesheet" href="style.css">
+  <style id="page-size"></style>
+</head>
+<body class="sheet-body">
+  <header class="site-header wide no-print">
+    <a href="./" class="brand">Lyrics Library</a>
+    <span class="muted">Song sheet</span>
+  </header>
+
+  <main class="sheet-layout wide">
+    <aside class="sheet-controls ui no-print">
+      <h2>Songs <span class="muted" id="song-count"></span></h2>
+      <ol id="sheet-songs" class="sheet-songs"></ol>
+      <p id="no-songs" class="muted" hidden>
+        No songs picked yet. Go to the <a href="./">song list</a> and tap <b>+</b> next to the songs you want.
+      </p>
+      <p class="muted add-more"><a href="./">+ Add more songs</a></p>
+
+      <label>Title on the sheet <small class="muted">Optional, printed at the top</small>
+        <input id="sheet-title" placeholder="e.g. Homecell, 12 October" autocomplete="off">
+      </label>
+      <div class="two-up">
+        <label>Page size
+          <select id="size">
+            <option value="A4">A4</option>
+            <option value="A5">A5</option>
+            <option value="Letter">Letter</option>
+            <option value="Legal">Legal</option>
+          </select>
+        </label>
+        <label>Orientation
+          <select id="orient">
+            <option value="portrait">Portrait</option>
+            <option value="landscape">Landscape</option>
+          </select>
+        </label>
+      </div>
+      <div class="two-up">
+        <div class="field">
+          <span class="field-label" id="pages-label">Pages</span>
+          <div class="stepper" role="group" aria-labelledby="pages-label">
+            <button type="button" id="fewer" aria-label="Fewer pages">−</button>
+            <input id="pages" type="number" min="1" max="20" value="1" inputmode="numeric" aria-labelledby="pages-label">
+            <button type="button" id="more" aria-label="More pages">+</button>
+          </div>
+        </div>
+        <label>Columns
+          <select id="cols">
+            <option value="auto">Automatic</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+          </select>
+        </label>
+      </div>
+
+      <p id="fit" class="fit" role="status"></p>
+      <div class="actions">
+        <button type="button" class="primary" id="print">Print / Save as PDF</button>
+        <button type="button" id="copy">Copy link</button>
+      </div>
+    </aside>
+
+    <section class="sheet-preview" aria-label="Sheet preview">
+      <div id="pages-out" class="sheet-pages"></div>
+    </section>
+  </main>
+
+  <div id="measure" class="sheet-measure sheet-text" aria-hidden="true"></div>
+
+  <script src="selection.js"></script>
+  <script src="sheet.js"></script>
+</body>
+</html>

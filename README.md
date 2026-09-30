@@ -28,6 +28,14 @@ Open https://chelxten.github.io/lyrics/admin.html to add, edit and delete songs.
 - Each save is a commit to this repository, so GitHub keeps every earlier version.
   The website updates about a minute after you save.
 
+## Song sheets
+
+Anyone can tap **+** next to songs (on the song list, a song page or the admin list) and then
+**Make song sheet**. `sheet.html` lays the songs out in columns on the chosen page size and
+number of pages, with the largest text that fits, ready to print or save as PDF. Labels print
+in short form: `[Verse 1]` → `V1`, `[Chorus]` → `CHO:`, `[Pre-Chorus]` → `Pre:`.
+**Copy link** shares the exact sheet.
+
 ## Song files
 
 Each song is a file in `songs/`. The file name is used in the song's web address.

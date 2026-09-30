@@ -68,10 +68,12 @@ main {
 
 .results { list-style: none; padding: 0; margin: 0; }
 
+.results li { display: flex; gap: 8px; margin-bottom: 8px; }
 .results a {
   display: block;
+  flex: 1;
+  min-width: 0;
   padding: 14px 16px;
-  margin-bottom: 8px;
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius);
@@ -155,22 +157,23 @@ mark {
   font: inherit; color: var(--muted); cursor: pointer; text-decoration: underline;
 }
 
-.admin .panel {
+.ui .panel {
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius);
   padding: 20px;
 }
-.admin .narrow { max-width: 520px; margin: 24px auto; }
-.admin .panel h1 { margin-top: 0; font-size: 1.4rem; }
-.admin ol { padding-left: 20px; }
-.admin li { margin-bottom: 4px; }
+.ui .narrow { max-width: 520px; margin: 24px auto; }
+.ui .panel h1 { margin-top: 0; font-size: 1.4rem; }
+.ui ol { padding-left: 20px; }
+.ui li { margin-bottom: 4px; }
 
-.admin label { display: block; margin: 0 0 14px; font-weight: 600; font-size: 0.9rem; }
-.admin label input:not([type="checkbox"]),
-.admin label textarea,
-.admin .field textarea,
-.admin .toolbar input {
+.ui label { display: block; margin: 0 0 14px; font-weight: 600; font-size: 0.9rem; }
+.ui label input:not([type="checkbox"]),
+.ui label textarea,
+.ui label select,
+.ui .field textarea,
+.ui .toolbar input {
   display: block;
   width: 100%;
   margin-top: 6px;
@@ -183,11 +186,11 @@ mark {
   border-radius: 8px;
   outline: none;
 }
-.admin input:focus, .admin textarea:focus { border-color: var(--accent); }
-.admin label small { display: block; margin-top: 4px; font-weight: 400; }
-.admin .check { display: flex; align-items: center; gap: 8px; font-weight: 400; font-size: 1rem; }
+.ui input:focus, .ui textarea:focus { border-color: var(--accent); }
+.ui label small { display: block; margin-top: 4px; font-weight: 400; }
+.ui .check { display: flex; align-items: center; gap: 8px; font-weight: 400; font-size: 1rem; }
 
-.admin button, .admin .button {
+.ui button, .ui .button {
   display: inline-block;
   padding: 9px 16px;
   font: inherit;
@@ -199,16 +202,16 @@ mark {
   text-decoration: none;
   cursor: pointer;
 }
-.admin .primary { background: var(--accent); border-color: var(--accent); color: var(--on-accent); font-weight: 600; }
-.admin .danger { background: transparent; border-color: var(--danger); color: var(--danger); }
-.admin button:disabled { opacity: 0.6; cursor: default; }
-.admin .link-button { padding: 0; border: none; background: none; color: var(--muted); }
+.ui .primary { background: var(--accent); border-color: var(--accent); color: var(--on-accent); font-weight: 600; }
+.ui .danger { background: transparent; border-color: var(--danger); color: var(--danger); }
+.ui button:disabled { opacity: 0.6; cursor: default; }
+.ui .link-button { padding: 0; border: none; background: none; color: var(--muted); }
 
-.admin .error { color: var(--danger); }
-.admin .flash { background: var(--flash); padding: 10px 14px; border-radius: 8px; }
+.ui .error { color: var(--danger); }
+.ui .flash { background: var(--flash); padding: 10px 14px; border-radius: 8px; }
 
-.admin .toolbar { display: flex; gap: 10px; align-items: center; margin-bottom: 4px; }
-.admin .toolbar input { flex: 1; min-width: 0; margin: 0; }
+.ui .toolbar { display: flex; gap: 10px; align-items: center; margin-bottom: 4px; }
+.ui .toolbar input { flex: 1; min-width: 0; margin: 0; }
 
 .editor { display: grid; grid-template-columns: 1fr 1fr; gap: 24px; align-items: start; }
 .editor textarea {
@@ -244,8 +247,134 @@ mark {
 .song-tools { display: flex; justify-content: space-between; align-items: baseline; }
 .song-tools .back { margin-bottom: 16px; }
 
-.admin .field { margin-bottom: 14px; }
-.admin .field > label { margin-bottom: 6px; }
+.ui .field { margin-bottom: 14px; }
+.ui .field > label { margin-bottom: 6px; }
 .label-bar { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; font-size: 0.85rem; }
-.admin .label-bar button { padding: 4px 10px; font-size: 0.85rem; border-radius: 999px; }
-.admin .label-bar button:hover { border-color: var(--accent); color: var(--accent); }
+.ui .label-bar button { padding: 4px 10px; font-size: 0.85rem; border-radius: 999px; }
+.ui .label-bar button:hover { border-color: var(--accent); color: var(--accent); }
+
+/* Song sheet picker (+ buttons and the bottom bar) */
+.pick {
+  flex: none;
+  width: 48px;
+  font: inherit;
+  font-size: 1.3rem;
+  line-height: 1;
+  color: var(--muted);
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  cursor: pointer;
+}
+.pick:hover { border-color: var(--accent); color: var(--accent); }
+.pick[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--on-accent); }
+.pick.wide { width: auto; padding: 8px 14px; font-size: 0.95rem; }
+
+.sheet-tray {
+  position: fixed;
+  left: 50%;
+  bottom: 16px;
+  transform: translateX(-50%);
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  width: max-content;
+  max-width: calc(100% - 32px);
+  padding: 10px 10px 10px 18px;
+  background: var(--text);
+  color: var(--bg);
+  border-radius: 999px;
+  box-shadow: 0 6px 24px rgba(0, 0, 0, 0.25);
+  z-index: 10;
+}
+.sheet-tray[hidden] { display: none; }
+.sheet-tray .link-button { color: inherit; opacity: 0.75; }
+.tray-button {
+  padding: 8px 16px;
+  font-weight: 600;
+  color: var(--on-accent);
+  background: var(--accent);
+  border-radius: 999px;
+  text-decoration: none;
+  white-space: nowrap;
+}
+body.has-tray main { padding-bottom: 110px; }
+
+/* Song sheet page */
+.sheet-layout { display: grid; grid-template-columns: 320px 1fr; gap: 24px; align-items: start; }
+.sheet-controls {
+  position: sticky;
+  top: 16px;
+  padding: 18px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
+.sheet-controls h2 { margin: 0 0 10px; font-size: 1.1rem; }
+.sheet-songs { margin: 0 0 6px; padding-left: 22px; }
+.sheet-songs li { display: flex; align-items: center; gap: 6px; padding: 3px 0; }
+.sheet-songs .name { flex: 1; min-width: 0; overflow-wrap: anywhere; }
+.sheet-songs .tools { display: flex; gap: 2px; }
+.ui .sheet-songs button { padding: 2px 8px; font-size: 0.85rem; }
+.add-more { margin: 0 0 16px; }
+.two-up { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+.field-label { display: block; margin-bottom: 6px; font-weight: 600; font-size: 0.9rem; }
+.stepper { display: flex; }
+.ui .stepper button { padding: 8px 12px; }
+.ui .stepper button:first-child { border-radius: 8px 0 0 8px; }
+.ui .stepper button:last-child { border-radius: 0 8px 8px 0; }
+.ui .stepper input {
+  width: 100%;
+  min-width: 0;
+  text-align: center;
+  font: inherit;
+  color: var(--text);
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-left: none;
+  border-right: none;
+}
+.fit { font-size: 0.9rem; color: var(--muted); }
+.fit.warn { color: var(--danger); }
+.sheet-controls .actions { display: flex; flex-wrap: wrap; gap: 8px; }
+
+.sheet-preview { min-width: 0; overflow: hidden; }
+.sheet-pages { display: flex; flex-direction: column; align-items: flex-start; gap: 24px; }
+
+/* The printed page itself is always black on white, whatever the screen theme */
+.sheet-text {
+  font-family: "Myanmar Sangam MN", "Noto Sans Myanmar", "Myanmar Text", "Pyidaungsu", system-ui, sans-serif;
+  line-height: 1.6;
+  text-align: center;
+  color: #111;
+}
+.sheet-page {
+  position: relative;
+  flex: none;
+  overflow: hidden;
+  background: #fff;
+  box-shadow: 0 2px 14px rgba(0, 0, 0, 0.2);
+}
+.sheet-header { font-size: 16pt; font-weight: 700; line-height: 1.3; }
+.sheet-cols { display: flex; }
+.sheet-col { flex: none; }
+.sheet-block { white-space: pre-wrap; overflow-wrap: anywhere; }
+.sheet-song-title { font-weight: 700; font-size: 1.1em; margin-bottom: 0.9em; }
+.sheet-rule { position: absolute; width: 0; border-left: 1.2px solid #111; }
+.sheet-page-number { position: absolute; left: 0; right: 0; bottom: 5mm; font-size: 8pt; color: #666; }
+.sheet-measure { position: absolute; left: -10000px; top: 0; height: 0; overflow: hidden; visibility: hidden; }
+
+@media (max-width: 860px) {
+  .sheet-layout { grid-template-columns: 1fr; }
+  .sheet-controls { position: static; }
+}
+
+@media print {
+  .no-print, .sheet-tray, .sheet-measure { display: none !important; }
+  body.sheet-body { margin: 0; background: #fff; }
+  .sheet-layout { display: block; max-width: none; margin: 0; padding: 0; }
+  .sheet-preview { overflow: visible; }
+  .sheet-pages { display: block; zoom: 1 !important; }
+  .sheet-page { box-shadow: none; break-after: page; }
+  .sheet-page:last-child { break-after: auto; }
+}

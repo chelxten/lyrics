@@ -264,7 +264,7 @@ async function renderList() {
       .map((s) => `<li><a href="#/edit/${encodeURIComponent(s.slug)}">
         <span class="title">${escapeHtml(s.title)}</span>
         ${s.title !== s.slug ? `<span class="artist"> · ${escapeHtml(s.slug)}</span>` : ''}
-      </a></li>`)
+      </a>${SongSelection.pickButton(s.slug, s.title)}</li>`)
       .join('');
   };
   filter.addEventListener('input', show);
@@ -435,4 +435,5 @@ window.addEventListener('beforeunload', (e) => {
   if (dirty) e.preventDefault();
 });
 window.addEventListener('hashchange', route);
+SongSelection.mountTray();
 route();
