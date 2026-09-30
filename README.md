@@ -82,9 +82,12 @@ See `songs/_template.md` for the format:
 
 - `title:` is optional. Without it, the site shows the file name.
 - The songs are stored as Unicode Burmese.
-- `font: win` is still supported for new songs typed with a Win Innwa-style Burmese font (the
-  admin panel's "Typed with the Win font" box). The site converts them to Unicode when it builds
-  (see `scripts/win-to-unicode.mjs`). Put English words in `backticks` so they aren't converted.
+- You can still type songs with a Win Innwa-style Burmese font: in the admin panel, tick "Typed
+  with the Win font" (it's ticked for new songs). When you save, the title and lyrics are converted
+  (see `scripts/win-to-unicode.mjs`) and stored as Unicode; the Win text isn't kept. Put English
+  words in `backticks` so they aren't converted.
+- A song file with `font: win` (for example, one added directly on GitHub) is still converted when
+  the site builds, and becomes Unicode the next time it's saved in the admin panel.
 - A line like `[Chorus]` shows up as a section label.
 
 ## Preview on your computer

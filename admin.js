@@ -302,7 +302,7 @@ async function renderEditor(slug) {
                <small class="muted">Used in the song’s web address. It can’t be changed later.</small></label>`
           : `<h1 class="file-name">${escapeHtml(slug)}</h1>`}
         <label>Title <input id="title" spellcheck="false" placeholder="Leave empty to show the file name"></label>
-        <label class="check"><input type="checkbox" id="win"> Typed with the Win font (convert to Burmese)</label>
+        <label class="check"><input type="checkbox" id="win"> Typed with the Win font (saved as Unicode Burmese)</label>
         <div class="field">
           <label for="lyrics">Lyrics</label>
           <div class="label-bar" role="toolbar" aria-label="Add a section label">
@@ -374,15 +374,19 @@ async function renderEditor(slug) {
       status.textContent = 'The file name can’t contain / or \\, or start with . or _';
       return;
     }
+    // Text typed with the Win font is converted and saved as Unicode; the Win text isn't kept.
+    const win = winInput.checked;
+    const convert = win ? winToUnicode : (s) => s;
+    const lyrics = convert(lyricsInput.value);
     const { title: _, font: __, ...rest } = meta;
-    const newMeta = { title: titleInput.value.trim(), ...(winInput.checked ? { font: 'win' } : {}), ...rest };
+    const newMeta = { title: convert(titleInput.value.trim()), ...rest };
     setBusy(true, 'Saving…');
     try {
       const res = await github(songPath(name), {
         method: 'PUT',
         body: JSON.stringify({
           message: `${isNew ? 'Add' : 'Edit'} ${name} (admin panel)`,
-          content: encodeBase64(serialize(newMeta, lyricsInput.value)),
+          content: encodeBase64(serialize(newMeta, lyrics)),
           branch: BRANCH,
           ...(sha ? { sha } : {}),
         }),
@@ -390,13 +394,20 @@ async function renderEditor(slug) {
       sha = res.content.sha;
       meta = newMeta;
       dirty = false;
-      if (titles) titles[name] = winInput.checked ? winToUnicode(newMeta.title) || name : newMeta.title || name;
+      if (titles) titles[name] = newMeta.title || name;
+      if (win) {
+        // Carry on editing the saved Unicode text.
+        titleInput.value = newMeta.title;
+        lyricsInput.value = lyrics.trim();
+        winInput.checked = false;
+        updatePreview();
+      }
       if (isNew) {
         flash = 'Song added. It will appear on the website in about a minute.';
         location.hash = `#/edit/${encodeURIComponent(name)}`;
         return;
       }
-      setBusy(false, 'Saved. The website updates in about a minute.');
+      setBusy(false, win ? 'Saved as Unicode Burmese. The website updates in about a minute.' : 'Saved. The website updates in about a minute.');
     } catch (err) {
       const message = err.status === 422 && isNew ? 'A song with that file name already exists.' : explain(err);
       if (err.status === 401) return renderConnect(message);
