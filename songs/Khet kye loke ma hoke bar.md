@@ -1,4 +1,5 @@
 ---
+title: cufcJvdkhr[kwfyg
 font: win
 ---
 twm;qD;awGxyfxyfcgcg wpfwdkif;BuD;awG
@@ -10,7 +11,7 @@ jyif;jyif;xefxefwdkufcdkufaevnf;
 udk,fawmfudkqufcsD;rGrf;aer,f
 
 udk,fawmfudk½SmwmcufcJvdkYr[kwfyg
-udk,fawmfudkac:wmcufcJvdkYr[kwfyg
+udk,fawmfudkacgfwmcufcJvdkYr[kwfyg
 
 udk,fawmfudkodyfcspfvfdkY udk,fawmfudkodyfcspfw,f
 udk,fawmfudkodyfcspfvfdkY udk,fawmfudkodyfcspfw,f
