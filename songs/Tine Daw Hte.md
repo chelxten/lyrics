@@ -1,10 +1,11 @@
 ---
+title: wdkifawmfxuf
 font: win
 ---
-um;wdkifay:rSm taocHcJhw,f
+um;wdkifaygfrSm taocHcJhw,f
 tjypfr&SdwJh bk&m;jrwfom;awmf
 
-um;wdkifay:rSm ty,fcHcJhw,f
+um;wdkifaygfrSm ty,fcHcJhw,f
 tz&JUtjrwfEl;qHk;om;awmf
 
 ouf&SdoufrJht&mcyfodrf;zefqif;umtkyfpdk;ol
