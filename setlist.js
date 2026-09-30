@@ -211,6 +211,20 @@
     page.update();
   });
 
+  // Saves a file made in the browser (JPG, PNGs, PowerPoint) to the viewer's downloads.
+  function saveFile(blob, name) {
+    const link = document.createElement('a');
+    link.href = URL.createObjectURL(blob);
+    link.download = name;
+    document.body.appendChild(link);
+    link.click();
+    link.remove();
+    setTimeout(() => URL.revokeObjectURL(link.href), 60000);
+  }
+
+  // A file name from the title, without characters that file names can't have.
+  const fileName = (title, fallback) => title.trim().replace(/[\\/:*?"<>|]+/g, ' ').trim() || fallback;
+
   // Loads a library from the CDN the first time it's needed, and gives back window[globalName].
   const scripts = {};
   function loadScript(src, integrity, globalName) {
@@ -262,6 +276,8 @@
     render: renderSongList,
     flushEdits,
     loadScript,
+    saveFile,
+    fileName,
     start,
   };
 })();

@@ -292,17 +292,7 @@ function scalePreview() {
 
 // ---- JPG images: one per page ----
 
-const fileName = () => (ui.title.value.trim() || 'Song sheet').replace(/[\\/:*?"<>|]+/g, ' ').trim() || 'Song sheet';
-
-function saveFile(blob, name) {
-  const link = document.createElement('a');
-  link.href = URL.createObjectURL(blob);
-  link.download = name;
-  document.body.appendChild(link);
-  link.click();
-  link.remove();
-  setTimeout(() => URL.revokeObjectURL(link.href), 60000);
-}
+const fileName = () => SetList.fileName(ui.title.value, 'Song sheet');
 
 async function downloadImages() {
   const pages = [...ui.out.querySelectorAll('.sheet-page')];
@@ -323,7 +313,7 @@ async function downloadImages() {
         onclone: (doc) => { doc.getElementById('pages-out').style.zoom = '1'; },
       });
       const blob = await new Promise((resolve) => canvas.toBlob(resolve, 'image/jpeg', 0.92));
-      saveFile(blob, pages.length > 1 ? `${name} (${i + 1}).jpg` : `${name}.jpg`);
+      SetList.saveFile(blob, pages.length > 1 ? `${name} (${i + 1}).jpg` : `${name}.jpg`);
     }
   } catch {
     const message = 'Couldn’t make the JPG. Check your connection and try again.';

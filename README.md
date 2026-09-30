@@ -48,10 +48,18 @@ and **Download JPG** buttons but none of the controls. Opening it doesn't change
 
 After picking songs with **+**, tap **Slides** (or **Make slides with these songs** on the song
 sheet page). `slides.html` makes a PowerPoint file: an optional title slide, then for each song a
-title slide and one slide per verse. You can choose widescreen (16:9) or standard (4:3), white text
-on black or black on white, labels on or off, and the text size (**Fit automatically** picks the
+title slide and one slide per verse. There are two formats:
+
+- **Full screen**: one verse per slide, white text on black or black on white.
+- **Subtitles**: one or two lines per slide at the bottom of the screen, on a transparent, black or
+  green (chroma key) background, as white text on a dark band or outlined. Each song starts with its
+  title as a caption. Transparent PNGs can go straight over video in OBS, vMix or a video editor.
+
+You can choose widescreen (16:9) or standard (4:3), labels on or off, and the text size (**Fit automatically** picks the
 largest size that keeps every verse on one slide). **Download PowerPoint** saves a `.pptx` file that
-opens in PowerPoint, Keynote and Google Slides.
+opens in PowerPoint, Keynote and Google Slides (PowerPoint slides can't be transparent, so a
+transparent background becomes black there). **Download PNGs** saves a zip with one image per slide
+(1920 × 1080 for widescreen).
 
 **Copy link** works the same way here: the link opens just the slides, with a **Download PowerPoint**
 button.

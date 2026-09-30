@@ -1,46 +1,74 @@
-// Slides: turns the picked songs into a PowerPoint file. Each song starts with a title slide, then
-// every verse gets its own slide. "Fit automatically" uses the largest text that keeps every verse
-// whole on one slide; below MIN_WHOLE_FONT it splits long verses over two slides instead.
+// Slides: turns the picked songs into a PowerPoint file or a set of PNG images, in two formats.
+// "Full screen": each song starts with a title slide, then every verse gets its own slide. "Fit
+// automatically" uses the largest text that keeps every verse whole on one slide; below
+// MIN_WHOLE_FONT it splits long verses over two slides instead.
+// "Subtitles": one or two lines per slide at the bottom of the screen, like captions, with each
+// song's title as a caption first. "Fit automatically" uses the largest text that keeps every line
+// on one line.
 // The song list and ✎ edits are shared with the song sheet (see setlist.js).
 
 const SLIDE_SIZES = { wide: [13.333, 7.5], standard: [10, 7.5] }; // inches, PowerPoint's 16:9 and 4:3
 const MARGIN = 0.5; // inches around the text
 const PX_PER_IN = 96;
 const THEMES = { dark: { bg: '000000', text: 'FFFFFF' }, light: { bg: 'FFFFFF', text: '111111' } };
+// Subtitle backgrounds. PowerPoint slides can't be transparent, so the presentation uses black.
+const BACKGROUNDS = {
+  transparent: { css: 'transparent', pptx: '000000' },
+  black: { css: '#000000', pptx: '000000' },
+  green: { css: '#00b140', pptx: '00B140' },
+};
+const CAPTION_SIDE = 0.6; // inches from the sides of the screen to the subtitle text
+const CAPTION_BOTTOM = 0.4; // inches from the bottom of the screen to the subtitles
+const CAPTION_PAD = 0.12; // inches of dark band above and below the subtitle text
+const BAND_OPACITY = 0.6; // same as .has-band .caption in style.css
 const FONT_FACE = 'Myanmar Text'; // Burmese font that comes with Windows; other systems use their own
 const LINE_HEIGHT = 1.5; // same as .slide-text in style.css
 const MIN_FONT = 16; // pt
 const MIN_WHOLE_FONT = 28; // pt, "Fit automatically" splits long verses rather than go smaller
 const MAX_AUTO_FONT = 48; // pt, largest size "Fit automatically" will pick
+const MAX_AUTO_CAPTION_FONT = 40; // pt, largest subtitle size "Fit automatically" will pick
 const MAX_FONT = 96; // pt, largest size that can be chosen by hand
 const MANUAL_STEP = 2; // pt, one press of − / +
-const TITLE_SCALE = 1.25; // title slides use bigger text than the verses
+const TITLE_SCALE = 1.25; // full-screen title slides use bigger text than the verses
 const SAFETY = 0.9; // PowerPoint's fonts differ a little from the browser's, so leave some room
+const PNG_HEIGHT = 1080; // px, so 16:9 slides become 1920 × 1080 images
+const PPTX_LABEL = 'Download PowerPoint';
+const PNG_LABEL = 'Download PNGs';
 const PPTX_LIBRARY = 'https://cdn.jsdelivr.net/npm/pptxgenjs@4.0.1/dist/pptxgen.bundle.js';
 const PPTX_LIBRARY_INTEGRITY = 'sha384-qb0Xhi7LLYpvW1HCK6oMrmDLSY9sy7vwm6ZlV6KjtrlL9yg30+YN4neTwnmX+Kp8';
+const IMAGE_LIBRARY = 'https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js';
+const IMAGE_LIBRARY_INTEGRITY = 'sha384-ZZ1pncU3bQe8y31yfZdMFdSpttDoPmOZg2wguVK9almUodir1PghgT0eY7Mrty8H';
+const ZIP_LIBRARY = 'https://cdn.jsdelivr.net/npm/jszip@3.10.1/dist/jszip.min.js';
+const ZIP_LIBRARY_INTEGRITY = 'sha384-+mbV2IY1Zk/X1p/nWllGySJSUN8uMs+gUAN10Or95UBH0fpj6GfKgPmgC5EXieXG';
 
 const $ = (sel) => document.querySelector(sel);
 const ui = {
   title: $('#deck-title'),
+  format: $('#format'),
   size: $('#slide-size'),
   theme: $('#theme'),
+  lines: $('#caption-lines'),
+  background: $('#caption-bg'),
+  textStyle: $('#caption-style'),
   fontSize: $('#font-size'),
   autoFont: $('#auto-font'),
   labels: $('#labels'),
   fit: $('#fit'),
   out: $('#slides-out'),
   measure: $('#measure'),
-  downloads: document.querySelectorAll('.download-pptx'),
+  pptxButtons: document.querySelectorAll('.download-pptx'),
+  pngButtons: document.querySelectorAll('.download-png'),
 };
 
 const { escapeHtml, burmeseNumber } = SetList;
 let manualFont = null; // pt, or null for "Fit automatically"
 let lastFont = 40; // size used by the latest layout
-let deck = null; // the latest layout, used for the download
+let deck = null; // the latest layout, used for the downloads
 let viewOnly = false; // opened from a shared link: show only the slides
 
 const clampFont = (n) => Math.min(MAX_FONT, Math.max(MIN_FONT, Math.round(n / MANUAL_STEP) * MANUAL_STEP));
 const slideFont = (slide, font) => (slide.kind === 'verse' ? font : Math.round(font * TITLE_SCALE));
+const isCaptions = () => ui.format.value === 'captions';
 
 // ---- Settings and the share link ----
 
@@ -48,8 +76,12 @@ function readSettings() {
   const params = new URLSearchParams(location.hash.slice(1));
   const saved = SetList.storageGet('lyrics-slides-settings', {});
   const pick = (key, fallback) => params.get(key) ?? saved[key] ?? fallback;
+  ui.format.value = pick('format', 'full') === 'captions' ? 'captions' : 'full';
   ui.size.value = SLIDE_SIZES[pick('size', 'wide')] ? pick('size', 'wide') : 'wide';
   ui.theme.value = THEMES[pick('theme', 'dark')] ? pick('theme', 'dark') : 'dark';
+  ui.lines.value = pick('lines', '2') === '1' ? '1' : '2';
+  ui.background.value = BACKGROUNDS[pick('bg', 'transparent')] ? pick('bg', 'transparent') : 'transparent';
+  ui.textStyle.value = pick('style', 'band') === 'outline' ? 'outline' : 'band';
   ui.labels.checked = pick('labels', '0') === '1';
   ui.title.value = params.get('title') ?? '';
   const font = params.get('font');
@@ -61,18 +93,31 @@ function readSettings() {
 function saveSettings() {
   const params = new URLSearchParams();
   SetList.slugs().forEach((slug) => params.append('s', slug));
-  params.set('size', ui.size.value);
-  params.set('theme', ui.theme.value);
+  const settings = {
+    format: ui.format.value,
+    size: ui.size.value,
+    theme: ui.theme.value,
+    lines: ui.lines.value,
+    bg: ui.background.value,
+    style: ui.textStyle.value,
+    labels: ui.labels.checked ? '1' : '0',
+  };
+  Object.entries(settings).forEach(([key, value]) => params.set(key, value));
   params.set('font', manualFont ?? 'auto');
-  params.set('labels', ui.labels.checked ? '1' : '0');
   if (ui.title.value.trim()) params.set('title', ui.title.value.trim());
   if (SetList.encodedEdits()) params.set('edits', SetList.encodedEdits());
   if (viewOnly) params.set('view', '1');
   history.replaceState(null, '', `#${params}`);
-  if (!viewOnly) SetList.storageSet('lyrics-slides-settings', { size: ui.size.value, theme: ui.theme.value, labels: ui.labels.checked ? '1' : '0' });
+  if (!viewOnly) SetList.storageSet('lyrics-slides-settings', settings);
 }
 
-// ---- Slides: an optional title slide, then per song a title slide and one slide per verse ----
+// Show the settings that belong to the chosen format.
+function showFormatControls() {
+  document.querySelectorAll('.full-only').forEach((el) => { el.hidden = isCaptions(); });
+  document.querySelectorAll('.caption-only').forEach((el) => { el.hidden = !isCaptions(); });
+}
+
+// ---- Full screen: an optional title slide, then per song a title slide and one slide per verse ----
 
 function buildSlides(songs) {
   const slides = [];
@@ -85,19 +130,19 @@ function buildSlides(songs) {
   return slides;
 }
 
-// ---- Measuring and fitting ----
-
 let measuredHtml = '';
+function setMeasureHtml(html) {
+  if (html === measuredHtml) return;
+  ui.measure.innerHTML = html;
+  measuredHtml = html;
+}
+
 // The height (px) of every line of every verse at this text size, wrapping as it does on a slide.
 function measureLines(slides, widthPx, fontPt) {
-  const html = slides
+  setMeasureHtml(slides
     .filter((slide) => slide.kind === 'verse')
     .map((slide) => `<div>${slide.lines.map((line) => `<div>${escapeHtml(line)}</div>`).join('')}</div>`)
-    .join('');
-  if (html !== measuredHtml) {
-    ui.measure.innerHTML = html;
-    measuredHtml = html;
-  }
+    .join(''));
   ui.measure.style.width = `${widthPx}px`;
   ui.measure.style.fontSize = `${fontPt}pt`;
   return [...ui.measure.children].map((verse) => [...verse.children].map((line) => line.getBoundingClientRect().height));
@@ -154,37 +199,126 @@ function layout(slides, w, h) {
   return { font, ...splitLongVerses(slides, measureLines(slides, widthPx, font), capacity) };
 }
 
+// ---- Subtitles: an optional title caption, then per song a title caption and its lines ----
+
+function buildCaptions(songs) {
+  const perSlide = Number(ui.lines.value);
+  const captions = [];
+  const title = ui.title.value.trim();
+  if (title) captions.push({ kind: 'title', lines: [title] });
+  songs.forEach((song, n) => {
+    captions.push({ kind: 'title', lines: [`${burmeseNumber(n + 1)}။ ${song.title}`] });
+    for (const verse of SetList.verses(song, ui.labels.checked)) {
+      for (let i = 0; i < verse.length; i += perSlide) captions.push({ kind: 'verse', lines: verse.slice(i, i + perSlide) });
+    }
+  });
+  return captions;
+}
+
+// The widest line (px) when no line wraps, and the tallest caption when lines wrap at widthPx.
+function measureCaptions(captions, widthPx, fontPt) {
+  setMeasureHtml(captions
+    .map((c) => `<div class="${c.kind === 'title' ? 'is-title' : ''}">${c.lines.map((line) => `<div><span>${escapeHtml(line)}</span></div>`).join('')}</div>`)
+    .join(''));
+  ui.measure.style.fontSize = `${fontPt}pt`;
+  ui.measure.style.width = 'max-content';
+  const widest = Math.max(...[...ui.measure.querySelectorAll('span')].map((span) => span.getBoundingClientRect().width));
+  ui.measure.style.width = `${widthPx}px`;
+  const tallest = Math.max(...[...ui.measure.children].map((caption) => caption.getBoundingClientRect().height));
+  return { widest, tallest };
+}
+
+function captionLayout(captions, w) {
+  const widthPx = (w - 2 * CAPTION_SIDE) * PX_PER_IN;
+  const fitsOnOneLine = (f) => measureCaptions(captions, widthPx, f).widest <= widthPx * SAFETY;
+  let font = manualFont;
+  if (font === null) {
+    font = MIN_FONT;
+    if (fitsOnOneLine(font)) {
+      let lo = MIN_FONT;
+      let hi = MAX_AUTO_CAPTION_FONT;
+      while (lo < hi) {
+        const mid = Math.ceil((lo + hi) / 2);
+        if (fitsOnOneLine(mid)) lo = mid;
+        else hi = mid - 1;
+      }
+      font = lo;
+    }
+  }
+  const { widest, tallest } = measureCaptions(captions, widthPx, font);
+  // Every caption uses the same band, tall enough for the tallest one.
+  return { font, slides: captions, wraps: widest > widthPx * SAFETY, bandPx: tallest + 2 * CAPTION_PAD * PX_PER_IN };
+}
+
 // ---- Rendering ----
+
+const px = (inches) => inches * PX_PER_IN;
+
+function fullSlideHtml(slide, { w, h, font, theme }) {
+  return `
+    <div class="slide slide-text" style="width:${px(w)}px;height:${px(h)}px;padding:${px(MARGIN)}px;background:#${theme.bg};color:#${theme.text};font-size:${slideFont(slide, font)}pt">
+      <div class="slide-body${slide.kind === 'title' ? ' is-title' : ''}">${slide.lines.map(escapeHtml).join('\n')}</div>
+    </div>`;
+}
+
+function captionSlideHtml(slide, { w, h, font, bandPx, background, band }) {
+  return `
+    <div class="slide slide-text caption-slide ${band ? 'has-band' : 'has-outline'}" style="width:${px(w)}px;height:${px(h)}px;background:${background.css};font-size:${font}pt">
+      <div class="caption" style="bottom:${px(CAPTION_BOTTOM)}px;height:${bandPx}px;padding:0 ${px(CAPTION_SIDE)}px">
+        <div class="caption-text${slide.kind === 'title' ? ' is-title' : ''}">${slide.lines.map(escapeHtml).join('\n')}</div>
+      </div>
+    </div>`;
+}
+
+function setButtons(buttons, busyText, label) {
+  buttons.forEach((button) => {
+    button.disabled = Boolean(busyText) || !deck;
+    button.textContent = busyText || label;
+  });
+}
 
 function update() {
   saveSettings();
   SetList.render();
+  showFormatControls();
   const songs = SetList.songs();
   ui.autoFont.checked = manualFont === null;
-  ui.downloads.forEach((button) => { button.disabled = !songs.length; });
 
   if (!songs.length) {
     ui.out.innerHTML = viewOnly ? '<p class="muted">These slides have no songs.</p>' : '';
     ui.fit.textContent = '';
     ui.fontSize.textContent = manualFont ? `${manualFont} pt` : 'Auto';
     deck = null;
+    setButtons(ui.pptxButtons, null, PPTX_LABEL);
+    setButtons(ui.pngButtons, null, PNG_LABEL);
     return;
   }
 
   const [w, h] = SLIDE_SIZES[ui.size.value];
-  const theme = THEMES[ui.theme.value];
-  const result = layout(buildSlides(songs), w, h);
+  const captions = isCaptions();
+  const result = captions ? captionLayout(buildCaptions(songs), w) : layout(buildSlides(songs), w, h);
   lastFont = result.font;
   ui.fontSize.textContent = `${result.font} pt`;
-  deck = { w, h, theme, font: result.font, slides: result.slides };
+  deck = {
+    w,
+    h,
+    captions,
+    font: result.font,
+    slides: result.slides,
+    bandPx: result.bandPx,
+    theme: THEMES[ui.theme.value],
+    background: BACKGROUNDS[ui.background.value],
+    band: ui.textStyle.value === 'band',
+  };
+  setButtons(ui.pptxButtons, null, PPTX_LABEL);
+  setButtons(ui.pngButtons, null, PNG_LABEL);
 
+  const transparent = captions && ui.background.value === 'transparent';
   ui.out.innerHTML = result.slides
     .map((slide, i) => `
       <figure class="slide-item">
-        <div class="slide-frame" style="aspect-ratio:${w} / ${h}">
-          <div class="slide slide-text" style="width:${w * PX_PER_IN}px;height:${h * PX_PER_IN}px;padding:${MARGIN * PX_PER_IN}px;background:#${theme.bg};color:#${theme.text};font-size:${slideFont(slide, result.font)}pt">
-            <div class="slide-body${slide.kind === 'title' ? ' is-title' : ''}">${slide.lines.map(escapeHtml).join('\n')}</div>
-          </div>
+        <div class="slide-frame${transparent ? ' is-transparent' : ''}" style="aspect-ratio:${w} / ${h}">
+          ${captions ? captionSlideHtml(slide, deck) : fullSlideHtml(slide, deck)}
         </div>
         <figcaption>${i + 1}</figcaption>
       </figure>`)
@@ -192,73 +326,134 @@ function update() {
   scalePreview();
 
   const count = `${result.slides.length} ${result.slides.length === 1 ? 'slide' : 'slides'}`;
+  let note = '';
+  if (result.split) note += ' Some verses are too long for one slide at this size, so they continue on the next slide.';
+  if (result.wraps) note += ' Some lines are too long for one line at this size, so they wrap.';
+  if (transparent) note += ' PowerPoint slides can’t be transparent, so the presentation has a black background; the PNGs are transparent.';
   ui.fit.className = 'fit';
-  ui.fit.textContent = `${count}, text size ${result.font} pt.${
-    result.split ? ' Some verses are too long for one slide at this size, so they continue on the next slide.' : ''}`;
+  ui.fit.textContent = `${count}, text size ${result.font} pt.${note}`;
 }
 
-// Shrink the slide previews to fit their boxes; the PowerPoint file always uses the real size.
+// Shrink the slide previews to fit their boxes; the downloads always use the real size.
 function scalePreview() {
   if (!deck) return;
   const frames = ui.out.querySelectorAll('.slide-frame');
   if (!frames.length) return;
-  const scale = frames[0].clientWidth / (deck.w * PX_PER_IN);
+  const scale = frames[0].clientWidth / px(deck.w);
   frames.forEach((frame) => { frame.firstElementChild.style.transform = `scale(${scale})`; });
+}
+
+function showError(message) {
+  ui.fit.className = 'fit warn';
+  ui.fit.textContent = message;
+  if (viewOnly) alert(message);
 }
 
 // ---- PowerPoint ----
 
 const loadLibrary = () => SetList.loadScript(PPTX_LIBRARY, PPTX_LIBRARY_INTEGRITY, 'PptxGenJS');
+const fileName = () => SetList.fileName(ui.title.value, 'Songs');
+const textRuns = (lines) => lines.map((text, i) => ({ text, options: { breakLine: i < lines.length - 1 } }));
 
-const fileName = () => (ui.title.value.trim() || 'Songs').replace(/[\\/:*?"<>|]+/g, ' ').trim() || 'Songs';
+function addFullSlide(s, slide, { w, h, font, theme }) {
+  const size = slideFont(slide, font);
+  s.background = { color: theme.bg };
+  s.addText(textRuns(slide.lines), {
+    x: MARGIN,
+    y: MARGIN,
+    w: w - 2 * MARGIN,
+    h: h - 2 * MARGIN,
+    margin: 0,
+    fontFace: FONT_FACE,
+    fontSize: size,
+    bold: slide.kind === 'title',
+    color: theme.text,
+    align: 'center',
+    valign: 'middle',
+    lineSpacing: size * LINE_HEIGHT,
+    fit: 'shrink',
+  });
+}
+
+function addCaptionSlide(pptx, s, slide, { w, h, font, bandPx, background, band }) {
+  const bandH = bandPx / PX_PER_IN;
+  const y = h - CAPTION_BOTTOM - bandH;
+  s.background = { color: background.pptx };
+  if (band) {
+    s.addShape(pptx.ShapeType.rect, { x: 0, y, w, h: bandH, fill: { color: '000000', transparency: Math.round((1 - BAND_OPACITY) * 100) } });
+  }
+  s.addText(textRuns(slide.lines), {
+    x: CAPTION_SIDE,
+    y,
+    w: w - 2 * CAPTION_SIDE,
+    h: bandH,
+    margin: 0,
+    fontFace: FONT_FACE,
+    fontSize: font,
+    bold: slide.kind === 'title',
+    color: 'FFFFFF',
+    align: 'center',
+    valign: 'middle',
+    lineSpacing: font * LINE_HEIGHT,
+    ...(band ? {} : { outline: { size: 1.5, color: '000000' } }),
+  });
+}
 
 async function downloadPowerPoint() {
   if (!deck) return;
-  const { w, h, theme, font, slides } = deck;
-  ui.downloads.forEach((button) => {
-    button.disabled = true;
-    button.textContent = 'Making PowerPoint…';
-  });
+  const current = deck;
+  setButtons(ui.pptxButtons, 'Making PowerPoint…');
   try {
     const PptxGenJS = await loadLibrary();
     const pptx = new PptxGenJS();
-    pptx.defineLayout({ name: 'LYRICS', width: w, height: h });
+    pptx.defineLayout({ name: 'LYRICS', width: current.w, height: current.h });
     pptx.layout = 'LYRICS';
     pptx.title = ui.title.value.trim() || 'Songs';
-    for (const slide of slides) {
-      const size = slideFont(slide, font);
+    for (const slide of current.slides) {
       const s = pptx.addSlide();
-      s.background = { color: theme.bg };
-      s.addText(
-        slide.lines.map((text, i) => ({ text, options: { breakLine: i < slide.lines.length - 1 } })),
-        {
-          x: MARGIN,
-          y: MARGIN,
-          w: w - 2 * MARGIN,
-          h: h - 2 * MARGIN,
-          margin: 0,
-          fontFace: FONT_FACE,
-          fontSize: size,
-          bold: slide.kind === 'title',
-          color: theme.text,
-          align: 'center',
-          valign: 'middle',
-          lineSpacing: size * LINE_HEIGHT,
-          fit: 'shrink',
-        },
-      );
+      if (current.captions) addCaptionSlide(pptx, s, slide, current);
+      else addFullSlide(s, slide, current);
     }
     await pptx.writeFile({ fileName: `${fileName()}.pptx` });
   } catch {
-    const message = 'Couldn’t make the PowerPoint. Check your connection and try again.';
-    ui.fit.className = 'fit warn';
-    ui.fit.textContent = message;
-    if (viewOnly) alert(message);
+    showError('Couldn’t make the PowerPoint. Check your connection and try again.');
   } finally {
-    ui.downloads.forEach((button) => {
-      button.disabled = !deck;
-      button.textContent = 'Download PowerPoint';
-    });
+    setButtons(ui.pptxButtons, null, PPTX_LABEL);
+  }
+}
+
+// ---- PNG images: one per slide, in a zip ----
+
+async function downloadImages() {
+  if (!deck) return;
+  const slides = [...ui.out.querySelectorAll('.slide')];
+  setButtons(ui.pngButtons, 'Making PNGs…');
+  try {
+    const [html2canvas, JSZip] = await Promise.all([
+      SetList.loadScript(IMAGE_LIBRARY, IMAGE_LIBRARY_INTEGRITY, 'html2canvas'),
+      SetList.loadScript(ZIP_LIBRARY, ZIP_LIBRARY_INTEGRITY, 'JSZip'),
+    ]);
+    const zip = new JSZip();
+    const scale = PNG_HEIGHT / px(deck.h);
+    for (const [i, slide] of slides.entries()) {
+      setButtons(ui.pngButtons, `Making PNGs… ${i + 1} / ${slides.length}`);
+      const canvas = await html2canvas(slide, {
+        scale,
+        backgroundColor: null, // keeps transparent backgrounds transparent
+        logging: false,
+        // Draw the slide at its real size, not the shrunk preview.
+        onclone: (doc, clone) => {
+          clone.style.transform = 'none';
+          for (let el = clone.parentElement; el; el = el.parentElement) el.style.overflow = 'visible';
+        },
+      });
+      zip.file(`${String(i + 1).padStart(3, '0')}.png`, await new Promise((resolve) => canvas.toBlob(resolve, 'image/png')));
+    }
+    SetList.saveFile(await zip.generateAsync({ type: 'blob' }), `${fileName()} (PNG).zip`);
+  } catch {
+    showError('Couldn’t make the PNGs. Check your connection and try again.');
+  } finally {
+    setButtons(ui.pngButtons, null, PNG_LABEL);
   }
 }
 
@@ -270,7 +465,12 @@ function scheduleUpdate() {
   timer = setTimeout(update, 150);
 }
 
-[ui.size, ui.theme, ui.labels].forEach((el) => el.addEventListener('change', update));
+[ui.size, ui.theme, ui.lines, ui.background, ui.textStyle, ui.labels].forEach((el) => el.addEventListener('change', update));
+// Each format has its own automatic text size.
+ui.format.addEventListener('change', () => {
+  manualFont = null;
+  update();
+});
 ui.title.addEventListener('input', scheduleUpdate);
 
 // − / + switch to a chosen size, starting from the size currently shown.
@@ -281,7 +481,9 @@ ui.autoFont.addEventListener('change', () => {
   update();
 });
 
-ui.downloads.forEach((button) => button.addEventListener('click', downloadPowerPoint));
+ui.pptxButtons.forEach((button) => button.addEventListener('click', downloadPowerPoint));
+ui.pngButtons.forEach((button) => button.addEventListener('click', downloadImages));
+
 // "Copy link" gives a link that opens just the slides, without the controls.
 function viewLink() {
   const params = new URLSearchParams(location.hash.slice(1));
@@ -312,7 +514,4 @@ if (viewOnly) {
 }
 SetList.start(fromLink, { update, scheduleUpdate, saveSettings })
   .then(update)
-  .catch(() => {
-    ui.fit.className = 'fit warn';
-    ui.fit.textContent = 'Couldn’t load the songs. Check your connection and reload the page.';
-  });
+  .catch(() => showError('Couldn’t load the songs. Check your connection and reload the page.'));
