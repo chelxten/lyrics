@@ -1,4 +1,5 @@
 ---
+title: အခမဲ့
 font: win
 ---
 &mawGwdkif;rSm vlwdkif; a0'em&JUrsuf&nfawG tvG,fawGudkk&SmazG&if; tjypfEGHUrSm epfrGef;vm ½kef;xGufr&awmhwJhtcsdefrSm tjypfrSu,frJhol tarSmifudk vGefajrmufcsifNyD b,folay;rSmvJ...
