@@ -488,3 +488,29 @@ body.has-tray main { padding-bottom: 110px; }
   text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000, 0 0 6px #000;
 }
 .caption-text.is-title, .slide-measure .is-title { font-weight: 700; }
+
+/* Home: welcome section */
+.welcome h1 { margin: 12px 0 6px; font-size: 1.8rem; }
+.welcome .lead { margin: 0 0 20px; color: var(--muted); font-size: 1.05rem; }
+.welcome-links { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+.welcome-card {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  padding: 18px;
+  color: var(--text);
+  text-decoration: none;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
+.welcome-card:hover { border-color: var(--accent); }
+.welcome-card strong { font-size: 1.1rem; color: var(--accent); }
+.welcome-card span { color: var(--muted); font-size: 0.95rem; }
+.welcome-card.is-main { grid-column: 1 / -1; background: var(--accent); border-color: var(--accent); }
+.welcome-card.is-main strong,
+.welcome-card.is-main span { color: var(--on-accent); }
+.picked-hint { margin: 16px 0 0; }
+@media (max-width: 560px) {
+  .welcome-links { grid-template-columns: 1fr; }
+}

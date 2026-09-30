@@ -12,7 +12,31 @@
   </header>
 
   <main>
-    <section id="list-view">
+    <section id="welcome-view" class="welcome">
+      <h1>Welcome</h1>
+      <p class="lead">Find the songs you need, then print them or put them on the screen.</p>
+      <nav class="welcome-links" aria-label="Start">
+        <a class="welcome-card is-main" href="#/songs">
+          <strong>Song library</strong>
+          <span id="library-count">Search and read every song.</span>
+        </a>
+        <a class="welcome-card" href="sheet.html">
+          <strong>Song sheet</strong>
+          <span>Print the songs you picked, or save them as a PDF or JPG.</span>
+        </a>
+        <a class="welcome-card" href="slides.html#format=full">
+          <strong>PowerPoint</strong>
+          <span>One verse per slide, full screen, for a projector or TV.</span>
+        </a>
+        <a class="welcome-card" href="slides.html#format=captions">
+          <strong>Subtitles</strong>
+          <span>One or two lines at the bottom of the screen, for video and live streams.</span>
+        </a>
+      </nav>
+      <p id="picked-hint" class="muted picked-hint"></p>
+    </section>
+
+    <section id="list-view" hidden>
       <label class="search">
         <span class="visually-hidden">Search songs</span>
         <input id="q" type="search" placeholder="Search a title, artist, or a line you remember…" autocomplete="off" autofocus>

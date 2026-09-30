@@ -18,6 +18,12 @@ A free, searchable lyrics site. Each song is a text file in `songs/`, and GitHub
 4. After about a minute, the site is live at `https://YOUR-USERNAME.github.io/lyrics/`.
    The **Actions** tab shows the deploy progress.
 
+## Pages
+
+The home page welcomes visitors with four buttons: **Song library** (search and read every song, at
+`#/songs`), **Song sheet**, **PowerPoint** and **Subtitles**. The last three use the songs picked
+with **+** in the library.
+
 ## Edit songs in the admin panel
 
 Open https://chelxten.github.io/lyrics/admin.html to add, edit and delete songs.
