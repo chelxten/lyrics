@@ -1,4 +1,5 @@
 ---
+title: a&ShawmfrSmudk;uG,fpOfcg
 font: win
 ---
 ukd,fawmfukd ukd;uG,fyg\ pdwfESvkH;t<uif;rJhukd;uG,fyg\
