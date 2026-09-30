@@ -81,17 +81,15 @@
               <option value="keep">Move the whole song to the next column</option>
             </select>
           </label>
-          <div class="two-up">
-            <div class="field">
-              <span class="field-label" id="font-label">Text size</span>
-              <div class="stepper" role="group" aria-labelledby="font-label">
-                <button type="button" id="smaller" aria-label="Smaller text">−</button>
-                <output id="font-size" aria-live="polite"></output>
-                <button type="button" id="bigger" aria-label="Bigger text">+</button>
-              </div>
+          <div class="field">
+            <span class="field-label" id="font-label">Text size</span>
+            <div class="stepper text-size" role="group" aria-labelledby="font-label">
+              <button type="button" id="smaller" aria-label="Smaller text">−</button>
+              <output id="font-size" aria-live="polite"></output>
+              <button type="button" id="bigger" aria-label="Bigger text">+</button>
             </div>
-            <label class="check fit-check"><input type="checkbox" id="auto-font" checked> Auto size (fill the pages)</label>
           </div>
+          <label class="check"><input type="checkbox" id="auto-font" checked> Auto size (fill the pages)</label>
           <label class="check"><input type="checkbox" id="labels" checked> Show section names (V1, CHO:)</label>
         </details>
       </section>
@@ -103,7 +101,7 @@
           <button type="button" class="primary" id="print">Print / Save as PDF</button>
           <button type="button" class="download-jpg">Download JPG</button>
         </div>
-        <p class="share-row"><button type="button" id="copy" title="Copy a link that opens just this sheet">Copy link</button> <span class="muted">to send this sheet to others</span></p>
+        <p class="share-row"><button type="button" id="copy" title="Copy a link that opens just this sheet">Copy link to share</button></p>
         <p class="muted switch-page">Also make: <a href="slides.html#format=full">PowerPoint</a> · <a href="slides.html#format=captions">Subtitles</a></p>
       </section>
     </aside>

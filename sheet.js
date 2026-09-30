@@ -397,7 +397,7 @@ $('#copy').addEventListener('click', async (e) => {
   } catch {
     prompt('Copy this link:', viewLink());
   }
-  setTimeout(() => { button.textContent = 'Copy link'; }, 2000);
+  setTimeout(() => { button.textContent = 'Copy link to share'; }, 2000);
 });
 window.addEventListener('resize', scalePreview);
 

@@ -84,17 +84,15 @@
               <option value="standard">Standard (4:3)</option>
             </select>
           </label>
-          <div class="two-up">
-            <div class="field">
-              <span class="field-label" id="font-label">Text size</span>
-              <div class="stepper" role="group" aria-labelledby="font-label">
-                <button type="button" id="smaller" aria-label="Smaller text">−</button>
-                <output id="font-size" aria-live="polite"></output>
-                <button type="button" id="bigger" aria-label="Bigger text">+</button>
-              </div>
+          <div class="field">
+            <span class="field-label" id="font-label">Text size</span>
+            <div class="stepper text-size" role="group" aria-labelledby="font-label">
+              <button type="button" id="smaller" aria-label="Smaller text">−</button>
+              <output id="font-size" aria-live="polite"></output>
+              <button type="button" id="bigger" aria-label="Bigger text">+</button>
             </div>
-            <label class="check fit-check"><input type="checkbox" id="auto-font" checked> Auto size</label>
           </div>
+          <label class="check"><input type="checkbox" id="auto-font" checked> Auto size</label>
           <label class="check"><input type="checkbox" id="labels"> Show section names (V1, CHO:)</label>
         </details>
       </section>
@@ -106,7 +104,7 @@
           <button type="button" class="primary download-pptx" disabled>Download PowerPoint</button>
           <button type="button" class="download-png" disabled>Download PNGs</button>
         </div>
-        <p class="share-row"><button type="button" id="copy" title="Copy a link that opens just these slides">Copy link</button> <span class="muted">to send these slides to others</span></p>
+        <p class="share-row"><button type="button" id="copy" title="Copy a link that opens just these slides">Copy link to share</button></p>
         <p class="muted switch-page">Also make: <a href="sheet.html">Song sheet</a></p>
       </section>
     </aside>

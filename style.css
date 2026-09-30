@@ -313,7 +313,7 @@ body.has-tray main { padding-bottom: 110px; }
 }
 
 /* Song sheet page */
-.sheet-layout { display: grid; grid-template-columns: 320px 1fr; gap: 24px; align-items: start; }
+.sheet-layout { display: grid; grid-template-columns: 340px 1fr; gap: 24px; align-items: start; }
 .sheet-controls {
   position: sticky;
   top: 16px;
@@ -327,7 +327,7 @@ body.has-tray main { padding-bottom: 110px; }
 .sheet-songs li { display: flex; align-items: center; gap: 6px; padding: 4px 0; }
 .sheet-songs .name { flex: 1; min-width: 0; overflow-wrap: anywhere; }
 .sheet-songs .tools { display: flex; gap: 4px; }
-.ui .sheet-songs button { min-width: 36px; min-height: 36px; padding: 4px 8px; font-size: 1rem; line-height: 1; }
+.ui .sheet-songs button { min-width: 32px; min-height: 32px; padding: 4px 6px; font-size: 0.95rem; line-height: 1; }
 .add-more { margin: 0 0 16px; }
 .two-up { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
 .field-label { display: block; margin-bottom: 6px; font-weight: 600; font-size: 0.9rem; }
@@ -611,7 +611,10 @@ body.has-tray main { padding-bottom: 110px; }
 .more-options { margin: 0 0 4px; padding: 0 12px; border: 1px solid var(--border); border-radius: 8px; }
 .more-options summary { padding: 11px 0; font-weight: 600; font-size: 0.95rem; color: var(--accent); cursor: pointer; }
 .more-options[open] summary { margin-bottom: 4px; }
-.share-row { display: flex; flex-wrap: wrap; align-items: center; gap: 8px; margin: 12px 0 0; }
+.share-row { margin: 8px 0 0; }
+.ui .share-row button { width: 100%; }
+.sheet-controls .actions { display: grid; gap: 8px; }
+.ui .text-size { max-width: 180px; margin-bottom: 8px; }
 .preview-heading { margin: 0 0 12px; font-size: 1.1rem; }
 .view-only .preview-heading { display: none; }
 
@@ -647,6 +650,7 @@ body.has-tray main { padding-bottom: 110px; }
 @media (max-width: 860px) {
   .ui .sheet-songs button { min-width: 40px; min-height: 40px; }
   .sheet-controls .actions {
+    display: flex;
     position: fixed;
     left: 0;
     right: 0;
