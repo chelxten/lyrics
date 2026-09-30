@@ -1,4 +1,5 @@
 ---
+title: euf&Skdif;arwåm
 font: win
 ---
 tjrJwrf;rajymif;wJh arwåmeJY cspfol
