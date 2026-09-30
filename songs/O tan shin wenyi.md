@@ -1,8 +1,8 @@
 ---
-title: tkd; oefY&Sif;0dnmOf
+title: tkd oefY&Sif;0dnmOf
 font: win
 ---
-tkd; oefY&Sif;0dnmOfqif;<urlyg ukd,fawmfcspfjcif;arwåm jynhf0apyg
+tkd oefY&Sif;0dnmOfqif;<urlyg ukd,fawmfcspfjcif;arwåm jynhf0apyg
 
 ukd,fawmfukd uREkfyfcspfonf 0dnmOfawmfqGJac:&m aeY&ufwkdif;om eD;apyg
 
