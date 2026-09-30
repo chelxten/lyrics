@@ -60,6 +60,19 @@
         </label>
       </div>
 
+      <div class="two-up">
+        <div class="field">
+          <span class="field-label" id="font-label">Text size</span>
+          <div class="stepper" role="group" aria-labelledby="font-label">
+            <button type="button" id="smaller" aria-label="Smaller text">−</button>
+            <output id="font-size" aria-live="polite"></output>
+            <button type="button" id="bigger" aria-label="Bigger text">+</button>
+          </div>
+        </div>
+        <label class="check fit-check"><input type="checkbox" id="auto-font" checked> Fit to pages</label>
+      </div>
+      <label class="check"><input type="checkbox" id="labels" checked> Show labels (V1, CHO:)</label>
+
       <p id="fit" class="fit" role="status"></p>
       <div class="actions">
         <button type="button" class="primary" id="print">Print / Save as PDF</button>
@@ -68,6 +81,21 @@
     </aside>
 
     <section class="sheet-preview" aria-label="Sheet preview">
+      <div id="line-editor" class="line-editor ui no-print" hidden>
+        <div class="line-editor-head">
+          <h2 id="edit-title"></h2>
+          <span class="spacer"></span>
+          <button type="button" id="edit-reset">Reset</button>
+          <button type="button" class="primary" id="edit-done">Done</button>
+        </div>
+        <p class="muted">
+          Press <b>Enter</b> to break a line and <b>Backspace</b> to join it to the line above.
+          Leave an empty line between verses. To remove lines, select the whole lines and press Backspace.
+          Words can’t be changed here, and changes only affect this sheet.
+        </p>
+        <textarea id="edit-text" spellcheck="false" wrap="off" aria-labelledby="edit-title"></textarea>
+        <p id="edit-hint" class="edit-hint" role="status" hidden>Only line breaks can be changed here. To remove a line, select all of it first.</p>
+      </div>
       <div id="pages-out" class="sheet-pages"></div>
     </section>
   </main>

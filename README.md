@@ -34,7 +34,14 @@ Anyone can tap **+** next to songs (on the song list, a song page or the admin l
 **Make song sheet**. `sheet.html` lays the songs out in columns on the chosen page size and
 number of pages, with the largest text that fits, ready to print or save as PDF. Labels print
 in short form: `[Verse 1]` → `V1`, `[Chorus]` → `CHO:`, `[Pre-Chorus]` → `Pre:`.
-**Copy link** shares the exact sheet.
+On the sheet page you can also:
+
+- turn the labels off,
+- set the text size yourself (the sheet then uses as many pages as it needs),
+- change the line breaks of a song with **✎**: only Enter, Backspace/Delete and deleting whole
+  lines are allowed, so the words stay as they are. These edits only apply to that sheet.
+
+**Copy link** shares the exact sheet, including line edits.
 
 ## Song files
 

@@ -378,3 +378,58 @@ body.has-tray main { padding-bottom: 110px; }
   .sheet-page { box-shadow: none; break-after: page; }
   .sheet-page:last-child { break-after: auto; }
 }
+
+/* Song sheet: text size, labels and line editor */
+.ui .stepper output {
+  flex: 1;
+  min-width: 0;
+  padding: 8px 4px;
+  text-align: center;
+  white-space: nowrap;
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-left: none;
+  border-right: none;
+}
+.ui .fit-check { align-self: end; margin-bottom: 22px; }
+.sheet-songs li.is-editing .name { color: var(--accent); font-weight: 600; }
+.sheet-songs .edited {
+  padding: 0 6px;
+  font-size: 0.7rem;
+  font-weight: 400;
+  color: var(--muted);
+  border: 1px solid var(--border);
+  border-radius: 999px;
+}
+
+.line-editor {
+  margin-bottom: 24px;
+  padding: 18px;
+  background: var(--surface);
+  border: 1px solid var(--accent);
+  border-radius: var(--radius);
+}
+.line-editor-head { display: flex; align-items: center; gap: 8px; }
+.line-editor-head h2 { margin: 0; font-size: 1.1rem; overflow-wrap: anywhere; }
+.line-editor-head .spacer { flex: 1; }
+.line-editor p { font-size: 0.9rem; }
+.line-editor textarea {
+  display: block;
+  width: 100%;
+  height: 40vh;
+  min-height: 240px;
+  padding: 12px;
+  font-family: "Myanmar Sangam MN", "Noto Sans Myanmar", "Myanmar Text", "Pyidaungsu", system-ui, sans-serif;
+  font-size: 15px;
+  line-height: 1.8;
+  white-space: pre;
+  overflow: auto;
+  color: var(--text);
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  resize: vertical;
+  outline: none;
+}
+.line-editor textarea:focus { border-color: var(--accent); }
+.edit-hint { margin: 8px 0 0; color: var(--danger); }
