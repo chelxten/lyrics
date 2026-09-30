@@ -1,4 +1,5 @@
 ---
+title: ukd,fawmfom ckdvIH&m
 font: win
 ---
 (ukd,fawmf&Sifom uREkfyftvkH;pkH udk,fawmfomjrifawGUcsif ukd,fawmf&Sifom uREkfyf&JUb0 ukd,fawmfomvkdcsifonf)2
