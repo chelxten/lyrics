@@ -169,6 +169,7 @@ mark {
 .admin label { display: block; margin: 0 0 14px; font-weight: 600; font-size: 0.9rem; }
 .admin label input:not([type="checkbox"]),
 .admin label textarea,
+.admin .field textarea,
 .admin .toolbar input {
   display: block;
   width: 100%;
@@ -242,3 +243,9 @@ mark {
 
 .song-tools { display: flex; justify-content: space-between; align-items: baseline; }
 .song-tools .back { margin-bottom: 16px; }
+
+.admin .field { margin-bottom: 14px; }
+.admin .field > label { margin-bottom: 6px; }
+.label-bar { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; font-size: 0.85rem; }
+.admin .label-bar button { padding: 4px 10px; font-size: 0.85rem; border-radius: 999px; }
+.admin .label-bar button:hover { border-color: var(--accent); color: var(--accent); }

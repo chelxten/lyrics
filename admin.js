@@ -109,6 +109,40 @@ function renderLyrics(text) {
     .join('\n');
 }
 
+const LABEL_LINE = /^\s*\[[^\]]*\]\s*$/;
+
+// Puts "[label]" on its own line at the start of the line the cursor is on, with a blank line
+// before it. If that line is already a label, it is replaced. "Verse" gets the next number.
+function insertLabel(textarea, label) {
+  const value = textarea.value;
+  const cursor = textarea.selectionStart;
+  const lineStart = cursor === 0 ? 0 : value.lastIndexOf('\n', cursor - 1) + 1;
+  let lineEnd = value.indexOf('\n', lineStart);
+  if (lineEnd === -1) lineEnd = value.length;
+  const line = value.slice(lineStart, lineEnd);
+
+  const start = lineStart;
+  let end = lineStart;
+  if (LABEL_LINE.test(line) || !line.trim()) end = Math.min(lineEnd + 1, value.length); // replace a label or blank line
+
+  const before = value.slice(0, start);
+  if (label === 'Verse') {
+    const versesBefore = before.split('\n').filter((l) => /^\s*\[verse\b/i.test(l)).length;
+    label = `Verse ${versesBefore + 1}`;
+  }
+
+  const gap = !before.trim() || before.endsWith('\n\n') ? '' : before.endsWith('\n') ? '\n' : '\n\n';
+  const text = `${gap}[${label}]\n`;
+
+  textarea.focus();
+  textarea.setSelectionRange(start, end);
+  // insertText keeps the browser's undo history; fall back if it isn't supported.
+  if (!document.execCommand('insertText', false, text)) {
+    textarea.setRangeText(text, start, end, 'end');
+    textarea.dispatchEvent(new Event('input', { bubbles: true }));
+  }
+}
+
 // ---- Screens ----
 
 function route() {
@@ -269,8 +303,20 @@ async function renderEditor(slug) {
           : `<h1 class="file-name">${escapeHtml(slug)}</h1>`}
         <label>Title <input id="title" spellcheck="false" placeholder="Leave empty to show the file name"></label>
         <label class="check"><input type="checkbox" id="win"> Typed with the Win font (convert to Burmese)</label>
-        <label>Lyrics <textarea id="lyrics" spellcheck="false"></textarea></label>
-        <p class="muted hint">Put English words in \`backticks\` so they aren’t converted. A line like [Chorus] becomes a section label.</p>
+        <div class="field">
+          <label for="lyrics">Lyrics</label>
+          <div class="label-bar" role="toolbar" aria-label="Add a section label">
+            <span class="muted">Add label:</span>
+            <button type="button" data-label="Verse" title="Adds the next verse number">Verse</button>
+            <button type="button" data-label="Pre-Chorus">Pre-Chorus</button>
+            <button type="button" data-label="Chorus">Chorus</button>
+            <button type="button" data-label="Bridge">Bridge</button>
+            <button type="button" data-label="Ending">Ending</button>
+            <button type="button" data-label="">Other…</button>
+          </div>
+          <textarea id="lyrics" spellcheck="false"></textarea>
+        </div>
+        <p class="muted hint">Click where a section starts, then click a label. Put English words in \`backticks\` so they aren’t converted.</p>
         <div class="actions">
           <button class="primary" id="save">${isNew ? 'Add song' : 'Save changes'}</button>
           ${isNew ? '' : '<button type="button" class="danger" id="delete">Delete song</button>'}
@@ -303,6 +349,14 @@ async function renderEditor(slug) {
   };
   $('#editor').addEventListener('input', () => { dirty = true; updatePreview(); });
   updatePreview();
+
+  app.querySelectorAll('[data-label]').forEach((button) => {
+    button.addEventListener('click', () => {
+      let label = button.dataset.label;
+      if (!label) label = (prompt('Label name (for example: Verse 4, Chorus 2, Intro)') || '').trim().replace(/[[\]]/g, '');
+      if (label) insertLabel(lyricsInput, label);
+    });
+  });
 
   $('#back').addEventListener('click', (e) => {
     if (dirty && !confirm('You have unsaved changes. Leave without saving?')) e.preventDefault();
