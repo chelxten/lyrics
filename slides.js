@@ -140,8 +140,9 @@ function showFormatControls() {
   const band = ui.textStyle.value === 'band';
   document.querySelectorAll('.full-only').forEach((el) => { el.hidden = isCaptions(); });
   document.querySelectorAll('.caption-only').forEach((el) => { el.hidden = !isCaptions(); });
-  document.querySelectorAll('.band-only').forEach((el) => { el.hidden = !band; });
-  document.querySelectorAll('.outline-only').forEach((el) => { el.hidden = band; });
+  // Band and outline settings belong to subtitles only.
+  document.querySelectorAll('.band-only').forEach((el) => { el.hidden = !isCaptions() || !band; });
+  document.querySelectorAll('.outline-only').forEach((el) => { el.hidden = !isCaptions() || band; });
   ui.bandOpacityValue.textContent = `${ui.bandOpacity.value}%`;
   document.querySelectorAll('.site-nav [data-format]').forEach((link) => {
     if (link.dataset.format === currentFormat()) link.setAttribute('aria-current', 'page');
