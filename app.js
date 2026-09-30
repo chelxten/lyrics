@@ -118,6 +118,10 @@ function isAdmin() {
 }
 
 function renderSong(slug) {
+  if (!songs.length) {
+    songView.innerHTML = ''; // still loading
+    return;
+  }
   const song = songs.find((s) => s.slug === slug);
   if (!song) {
     songView.innerHTML = `<a class="back" href="#/songs">← All songs</a><p>Song not found.</p>`;
