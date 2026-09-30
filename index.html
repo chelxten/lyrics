@@ -20,34 +20,31 @@
   <main>
     <section id="welcome-view" class="welcome">
       <h1>Welcome</h1>
-      <p class="lead">Find the songs you need, then print them or put them on the screen.</p>
+      <p class="lead">Find songs, then print them or show them on a screen.</p>
       <nav class="welcome-links" aria-label="Start">
         <a class="welcome-card is-main" href="#/songs">
           <strong>Song library</strong>
-          <span id="library-count">Search and read every song.</span>
+          <span id="library-count">Search every song</span>
         </a>
         <a class="welcome-card" href="sheet.html">
           <strong>Song sheet</strong>
-          <span>Print the songs you picked, or save them as a PDF or JPG.</span>
+          <span>Print or save as PDF</span>
         </a>
         <a class="welcome-card" href="slides.html#format=full">
           <strong>PowerPoint</strong>
-          <span>One verse per slide, full screen, for a projector or TV.</span>
+          <span>Slides for a screen</span>
         </a>
         <a class="welcome-card" href="slides.html#format=captions">
           <strong>Subtitles</strong>
-          <span>One or two lines at the bottom of the screen, for video and live streams.</span>
+          <span>Lyrics over video</span>
         </a>
       </nav>
+      <ol class="how-steps" aria-label="How it works">
+        <li><span class="step-number" aria-hidden="true">1</span> Pick songs with <b>+</b></li>
+        <li><span class="step-number" aria-hidden="true">2</span> Choose what to make</li>
+        <li><span class="step-number" aria-hidden="true">3</span> Download or share</li>
+      </ol>
       <p id="picked-hint" class="muted picked-hint"></p>
-      <section class="how-to" aria-labelledby="how-title">
-        <h2 id="how-title">How it works</h2>
-        <ol class="how-steps">
-          <li><strong>Pick your songs.</strong> In the song library, tap <b>+</b> next to each song you want. You can also search for songs right on the song sheet, PowerPoint and subtitles pages.</li>
-          <li><strong>Choose what to make.</strong> A song sheet to print, PowerPoint slides for a projector or TV, or subtitles for a video or live stream.</li>
-          <li><strong>Save or share it.</strong> Print it, download it, or copy a link to send to others.</li>
-        </ol>
-      </section>
     </section>
 
     <section id="list-view" hidden>

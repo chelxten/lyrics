@@ -10,9 +10,15 @@
 <body>
   <header class="site-header wide">
     <a href="./" class="brand">Lyrics Library</a>
-    <span class="muted">Admin</span>
+    <nav class="site-nav" aria-label="Main">
+      <a href="./#/songs">Songs</a>
+      <a href="sheet.html">Song sheet</a>
+      <a href="slides.html#format=full">PowerPoint</a>
+      <a href="slides.html#format=captions">Subtitles</a>
+      <a href="admin.html#/" aria-current="page">Admin</a>
+    </nav>
     <span class="spacer"></span>
-    <button id="logout" class="link-button" hidden>Log out</button>
+    <button id="logout" class="logout-button" hidden>Log out</button>
   </header>
 
   <main id="admin" class="admin ui wide"></main>

@@ -203,10 +203,11 @@ function takeFlash() {
 function renderLogin() {
   app.innerHTML = `
     <form class="panel narrow" id="login">
-      <h1>Admin</h1>
+      <h1>Admin log in</h1>
+      <p class="muted">Enter the admin password to add or edit songs.</p>
       <label>Password <input type="password" id="password" autocomplete="current-password" autofocus></label>
-      <p class="error" id="error" hidden>Wrong password.</p>
-      <button class="primary">Unlock</button>
+      <p class="error" id="error" hidden>That password isn’t right. Try again.</p>
+      <button class="primary wide-button">Log in</button>
     </form>`;
   app.querySelector('#login').addEventListener('submit', async (e) => {
     e.preventDefault();
@@ -225,8 +226,8 @@ function renderConnect(message = '') {
     <form class="panel narrow" id="connect">
       <h1>Connect to GitHub</h1>
       ${takeFlash()}
-      <p>To save changes, this browser needs a GitHub token that can edit your <b>${repoName}</b> repository. You only do this once on each device.</p>
-      <ol>
+      <p class="muted">One-time setup on this device. Songs are saved to your <b>${repoName}</b> repository on GitHub, so this browser needs a GitHub token that can edit it.</p>
+      <ol class="setup-steps">
         <li>Open <a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">GitHub → New fine-grained token</a>.</li>
         <li>Name it <i>Lyrics admin</i> and choose an expiration date.</li>
         <li>Under <b>Repository access</b>, choose <b>Only select repositories</b> and pick <b>${repoName}</b>.</li>
@@ -235,7 +236,7 @@ function renderConnect(message = '') {
       </ol>
       <label>Token <input type="password" id="token" autocomplete="off" spellcheck="false" required></label>
       <p class="error" id="error" ${message ? '' : 'hidden'}>${escapeHtml(message)}</p>
-      <button class="primary" id="connect-button">Connect</button>
+      <button class="primary wide-button" id="connect-button">Connect</button>
       <p class="muted">The token is saved only in this browser. Anyone who uses this browser can edit your songs, so only connect on your own devices.</p>
     </form>`;
   app.querySelector('#connect').addEventListener('submit', async (e) => {
@@ -257,12 +258,15 @@ function renderConnect(message = '') {
 async function renderList() {
   app.innerHTML = `
     ${takeFlash()}
+    <div class="admin-head">
+      <h1>Songs</h1>
+      <a class="button primary" href="#/new">+ Add a new song</a>
+    </div>
     <div class="toolbar">
-      <input type="search" id="filter" placeholder="Filter songs…" aria-label="Filter songs" autocomplete="off">
-      <a class="button primary" href="#/new">New song</a>
+      <input type="search" id="filter" placeholder="Search songs to edit…" aria-label="Search songs to edit" autocomplete="off">
     </div>
     <p class="muted" id="status">Loading songs…</p>
-    <ul class="results" id="list"></ul>
+    <ul class="results admin-list" id="list"></ul>
     <p class="muted"><button class="link-button" id="forget">Disconnect GitHub on this device</button></p>`;
 
   app.querySelector('#forget').addEventListener('click', () => {
@@ -304,6 +308,7 @@ async function renderList() {
       .map((s) => `<li><a href="#/edit/${encodeURIComponent(s.slug)}">
         <span class="title">${escapeHtml(s.title)}</span>
         ${s.title !== s.slug ? `<span class="artist"> · ${escapeHtml(s.slug)}</span>` : ''}
+        <span class="edit-mark" aria-hidden="true">Edit ›</span>
       </a>${SongSelection.pickButton(s.slug, s.title)}</li>`)
       .join('');
   };
@@ -337,14 +342,18 @@ async function renderEditor(slug) {
     ${takeFlash()}
     <form class="editor" id="editor">
       <div>
-        <h1 class="file-name">${isNew ? 'New song' : escapeHtml(slug)}</h1>
-        <label>Title <input id="title" required spellcheck="false">
-          <small class="muted">Also the song’s file name and web address. Changing it renames the file; old links still work.</small></label>
-        <label class="check"><input type="checkbox" id="win"> Typed with the Win font (saved as Unicode Burmese)</label>
-        <div class="field">
-          <label for="lyrics">Lyrics</label>
-          <div class="label-bar" role="toolbar" aria-label="Add a section label">
-            <span class="muted">Add label:</span>
+        <h1 class="file-name">${isNew ? 'Add a new song' : 'Edit song'}</h1>
+        <section class="step">
+          <h2><span class="step-number" aria-hidden="true">1</span> Title</h2>
+          <label><span class="visually-hidden">Title</span><input id="title" required spellcheck="false" placeholder="The song’s title">
+            <small class="muted">Also used as the file name. If you change it, old links still work.</small></label>
+          <label class="check"><input type="checkbox" id="win"> I’m typing with the Win font</label>
+          <p class="muted win-hint" id="win-hint">It’s saved as Unicode Burmese. Put English words in \`backticks\` so they stay English.</p>
+        </section>
+        <section class="step">
+          <h2><span class="step-number" aria-hidden="true">2</span> <label for="lyrics">Lyrics</label></h2>
+          <div class="label-bar" role="toolbar" aria-label="Add a section name">
+            <span class="muted">Add a section:</span>
             <button type="button" data-label="Verse" title="Adds the next verse number">Verse</button>
             <button type="button" data-label="Pre-Chorus">Pre-Chorus</button>
             <button type="button" data-label="Chorus">Chorus</button>
@@ -352,17 +361,20 @@ async function renderEditor(slug) {
             <button type="button" data-label="Ending">Ending</button>
             <button type="button" data-label="">Other…</button>
           </div>
-          <textarea id="lyrics" spellcheck="false"></textarea>
-        </div>
-        <p class="muted hint">Click where a section starts, then click a label. Put English words in \`backticks\` so they aren’t converted.</p>
-        <div class="actions">
-          <button class="primary" id="save">${isNew ? 'Add song' : 'Save changes'}</button>
-          ${isNew ? '' : '<button type="button" class="danger" id="delete">Delete song</button>'}
-          <span class="muted" id="status" role="status"></span>
-        </div>
+          <textarea id="lyrics" spellcheck="false" placeholder="Type or paste the lyrics. Leave an empty line between verses."></textarea>
+          <p class="muted hint">Tip: click where a section starts, then tap its name above.</p>
+        </section>
+        <section class="step">
+          <h2><span class="step-number" aria-hidden="true">3</span> Save</h2>
+          <p class="muted" id="status" role="status">${isNew ? 'The song appears on the website about a minute after you add it.' : 'Changes appear on the website about a minute after you save.'}</p>
+          <div class="actions">
+            <button class="primary" id="save">${isNew ? 'Add song' : 'Save changes'}</button>
+            ${isNew ? '' : '<button type="button" class="danger" id="delete">Delete song</button>'}
+          </div>
+        </section>
       </div>
       <section class="preview" aria-label="Preview">
-        <p class="muted">Preview</p>
+        <h2 class="preview-heading">Preview</h2>
         <h1 id="preview-title"></h1>
         <div class="lyrics" id="preview-lyrics"></div>
       </section>
@@ -381,6 +393,7 @@ async function renderEditor(slug) {
   const updatePreview = () => {
     const convert = winInput.checked ? winToUnicode : (s) => s;
     lyricsInput.classList.toggle('win-font', winInput.checked);
+    $('#win-hint').hidden = !winInput.checked;
     $('#preview-title').textContent = convert(titleInput.value.trim()) || (isNew ? '' : slug);
     $('#preview-lyrics').innerHTML = renderLyrics(convert(lyricsInput.value.trim()));
   };

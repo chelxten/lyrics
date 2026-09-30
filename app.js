@@ -19,11 +19,9 @@ function escapeHtml(s) {
 const { normalize, highlight } = SongSearch;
 
 function renderWelcome() {
-  if (songs.length) $('#library-count').textContent = `Search and read all ${songs.length} songs.`;
+  if (songs.length) $('#library-count').textContent = `Search all ${songs.length} songs`;
   const picked = SongSelection.all().length;
-  $('#picked-hint').textContent = picked
-    ? `${picked} ${picked === 1 ? 'song' : 'songs'} picked for the song sheet, PowerPoint and subtitles.`
-    : 'To make a song sheet, PowerPoint or subtitles, first open the song library and tap + next to the songs you want.';
+  $('#picked-hint').textContent = picked ? `${picked} ${picked === 1 ? 'song' : 'songs'} picked` : '';
 }
 
 function renderList() {
