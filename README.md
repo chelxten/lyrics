@@ -45,6 +45,8 @@ in short form: `[Verse 1]` → `V1`, `[Chorus]` → `CHO:`, `[Pre-Chorus]` → `
 On the sheet page you can also:
 
 - turn the labels off,
+- choose what happens when a song doesn't fit in the rest of a column: continue it in the next
+  column, or move the whole song to the next column (a song longer than a column still continues),
 - set the text size yourself (the sheet then uses as many pages as it needs),
 - edit a song's words and line breaks with **✎**. These edits only apply to that sheet: they're
   kept in the browser and in the sheet's link, and the song file in the repository never changes.

@@ -1,7 +1,8 @@
 // Song sheet: lays the picked songs out on the chosen pages. With "Fit to pages" it uses the
 // largest text that fits; otherwise it uses the chosen text size and as many pages as needed.
 // Songs flow down each column and on to the next; a verse is never split unless it is longer
-// than a whole column. The song list and ✎ edits are shared with the slides (see setlist.js).
+// than a whole column. With "Move the whole song to the next column", a song that doesn't fit in
+// the rest of a column starts in the next one instead (unless it's longer than a whole column). The song list and ✎ edits are shared with the slides (see setlist.js).
 
 const PAGE_SIZES = { A4: [210, 297], A5: [148, 210], Letter: [215.9, 279.4], Legal: [215.9, 355.6] }; // mm, portrait
 const MARGIN = 12; // mm around the page
@@ -31,6 +32,7 @@ const ui = {
   fewer: $('#fewer'),
   more: $('#more'),
   cols: $('#cols'),
+  split: $('#split'),
   fontSize: $('#font-size'),
   autoFont: $('#auto-font'),
   labels: $('#labels'),
@@ -59,6 +61,7 @@ function readSettings() {
   ui.size.value = PAGE_SIZES[pick('size', 'A4')] ? pick('size', 'A4') : 'A4';
   ui.orient.value = pick('orient', 'portrait') === 'landscape' ? 'landscape' : 'portrait';
   ui.cols.value = ['auto', '1', '2', '3'].includes(pick('cols', '2')) ? pick('cols', '2') : '2';
+  ui.split.value = pick('split', 'flow') === 'keep' ? 'keep' : 'flow';
   ui.labels.checked = pick('labels', '1') !== '0';
   ui.pages.value = clampPages(params.get('pages') ?? 1);
   ui.title.value = params.get('title') ?? '';
@@ -74,6 +77,7 @@ function saveSettings() {
   params.set('size', ui.size.value);
   params.set('orient', ui.orient.value);
   params.set('cols', ui.cols.value);
+  params.set('split', ui.split.value);
   params.set('pages', ui.pages.value);
   params.set('font', manualFont ?? 'auto');
   params.set('labels', ui.labels.checked ? '1' : '0');
@@ -81,7 +85,7 @@ function saveSettings() {
   if (SetList.encodedEdits()) params.set('edits', SetList.encodedEdits());
   if (viewOnly) params.set('view', '1');
   history.replaceState(null, '', `#${params}`);
-  if (!viewOnly) SetList.storageSet('lyrics-sheet-settings', { size: ui.size.value, orient: ui.orient.value, cols: ui.cols.value, labels: ui.labels.checked ? '1' : '0' });
+  if (!viewOnly) SetList.storageSet('lyrics-sheet-settings', { size: ui.size.value, orient: ui.orient.value, cols: ui.cols.value, split: ui.split.value, labels: ui.labels.checked ? '1' : '0' });
 }
 
 // ---- Building blocks: a song title with its first verse, then each further verse ----
@@ -143,10 +147,30 @@ function measureHeader(text, widthMm) {
 function pack(blocks, heights, fontPt, cols, maxColumns, contentMm, headerMm, force = false) {
   const fontPx = (fontPt * 96) / 72;
   const capacity = (index) => (index < cols ? contentMm - headerMm : contentMm) * pxPerMm * SAFETY;
+  const keepSongs = ui.split.value === 'keep';
+  // Height of the song that starts at block i: its verses and the space between them.
+  const songHeight = (i) => {
+    let height = heights[i];
+    for (let j = i + 1; j < blocks.length && blocks[j].gap === 'stanza'; j++) height += STANZA_GAP * fontPx + heights[j];
+    return height;
+  };
   const columns = [];
   let column = [];
   let used = 0;
+  let longSong = false; // a song longer than a whole column, which has to continue anyway
   for (let i = 0; i < blocks.length; i++) {
+    if (keepSongs && blocks[i].gap === 'song') {
+      const height = songHeight(i);
+      if (height > capacity(column.length ? columns.length + 1 : columns.length)) {
+        longSong = true;
+      } else if (column.length && used + SONG_GAP * fontPx + height > capacity(columns.length)) {
+        // Start the song in the next column, so it isn't split.
+        columns.push(column);
+        if (columns.length >= maxColumns) return null;
+        column = [];
+        used = 0;
+      }
+    }
     const gap = column.length ? (blocks[i].gap === 'song' ? SONG_GAP : STANZA_GAP) * fontPx : 0;
     if (used + gap + heights[i] <= capacity(columns.length)) {
       column.push(i);
@@ -162,7 +186,7 @@ function pack(blocks, heights, fontPt, cols, maxColumns, contentMm, headerMm, fo
     used = heights[i];
   }
   columns.push(column);
-  return columns.length <= maxColumns ? columns : null;
+  return columns.length <= maxColumns ? Object.assign(columns, { longSong }) : null;
 }
 
 function columnChoices(contentW) {
@@ -281,6 +305,9 @@ function update() {
   } else {
     ui.fit.textContent = `Fits on ${pageWord(pagesUsed)}: ${details}.`;
   }
+  if (ui.split.value === 'keep' && layout.columns.longSong) {
+    ui.fit.textContent += ' Some songs are longer than a whole column, so they continue in the next column.';
+  }
 }
 
 // Shrink the on-screen preview to fit the window; printing always uses the real size.
@@ -336,7 +363,7 @@ function scheduleUpdate() {
   timer = setTimeout(update, 150);
 }
 
-[ui.size, ui.orient, ui.cols, ui.labels].forEach((el) => el.addEventListener('change', update));
+[ui.size, ui.orient, ui.cols, ui.split, ui.labels].forEach((el) => el.addEventListener('change', update));
 ui.pages.addEventListener('input', scheduleUpdate);
 ui.pages.addEventListener('change', () => { ui.pages.value = clampPages(ui.pages.value); update(); });
 ui.title.addEventListener('input', scheduleUpdate);
