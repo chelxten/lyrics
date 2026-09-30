@@ -710,6 +710,16 @@ body.has-tray main { padding-bottom: 110px; }
 .ui .label-bar { margin-bottom: 8px; }
 .ui .label-bar button { min-height: 34px; padding: 6px 12px; }
 .editor .hint { margin: 6px 0 0; }
+.ui .editor textarea {
+  display: block;
+  width: 100%;
+  padding: 10px 12px;
+  color: var(--text);
+  background: var(--bg);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  outline: none;
+}
 .editor #status { margin: 0 0 10px; }
 .preview .preview-heading { margin: 0 0 8px; font-size: 1rem; color: var(--muted); }
 /* No song-sheet bar while editing a song */
