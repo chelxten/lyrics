@@ -358,7 +358,6 @@ async function renderEditor(slug) {
             <button type="button" data-label="Pre-Chorus">Pre-Chorus</button>
             <button type="button" data-label="Chorus">Chorus</button>
             <button type="button" data-label="Bridge">Bridge</button>
-            <button type="button" data-label="Ending">Ending</button>
             <button type="button" data-label="">Other…</button>
           </div>
           <textarea id="lyrics" spellcheck="false" placeholder="Type or paste the lyrics. Leave an empty line between verses."></textarea>
