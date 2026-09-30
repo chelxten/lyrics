@@ -12,3 +12,4 @@ Leave a blank line between verses.
 
 [Chorus]
 Lines in square brackets like [Chorus] show up as section labels.
+With font: win, put English words in `backticks` so they are not converted.

@@ -20,13 +20,10 @@ for (const file of files) {
   const fix = (s) => (legacy ? winToUnicode(s) : s);
   for (const key of ['title', 'artist', 'album', 'tags']) if (meta[key]) meta[key] = fix(meta[key]);
   const body = fix(rawBody);
-  if (!meta.title) {
-    console.warn(`Skipping ${file}: missing "title:" at the top`);
-    continue;
-  }
+  const slug = file.replace(/\.md$/, '');
   songs.push({
-    slug: file.replace(/\.md$/, ''),
-    title: meta.title,
+    slug,
+    title: meta.title || slug, // no title yet: show the file name
     artist: meta.artist || '',
     album: meta.album || '',
     year: meta.year || '',
