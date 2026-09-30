@@ -69,9 +69,7 @@
         if (words.length > 1 && line.norm.includes(phrase)) n += words.length;
         if (n > best) { best = n; snippet = line.text; }
       }
-      // Found by an old file name (e.g. typed in English letters): show that name under the title.
-      const alias = snippet ? null : (song.aliases || []).find((a) => words.every((w) => normalize(a).includes(w))) || null;
-      hits.push({ song, score, snippet, alias });
+      hits.push({ song, score, snippet });
     }
     hits.sort((a, b) => b.score - a.score || a.song.title.localeCompare(b.song.title));
     return { words, hits };

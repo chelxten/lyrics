@@ -185,13 +185,13 @@
     }
     ui.addResults.innerHTML = hits
       .slice(0, MAX_ADD_RESULTS)
-      .map(({ song, snippet, alias }) => {
+      .map(({ song, snippet }) => {
         const on = picked.includes(song.slug);
         return `
           <li><button type="button" data-slug="${escapeHtml(song.slug)}" aria-pressed="${on}" title="${on ? 'Remove' : 'Add'}">
             <span class="add-text">
               <span class="title">${SongSearch.highlight(song.title, words)}</span>
-              ${snippet || alias ? `<span class="snippet">${SongSearch.highlight(snippet || alias, words)}</span>` : ''}
+              ${snippet ? `<span class="snippet">${SongSearch.highlight(snippet, words)}</span>` : ''}
             </span>
             <span class="add-mark" aria-hidden="true">${on ? '✓' : '+'}</span>
           </button></li>`;

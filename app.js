@@ -37,11 +37,11 @@ function renderList() {
     : `${songs.length} ${songs.length === 1 ? 'song' : 'songs'} · tap + to pick songs for a song sheet, PowerPoint or subtitles`;
 
   results.innerHTML = hits
-    .map(({ song, snippet, alias }) => `
+    .map(({ song, snippet }) => `
       <li><a href="#/song/${encodeURIComponent(song.slug)}">
         <span class="title">${highlight(song.title, words)}</span>
         ${song.artist ? `<span class="artist"> · ${highlight(song.artist, words)}</span>` : ''}
-        ${snippet ? `<div class="snippet">“${highlight(snippet, words)}”</div>` : alias ? `<div class="snippet">${highlight(alias, words)}</div>` : ''}
+        ${snippet ? `<div class="snippet">“${highlight(snippet, words)}”</div>` : ''}
       </a>${SongSelection.pickButton(song.slug, song.title)}</li>`)
     .join('');
 }

@@ -303,7 +303,7 @@ async function renderList() {
     app.querySelector('#list').innerHTML = matches
       .map((s) => `<li><a href="#/edit/${encodeURIComponent(s.slug)}">
         <span class="title">${escapeHtml(s.title)}</span>
-        ${s.title !== s.slug ? `<span class="artist"> · ${escapeHtml(s.slug)}</span>` : s.aliases.length ? `<span class="artist"> · ${escapeHtml(s.aliases.join(', '))}</span>` : ''}
+        ${s.title !== s.slug ? `<span class="artist"> · ${escapeHtml(s.slug)}</span>` : ''}
       </a>${SongSelection.pickButton(s.slug, s.title)}</li>`)
       .join('');
   };
