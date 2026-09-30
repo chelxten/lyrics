@@ -1,5 +1,5 @@
 ---
-title: အကောင်းမြတ်ဆုံးသောဘုရား
+title: taumif;jrwfqHk;aombk&m;
 font: win
 ---
 uREkfyf\cGeftm; uREkfyf\b@m uREkfyf\ukd;pm;&m
