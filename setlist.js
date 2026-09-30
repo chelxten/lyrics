@@ -185,13 +185,13 @@
     }
     ui.addResults.innerHTML = hits
       .slice(0, MAX_ADD_RESULTS)
-      .map(({ song, snippet }) => {
+      .map(({ song, snippet, alias }) => {
         const on = picked.includes(song.slug);
         return `
           <li><button type="button" data-slug="${escapeHtml(song.slug)}" aria-pressed="${on}" title="${on ? 'Remove' : 'Add'}">
             <span class="add-text">
               <span class="title">${SongSearch.highlight(song.title, words)}</span>
-              ${snippet ? `<span class="snippet">${SongSearch.highlight(snippet, words)}</span>` : ''}
+              ${snippet || alias ? `<span class="snippet">${SongSearch.highlight(snippet || alias, words)}</span>` : ''}
             </span>
             <span class="add-mark" aria-hidden="true">${on ? '✓' : '+'}</span>
           </button></li>`;
@@ -320,13 +320,18 @@
     const data = await fetch('songs.json', { cache: 'no-cache' }).then((r) => r.json());
     songsBySlug = Object.fromEntries(data.map((s) => [s.slug, s]));
     searchable = data.map(SongSearch.prepare);
+    // Songs linked or saved under an old file name follow the song to its new name.
+    const findSlug = SongSearch.slugResolver(data);
+    const current = (slugs) => [...new Set(slugs.map(findSlug).filter(Boolean))];
+    const currentEdits = (all) => Object.fromEntries(Object.entries(all || {}).map(([slug, edit]) => [findSlug(slug), edit]).filter(([slug]) => slug));
     if (link.songs.length) {
-      picked = link.songs.filter((slug) => songsBySlug[slug]);
+      picked = current(link.songs);
       if (!viewOnly) SongSelection.set(picked);
-      edits = (await unpackEdits(link.edits)) || {};
+      edits = currentEdits(await unpackEdits(link.edits));
     } else {
-      picked = SongSelection.all().filter((slug) => songsBySlug[slug]);
-      edits = storageGet(EDITS_KEY, {});
+      picked = current(SongSelection.all());
+      if (picked.join('\n') !== SongSelection.all().join('\n')) SongSelection.set(picked);
+      edits = currentEdits(storageGet(EDITS_KEY, {}));
     }
     editsChanged();
     // Wait for fonts so measurements match what gets printed or shown.

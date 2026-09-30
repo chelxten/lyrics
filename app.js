@@ -10,6 +10,7 @@ const results = $('#results');
 const count = $('#count');
 
 let songs = [];
+let findSlug = (name) => name; // current file name from an old one, once the songs are loaded
 
 function escapeHtml(s) {
   return s.replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
@@ -36,11 +37,11 @@ function renderList() {
     : `${songs.length} ${songs.length === 1 ? 'song' : 'songs'} · tap + to pick songs for a song sheet, PowerPoint or subtitles`;
 
   results.innerHTML = hits
-    .map(({ song, snippet }) => `
+    .map(({ song, snippet, alias }) => `
       <li><a href="#/song/${encodeURIComponent(song.slug)}">
         <span class="title">${highlight(song.title, words)}</span>
         ${song.artist ? `<span class="artist"> · ${highlight(song.artist, words)}</span>` : ''}
-        ${snippet ? `<div class="snippet">“${highlight(snippet, words)}”</div>` : ''}
+        ${snippet ? `<div class="snippet">“${highlight(snippet, words)}”</div>` : alias ? `<div class="snippet">${highlight(alias, words)}</div>` : ''}
       </a>${SongSelection.pickButton(song.slug, song.title)}</li>`)
     .join('');
 }
@@ -89,7 +90,11 @@ function route() {
   listView.hidden = view !== 'list';
   songView.hidden = view !== 'song';
   if (view === 'song') {
-    renderSong(decodeURIComponent(match[1]));
+    // A link with a song's old file name opens the song under its current name.
+    const name = decodeURIComponent(match[1]);
+    const slug = findSlug(name) || name;
+    if (slug !== name) history.replaceState(null, '', `#/song/${encodeURIComponent(slug)}`);
+    renderSong(slug);
     window.scrollTo(0, 0);
     return;
   }
@@ -111,6 +116,11 @@ fetch('songs.json', { cache: 'no-cache' })
   })
   .then((data) => {
     songs = data.map(SongSearch.prepare);
+    findSlug = SongSearch.slugResolver(data);
+    // Songs picked under an old file name follow the song to its new name.
+    const picks = SongSelection.all();
+    const current = [...new Set(picks.map(findSlug).filter(Boolean))];
+    if (current.join('\n') !== picks.join('\n')) SongSelection.set(current);
     route();
   })
   .catch(() => {

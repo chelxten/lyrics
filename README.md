@@ -80,7 +80,11 @@ other, and never changes the song files.
 Each song is a file in `songs/`. The file name is used in the song's web address.
 See `songs/_template.md` for the format:
 
-- `title:` is optional. Without it, the site shows the file name.
+- Each song's file is named after its title (the admin panel does this, and renames the file when
+  the title changes), so its web address matches the title.
+- `aliases:` lists the song's old file names, separated by commas. Links, saved song lists and
+  searches that use an old name (for example in English letters) still find the song. The admin
+  panel adds the old name when it renames a song.
 - The songs are stored as Unicode Burmese.
 - You can still type songs with a Win Innwa-style Burmese font: in the admin panel, tick "Typed
   with the Win font" (it's ticked for new songs). When you save, the title and lyrics are converted

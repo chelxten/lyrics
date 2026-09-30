@@ -34,6 +34,7 @@
       _title: normalize(song.title),
       _artist: normalize(song.artist),
       _tags: normalize(song.tags.join(' ')),
+      _aliases: normalize((song.aliases || []).join(' ')),
       _lyrics: normalize(song.lyrics),
       _lines: lines.map((l) => ({ text: l, norm: normalize(l) })),
     };
@@ -50,14 +51,14 @@
       let score = 0;
       let ok = true;
       for (const w of words) {
-        if (song._title.includes(w)) score += 10;
+        if (song._title.includes(w) || song._aliases.includes(w)) score += 10;
         else if (song._artist.includes(w)) score += 5;
         else if (song._tags.includes(w)) score += 3;
         else if (song._lyrics.includes(w)) score += 1;
         else { ok = false; break; }
       }
       if (!ok) continue;
-      if (song._title.includes(phrase)) score += 20;
+      if (song._title.includes(phrase) || song._aliases.includes(phrase)) score += 20;
       if (words.length > 1 && song._lyrics.includes(phrase)) score += 15;
 
       // Pick the lyric line that best matches, to show as a preview.
@@ -68,11 +69,22 @@
         if (words.length > 1 && line.norm.includes(phrase)) n += words.length;
         if (n > best) { best = n; snippet = line.text; }
       }
-      hits.push({ song, score, snippet });
+      // Found by an old file name (e.g. typed in English letters): show that name under the title.
+      const alias = snippet ? null : (song.aliases || []).find((a) => words.every((w) => normalize(a).includes(w))) || null;
+      hits.push({ song, score, snippet, alias });
     }
     hits.sort((a, b) => b.score - a.score || a.song.title.localeCompare(b.song.title));
     return { words, hits };
   }
 
-  window.SongSearch = { normalize, prepare, search, highlight };
+  // Finds a song's current file name from any name it has had (its aliases), so old links, saved
+  // song lists and edits still work after a song is renamed.
+  function slugResolver(songs) {
+    const names = new Map();
+    for (const song of songs) for (const alias of song.aliases || []) names.set(alias, song.slug);
+    for (const song of songs) names.set(song.slug, song.slug);
+    return (name) => names.get(name);
+  }
+
+  window.SongSearch = { normalize, prepare, search, highlight, slugResolver };
 })();

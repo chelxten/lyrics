@@ -1,5 +1,6 @@
 ---
-title: Song Title
+title: Song Title (also the file name: Song Title.md)
+aliases: old names, comma separated (optional; added when a song is renamed)
 artist: Artist Name
 album: Album Name (optional)
 year: 2024 (optional)

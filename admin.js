@@ -15,6 +15,7 @@ const logoutButton = document.querySelector('#logout');
 
 let flash = ''; // one-off message shown on the next screen
 let titles = null; // slug -> converted title, from the published songs.json
+let oldNames = {}; // slug -> old file names (aliases), from the published songs.json
 let dirty = false; // unsaved edits in the editor
 
 // Browser storage can be unavailable (private mode, blocked site data), so never let it throw.
@@ -55,6 +56,38 @@ async function github(path, options = {}) {
 
 const songPath = (name) => `/contents/songs/${encodeURIComponent(name)}.md`;
 
+// Saves a song under a new file name in one commit: the new file is added and the old one removed.
+// Returns the new file's sha. Fails like a save would if the song changed since it was opened, or
+// if another song already has the new name.
+async function saveRenamed(oldName, newName, content, openedSha) {
+  const head = (await github(`/git/ref/heads/${BRANCH}`)).object.sha;
+  const current = await github(`${songPath(oldName)}?ref=${head}`);
+  if (current.sha !== openedSha) throw Object.assign(new Error('Changed elsewhere'), { status: 409 });
+  const taken = await github(`${songPath(newName)}?ref=${head}`).then(() => true, (err) => (err.status === 404 ? false : Promise.reject(err)));
+  if (taken) throw Object.assign(new Error('Name taken'), { exists: true });
+  const tree = await github('/git/trees', {
+    method: 'POST',
+    body: JSON.stringify({
+      base_tree: (await github(`/git/commits/${head}`)).tree.sha,
+      tree: [
+        { path: `songs/${newName}.md`, mode: '100644', type: 'blob', content },
+        { path: `songs/${oldName}.md`, mode: '100644', type: 'blob', sha: null },
+      ],
+    }),
+  });
+  const commit = await github('/git/commits', {
+    method: 'POST',
+    body: JSON.stringify({ message: `Rename ${oldName} to ${newName} (admin panel)`, tree: tree.sha, parents: [head] }),
+  });
+  try {
+    await github(`/git/refs/heads/${BRANCH}`, { method: 'PATCH', body: JSON.stringify({ sha: commit.sha }) });
+  } catch (err) {
+    // Something else was saved in the meantime.
+    throw err.status === 422 ? Object.assign(new Error('Changed elsewhere'), { status: 409 }) : err;
+  }
+  return (await github(`${songPath(newName)}?ref=${commit.sha}`)).sha;
+}
+
 function decodeBase64(b64) {
   const binary = atob(b64.replace(/\n/g, ''));
   return new TextDecoder().decode(Uint8Array.from(binary, (c) => c.charCodeAt(0)));
@@ -94,6 +127,10 @@ function parse(raw) {
   }
   return { meta, body: m[2] };
 }
+
+// A song's file name is its title, without characters that file names and web addresses can't have.
+const fileNameFor = (title) => title.replace(/[\\/:*?"<>|#%]+/g, ' ').replace(/\s+/g, ' ').trim().replace(/^[._]+/, '');
+const splitList = (value) => (value || '').split(',').map((s) => s.trim()).filter(Boolean);
 
 function serialize(meta, body) {
   const lines = Object.entries(meta).filter(([, v]) => v).map(([k, v]) => `${k}: ${v}`);
@@ -240,12 +277,15 @@ async function renderList() {
       github(`/contents/songs?ref=${BRANCH}`),
       titles ? null : fetch('songs.json', { cache: 'no-cache' }).then((r) => (r.ok ? r.json() : [])).catch(() => []),
     ]);
-    if (published) titles = Object.fromEntries(published.map((s) => [s.slug, s.title]));
+    if (published) {
+      titles = Object.fromEntries(published.map((s) => [s.slug, s.title]));
+      oldNames = Object.fromEntries(published.map((s) => [s.slug, s.aliases || []]));
+    }
     songs = files
       .filter((f) => f.name.endsWith('.md') && !f.name.startsWith('_'))
       .map((f) => {
         const slug = f.name.slice(0, -3);
-        return { slug, title: titles[slug] || slug };
+        return { slug, title: titles[slug] || slug, aliases: oldNames[slug] || [] };
       })
       .sort((a, b) => a.title.localeCompare(b.title));
   } catch (err) {
@@ -258,12 +298,12 @@ async function renderList() {
   const filter = app.querySelector('#filter');
   const show = () => {
     const q = filter.value.trim().toLowerCase();
-    const matches = songs.filter((s) => !q || s.slug.toLowerCase().includes(q) || s.title.toLowerCase().includes(q));
+    const matches = songs.filter((s) => !q || [s.slug, s.title, ...s.aliases].some((name) => name.toLowerCase().includes(q)));
     app.querySelector('#status').textContent = `${matches.length} of ${songs.length} songs`;
     app.querySelector('#list').innerHTML = matches
       .map((s) => `<li><a href="#/edit/${encodeURIComponent(s.slug)}">
         <span class="title">${escapeHtml(s.title)}</span>
-        ${s.title !== s.slug ? `<span class="artist"> · ${escapeHtml(s.slug)}</span>` : ''}
+        ${s.title !== s.slug ? `<span class="artist"> · ${escapeHtml(s.slug)}</span>` : s.aliases.length ? `<span class="artist"> · ${escapeHtml(s.aliases.join(', '))}</span>` : ''}
       </a>${SongSelection.pickButton(s.slug, s.title)}</li>`)
       .join('');
   };
@@ -297,11 +337,9 @@ async function renderEditor(slug) {
     ${takeFlash()}
     <form class="editor" id="editor">
       <div>
-        ${isNew
-          ? `<label>File name <input id="name" required spellcheck="false" placeholder="e.g. koo daw myit tar">
-               <small class="muted">Used in the song’s web address. It can’t be changed later.</small></label>`
-          : `<h1 class="file-name">${escapeHtml(slug)}</h1>`}
-        <label>Title <input id="title" spellcheck="false" placeholder="Leave empty to show the file name"></label>
+        <h1 class="file-name">${isNew ? 'New song' : escapeHtml(slug)}</h1>
+        <label>Title <input id="title" required spellcheck="false">
+          <small class="muted">Also the song’s file name and web address. Changing it renames the file; old links still work.</small></label>
         <label class="check"><input type="checkbox" id="win"> Typed with the Win font (saved as Unicode Burmese)</label>
         <div class="field">
           <label for="lyrics">Lyrics</label>
@@ -331,7 +369,6 @@ async function renderEditor(slug) {
     </form>`;
 
   const $ = (sel) => app.querySelector(sel);
-  const nameInput = $('#name');
   const titleInput = $('#title');
   const winInput = $('#win');
   const lyricsInput = $('#lyrics');
@@ -344,7 +381,7 @@ async function renderEditor(slug) {
   const updatePreview = () => {
     const convert = winInput.checked ? winToUnicode : (s) => s;
     lyricsInput.classList.toggle('win-font', winInput.checked);
-    $('#preview-title').textContent = convert(titleInput.value.trim()) || (isNew ? nameInput.value.trim() : slug);
+    $('#preview-title').textContent = convert(titleInput.value.trim()) || (isNew ? '' : slug);
     $('#preview-lyrics').innerHTML = renderLyrics(convert(lyricsInput.value.trim()));
   };
   $('#editor').addEventListener('input', () => { dirty = true; updatePreview(); });
@@ -369,47 +406,64 @@ async function renderEditor(slug) {
 
   $('#editor').addEventListener('submit', async (e) => {
     e.preventDefault();
-    const name = isNew ? nameInput.value.trim().replace(/\.md$/i, '') : slug;
-    if (isNew && (/[/\\]/.test(name) || /^[._]/.test(name))) {
-      status.textContent = 'The file name can’t contain / or \\, or start with . or _';
-      return;
-    }
     // Text typed with the Win font is converted and saved as Unicode; the Win text isn't kept.
     const win = winInput.checked;
     const convert = win ? winToUnicode : (s) => s;
+    const title = convert(titleInput.value.trim());
     const lyrics = convert(lyricsInput.value);
-    const { title: _, font: __, ...rest } = meta;
-    const newMeta = { title: convert(titleInput.value.trim()), ...rest };
+    // The file is named after the title, so the song's web address matches it.
+    const name = fileNameFor(title);
+    if (!name) {
+      status.textContent = 'Give the song a title. It’s also used as the song’s file name.';
+      return;
+    }
+    const renamed = !isNew && name !== slug;
+    // Old file names stay with the song, so old links, song lists and searches still find it.
+    const aliases = [...new Set([...splitList(meta.aliases), ...(renamed ? [slug] : [])])];
+    const { title: _, font: __, aliases: ___, ...rest } = meta;
+    const newMeta = { title, aliases: aliases.join(', '), ...rest };
+    const content = serialize(newMeta, lyrics);
     setBusy(true, 'Saving…');
     try {
-      const res = await github(songPath(name), {
-        method: 'PUT',
-        body: JSON.stringify({
-          message: `${isNew ? 'Add' : 'Edit'} ${name} (admin panel)`,
-          content: encodeBase64(serialize(newMeta, lyrics)),
-          branch: BRANCH,
-          ...(sha ? { sha } : {}),
-        }),
-      });
-      sha = res.content.sha;
+      if (renamed) {
+        sha = await saveRenamed(slug, name, content, sha);
+      } else {
+        const res = await github(songPath(name), {
+          method: 'PUT',
+          body: JSON.stringify({
+            message: `${isNew ? 'Add' : 'Edit'} ${name} (admin panel)`,
+            content: encodeBase64(content),
+            branch: BRANCH,
+            ...(sha ? { sha } : {}),
+          }),
+        });
+        sha = res.content.sha;
+      }
       meta = newMeta;
       dirty = false;
-      if (titles) titles[name] = newMeta.title || name;
+      if (titles) {
+        if (renamed) delete titles[slug];
+        titles[name] = title;
+      }
+      if (renamed) oldNames[name] = aliases;
+      if (isNew || renamed) {
+        flash = isNew
+          ? 'Song added. It will appear on the website in about a minute.'
+          : 'Saved, and the file is renamed to match the new title. Old links to the song still work. The website updates in about a minute.';
+        location.hash = `#/edit/${encodeURIComponent(name)}`;
+        return;
+      }
       if (win) {
         // Carry on editing the saved Unicode text.
-        titleInput.value = newMeta.title;
+        titleInput.value = title;
         lyricsInput.value = lyrics.trim();
         winInput.checked = false;
         updatePreview();
       }
-      if (isNew) {
-        flash = 'Song added. It will appear on the website in about a minute.';
-        location.hash = `#/edit/${encodeURIComponent(name)}`;
-        return;
-      }
       setBusy(false, win ? 'Saved as Unicode Burmese. The website updates in about a minute.' : 'Saved. The website updates in about a minute.');
     } catch (err) {
-      const message = err.status === 422 && isNew ? 'A song with that file name already exists.' : explain(err);
+      const exists = err.exists || (err.status === 422 && isNew);
+      const message = exists ? 'A song with this title already exists. Add something to the title to tell them apart, like (၂).' : explain(err);
       if (err.status === 401) return renderConnect(message);
       setBusy(false, message);
     }

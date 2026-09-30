@@ -28,6 +28,8 @@ for (const file of files) {
     album: meta.album || '',
     year: meta.year || '',
     tags: meta.tags ? meta.tags.split(',').map((t) => t.trim()).filter(Boolean) : [],
+    // Old file names: links, saved song lists and searches that use them still find the song.
+    aliases: meta.aliases ? meta.aliases.split(',').map((a) => a.trim()).filter(Boolean) : [],
     lyrics: body.trim(),
   });
 }
