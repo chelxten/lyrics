@@ -78,6 +78,7 @@
         <button type="button" class="primary" id="print">Print / Save as PDF</button>
         <button type="button" id="copy">Copy link</button>
       </div>
+      <p class="muted switch-page"><a href="slides.html">Make slides with these songs →</a></p>
     </aside>
 
     <section class="sheet-preview" aria-label="Sheet preview">
@@ -89,8 +90,9 @@
           <button type="button" class="primary" id="edit-done">Done</button>
         </div>
         <p class="muted">
-          Change the words or line breaks for this sheet. Leave an empty line between verses.
-          The song itself isn’t changed: edits stay in this browser and in the sheet’s link.
+          Change the words or line breaks. Leave an empty line between verses: each verse gets its own slide.
+          Changes apply to the song sheet and slides only. The song itself isn’t changed: edits stay in
+          this browser and in the share link.
         </p>
         <textarea id="edit-text" spellcheck="false" wrap="off" aria-labelledby="edit-title"></textarea>
       </div>
@@ -101,6 +103,7 @@
   <div id="measure" class="sheet-measure sheet-text" aria-hidden="true"></div>
 
   <script src="selection.js"></script>
+  <script src="setlist.js"></script>
   <script src="sheet.js"></script>
 </body>
 </html>

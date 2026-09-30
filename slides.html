@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Slides · Lyrics Library</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="sheet-body">
+  <header class="site-header wide">
+    <a href="./" class="brand">Lyrics Library</a>
+    <span class="muted">Slides</span>
+  </header>
+
+  <main class="sheet-layout wide">
+    <aside class="sheet-controls ui">
+      <h2>Songs <span class="muted" id="song-count"></span></h2>
+      <ol id="sheet-songs" class="sheet-songs"></ol>
+      <p id="no-songs" class="muted" hidden>
+        No songs picked yet. Go to the <a href="./">song list</a> and tap <b>+</b> next to the songs you want.
+      </p>
+      <p class="muted add-more"><a href="./">+ Add more songs</a></p>
+
+      <label>Title slide <small class="muted">Optional, shown first</small>
+        <input id="deck-title" placeholder="e.g. Homecell, 12 October" autocomplete="off">
+      </label>
+      <div class="two-up">
+        <label>Slide size
+          <select id="slide-size">
+            <option value="wide">Widescreen 16:9</option>
+            <option value="standard">Standard 4:3</option>
+          </select>
+        </label>
+        <label>Colors
+          <select id="theme">
+            <option value="dark">White on black</option>
+            <option value="light">Black on white</option>
+          </select>
+        </label>
+      </div>
+
+      <div class="two-up">
+        <div class="field">
+          <span class="field-label" id="font-label">Text size</span>
+          <div class="stepper" role="group" aria-labelledby="font-label">
+            <button type="button" id="smaller" aria-label="Smaller text">−</button>
+            <output id="font-size" aria-live="polite"></output>
+            <button type="button" id="bigger" aria-label="Bigger text">+</button>
+          </div>
+        </div>
+        <label class="check fit-check"><input type="checkbox" id="auto-font" checked> Fit automatically</label>
+      </div>
+      <label class="check"><input type="checkbox" id="labels"> Show labels (V1, CHO:)</label>
+
+      <p id="fit" class="fit" role="status"></p>
+      <div class="actions">
+        <button type="button" class="primary" id="download" disabled>Download PowerPoint</button>
+        <button type="button" id="copy">Copy link</button>
+      </div>
+      <p class="muted switch-page"><a href="sheet.html">Make a song sheet with these songs →</a></p>
+    </aside>
+
+    <section class="sheet-preview" aria-label="Slides preview">
+      <div id="line-editor" class="line-editor ui" hidden>
+        <div class="line-editor-head">
+          <h2 id="edit-title"></h2>
+          <span class="spacer"></span>
+          <button type="button" id="edit-reset">Reset</button>
+          <button type="button" class="primary" id="edit-done">Done</button>
+        </div>
+        <p class="muted">
+          Change the words or line breaks. Leave an empty line between verses: each verse gets its own slide.
+          Changes apply to the song sheet and slides only. The song itself isn’t changed: edits stay in
+          this browser and in the share link.
+        </p>
+        <textarea id="edit-text" spellcheck="false" wrap="off" aria-labelledby="edit-title"></textarea>
+      </div>
+      <div id="slides-out" class="slides-grid"></div>
+    </section>
+  </main>
+
+  <div id="measure" class="slide-measure slide-text" aria-hidden="true"></div>
+
+  <script src="selection.js"></script>
+  <script src="setlist.js"></script>
+  <script src="slides.js"></script>
+</body>
+</html>

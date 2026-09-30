@@ -1,7 +1,7 @@
 // Song sheet: lays the picked songs out on the chosen pages. With "Fit to pages" it uses the
 // largest text that fits; otherwise it uses the chosen text size and as many pages as needed.
 // Songs flow down each column and on to the next; a verse is never split unless it is longer
-// than a whole column. Edits made with ✎ apply to this sheet only, never to the song files.
+// than a whole column. The song list and ✎ edits are shared with the slides (see setlist.js).
 
 const PAGE_SIZES = { A4: [210, 297], A5: [148, 210], Letter: [215.9, 279.4], Legal: [215.9, 355.6] }; // mm, portrait
 const MARGIN = 12; // mm around the page
@@ -18,14 +18,9 @@ const STANZA_GAP = 1; // em of space before each verse
 const HEADER_GAP = 4; // mm below the sheet title
 const SAFETY = 0.98; // leave a little room so printing never spills over
 const PRINT_SLACK = 0.5; // mm the printed page is shorter than the paper, so rounding never adds a blank page
-const BURMESE_DIGITS = '၀၁၂၃၄၅၆၇၈၉';
-const LABEL_LINE = /^\s*\[([^\]]*)\]\s*$/;
 
 const $ = (sel) => document.querySelector(sel);
 const ui = {
-  list: $('#sheet-songs'),
-  count: $('#song-count'),
-  empty: $('#no-songs'),
   title: $('#sheet-title'),
   size: $('#size'),
   orient: $('#orient'),
@@ -40,80 +35,21 @@ const ui = {
   out: $('#pages-out'),
   measure: $('#measure'),
   pageStyle: $('#page-size'),
-  editor: $('#line-editor'),
-  editTitle: $('#edit-title'),
-  editText: $('#edit-text'),
 };
 
-let songsBySlug = {};
-let picked = [];
-let edits = {}; // slug -> { text, base } where base is the song's lyrics when it was edited
+const { escapeHtml, burmeseNumber } = SetList;
 let manualFont = null; // pt, or null for "Fit to pages"
 let lastFont = 11; // size used by the latest layout
-let editing = null; // slug open in the sheet editor
-let encodedEdits = ''; // edits packed into the share link
 let lastLayout = null;
 
-function escapeHtml(s) {
-  return String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
-}
-
-const burmeseNumber = (n) => String(n).replace(/\d/g, (d) => BURMESE_DIGITS[d]);
 const clampPages = (n) => Math.min(MAX_PAGES, Math.max(1, parseInt(n, 10) || 1));
 const clampFont = (n) => Math.min(MAX_FONT, Math.max(MIN_FONT, Math.round(n / MANUAL_STEP) * MANUAL_STEP));
-const pickedSongs = () => picked.map((slug) => songsBySlug[slug]).filter(Boolean);
 
-// The text used for a song on this sheet: the edited version if there is one.
-function sheetText(song) {
-  const edit = edits[song.slug];
-  return edit && edit.base === song.lyrics ? edit.text : song.lyrics;
-}
-
-// [Verse 1] -> "V1", [Chorus] -> "CHO:", and so on, like a printed song sheet.
-function shortLabel(label) {
-  const verse = label.match(/^verse\s*(\d*)$/i);
-  if (verse) return `V${verse[1]}`;
-  if (/^chorus$/i.test(label)) return 'CHO:';
-  if (/^pre-?\s?chorus$/i.test(label)) return 'Pre:';
-  return `${label}:`;
-}
-
-// ---- Storage and the share link ----
-
-function storageGet(key, fallback) {
-  try { return JSON.parse(localStorage.getItem(key)) ?? fallback; } catch { return fallback; }
-}
-function storageSet(key, value) {
-  try { localStorage.setItem(key, JSON.stringify(value)); } catch {}
-}
-
-// Edits are compressed so a shared link stays a reasonable length.
-const canCompress = typeof CompressionStream === 'function';
-function toBase64Url(bytes) {
-  let binary = '';
-  for (let i = 0; i < bytes.length; i += 0x8000) binary += String.fromCharCode(...bytes.subarray(i, i + 0x8000));
-  return btoa(binary).replace(/\+/g, '-').replace(/\//g, '_').replace(/=+$/, '');
-}
-const fromBase64Url = (s) => Uint8Array.from(atob(s.replace(/-/g, '+').replace(/_/g, '/')), (c) => c.charCodeAt(0));
-
-async function packEdits(obj) {
-  if (!canCompress || !Object.keys(obj).length) return '';
-  const stream = new Blob([JSON.stringify(obj)]).stream().pipeThrough(new CompressionStream('deflate-raw'));
-  return toBase64Url(new Uint8Array(await new Response(stream).arrayBuffer()));
-}
-async function unpackEdits(s) {
-  if (!canCompress || !s) return null;
-  try {
-    const stream = new Blob([fromBase64Url(s)]).stream().pipeThrough(new DecompressionStream('deflate-raw'));
-    return JSON.parse(await new Response(stream).text());
-  } catch {
-    return null;
-  }
-}
+// ---- Settings and the share link ----
 
 function readSettings() {
   const params = new URLSearchParams(location.hash.slice(1));
-  const saved = storageGet('lyrics-sheet-settings', {});
+  const saved = SetList.storageGet('lyrics-sheet-settings', {});
   const pick = (key, fallback) => params.get(key) ?? saved[key] ?? fallback;
   ui.size.value = PAGE_SIZES[pick('size', 'A4')] ? pick('size', 'A4') : 'A4';
   ui.orient.value = pick('orient', 'portrait') === 'landscape' ? 'landscape' : 'portrait';
@@ -128,7 +64,7 @@ function readSettings() {
 
 function saveSettings() {
   const params = new URLSearchParams();
-  picked.forEach((slug) => params.append('s', slug));
+  SetList.slugs().forEach((slug) => params.append('s', slug));
   params.set('size', ui.size.value);
   params.set('orient', ui.orient.value);
   params.set('cols', ui.cols.value);
@@ -136,139 +72,24 @@ function saveSettings() {
   params.set('font', manualFont ?? 'auto');
   params.set('labels', ui.labels.checked ? '1' : '0');
   if (ui.title.value.trim()) params.set('title', ui.title.value.trim());
-  if (encodedEdits) params.set('edits', encodedEdits);
+  if (SetList.encodedEdits()) params.set('edits', SetList.encodedEdits());
   history.replaceState(null, '', `#${params}`);
-  storageSet('lyrics-sheet-settings', { size: ui.size.value, orient: ui.orient.value, cols: ui.cols.value, labels: ui.labels.checked ? '1' : '0' });
+  SetList.storageSet('lyrics-sheet-settings', { size: ui.size.value, orient: ui.orient.value, cols: ui.cols.value, labels: ui.labels.checked ? '1' : '0' });
 }
-
-let editsTimer;
-function editsChanged() {
-  // Only keep edits for songs on the sheet that still match the song they were made from.
-  for (const slug of Object.keys(edits)) {
-    const song = songsBySlug[slug];
-    if (!picked.includes(slug) || !song || edits[slug].base !== song.lyrics || edits[slug].text === song.lyrics) delete edits[slug];
-  }
-  storageSet('lyrics-sheet-edits', edits);
-  clearTimeout(editsTimer);
-  editsTimer = setTimeout(async () => {
-    encodedEdits = await packEdits(edits);
-    saveSettings();
-  }, 400);
-}
-
-// ---- Picked songs list ----
-
-function renderSongList() {
-  const songs = pickedSongs();
-  ui.count.textContent = songs.length ? `(${songs.length})` : '';
-  ui.empty.hidden = songs.length > 0;
-  ui.list.innerHTML = songs
-    .map((song, i) => `
-      <li class="${editing === song.slug ? 'is-editing' : ''}">
-        <span class="name">${escapeHtml(song.title)}${edits[song.slug] ? ' <small class="edited">edited</small>' : ''}</span>
-        <span class="tools">
-          <button type="button" data-edit="${i}" aria-label="Edit ${escapeHtml(song.title)} for this sheet" title="Edit for this sheet">✎</button>
-          <button type="button" data-move="-1" data-i="${i}" aria-label="Move up" ${i === 0 ? 'disabled' : ''}>↑</button>
-          <button type="button" data-move="1" data-i="${i}" aria-label="Move down" ${i === songs.length - 1 ? 'disabled' : ''}>↓</button>
-          <button type="button" data-remove="${i}" aria-label="Remove">✕</button>
-        </span>
-      </li>`)
-    .join('');
-}
-
-ui.list.addEventListener('click', (e) => {
-  const button = e.target.closest('button');
-  if (!button) return;
-  const songs = picked.filter((slug) => songsBySlug[slug]);
-  if (button.dataset.edit !== undefined) {
-    openEditor(songs[Number(button.dataset.edit)]);
-    return;
-  }
-  if (button.dataset.remove !== undefined) {
-    const [removed] = songs.splice(Number(button.dataset.remove), 1);
-    if (removed === editing) closeEditor();
-  } else {
-    const i = Number(button.dataset.i);
-    const j = i + Number(button.dataset.move);
-    [songs[i], songs[j]] = [songs[j], songs[i]];
-  }
-  picked = songs;
-  SongSelection.set(picked);
-  editsChanged();
-  update();
-});
-
-// ---- Sheet editor: change the words or lines of a song for this sheet only ----
-
-ui.editText.addEventListener('input', () => {
-  const song = songsBySlug[editing];
-  if (!song) return;
-  edits[song.slug] = { text: ui.editText.value, base: song.lyrics };
-  editsChanged();
-  scheduleUpdate();
-});
-
-function openEditor(slug) {
-  const song = songsBySlug[slug];
-  if (!song) return;
-  editing = slug;
-  ui.editTitle.textContent = song.title;
-  ui.editText.value = sheetText(song);
-  ui.editor.hidden = false;
-  renderSongList();
-  ui.editor.scrollIntoView({ behavior: 'smooth', block: 'start' });
-  ui.editText.focus({ preventScroll: true });
-}
-
-function closeEditor() {
-  editing = null;
-  ui.editor.hidden = true;
-  renderSongList();
-}
-
-$('#edit-done').addEventListener('click', closeEditor);
-$('#edit-reset').addEventListener('click', () => {
-  const song = songsBySlug[editing];
-  if (!song || !confirm('Undo all changes to this song on the sheet?')) return;
-  delete edits[song.slug];
-  ui.editText.value = song.lyrics;
-  editsChanged();
-  update();
-});
 
 // ---- Building blocks: a song title with its first verse, then each further verse ----
 
-function stanzaHtml(lines) {
-  const showLabels = ui.labels.checked;
-  const out = [];
-  for (let i = 0; i < lines.length; i++) {
-    const label = lines[i].match(LABEL_LINE);
-    if (!label) {
-      out.push(escapeHtml(lines[i].trim()));
-    } else if (showLabels) {
-      // A label is joined to the line after it: "[Chorus]" + "..." -> "CHO: ..."
-      const next = lines[i + 1] !== undefined && !LABEL_LINE.test(lines[i + 1]) ? lines[++i] : '';
-      out.push(`${escapeHtml(shortLabel(label[1].trim()))} ${escapeHtml(next.trim())}`.trim());
-    }
-  }
-  return out.join('\n');
-}
-
 function buildBlocks(songs) {
-  const showLabels = ui.labels.checked;
   const blocks = [];
   songs.forEach((song, n) => {
-    const stanzas = sheetText(song)
-      .split(/\n\s*\n/)
-      .map((s) => s.split('\n').filter((l) => l.trim()))
-      .filter((lines) => lines.some((l) => showLabels || !LABEL_LINE.test(l)));
+    const verses = SetList.verses(song, ui.labels.checked);
     const title = `<div class="sheet-song-title">${burmeseNumber(n + 1)}။ ${escapeHtml(song.title)}</div>`;
-    if (!stanzas.length) {
+    if (!verses.length) {
       blocks.push({ html: `<div class="sheet-block">${title}</div>`, gap: 'song' });
       return;
     }
-    stanzas.forEach((lines, i) => {
-      const body = `<div class="sheet-stanza">${stanzaHtml(lines)}</div>`;
+    verses.forEach((lines, i) => {
+      const body = `<div class="sheet-stanza">${lines.map(escapeHtml).join('\n')}</div>`;
       blocks.push({ html: `<div class="sheet-block">${i === 0 ? title : ''}${body}</div>`, gap: i === 0 ? 'song' : 'stanza' });
     });
   });
@@ -381,8 +202,8 @@ function fixedLayout(blocks, font, contentW, contentH, headerMm, fits = true) {
 
 function update() {
   saveSettings();
-  renderSongList();
-  const songs = pickedSongs();
+  SetList.render();
+  const songs = SetList.songs();
   const [pw, ph] = PAGE_SIZES[ui.size.value];
   const [w, h] = ui.orient.value === 'landscape' ? [ph, pw] : [pw, ph];
   ui.pageStyle.textContent = `@page { size: ${w}mm ${h}mm; margin: 0; }
@@ -488,8 +309,7 @@ ui.autoFont.addEventListener('change', () => {
 $('#print').addEventListener('click', () => window.print());
 $('#copy').addEventListener('click', async (e) => {
   const button = e.currentTarget;
-  clearTimeout(editsTimer);
-  encodedEdits = await packEdits(edits);
+  await SetList.flushEdits();
   saveSettings();
   try {
     await navigator.clipboard.writeText(location.href);
@@ -501,36 +321,11 @@ $('#copy').addEventListener('click', async (e) => {
 });
 window.addEventListener('resize', scalePreview);
 
-// If songs change in another tab (e.g. + on the song list), follow along.
-SongSelection.onChange((songs) => {
-  if (songs.join('\n') === picked.join('\n')) return;
-  picked = songs;
-  if (editing && !picked.includes(editing)) closeEditor();
-  editsChanged();
-  update();
-});
-
 // ---- Start ----
 
 const fromLink = readSettings();
 measurePxPerMm();
-fetch('songs.json', { cache: 'no-cache' })
-  .then((r) => r.json())
-  .then(async (data) => {
-    songsBySlug = Object.fromEntries(data.map((s) => [s.slug, s]));
-    // A shared link brings its own songs and edits; otherwise use this browser's.
-    if (fromLink.songs.length) {
-      picked = fromLink.songs.filter((slug) => songsBySlug[slug]);
-      SongSelection.set(picked);
-      edits = (await unpackEdits(fromLink.edits)) || {};
-    } else {
-      picked = SongSelection.all().filter((slug) => songsBySlug[slug]);
-      edits = storageGet('lyrics-sheet-edits', {});
-    }
-    editsChanged();
-    // Wait for fonts so measurements match what gets printed.
-    return document.fonts ? document.fonts.ready : null;
-  })
+SetList.start(fromLink, { update, scheduleUpdate, saveSettings })
   .then(update)
   .catch(() => {
     ui.fit.className = 'fit warn';

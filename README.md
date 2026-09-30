@@ -43,6 +43,18 @@ On the sheet page you can also:
 
 **Copy link** shares the exact sheet, including line edits.
 
+## Slides
+
+After picking songs with **+**, tap **Slides** (or **Make slides with these songs** on the song
+sheet page). `slides.html` makes a PowerPoint file: an optional title slide, then for each song a
+title slide and one slide per verse. You can choose widescreen (16:9) or standard (4:3), white text
+on black or black on white, labels on or off, and the text size (**Fit automatically** picks the
+largest size that keeps every verse on one slide). **Download PowerPoint** saves a `.pptx` file that
+opens in PowerPoint, Keynote and Google Slides.
+
+The song list and **✎** edits are shared with the song sheet: an edit made on one page shows on the
+other, and never changes the song files.
+
 ## Song files
 
 Each song is a file in `songs/`. The file name is used in the song's web address.

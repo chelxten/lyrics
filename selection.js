@@ -1,4 +1,4 @@
-// Songs picked for a song sheet. Shared by the song list, the admin panel and sheet.html,
+// Songs picked for a song sheet or slides. Shared by the song list, the admin panel, sheet.html and slides.html,
 // and stored only in this browser.
 (function () {
   const KEY = 'lyrics-sheet-songs';
@@ -31,8 +31,8 @@
   function updateButton(button) {
     const on = songs.includes(button.dataset.slug);
     button.setAttribute('aria-pressed', on);
-    button.title = on ? 'Remove from song sheet' : 'Add to song sheet';
-    button.textContent = button.classList.contains('wide') ? (on ? '✓ In song sheet' : '+ Add to song sheet') : on ? '✓' : '+';
+    button.title = on ? 'Remove from song sheet and slides' : 'Add to song sheet and slides';
+    button.textContent = button.classList.contains('wide') ? (on ? '✓ In song sheet and slides' : '+ Add to song sheet and slides') : on ? '✓' : '+';
   }
 
   // One click handler for every pick button on the page, including ones rendered later.
@@ -57,7 +57,7 @@
       button.className = wide ? 'pick wide' : 'pick';
       button.dataset.slug = slug;
       updateButton(button);
-      button.setAttribute('aria-label', `Song sheet: ${title}`);
+      button.setAttribute('aria-label', `Song sheet and slides: ${title}`);
       return button.outerHTML;
     },
 
@@ -68,9 +68,10 @@
       tray.innerHTML = `
         <span class="count"></span>
         <button type="button" class="link-button">Clear</button>
-        <a class="tray-button" href="sheet.html">Make song sheet →</a>`;
+        <a class="tray-button" href="sheet.html">Song sheet →</a>
+        <a class="tray-button" href="slides.html">Slides →</a>`;
       tray.querySelector('button').addEventListener('click', () => {
-        if (confirm('Remove all songs from the song sheet?')) save([]);
+        if (confirm('Remove all picked songs?')) save([]);
       });
       document.body.appendChild(tray);
       const update = () => {

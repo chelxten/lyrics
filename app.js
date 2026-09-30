@@ -86,7 +86,7 @@ function renderList() {
   const { words, hits } = search(input.value);
   count.textContent = input.value.trim()
     ? `${hits.length} ${hits.length === 1 ? 'match' : 'matches'}`
-    : `${songs.length} ${songs.length === 1 ? 'song' : 'songs'} · tap + to add songs to a printable song sheet`;
+    : `${songs.length} ${songs.length === 1 ? 'song' : 'songs'} · tap + to pick songs for a song sheet or slides`;
 
   results.innerHTML = hits
     .map(({ song, snippet }) => `
