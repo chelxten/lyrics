@@ -17,6 +17,7 @@ const SONG_GAP = 2; // em of space before each song
 const STANZA_GAP = 1; // em of space before each verse
 const HEADER_GAP = 4; // mm below the sheet title
 const SAFETY = 0.98; // leave a little room so printing never spills over
+const PRINT_SLACK = 0.5; // mm the printed page is shorter than the paper, so rounding never adds a blank page
 const BURMESE_DIGITS = '၀၁၂၃၄၅၆၇၈၉';
 const LABEL_LINE = /^\s*\[([^\]]*)\]\s*$/;
 
@@ -427,7 +428,8 @@ function update() {
   const songs = pickedSongs();
   const [pw, ph] = PAGE_SIZES[ui.size.value];
   const [w, h] = ui.orient.value === 'landscape' ? [ph, pw] : [pw, ph];
-  ui.pageStyle.textContent = `@page { size: ${w}mm ${h}mm; margin: 0; }`;
+  ui.pageStyle.textContent = `@page { size: ${w}mm ${h}mm; margin: 0; }
+    @media print { .sheet-page { height: ${h - PRINT_SLACK}mm !important; } }`;
   ui.autoFont.checked = manualFont === null;
   [ui.pages, ui.fewer, ui.more].forEach((el) => { el.disabled = manualFont !== null; });
 
