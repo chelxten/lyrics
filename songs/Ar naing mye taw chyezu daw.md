@@ -1,4 +1,5 @@
 ---
+title: tEIdif;rJhaus;Zl;awmf
 font: win
 ---
 toufay;vdkYcspfcJhol ocif&JUtcspfaMumifhom
@@ -20,7 +21,7 @@ csD;rGrf;vQufoDMuL;txHawmfodkYwdk;0if
 a<u;aMumf½Tifvef;vQuf uckefvQuf
 udk,fawmfbk&m;a½SUawmfrSm
 
-udk,fawmfonf tEIdif;rJhars;Zl;awmf
+udk,fawmfonf tEIdif;rJhaus;Zl;awmf
 t&m&mcyfodrf;xuf BuD;jrwfaomol
 vdktyfcsufvnf;r½Sd ocifbk&m;½Sd&if
 NyD;jynfhpkHNyD
