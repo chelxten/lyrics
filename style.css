@@ -386,7 +386,7 @@ body.has-tray main { padding-bottom: 110px; }
   body.sheet-body { margin: 0; background: #fff; }
   .sheet-layout { display: block; max-width: none; margin: 0; padding: 0; }
   .sheet-preview { overflow: visible; }
-  .sheet-pages { display: block; zoom: 1 !important; }
+  .sheet-pages { display: block; zoom: 1 !important; transform: none !important; width: auto !important; margin: 0 !important; }
   .sheet-page { box-shadow: none; break-after: page; }
   .sheet-page:last-child { break-after: auto; }
 }

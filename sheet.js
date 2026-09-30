@@ -311,10 +311,22 @@ function update() {
 }
 
 // Shrink the on-screen preview to fit the window; printing always uses the real size.
+// This uses a transform rather than CSS zoom: under zoom, phones (iPhone Safari) keep text at a
+// minimum size, so the preview wrapped differently from the real page.
 function scalePreview() {
   if (!lastLayout) return;
   const available = ui.out.parentElement.clientWidth - 2;
-  ui.out.style.zoom = Math.min(1, available / (lastLayout.w * pxPerMm));
+  const width = lastLayout.w * pxPerMm;
+  const scale = Math.min(1, available / width);
+  Object.assign(ui.out.style, {
+    width: `${width}px`,
+    transform: scale < 1 ? `scale(${scale})` : '',
+    transformOrigin: '0 0',
+    // A transform doesn't change the space the pages take up: give back the space below them,
+    // and center them on a shared sheet.
+    marginBottom: `${-(1 - scale) * ui.out.offsetHeight}px`,
+    marginLeft: viewOnly ? `${Math.max(0, (available - width * scale) / 2)}px` : '',
+  });
 }
 
 // ---- JPG images: one per page ----
@@ -337,7 +349,7 @@ async function downloadImages() {
         backgroundColor: '#ffffff',
         logging: false,
         // Draw the page at its real size, not the shrunk preview.
-        onclone: (doc) => { doc.getElementById('pages-out').style.zoom = '1'; },
+        onclone: (doc) => { Object.assign(doc.getElementById('pages-out').style, { transform: 'none', margin: '0' }); },
       });
       const blob = await new Promise((resolve) => canvas.toBlob(resolve, 'image/jpeg', 0.92));
       SetList.saveFile(blob, pages.length > 1 ? `${name} (${i + 1}).jpg` : `${name}.jpg`);
