@@ -208,22 +208,7 @@ function scalePreview() {
 
 // ---- PowerPoint ----
 
-let library = null;
-function loadLibrary() {
-  library ??= new Promise((resolve, reject) => {
-    const script = document.createElement('script');
-    script.src = PPTX_LIBRARY;
-    script.integrity = PPTX_LIBRARY_INTEGRITY;
-    script.crossOrigin = 'anonymous';
-    script.onload = () => resolve(window.PptxGenJS);
-    script.onerror = () => {
-      library = null;
-      reject(new Error('Could not load the PowerPoint library'));
-    };
-    document.head.appendChild(script);
-  });
-  return library;
-}
+const loadLibrary = () => SetList.loadScript(PPTX_LIBRARY, PPTX_LIBRARY_INTEGRITY, 'PptxGenJS');
 
 const fileName = () => (ui.title.value.trim() || 'Songs').replace(/[\\/:*?"<>|]+/g, ' ').trim() || 'Songs';
 

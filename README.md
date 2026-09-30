@@ -32,7 +32,7 @@ Open https://chelxten.github.io/lyrics/admin.html to add, edit and delete songs.
 
 Anyone can tap **+** next to songs (on the song list, a song page or the admin list) and then
 **Make song sheet**. `sheet.html` lays the songs out in columns on the chosen page size and
-number of pages, with the largest text that fits, ready to print or save as PDF. Labels print
+number of pages, with the largest text that fits, ready to print or save as PDF. **Download JPG** saves each page as an image. Labels print
 in short form: `[Verse 1]` → `V1`, `[Chorus]` → `CHO:`, `[Pre-Chorus]` → `Pre:`.
 On the sheet page you can also:
 
@@ -41,8 +41,8 @@ On the sheet page you can also:
 - edit a song's words and line breaks with **✎**. These edits only apply to that sheet: they're
   kept in the browser and in the sheet's link, and the song file in the repository never changes.
 
-**Copy link** gives a link that opens just the sheet, with your edits and a **Print / Save as PDF**
-button but none of the controls. Opening it doesn't change the songs the other person has picked.
+**Copy link** gives a link that opens just the sheet, with your edits and the **Print / Save as PDF**
+and **Download JPG** buttons but none of the controls. Opening it doesn't change the songs the other person has picked.
 
 ## Slides
 

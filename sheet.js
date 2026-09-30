@@ -18,6 +18,9 @@ const STANZA_GAP = 1; // em of space before each verse
 const HEADER_GAP = 4; // mm below the sheet title
 const SAFETY = 0.98; // leave a little room so printing never spills over
 const PRINT_SLACK = 0.5; // mm the printed page is shorter than the paper, so rounding never adds a blank page
+const IMAGE_SCALE = 2.5; // JPG pixels per screen pixel: about 240 dpi, sharp enough to print
+const IMAGE_LIBRARY = 'https://cdn.jsdelivr.net/npm/html2canvas@1.4.1/dist/html2canvas.min.js';
+const IMAGE_LIBRARY_INTEGRITY = 'sha384-ZZ1pncU3bQe8y31yfZdMFdSpttDoPmOZg2wguVK9almUodir1PghgT0eY7Mrty8H';
 
 const $ = (sel) => document.querySelector(sel);
 const ui = {
@@ -35,6 +38,7 @@ const ui = {
   out: $('#pages-out'),
   measure: $('#measure'),
   pageStyle: $('#page-size'),
+  imageButtons: document.querySelectorAll('.download-jpg'),
 };
 
 const { escapeHtml, burmeseNumber } = SetList;
@@ -286,6 +290,54 @@ function scalePreview() {
   ui.out.style.zoom = Math.min(1, available / (lastLayout.w * pxPerMm));
 }
 
+// ---- JPG images: one per page ----
+
+const fileName = () => (ui.title.value.trim() || 'Song sheet').replace(/[\\/:*?"<>|]+/g, ' ').trim() || 'Song sheet';
+
+function saveFile(blob, name) {
+  const link = document.createElement('a');
+  link.href = URL.createObjectURL(blob);
+  link.download = name;
+  document.body.appendChild(link);
+  link.click();
+  link.remove();
+  setTimeout(() => URL.revokeObjectURL(link.href), 60000);
+}
+
+async function downloadImages() {
+  const pages = [...ui.out.querySelectorAll('.sheet-page')];
+  if (!pages.length) return;
+  ui.imageButtons.forEach((button) => {
+    button.disabled = true;
+    button.textContent = 'Making JPG…';
+  });
+  try {
+    const html2canvas = await SetList.loadScript(IMAGE_LIBRARY, IMAGE_LIBRARY_INTEGRITY, 'html2canvas');
+    const name = fileName();
+    for (const [i, page] of pages.entries()) {
+      const canvas = await html2canvas(page, {
+        scale: IMAGE_SCALE,
+        backgroundColor: '#ffffff',
+        logging: false,
+        // Draw the page at its real size, not the shrunk preview.
+        onclone: (doc) => { doc.getElementById('pages-out').style.zoom = '1'; },
+      });
+      const blob = await new Promise((resolve) => canvas.toBlob(resolve, 'image/jpeg', 0.92));
+      saveFile(blob, pages.length > 1 ? `${name} (${i + 1}).jpg` : `${name}.jpg`);
+    }
+  } catch {
+    const message = 'Couldn’t make the JPG. Check your connection and try again.';
+    ui.fit.className = 'fit warn';
+    ui.fit.textContent = message;
+    if (viewOnly) alert(message);
+  } finally {
+    ui.imageButtons.forEach((button) => {
+      button.disabled = false;
+      button.textContent = 'Download JPG';
+    });
+  }
+}
+
 // ---- Controls ----
 
 let timer;
@@ -310,6 +362,7 @@ ui.autoFont.addEventListener('change', () => {
 });
 
 [$('#print'), $('#view-print')].forEach((button) => button.addEventListener('click', () => window.print()));
+ui.imageButtons.forEach((button) => button.addEventListener('click', downloadImages));
 // "Copy link" gives a link that opens just the sheet, without the controls.
 function viewLink() {
   const params = new URLSearchParams(location.hash.slice(1));

@@ -211,6 +211,24 @@
     page.update();
   });
 
+  // Loads a library from the CDN the first time it's needed, and gives back window[globalName].
+  const scripts = {};
+  function loadScript(src, integrity, globalName) {
+    scripts[src] ??= new Promise((resolve, reject) => {
+      const script = document.createElement('script');
+      script.src = src;
+      script.integrity = integrity;
+      script.crossOrigin = 'anonymous';
+      script.onload = () => resolve(window[globalName]);
+      script.onerror = () => {
+        delete scripts[src];
+        reject(new Error(`Could not load ${src}`));
+      };
+      document.head.appendChild(script);
+    });
+    return scripts[src];
+  }
+
   // Loads the songs. A shared link brings its own songs and edits; otherwise use this browser's.
   // A view link (link.viewOnly) shows its songs without saving them over this browser's.
   // pageFunctions are the page's update(), scheduleUpdate() and saveSettings().
@@ -243,6 +261,7 @@
     encodedEdits: () => encodedEdits,
     render: renderSongList,
     flushEdits,
+    loadScript,
     start,
   };
 })();
