@@ -1,17 +1,16 @@
 ---
-title: emrawmfcsD;rGrf;
-font: win
+title: နာမတော်ချီးမွမ်း
 ---
-emrawmf csD;rGrf; jynfawmfrSm vkHavmufcsdefcsD;rGrf; a&ajrawG vQHxGufcsdef csD;rGrf; tNrJwrf;csD;rGrf;rnf
+နာမတော် ချီးမွမ်း ပြည်တော်မှာ လုံလောက်ချိန်ချီးမွမ်း ရေမြေတွေ လျှံထွက်ချိန် ချီးမွမ်း အမြဲတမ်းချီးမွမ်းမည်
 
-emrawmfcsD;rGrf; ajcmufaoGU&yfBuKHawGUcsdef csD;rGrf; uEåm&avQmufvSrf;csdef csD;rGrf; tNrJwrf;csD;rGrf;rnf
+နာမတော်ချီးမွမ်း ခြောက်သွေ့ရပ်ကြုံတွေ့ချိန် ချီးမွမ်း ကန္တာရလျှောက်လှမ်းချိန် ချီးမွမ်း အမြဲတမ်းချီးမွမ်းမည်
 
-&&Sdaumif;BuD; jyefvnfylaZmfcsD;rGrf;jcif;,Zf 'ku© rkd;wdrfBuKHqkHaevnf; csD;rGrf;aernf
+ရရှိကောင်းကြီး ပြန်လည်ပူဇော်ချီးမွမ်းခြင်းယဇ် ဒုက္ခ မိုးတိမ်ကြုံဆုံနေလည်း ချီးမွမ်းနေမည်
 
-csD;rGrf;touf&Sifrnf ukd,fawmfü csD;rGrf;touf&Sifrnf csD;rGrf;touf&Sifrnf ukd,fawmfü oefY&Sif;aom emrawmfbkef;BuD;ap
+ချီးမွမ်းအသက်ရှင်မည် ကိုယ်တော်၌ ချီးမွမ်းအသက်ရှင်မည် ချီးမွမ်းအသက်ရှင်မည် ကိုယ်တော်၌ သန့်ရှင်းသော နာမတော်ဘုန်းကြီးစေ
 
-emrawmf csD;rGrf; a&mifjcnfawG jzmxGufcsdef csD;rGrf; wavmuvkH;MunfEl;csdef csD;rGrf; tNrJwrf;csD;rGrf;rnf
+နာမတော် ချီးမွမ်း ရောင်ခြည်တွေ ဖြာထွက်ချိန် ချီးမွမ်း တလောကလုံးကြည်နူးချိန် ချီးမွမ်း အမြဲတမ်းချီးမွမ်းမည်
 
-emrawmf csD;rGrf; a0'emBuKHawGUcsdef csD;rGrf; ql;cif;vrf;jzwfoef;csdef csD;rGrf; tNrJwrf;csD;rGrf;rnf
+နာမတော် ချီးမွမ်း ဝေဒနာကြုံတွေ့ချိန် ချီးမွမ်း ဆူးခင်းလမ်းဖြတ်သန်းချိန် ချီးမွမ်း အမြဲတမ်းချီးမွမ်းမည်
 
-&Sd&SdorQaomt&mrsm; jyef½kyfodrf;oGm;vnf;bJ ighESvkH;om; a&G;cs,fum ukd,fawmfukd csD;rGrf;rnf
+ရှိရှိသမျှသောအရာများ ပြန်ရုပ်သိမ်းသွားလည်းဘဲ ငါ့နှလုံးသား ရွေးချယ်ကာ ကိုယ်တော်ကို ချီးမွမ်းမည်

@@ -1,19 +1,18 @@
 ---
-title: bkef;wamfjrifawGhcsif
-font: win
+title: ဘုန်းတော်မြင်တွေ့ချင်
 ---
-(udk,fawmf&JUbkef; uREkfyfawGUcsif
-ocifh&JUrsufarSmufxJrSm
-udk,fawmftoHtm;Mum;ap
-udk,fawmf uREkfyf'l;axmufae
-eHeufwdkif;eJU aeU&ufwdkif;
-uREkfyf\wrf;wjcif;^arQmfvifhjcif;)2
+(ကိုယ်တော်ရဲ့ဘုန်း ကျွန်ုပ်တွေ့ချင်
+သခင့်ရဲ့မျက်မှောက်ထဲမှာ
+ကိုယ်တော်အသံအားကြားစေ
+ကိုယ်တော် ကျွန်ုပ်ဒူးထောက်နေ
+နံနက်တိုင်းနဲ့ နေ့ရက်တိုင်း
+ကျွန်ုပ်၏တမ်းတခြင်း မျှော်လင့်ခြင်း)၂
 
-a,½I vufrsm;ajr§mufyifhum
-udk,fawmfxHodkU uREfkyfvmonf
-a,½I t&mtm;vkH;&JU ocif
-rukefcrf;oGm;wJh cspfarwÅm a,½I
+ယေရှု လက်များမြှောက်ပင့်ကာ
+ကိုယ်တော်ထံသို့ ကျွန်ုပ်လာသည်
+ယေရှု အရာအားလုံးရဲ့ သခင်
+မကုန်ခမ်းသွားတဲ့ ချစ်မေတ္တာ ယေရှု
 
-(uREkfyfrsufpdtjrif uREkfyfMum;orQt&m
-uREkfyf&JUESvkH;tdrf udk,fawmfudk
-zl;awGUapyg^udk,fxHESdrfhcsyg\)2
+(ကျွန်ုပ်မျက်စိအမြင် ကျွန်ုပ်ကြားသမျှအရာ
+ကျွန်ုပ်ရဲ့နှလုံးအိမ် ကိုယ်တော်ကို
+ဖူးတွေ့စေပါ ကိုယ်ထံနှိမ့်ချပါ၏)၂

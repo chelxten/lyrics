@@ -1,21 +1,20 @@
 ---
-title: oGe;favmif;rlyg
-font: win
+title: သွန်းလောင်းမူပါ
 ---
-0dnmOfawmfqif;<u 0dnmOfawmfrp
-0dnmOfawmft&Sif vrf;jyrlyg
+ဝိညာဉ်တော်ဆင်းကြွ ဝိညာဉ်တော်မစ
+ဝိညာဉ်တော်အရှင် လမ်းပြမူပါ
 
-0dnmOfawmfpD;qif; 0dnmOfawmfoGef;avmif; 0dnmOfawmft&Sif bdodwfrlyg
+ဝိညာဉ်တော်စီးဆင်း ဝိညာဉ်တော်သွန်းလောင်း ဝိညာဉ်တော်အရှင် ဘိသိတ်မူပါ
 
-ocifha&SUawmfrS uREfkyftm;
-ppfaq;ykHoGif;
+သခင့်ရှေ့တော်မှ ကျွန်ုပ်အား
+စစ်ဆေးပုံသွင်း
 
-wrf;waeaom 0dnmOfrS
-atmf[pfumawmif;avQmuf
+တမ်းတနေသော ဝိညာဉ်မှ
+အော်ဟစ်ကာတောင်းလျှောက်
 
-vdkygonf ocifhü&SdorQ oGef;avmif;rlyg udk,fawmf&Sif
-oGef;avmif;ay;rS uREkfyfwwfEkdifwm
+လိုပါသည် သခင့်၌ရှိသမျှ သွန်းလောင်းမူပါ ကိုယ်တော်ရှင်
+သွန်းလောင်းပေးမှ ကျွန်ုပ်တတ်နိုင်တာ
 
-0dnmOfawmfuREkfyfü r&Sdrjzpf
-tvkdtyfqkH;t&Sif 0dnmOfawmf
-ocifh&JUrD;eJY qif;<urlyg
+ဝိညာဉ်တော်ကျွန်ုပ်၌ မရှိမဖြစ်
+အလိုအပ်ဆုံးအရှင် ဝိညာဉ်တော်
+သခင့်ရဲ့မီးနဲ့ ဆင်းကြွမူပါ

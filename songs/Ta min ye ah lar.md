@@ -1,15 +1,14 @@
 ---
-title: orifi,ftvm;
-font: win
+title: သမင်ငယ်အလား
 ---
-a&pD;aom oufprf;a& qmiwfawmifwaeaom
-orifi,ftvm; igh0dnmOfudk,fawmfom
-tpOfwrf;wvsufaeum csD;rGrf;aernf
+ရေစီးသော သက်စမ်းရေ ဆာငတ်တောင်တနေသော
+သမင်ငယ်အလား ငါ့ဝိညာဉ်ကိုယ်တော်သာ
+အစဉ်တမ်းတလျက်နေကာ ချီးမွမ်းနေမည်
 
-udk,fawmfom igh&JUwdkufjzpfay igh0dnmOfudk
-0rf;ajrmuf&Tifvef;ap igh0dnmOfudk,fawmfom
-tpOfwrf;wvsufaeum csD;rGrf;aernf
+ကိုယ်တော်သာ ငါ့ရဲ့တိုက်ဖြစ်ပေ ငါ့ဝိညာဉ်ကို
+ဝမ်းမြောက်ရွှင်လန်းစေ ငါ့ဝိညာဉ်ကိုယ်တော်သာ
+အစဉ်တမ်းတလျက်နေကာ ချီးမွမ်းနေမည်
 
-udk,fawmfonfbkef;BuD;&Sif bk&ifjzpfvsuf
-uREkfyf\ rdwfaqGvnf;jzpf\ udk,fawmfudk
-cspfyg\ &Sd&SdorQxufomí cspfyg\
+ကိုယ်တော်သည်ဘုန်းကြီးရှင် ဘုရင်ဖြစ်လျက်
+ကျွန်ုပ်၏ မိတ်ဆွေလည်းဖြစ်၏ ကိုယ်တော်ကို
+ချစ်ပါ၏ ရှိရှိသမျှထက်သာ၍ ချစ်ပါ၏

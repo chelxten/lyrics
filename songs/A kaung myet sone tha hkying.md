@@ -1,11 +1,10 @@
 ---
-title: taumif;jrwfqHk;ocif
-font: win
+title: အကောင်းမြတ်ဆုံးသခင်
 ---
-uREkfyfrSmukd;uG,f&m tjcm;r&Sdyg
-ukd,fawmfomvQif uRekfyf\tkyfpkd;&Sif
+ကျွန်ုပ်မှာကိုးကွယ်ရာ အခြားမရှိပါ
+ကိုယ်တော်သာလျှင် ကျွန်ုပ်၏အုပ်စိုးရှင်
 
-uREkfyfrSmukd;uG,f&mtjcm;r&Sdyg
-cyfodrf;aomtrIrsm; ukd,fawmfütyfyg\
+ကျွန်ုပ်မှာကိုးကွယ်ရာအခြားမရှိပါ
+ခပ်သိမ်းသောအမှုများ ကိုယ်တော်၌အပ်ပါ၏
 
-pdwfESvkH;t<uif;rJh uREkfyf0dnmOf OmPfpGrf;&SdorQ ukd,fpGrf;&Sdoa&GU ukd;uG,fyg\
+စိတ်နှလုံးအကြွင်းမဲ့ ကျွန်ုပ်ဝိညာဉ် ဉာဏ်စွမ်းရှိသမျှ ကိုယ်စွမ်းရှိသရွေ့ ကိုးကွယ်ပါ၏

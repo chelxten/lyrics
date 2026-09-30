@@ -1,18 +1,17 @@
 ---
-title: ukd,fawmf&Siftem;
-font: win
+title: ကိုယ်တော်ရှင်အနား
 ---
-uREkfyftjypf&SdpOfyif uREkfyftm;enf;pOfyif ocifh&JUaus;Zl; uREkfyftwGuf vkHavmufcJh
+ကျွန်ုပ်အပြစ်ရှိစဉ်ပင် ကျွန်ုပ်အားနည်းစဉ်ပင် သခင့်ရဲ့ကျေးဇူး ကျွန်ုပ်အတွက် လုံလောက်ခဲ့
 
-0rf;enf;tm;i,fcsdef
-vrf;paysmufaecsdef tckdifrmqkH;vufawmfeJY uREkfyftm;qGJac:w,f
+ဝမ်းနည်းအားငယ်ချိန်
+လမ်းစပျောက်နေချိန် အခိုင်မာဆုံးလက်တော်နဲ့ ကျွန်ုပ်အားဆွဲခေ:တယ်
 
-trd0rf;xJ&SdpOfyif uREkfyftm;a&G;cs,fol ocifh&JU tcspfu uREkfyfukd &J&ifhap
+အမိဝမ်းထဲရှိစဉ်ပင် ကျွန်ုပ်အားရွေးချယ်သူ သခင့်ရဲ့ အချစ်က ကျွန်ုပ်ကို ရဲရင့်စေ
 
-taoG;eJYa&G;um,l ajzmifhrwfcJhapol ukd,fawmfaumif;jrwfygw,f aumif;jrwfvGef;ygw,f
+အသွေးနဲ့ရွေးကာယူ ဖြောင့်မတ်ခဲ့စေသူ ကိုယ်တော်ကောင်းမြတ်ပါတယ် ကောင်းမြတ်လွန်းပါတယ်
 
-ukd,fawmf&Siftem; ukd,fawmfxHyg; vkHNcKHaeNyD aEG;axG;apNyD
+ကိုယ်တော်ရှင်အနား ကိုယ်တော်ထံပါး လုံခြုံနေပြီ နွေးထွေးစေပြီ
 
-bmqkdbmrS
-rylyifawmhbl; vkdtifawGu ocifhtcspfwpfckyJ
-(pkHvifapNyD xdkrsufarSmufawmfxJ)
+ဘာဆိုဘာမှ
+မပူပင်တော့ဘူး လိုအင်တွေက သခင့်အချစ်တစ်ခုပဲ
+(စုံလင်စေပြီ ထိုမျက်မှောက်တော်ထဲ)

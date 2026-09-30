@@ -1,11 +1,10 @@
 ---
-title: udk;uG,fol
-font: win
+title: ကိုးကွယ်သူ
 ---
-twGif;ESvkH;om;qDrS tvkdcsifqkH;wpfckom ocifh&JUtem;rSmbJtNrJ&Sdcsif
+အတွင်းနှလုံးသားဆီမှ အလိုချင်ဆုံးတစ်ခုသာ သခင့်ရဲ့အနားမှာဘဲအမြဲရှိချင်
 
-ocifhrsufarSmufawmfxJ uREkfyftm;qGJac: pGJvef;jcif;awGvnf;pGefYypfNyD;
+သခင့်မျက်မှောက်တော်ထဲ ကျွန်ုပ်အားဆွဲခေ: စွဲလန်းခြင်းတွေလည်းစွန့်ပစ်ပြီး
 
-EIwfoufoufr>rwfqkdcsifbl; tajymav;eJY rukd;uG,fygbl; twGif;ESvkH;om;xJrS ukd;uG,frnf
+နှုတ်သက်သက်မမြွတ်ဆိုချင်ဘူး အပြောလေးနဲ့ မကိုးကွယ်ပါဘူး အတွင်းနှလုံးသားထဲမှ ကိုးကွယ်မည်
 
-oDcsif;av;yJ rjzpfap&bl; EIwfcrf;av;bJ reD;csifygbl; b0wpfckvkH; tyfESHum ocifhtwGufyg
+သီချင်းလေးပဲ မဖြစ်စေရဘူး နှုတ်ခမ်းလေးဘဲ မနီးချင်ပါဘူး ဘဝတစ်ခုလုံး အပ်နှံကာ သခင့်အတွက်ပါ

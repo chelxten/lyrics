@@ -1,11 +1,10 @@
 ---
-title: aumif;juD;a&wGuf usl;
-font: win
+title: ကောင်းကြီးရေတွက် ကျူး
 ---
-ajrBuD;ay:rSm 'ku©qif;&Ja&mufaomcg arQmfvihfjcif;uif;pdwfysufjcif;ukdcH&vQif cHpm;&m aumif;csD;r*Fvma&wGufyg jyKawmfrlaomaus;Zl;awmftHhMovdrfhrnf
+မြေကြီးပေ:မှာ ဒုက္ခဆင်းရဲရောက်သောခါ မျှော်လင့်ခြင်းကင်းစိတ်ပျက်ခြင်းကိုခံရလျှင် ခံစားရာ ကောင်းချီးမင်္ဂလာရေတွက်ပါ ပြုတော်မူသောကျေးဇူးတော်အံ့သြလိမ့်မည်
 
-aumif;BuD;wpfckaemufwpfcka&wGuf jyKawmfrlaom aus;Zl;awmfa&wGuf aumif;BuD;a&wGuf wpfckaemufwpfck jyKawmfrlaomaus;Zl;awmftHhMovdrfhrnf
+ကောင်းကြီးတစ်ခုနောက်တစ်ခုရေတွက် ပြုတော်မူသော ကျေးဇူးတော်ရေတွက် ကောင်းကြီးရေတွက် တစ်ခုနောက်တစ်ခု ပြုတော်မူသောကျေးဇူးတော်အံ့သြလိမ့်မည်
 
-aMumihfMu0efxkyfukdoifonfxrf;&ovm; oifxrf;&aomvuf0g;uyfwkdifav;ovm; cHpm;&aumif;csD;r*Fvma&wGufyg ,kHrSm;jcif;uif;oDcsif;ukd oifqkdvdrfhrnf
+ကြောင့်ကြဝန်ထုပ်ကိုသင်သည်ထမ်းရသလား သင်ထမ်းရသောလက်ဝါးကပ်တိုင်လေးသလား ခံစားရကောင်းချီးမင်္ဂလာရေတွက်ပါ ယုံမှားခြင်းကင်းသီချင်းကို သင်ဆိုလိမ့်မည်
 
-aumif;pm;aomolrsm;ukd oifonfjrifaomcg ukd,fawmfxm;aom uwdawmfukd atmufarhyg cHpm;&maumif;csD;r*Fvma&wGufyg pnf;pdrfjzihf aumif;uifcsrf;omr0,fEkdifyg
+ကောင်းစားသောသူများကို သင်သည်မြင်သောခါ ကိုယ်တော်ထားသော ကတိတော်ကို အောက်မေ့ပါ ခံစားရာကောင်းချီးမင်္ဂလာရေတွက်ပါ စည်းစိမ်ဖြင့် ကောင်းကင်ချမ်းသာမဝယ်နိုင်ပါ

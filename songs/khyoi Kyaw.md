@@ -1,17 +1,16 @@
 ---
-title: a<u;aMumf
-font: win
+title: ကြွေးကြော်
 ---
-nDtpfukdrsm;wkdYpka0;&mt&yfü bk&m;0dnmOfawmf jynfh0pGmoGef;avmif;
+ညီအစ်ကိုများတို့စုဝေးရာအရပ်၌ ဘုရားဝိညာဉ်တော် ပြည့်ဝစွာသွန်းလောင်း
 
-tzbk&m;\oefY&Sif;&mt&yfü csD;rGrf;jcif;,Zfukd ESvkH;t<uif;rJhylaZmfpkdY
+အဖဘုရား၏သန့်ရှင်းရာအရပ်၌ ချီးမွမ်းခြင်းယဇ်ကို နှလုံးအကြွင်းမဲ့ပူဇော်စို့
 
-csD;rGrf;xkdufaom bk&m;&Sifukd csD;rGrf;&if;eJY oDcsif;awGqkd
-twkr&Sdyg tm;vkH;t&mxufrSm
+ချီးမွမ်းထိုက်သော ဘုရားရှင်ကို ချီးမွမ်းရင်းနဲ့ သီချင်းတွေဆို
+အတုမရှိပါ အားလုံးအရာထက်မှာ
 
-bkef;wefckd;BuD;aom bk&m;&Sifukd csD;rGrf;&if;eJY ukd;uG,fpkdY
-bk&m;bkef;awmf xif&Sm;jcif;ukd a<u;aMumf
+ဘုန်းတန်ခိုးကြီးသော ဘုရားရှင်ကို ချီးမွမ်းရင်းနဲ့ ကိုးကွယ်စို့
+ဘုရားဘုန်းတော် ထင်ရှားခြင်းကို ကြွေးကြော်
 
-(oefY&Sif;)3 bk&m;ocif
-(bkef;BuD;)3 bk&if
-(wefckd;BuD;)3 awmfrl\
+(သန့်ရှင်း)၃ ဘုရားသခင်
+(ဘုန်းကြီး)၃ ဘုရင်
+(တန်ခိုးကြီး)၃ တော်မူ၏

@@ -1,14 +1,13 @@
 ---
-title: taMumif;t&if;
-font: win
+title: အကြောင်းအရင်း
 ---
 
-uREkfyftxJüc&pfawmf touf&Sifonf ukd,fawmftm; uREkfyf,lwif0wfaqmifrnf (t&mcyfodrf;wwfEkdifNyD)2
+ကျွန်ုပ်အထဲ၌ခရစ်တော် အသက်ရှင်သည် ကိုယ်တော်အား ကျွန်ုပ်ယူတင်ဝတ်ဆောင်မည် (အရာခပ်သိမ်းတတ်နိုင်ပြီ)၂
 
-uREkfyftem;em; b,folrSr&Sd&ifvnf; uREkfyfESifh tNrJc&pfawmf&SdaeNyD (t&m&mNyD;jynfhpkHNyD)2
+ကျွန်ုပ်အနားနား ဘယ်သူမှမရှိရင်လည်း ကျွန်ုပ်နှင့် အမြဲခရစ်တော်ရှိနေပြီ (အရာရာပြီးပြည့်စုံပြီ)၂
 
-arwåmESifh jynfhpkHaom bk&m; opömESifh jynfhpkHaombk&m; xm0&bkef;BuD;ol xm0&wefckd;BuD;ol
+မေတ္တာနှင့် ပြည့်စုံသော ဘုရား သစ္စာနှင့် ပြည့်စုံသောဘုရား ထာဝရဘုန်းကြီးသူ ထာဝရတန်ခိုးကြီးသူ
 
-uREkfyftouf&Sifjcif;\ taMumif;t&if;
+ကျွန်ုပ်အသက်ရှင်ခြင်း၏ အကြောင်းအရင်း
 
-(ukd,fawmftxJuyg ukd,fawmfhbkef;tbkdYom udk,fawmftm;jzifh uREkfyfonftouf&Sif)
+(ကိုယ်တော်အထဲကပါ ကိုယ်တော့်ဘုန်းအဘို့သာ ကိုယ်တော်အားဖြင့် ကျွန်ုပ်သည်အသက်ရှင်)

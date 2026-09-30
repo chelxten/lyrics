@@ -1,15 +1,14 @@
 ---
-title: Xmewamf
-font: win
+title: ဌာနတော်
 ---
-0dnmOfawmfqif;<uNyD avxkwpfckvkH; ajymif;vJNyD qmiwfolukd wkdYxdpum;ajymaeNyD
+ဝိညာဉ်တော်ဆင်းကြွပြီ လေထုတစ်ခုလုံး ပြောင်းလဲပြီ ဆာငတ်သူကို တို့ထိစကားပြောနေပြီ
 
-rsufarSmufawmfESifh vGrf;rkd;NyD rodíem;rvnfEkdifaom eufeJt&mrsm; 0dnmOfawmftm;jzifh zGifhjyaeNyD
+မျက်မှောက်တော်နှင့် လွမ်းမိုးပြီ မသိ၍နားမလည်နိုင်သော နက်နဲအရာများ ဝိညာဉ်တော်အားဖြင့် ဖွင့်ပြနေပြီ
 
-teuf½Idif;qkH;aom xif&Sm;jyaom udk,fawmhfrsufarSmufü t&m&mjynfhpkH
+အနက်ရှိုင်းဆုံးသော ထင်ရှားပြသော ကိုယ်တော့်မျက်မှောက်၌ အရာရာပြည့်စုံ
 
-xif&Sm;jyaom teuf½Idif;qkH;aom ukd,fawmfhrsufarSmufü t&m&mjynfhpkH
+ထင်ရှားပြသော အနက်ရှိုင်းဆုံးသော ကိုယ်တော့်မျက်မှောက်၌ အရာရာပြည့်စုံ
 
-tajctaeawG tm;vkH;xl;jcm; ajymif;vJNyD temawGtm;vkH; aysmufuif;vkdY usef;rmNyD
+အခြေအနေတွေ အားလုံးထူးခြား ပြောင်းလဲပြီ အနာတွေအားလုံး ပျောက်ကင်းလို့ ကျန်းမာပြီ
 
-vkdcsifwm tm;vkH;odrf;ykduf &&SdNyD t&m&mawG tm;vkH; NyD;jynhfpkHwJh Xme rsufarSmufawmfrSm
+လိုချင်တာ အားလုံးသိမ်းပိုက် ရရှိပြီ အရာရာတွေ အားလုံး ပြီးပြည့်စုံတဲ့ ဌာန မျက်မှောက်တော်မှာ

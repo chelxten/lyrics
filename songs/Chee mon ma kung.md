@@ -1,17 +1,16 @@
 ---
-title: csD;rGrf;rukef
-font: win
+title: ချီးမွမ်းမကုန်
 ---
-tHhMobG,fwefckd;awmfrsm; tHhMobG,fvuf&mrsm; 'Db0rSm csD;rGrf;rukefyg
+အံ့သြဘွယ်တန်ခိုးတော်များ အံ့သြဘွယ်လက်ရာများ ဒီဘဝမှာ ချီးမွမ်းမကုန်ပါ
 
-tHhMobG,fykdYaqmifjcif; tHhMobG,fvrf;jyjcif; 'Db0rSm csD;rGrf;rukefyg
+အံ့သြဘွယ်ပို့ဆောင်ခြင်း အံ့သြဘွယ်လမ်းပြခြင်း ဒီဘဝမှာ ချီးမွမ်းမကုန်ပါ
 
-t&m&mzefqif;NyD; t&m&mjyifqifNyD; uREkfyftwGuf jzpfapNyD
+အရာရာဖန်ဆင်းပြီး အရာရာပြင်ဆင်ပြီး ကျွန်ုပ်အတွက် ဖြစ်စေပြီ
 
-(csD;rGrf;)3 aernf (0rf;ajrmuf)3 aernf ukd,fawmfjyKwhJtrIawG a&wGuf&if; csD;rGrf;aernf
+(ချီးမွမ်း)၃ နေမည် (ဝမ်းမြောက်)၃ နေမည် ကိုယ်တော်ပြုတဲ့အမှုတွေ ရေတွက်ရင်း ချီးမွမ်းနေမည်
 
-(0rf;ajrmuf)3 aernf (csD;rGrf;)3 aernf ukd,fawmfjyKwJhtrIawG uREkfyf&JUtoufwmrSm tNrJjynfhvQHaewm
+(ဝမ်းမြောက်)၃ နေမည် (ချီးမွမ်း)၃ နေမည် ကိုယ်တော်ပြုတဲ့အမှုတွေ ကျွန်ုပ်ရဲ့အသက်တာမှာ အမြဲပြည့်လျှံနေတာ
 
-uREkfyf&JU'Dtemrsm; uREkfyf&JUusdefjcif;rsm; trINyD;NyD um;wkdifawmfxufrSm
+ကျွန်ုပ်ရဲ့ဒီအနာများ ကျွန်ုပ်ရဲ့ကျိန်ခြင်းများ အမှုပြီးပြီ ကားတိုင်တော်ထက်မှာ
 
-uREkfyf&JU qif;&Jjcif; uREkfyf&JUus½IH;jcif; trINyD;NyD um;wkdifawmfxufrSm
+ကျွန်ုပ်ရဲ့ ဆင်းရဲခြင်း ကျွန်ုပ်ရဲ့ကျရှုံးခြင်း အမှုပြီးပြီ ကားတိုင်တော်ထက်မှာ

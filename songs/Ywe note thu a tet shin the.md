@@ -1,13 +1,12 @@
 ---
-title: a&G;ESkwfoltouf&Sifonf
-font: win
+title: ရွေးနှုတ်သူအသက်ရှင်သည်
 ---
-ighukd ola&G;EIwfu,fwif taoG;jzifh tjypfaq;aMum jzLpif ig,kHMunfonf ,kHMunfonf
+ငါ့ကို သူရွေးနှုတ်ကယ်တင် အသွေးဖြင့် အပြစ်ဆေးကြော ဖြူစင် ငါယုံကြည်သည် ယုံကြည်သည်
 
-&SufaMumufjcif;rsm; ,laqmifoGm; usef;rmNyD emrawmfü ig,kHMunfonf ,kHMunfonf
+ရှက်ကြောက်ခြင်းများ ယူဆောင်သွား ကျန်းမာပြီ နာမတော်၌ ငါယုံကြည်သည် ယုံကြည်သည်
 
-atmifvHvGifhxlrnf okdYrkdYaMumifh ocFsKdif;rS ocifxajr§muf
+အောင်လံလွင့်ထူမည် သို့မို့ကြောင့် သင်္ချိုင်းမှ သခင်ထမြှောက်
 
-ighukd a&G;EIwfol a,½Itouf&Sifonf
+ငါ့ကို ရွေးနှုတ်သူ ယေရှုအသက်ရှင်သည်
 
-0efxkyfrsm; ,loGm; twlxajr§mufNyD þawmifxdyfay:ü uckefrnf EkdifiHawmfwnfonfhwkdif
+ဝန်ထုပ်များ ယူသွား အတူထမြှောက်ပြီ ဤတောင်ထိပ်ပေ:၌ ကခုန်မည် နိုင်ငံတော်တည်သည့်တိုင်

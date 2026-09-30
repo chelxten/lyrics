@@ -1,19 +1,18 @@
 ---
-title: aumif;uifzcif
-font: win
+title: ကောင်းကင်ဖခင်
 ---
-tz udk,fawmf&JUtem;rSm
-uREkfyft&SdcsifqHk;yg
-tpOfrajymif;vJ udk,fawmf&JU
-cspfarwåmjzifh uREkfyftm;vTrf;NcHKrlyg
+အဖ ကိုယ်တော်ရဲ့အနားမှာ
+ကျွန်ုပ်အရှိချင်ဆုံးပါ
+အစဉ်မပြောင်းလဲ ကိုယ်တော်ရဲ့
+ချစ်မေတ္တာဖြင့် ကျွန်ုပ်အားလွှမ်းခြုံမူပါ
 
-pdwfESvHk;t<uif;rJh udk,fawmftm;udk;uG,frnf
-xm0&bkef;eJY pdk;pHol
-uREkfyf&JUtz udk,fawmftm;udk;uG,frnf
-xm0&tqufqufxdkufwefol^jynfhpkHol
-aumif;uifzcif
+စိတ်နှလုံးအကြွင်းမဲ့ ကိုယ်တော်အားကိုးကွယ်မည်
+ထာဝရဘုန်းနဲ့ စိုးစံသူ
+ကျွန်ုပ်ရဲ့အဖ ကိုယ်တော်အားကိုးကွယ်မည်
+ထာဝရအဆက်ဆက်ထိုက်တန်သူ ပြည့်စုံသူ
+ကောင်းကင်ဖခင်
 
-tNrJudk,fawmf&Sifwpfyg;om
-uREkfyftwrf;wqHk;yg
-toefY&Sif;qHk; tz&JUrsufarSmufawmfü
-uREkfyftNrJudk;uG,faernf
+အမြဲကိုယ်တော်ရှင်တစ်ပါးသာ
+ကျွန်ုပ်အတမ်းတဆုံးပါ
+အသန့်ရှင်းဆုံး အဖရဲ့မျက်မှောက်တော်၌
+ကျွန်ုပ်အမြဲကိုးကွယ်နေမည်

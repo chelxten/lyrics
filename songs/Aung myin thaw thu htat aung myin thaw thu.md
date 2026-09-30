@@ -1,27 +1,26 @@
 ---
-title: atmifjrifaomolxufatmifjrifaomol
-font: win
+title: အောင်မြင်သောသူထက်အောင်မြင်သောသူ
 ---
-vGifjyifus,fawG um&HygapawmifeH&HawG
-b,fvdkqD;wm;
+လွင်ပြင်ကျယ်တွေ ကာရံပါစေတောင်နံရံတွေ
+ဘယ်လိုဆီးတား
 
-cgemefjynf0ifrJh*wdu
-,kHMunfolawGrSm&SdNyD;om;
+ခါနာန်ပြည်ဝင်မဲ့ဂတိက
+ယုံကြည်သူတွေမှာရှိပြီးသား
 
-tawG;xJawmifrS odrfi,fraebl;
-wpuúefUawmifrS ylyefraebl;
+အတွေးထဲတောင်မှ သိမ်ငယ်မနေဘူး
+တစက္ကန့်တောင်မှ ပူပန်မနေဘူး
 
-atmifjrifolxuf atmifjrifaomol
-atmifjrifollxufatmifjrifqkH;aomol
+အောင်မြင်သူထက် အောင်မြင်သောသူ
+အောင်မြင်သူထက်အောင်မြင်ဆုံးသောသူ
 
-atmifjrifolxuf atmifjrifaomol
-a,½Ic&pfawmfom^ü
+အောင်မြင်သူထက် အောင်မြင်သောသူ
+ယေရှုခရစ်တော်သာ ၌
 
-b,fvdktajctaeawGUBuKHvJ wdkUa&SUrSm
-udk,fawmf&Sif&Sdw,f
+ဘယ်လိုအခြေအနေတွေ့ကြုံလဲ တို့ရှေ့မှာ
+ကိုယ်တော်ရှင်ရှိတယ်
 
-tcuftcJawG twm;qD;rIrsm;u
-t&nfaysmfukefNyD wdkifawmfxufrSm
+အခက်အခဲတွေ အတားဆီးမှုများက
+အရည်ပျော်ကုန်ပြီ တိုင်တော်ထက်မှာ
 
-tawG;xJawmifrS odrfi,fraebl;
-wpuúefUawmifrS ylyefraebl;
+အတွေးထဲတောင်မှ သိမ်ငယ်မနေဘူး
+တစက္ကန့်တောင်မှ ပူပန်မနေဘူး

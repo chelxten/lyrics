@@ -1,17 +1,16 @@
 ---
-title: pOf;pm;av0rf;ajrmufav
-font: win
+title: စဉ်းစားလေဝမ်းမြောက်လေ
 ---
-rkd;vif;csdefrS rkd;csKyfwJhtxdwkdif udk,fawmf uG,fumykdYaqmifae
+မိုးလင်းချိန်မှ မိုးချုပ်တဲ့အထိတိုင် ကိုယ်တော် ကွယ်ကာပို့ဆောင်နေ
 
-aorif;&JUt&dyfxJ igjzwfavQmuf&vJ ukd,fawmftem;rSm &Sdaew,f
+သေမင်းရဲ့အရိပ်ထဲ ငါဖြတ်လျှောက်ရလဲ ကိုယ်တော်အနားမှာ ရှိနေတယ်
 
-0rf;ajrmufcsdefüom uREkfyf&JUtem;rSm ukd,fawmf&Sdaew,fxifcJh
+ဝမ်းမြောက်ချိန်၌သာ ကျွန်ုပ်ရဲ့အနားမှာ ကိုယ်တော်ရှိနေတယ်ထင်ခဲ့
 
-0rf;enf;csdefvnf; olrpGefYypfcJhyg aocsmpOf;pm;Munfhyg
+ဝမ်းနည်းချိန်လည်း သူမစွန့်ပစ်ခဲ့ပါ သေချာစဉ်းစားကြည့်ပါ
 
-wyg;wnf;om;awmftm; olwu,fay;cJhNyD;NyDyJ uREkfyf&JUtoufwmrSm bmvkdtkH;rvJ
+တပါးတည်းသားတော်အား သူတကယ်ပေးခဲ့ပြီးပြီပဲ ကျွန်ုပ်ရဲ့အသက်တာမှာ ဘာလိုအုံးမလဲ
 
-EGrf;yg; uREkfyf&JUtem; ukd,fawmfbk&m;jrwf&Sdae&if
+နွမ်းပါး ကျွန်ုပ်ရဲ့အနား ကိုယ်တော်ဘုရားမြတ်ရှိနေရင်
 
-'ku©jyomemvJ rndKNiifawmhyg pOf;pm;av0rf;ajrmufav
+ဒုက္ခပြသာနာလဲ မညိုငြင်တော့ပါ စဉ်းစားလေဝမ်းမြောက်လေ

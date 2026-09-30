@@ -1,17 +1,16 @@
 ---
-title: udk,fawmfaaujmifhaemf
-font: win
+title: ကိုယ်တော်ကြောင့်နော်
 ---
-rsufarSmufawmfxJ uRekfyf&Sdaejcif; ocifhrsufESmawmf uREkfyfzl;ajrmfjcif;
+မျက်မှောက်တော်ထဲ ကျွန်ုပ်ရှိနေခြင်း သခင့်မျက်နှာတော် ကျွန်ုပ်ဖူးမြော်ခြင်း
 
-t&m&m ukd,fawmfaMumihf jzpfvmonf ukd,fawmfaMumihf touf&Sifonf wu,fyg ukd,fawmftzkdYjzpfvmonf ukd,fawmftm;jzifhom
+အရာရာ ကိုယ်တော်ကြောင့် ဖြစ်လာသည် ကိုယ်တော်ကြောင့် အသက်ရှင်သည် တကယ်ပါ ကိုယ်တော်အဖို့ဖြစ်လာသည် ကိုယ်တော်အားဖြင့်သာ
 
-tz ukd,fawmfaMumifhaemf uRekfyfb0 ukd,fawmfaMumifhaygh uREkfyftoufwm ,ckcsdefxd oDcsif;rsm; qkdEkdif&m
+အဖ ကိုယ်တော်ကြောင့်နော် ကျွန်ုပ်ဘဝ ကိုယ်တော်ကြောင့်ပေါ့ ကျွန်ုပ်အသက်တာ ယခုချိန်ထိ သီချင်းများ ဆိုနိုင်ရာ
 
-tz ukd,fawmfaMumifhaemf uRekfyfb0 ukd,fawmfaMumifhaygh uREkfyftoufwm
+အဖ ကိုယ်တော်ကြောင့်နော် ကျွန်ုပ်ဘဝ ကိုယ်တော်ကြောင့်ပေါ့ ကျွန်ုပ်အသက်တာ
 
-,ckcsdefxd csD;rGrf;ukd;uG,f&m ukd,fawmfaMumifhaemf
+ယခုချိန်ထိ ချီးမွမ်းကိုးကွယ်ရာ ကိုယ်တော်ကြောင့်နော်
 
-uREkfyf&JU ajzmifhrwfjcif; ukd,fawmftm;jzifhom uREkfyf&JUjynfhpkHjcif; ukd,fawmfaus;Zl;aMumifhom
+ကျွန်ုပ်ရဲ့ ဖြောင့်မတ်ခြင်း ကိုယ်တော်အားဖြင့်သာ ကျွန်ုပ်ရဲ့ပြည့်စုံခြင်း ကိုယ်တော်ကျေးဇူးကြောင့်သာ
 
-uREkfyf&JU ajzmifhrwfjcif; ukd,fawmftm;jzifhom uREkfyf&JUtouf&Sifjcif; ukd,fawmfaus;Zl;aMumifhom
+ကျွန်ုပ်ရဲ့ ဖြောင့်မတ်ခြင်း ကိုယ်တော်အားဖြင့်သာ ကျွန်ုပ်ရဲ့အသက်ရှင်ခြင်း ကိုယ်တော်ကျေးဇူးကြောင့်သာ

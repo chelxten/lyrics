@@ -1,15 +1,14 @@
 ---
-title: udk,fawmf\emr
-font: win
+title: ကိုယ်တော်၏နာမ
 ---
-(emrawmftm;aumif;BuD;ay;avmh)3
-tjrifhqkH;ü
+(နာမတော်အားကောင်းကြီးပေးလော့)၃
+အမြင့်ဆုံး၌
 
-udk,fawmf\emronf cdkifcHh&Jwdkuf
-ajzmifhrwfolrsm;cdkvIHí csrf;om&onf
+ကိုယ်တော်၏နာမသည် ခိုင်ခံ့ရဲတိုက်
+ဖြောင့်မတ်သူများခိုလှုံ၍ ချမ်းသာရသည်
 
-(emrawmfonf bkef;BuD;apaomf)3
-tjrifhqHk;ü
+(နာမတော်သည် ဘုန်းကြီးစေသော်)၃
+အမြင့်ဆုံး၌
 
-(emrawmfonf oefU&Sif;rlonf)3
-tjrifhqkH;ü
+(နာမတော်သည် သန့်ရှင်းမူသည်)၃
+အမြင့်ဆုံး၌

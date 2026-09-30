@@ -1,22 +1,21 @@
 ---
-title: aeY&ufwkdif;twGuf
-font: win
+title: နေ့ရက်တိုင်းအတွက်
 ---
-aeY&ufwkdif;wGuf bk&m;&JUarwåm aeY&ufwkdif;wGuf bk&m;&JUu½kPm
+နေ့ရက်တိုင်းတွက် ဘုရားရဲ့မေတ္တာ နေ့ရက်တိုင်းတွက် ဘုရားရဲ့ကရုဏာ
 
-aeY&ufwkdif;wGuf bk&m;&JUaus;Zl;awmf ykdvQHaew,f
+နေ့ရက်တိုင်းတွက် ဘုရားရဲ့ကျေးဇူးတော် ပိုလျှံနေတယ်
 
-aeY&ufwkdif;wGuf
-bk&m;&JUopöm
-aeY&ufwkdif;wGuf bk&m;&JU*wdawmf
+နေ့ရက်တိုင်းတွက်
+ဘုရားရဲ့သစ္စာ
+နေ့ရက်တိုင်းတွက် ဘုရားရဲ့ဂတိတော်
 
-aeY&ufwkdif;wGuf bk&m;&JUaumif;BuD;awG ykdvQHaew,f
+နေ့ရက်တိုင်းတွက် ဘုရားရဲ့ကောင်းကြီးတွေ ပိုလျှံနေတယ်
 
-yifv,fvIdif;vkH;rsm;ukd &yfwefUoGm;apol
+ပင်လယ်လှိုင်းလုံးများကို ရပ်တန့်သွားစေသူ
 
-ukd,fawmfuREkfyfwkdYESifhtwl tNrJwrf;&Sdaew,f
+ကိုယ်တော်ကျွန်ုပ်တို့နှင့်အတူ အမြဲတမ်းရှိနေတယ်
 
-b,fawmhrS aemufrusbl; b,fawmhrS rysufuGufbl; vufawmfESifh tNrJwrf;ykdYaqmifw,f
+ဘယ်တော့မှ နောက်မကျဘူး ဘယ်တော့မှ မပျက်ကွက်ဘူး လက်တော်နှင့် အမြဲတမ်းပို့ဆောင်တယ်
 
-b,fawmhrS rxm;cJhbl; b,fawmhrS rpGefYcJhbl;
-b,fawmhrS rarhcJhbl; aeY&ufwkdif;
+ဘယ်တော့မှ မထားခဲ့ဘူး ဘယ်တော့မှ မစွန့်ခဲ့ဘူး
+ဘယ်တော့မှ မမေ့ခဲ့ဘူး နေ့ရက်တိုင်း

@@ -1,22 +1,21 @@
 ---
-title: bkef;awmfrD;vQH
-font: win
+title: ဘုန်းတော်မီးလျှံ
 ---
-Edk;xrIrD;rsm;avmifuRrf;vdkUvmNyD
-a'owpfckNyD;wpfckul;pufaeNyD
-t&Sdefjyif;jyif;xdk;cGif;awmufavmuf
-bkef;awmfrD;vQHrsm;..
+နိုးထမှုမီးများလောင်ကျွမ်းလို့လာပြီ
+ဒေသတစ်ခုပြီးတစ်ခုကူးစက်နေပြီ
+အရှိန်ပြင်းပြင်းထိုးခွင်းတောက်လောက်
+ဘုန်းတော်မီးလျှံများ..
 
-0dnmOfaoolawG xajrmufvmNyD
-csnfaESmifcHolawG vGwfajrmufvmNyD
-t&Sdefjyif;jyif;xdk;cGif; awmufavmif
-bkef;awmfrD;vQHrsm;
+ဝိညာဉ်သေသူတွေ ထမြောက်လာပြီ
+ချည်နှောင်ခံသူတွေ လွတ်မြောက်လာပြီ
+အရှိန်ပြင်းပြင်းထိုးခွင်း တောက်လောင်
+ဘုန်းတော်မီးလျှံများ
 
-0dnmOfrD;rsm;awmufavmifap
-Zmwdrsm;uRrf;vdkYoGm;ap
-jyefvnfoifhjrwfjcif;okdUydkYaqmif bkkef;awmfrD;vQHrsm;
+ဝိညာဉ်မီးများတောက်လောင်စေ
+ဇာတိများကျွမ်းလို့သွားစေ
+ပြန်လည်သင့်မြတ်ခြင်းသို့ပို့ဆောင် ဘုန်းတော်မီးလျှံများ
 
-0dnmOfrD;rsm;awmufavmifap
-Zmwdrsm;uRrf;vdkYoGm;ap
-jyefvnfEdk;xjcif;odkYydkYaqmif
-(bkef;awmfrD;vQHrsm;)
+ဝိညာဉ်မီးများတောက်လောင်စေ
+ဇာတိများကျွမ်းလို့သွားစေ
+ပြန်လည်နိုးထခြင်းသို့ပို့ဆောင်
+(ဘုန်းတော်မီးလျှံများ)

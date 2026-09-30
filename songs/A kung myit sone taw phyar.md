@@ -1,25 +1,24 @@
 ---
-title: tuamif;jrwfqHk;aombk&m;
-font: win
+title: အကောင်းမြတ်ဆုံးသောဘုရား
 ---
-rajymif;vJEdkifaom udk,fawmfpum;awmf
-EIwfjzifhrrSDaom udk,fawmfhcspfjcif;
-udk,fawmfuJhodkY olr&Sd tjrifhqkH;üajr§mufcH
+မပြောင်းလဲနိုင်သော ကိုယ်တော်စကားတော်
+နှုတ်ဖြင့်မမှီသော ကိုယ်တော့်ချစ်ခြင်း
+ကိုယ်တော်ကဲ့သို့ သူမရှိ အမြင့်ဆုံး၌မြှောက်ခံ
 
-wkEIdif;&efr&Sd udk,fawmfbkkef;awmf ocif&JU
-EdkifiHwkefvkyfroGm;bl; atmifEdkifcJh
-avmutm; aojcif;us½IH;vdkdUoGm;
+တုနှိုင်းရန်မရှိ ကိုယ်တော်ဘုန်းတော် သခင်ရဲ့
+နိုင်ငံတုန်လုပ်မသွားဘူး အောင်နိုင်ခဲ့
+လောကအား သေခြင်းကျရှုံးလို့သွား
 
-urÇmajrrdk;om;tm;vkH; ocifhtm;csD;rGrf;ae
-avmuom; wdkif;jynfjyyf0yfvdkU udk;uG,f
-bkef;BuD;aombk&m; tjrifhqkH;aom
-uREkfyfbk&m;
+ကမ္ဘာမြေမိုးသားအားလုံး သခင့်အားချီးမွမ်းနေ
+လောကသား တိုင်းပြည်ပြပ်ဝပ်လို့ ကိုးကွယ်
+ဘုန်းကြီးသောဘုရား အမြင့်ဆုံးသော
+ကျွန်ုပ်ဘုရား
 
-pkHvif;BuD;jrwfaomtrI jyKcJhaomvufawmf
-ae&uftm;vkH; udk,fawmfh&JUvuf0,f
-aumif;jrwfaombk&m; udk,fawmfhtwGuf
-uREkfyftouf&Sif
+စုံလင်းကြီးမြတ်သောအမှု ပြုခဲ့သောလက်တော်
+နေရက်အားလုံး ကိုယ်တော့်ရဲ့လက်ဝယ်
+ကောင်းမြတ်သောဘုရား ကိုယ်တော့်အတွက်
+ကျွန်ုပ်အသက်ရှင်
 
-avmuBuD;wcGif udk,fawmftkyfpdk; uGsEfkyf\
-tvkH;pkHtukeftpifay;tyf ocifudkcspfyg\
-pdwfESvkH;t<uifhrJhjzifh
+လောကကြီးတခွင် ကိုယ်တော်အုပ်စိုး ကျွန်ုပ်၏
+အလုံးစုံအကုန်အစင်ပေးအပ် သခင်ကိုချစ်ပါ၏
+စိတ်နှလုံးအကြွင့်မဲ့ဖြင့်

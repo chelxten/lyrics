@@ -1,13 +1,12 @@
 ---
-title: ukd,fawmf&Sdaew,f
-font: win
+title: ကိုယ်တော်ရှိနေတယ်
 ---
-pkHprf;jcif;awGukd &ifqkdif&vJ tcufcJjyomemrsm; oifBuKHawGUvnf;
+စုံစမ်းခြင်းတွေကို ရင်ဆိုင်ရလဲ အခက်ခဲပြသာနာများ သင်ကြုံတွေ့လည်း
 
-t&m&mukd ykdifool ukd,fawmf&Sdaew,f cHpm;&'ku©awGtwGuf olajz&Sif;w,f
+အရာရာကို ပိုင်သသူ ကိုယ်တော်ရှိနေတယ် ခံစားရဒုက္ခတွေအတွက် သူဖြေရှင်းတယ်
 
-wa,mufwnf; txD;usefNyD; tazmfrJhvkdY tm;i,faeNyDvm;av
+တယောက်တည်း အထီးကျန်ပြီး အဖော်မဲ့လို့ အားငယ်နေပြီလားလေ
 
-aeY&uftcsdefwkdif;rSm ukd,fawmf&JU *&kPmawmf cHpm;&NyD bmvkdao;vkdYvJ
+နေ့ရက်အချိန်တိုင်းမှာ ကိုယ်တော်ရဲ့ ဂရုဏာတော် ခံစားရပြီ ဘာလိုသေးလို့လဲ
 
-aus;Zl;awmfaMumifhom vmrnfhaeYtem*wftwGuf rrkdYawmhyg ukd,fawmf&Sdaew,f
+ကျေးဇူးတော်ကြောင့်သာ လာမည့်နေ့အနာဂတ်အတွက် မမို့တော့ပါ ကိုယ်တော်ရှိနေတယ်

@@ -1,11 +1,10 @@
 ---
-title: euf&Skdif;arwåm
-font: win
+title: နက်ရှိုင်းမေတ္တာ
 ---
-tjrJwrf;rajymif;wJh arwåmeJY cspfol
-b,fvkdyifqkd;oGrf;vkdYaevnf;
-xm0pOfNrJwJhtcspfeJY uREkfyfukdcspfwJhol b,favmufyJ tjypfawGrsm;vGef;ygapuG,f
+အမြဲတမ်းမပြောင်းတဲ့ မေတ္တာနဲ့ ချစ်သူ
+ဘယ်လိုပင်ဆိုးသွမ်းလို့နေလည်း
+ထာဝစဉ်မြဲတဲ့အချစ်နဲ့ ကျွန်ုပ်ကိုချစ်တဲ့သူ ဘယ်လောက်ပဲ အပြစ်တွေများလွန်းပါစေကွယ်
 
-b,ft&meJYrS EIdif;qvkdYr&Ekdifw,f b,ft&meJYrS tpm;xkd;r&Ekdifw,f b,ft&meJYrS zGJUEGJUjrGufqkd rrSDEkldifw,f ukd,fawmfbk&m;&JU euf&Idif;arwåm
+ဘယ်အရာနဲ့မှ နှိုင်းဆလို့မရနိုင်တယ် ဘယ်အရာနဲ့မှ အစားထိုးမရနိုင်တယ် ဘယ်အရာနဲ့မှ ဖွဲ့နွဲ့မြွက်ဆို မမှီနိုူင်တယ် ကိုယ်တော်ဘုရားရဲ့ နက်ရှိုင်းမေတ္တာ
 
-tNrJwrf;taumif;bufeJY awGUqkHcGifhay;ol b,fvkdyiftwm;tqD;rsm;aevnf; xGufajrmuf&mvrf;wck tjrJzefwD;ay;ol b,favmufyJ cufxefMurf;wrf;ygapuG,f
+အမြဲတမ်းအကောင်းဘက်နဲ့ တွေ့ဆုံခွင့်ပေးသူ ဘယ်လိုပင်အတားအဆီးများနေလည်း ထွက်မြောက်ရာလမ်းတခု အမြဲဖန်တီးပေးသူ ဘယ်လောက်ပဲ ခက်ထန်ကြမ်းတမ်းပါစေကွယ်

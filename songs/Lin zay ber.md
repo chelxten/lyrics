@@ -1,30 +1,29 @@
 ---
-title: vif;apyg
-font: win
+title: လင်းစေပါ
 ---
-ajcmufaoGUb0&JU ajy;vrf;xufrSm
-c&D;ESifcsdef  emusifp&m'Pf&mawGom
-jynfhESufvdkY
+ခြောက်သွေ့ဘဝရဲ့ ပြေးလမ်းထက်မှာ
+ခရီးနှင်ချိန်  နာကျင်စရာဒဏ်ရာတွေသာ
+ပြည့်နှက်လို့
 
-tpOfom 'ku©&JUtrdk;atmufrSm
-touf&Sifvnf; &ifrSmtaEGaxG;qHk;
-ayGUzufwm udk,fawmfyJ
+အစဉ်သာ ဒုက္ခရဲ့အမိုးအောက်မှာ
+အသက်ရှင်လည်း ရင်မှာအနွေထွေးဆုံး
+ပွေ့ဖက်တာ ကိုယ်တော်ပဲ
 
-tjypfrJhwJh taoG;pufrsm;oGef;NyD;
-tjypfawGcRwfy,f&ef u&meDawmifudk
-udk,fwdkifol vSrf;avQmufcJh
+အပြစ်မဲ့တဲ့ အသွေးစက်များသွန်းပြီး
+အပြစ်တွေချွတ်ပယ်ရန် ကရာနီတောင်ကို
+ကိုယ်တိုင်သူ လှမ်းလျှောက်ခဲ့
 
-wa,mufxJ pOf;pm;wdkif;ESvkH;om;xJrSm
-yJha<uwJh 'D&ifxJrdk;pufavawG
-uREkfyfocif&JU&ifcGifawmfxufqD
+တယောက်ထဲ စဉ်းစားတိုင်းနှလုံးသားထဲမှာ
+ပဲ့ကြွေတဲ့ ဒီရင်ထဲမိုးစက်လေတွေ
+ကျွန်ုပ်သခင်ရဲ့ရင်ခွင်တော်ထက်ဆီ
 
-ylaZmfum;'l;axmufudk;uG,f jyyf0yfrnf
-taumif;jrwfqkH;tvSyqkH;ocif
-t&Sifocifa,½I uREkfyftwrf;wqkH;
+ပူဇော်ကားဒူးထောက်ကိုးကွယ် ပြပ်ဝပ်မည်
+အကောင်းမြတ်ဆုံးအလှပဆုံးသခင်
+အရှင်သခင်ယေရှု ကျွန်ုပ်အတမ်းတဆုံး
 
-tm;enf;wJh uREkfyfudkyJhudkifyg
-&ifcGifrSmaxG;ayGUxm;umvrf;jyyg avmu&JUvrf;Murf;xufrSm
+အားနည်းတဲ့ ကျွန်ုပ်ကိုပဲ့ကိုင်ပါ
+ရင်ခွင်မှာထွေးပွေ့ထားကာလမ်းပြပါ လောကရဲ့လမ်းကြမ်းထက်မှာ
 
-xm0pOfpkHvifaom
-or®mw&m;&JUtvif;udk uREkfyfb0&JU
-toufwmxJrSmvif;apyg
+ထာဝစဉ်စုံလင်သော
+သမ္မာတရားရဲ့အလင်းကို ကျွန်ုပ်ဘဝရဲ့
+အသက်တာထဲမှာလင်းစေပါ

@@ -1,31 +1,30 @@
 ---
-title: wwfpGrf;aombk&m;
-font: win
+title: တတ်စွမ်းသောဘုရား
 ---
-tvkH;pkHwwfEdkifaombk&m;
-yifv,fudkcGJum vGwfajr§mufapol
-teEÅwefcdk;ESifhxm0&tNrJ jynfhpkHol
+အလုံးစုံတတ်နိုင်သောဘုရား
+ပင်လယ်ကိုခွဲကာ လွတ်မြှောက်စေသူ
+အနန္တတန်ခိုးနှင့်ထာဝရအမြဲ ပြည့်စုံသူ
 
-rwwfEdkifaomt&mr½SdwJhbk&m;
-aojcif;udkyif atmifjrifaomol
-teEÅwefcdk;ESifh xm0&tNrJpdk;pHol
+မတတ်နိုင်သောအရာမရှိတဲ့ဘုရား
+သေခြင်းကိုပင် အောင်မြင်သောသူ
+အနန္တတန်ခိုးနှင့် ထာဝရအမြဲစိုးစံသူ
 
-t&mcyfodrf;wdkY&JU zefqif;½Sif
-t&mcyfodrf;wdkYudk tkyfpdk;ol
-t&mcyfodrf;wdkY&JU jzpfwnf&m
+အရာခပ်သိမ်းတို့ရဲ့ ဖန်ဆင်းရှင်
+အရာခပ်သိမ်းတို့ကို အုပ်စိုးသူ
+အရာခပ်သိမ်းတို့ရဲ့ ဖြစ်တည်ရာ
 
-vlawGawmif;yefBuHpnforQxuf
-tvGefxl;jcm;pGmjyKjcif;iSg
-wwfpGrf;aomocifbk&m;
+လူတွေတောင်းပန်ကြံစည်သမျှထက်
+အလွန်ထူးခြားစွာပြုခြင်းငှါ
+တတ်စွမ်းသောသခင်ဘုရား
 
-vlawGpOf;pm;arSsmfvifhorQxuf
-ausmfvGefNyD;tNrJwrf;tvkyfvkyfol
-wwfpGrf;Edkifwm udk,fawmfyg
+လူတွေစဉ်းစားမျှော်လင့်သမျှထက်
+ကျော်လွန်ပြီးအမြဲတမ်းအလုပ်လုပ်သူ
+တတ်စွမ်းနိုင်တာ ကိုယ်တော်ပါ
 
-(,ckocifh&JUvufawmfvIyf½Sm;NyD
-,ckocifh&JUwefcdk;awmfvIyf½Sm;NyD
-,ckocifh&JUbkef;awmfxif½Sm;NyD)
+(ယခုသခင့်ရဲ့လက်တော်လှုပ်ရှားပြီ
+ယခုသခင့်ရဲ့တန်ခိုးတော်လှုပ်ရှားပြီ
+ယခုသခင့်ရဲ့ဘုန်းတော်ထင်ရှားပြီ)
 
-(,ckocifh&JUvufawmfvIyf½Sm;NyD
-,ckocifh&JUwefcdk;awmfvIyf½Sm;NyD
-,ckocifh&JUbkef;awmfjrif&NyD)
+(ယခုသခင့်ရဲ့လက်တော်လှုပ်ရှားပြီ
+ယခုသခင့်ရဲ့တန်ခိုးတော်လှုပ်ရှားပြီ
+ယခုသခင့်ရဲ့ဘုန်းတော်မြင်ရပြီ)

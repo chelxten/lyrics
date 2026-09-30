@@ -1,15 +1,14 @@
 ---
-title: rif;rsKd;rif;EG,f
-font: win
+title: မင်းမျိုးမင်းနွယ်
 ---
-ukd,fawmfom uREkfyfü&Sd&if &efolwpfaxmif pD;csif;xkd;Ekdifw,f
+ကိုယ်တော်သာ ကျွန်ုပ်၌ရှိရင် ရန်သူတစ်ထောင် စီးချင်းထိုးနိုင်တယ်
 
-[kwfw,f bmukdaMumuf&GHU&rvJ
+ဟုတ်တယ် ဘာကိုကြောက်ရွံ့ရမလဲ
 
-0dnmOfawmfuREkfyfbuf&Sd&if t&m&mukd pkd;pHausmfvTm;r,f
+ဝိညာဉ်တော်ကျွန်ုပ်ဘက်ရှိရင် အရာရာကို စိုးစံကျော်လွှားမယ်
 
-ig[m rif;rsKd;rif;EG,f
+ငါဟာ မင်းမျိုးမင်းနွယ်
 
-igwkdYu atmifjrifjcif;ESifhqkdifwJhtEG,f rif;pnf;pdrf&SdwJh ,Zfya&m[dwftEG,f
+ငါတို့က အောင်မြင်ခြင်းနှင့်ဆိုင်တဲ့အနွယ် မင်းစည်းစိမ်ရှိတဲ့ ယဇ်ပရောဟိတ်အနွယ်
 
-igatmifjriftkH;r,f <u,f0tkH;r,f 'Davmu&JUtv,f
+ငါအောင်မြင်အုံးမယ် ကြွယ်ဝအုံးမယ် ဒီလောကရဲ့အလယ်

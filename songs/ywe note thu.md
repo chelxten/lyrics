@@ -1,13 +1,12 @@
 ---
-title: a&G;ESkwfol
-font: win
+title: ရွေးနှုတ်သူ
 ---
-toHukdvGifhí [pfatmf&if; txHawmfqDqufor,fh 'DoDcsif; oefacgif,Htcsdef vrf;jyay;r,fh tvif; ocifh &JUcspfjcif;
+အသံကိုလွင့်၍ ဟစ်အော်ရင်း အထံတော်ဆီဆက်သမယ့် ဒီသီချင်း သန်ခေါင်ယံအချိန် လမ်းပြပေးမယ့် အလင်း သခင့် ရဲ့ချစ်ခြင်း
 
-um&meDrSm toufpGefYvkdYoGm; vlom;wkdY tjypfukd,fpm; wu,fqkdvlom;wkdY&JU tay:xm; olY&JUtcspf[m&Sm;
+ကာရာနီမှာ အသက်စွန့်လို့သွား လူသားတို့ အပြစ်ကိုယ်စား တကယ်ဆိုလူသားတို့ရဲ့ အပေ:ထား သူ့ရဲ့အချစ်ဟာရှား
 
-uREkfyf&JUb0 ocifha&SUarSmuf r0if&Jvnf; tjypf&JUtc i&JwGif;rS uREkfyfukd ola&G;EIwf
+ကျွန်ုပ်ရဲ့ဘဝ သခင့်ရှေ့မှောက် မဝင်ရဲလည်း အပြစ်ရဲ့အခ ငရဲတွင်းမှ ကျွန်ုပ်ကို သူရွေးနှုတ်
 
-(uREkfyftjypftwGuf oltaoG;oGef;cJhNyDrkdY vGefusL;cJhzl;wJh tjypfawG r&SdawmhvkdY
+(ကျွန်ုပ်အပြစ်အတွက် သူအသွေးသွန်းခဲ့ပြီမို့ လွန်ကျူးခဲ့ဖူးတဲ့ အပြစ်တွေ မရှိတော့လို့
 
-aojcif;&JU wzufrSm pdwfcs&NyDrkdY vufrsm;ajrmufyifhum 'kdYtwlcsD;rGrf;pkdY)2
+သေခြင်းရဲ့ တဖက်မှာ စိတ်ချရပြီမို့ လက်များမြောက်ပင့်ကာ ဒို့အတူချီးမွမ်းစို့)၂

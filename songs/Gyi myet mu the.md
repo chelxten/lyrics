@@ -1,19 +1,18 @@
 ---
-title: ujD;jrwfrnfonf
-font: win
+title: ကြီးမြတ်မည်သည်
 ---
-toefY&Sif;qkH;aom bkef;wefckd;teEÅ uREkfyftwGuftNrJwrf; taumif;jrwfqkH;bk&m;
+အသန့်ရှင်းဆုံးသော ဘုန်းတန်ခိုးအနန္တ ကျွန်ုပ်အတွက်အမြဲတမ်း အကောင်းမြတ်ဆုံးဘုရား
 
-tm&kPfvif;prS ae0ifrkd;csKyfxdwkdif ckdukd;&m uREkfyf&JUbk&m;
+အာရုဏ်လင်းစမှ နေဝင်မိုးချုပ်ထိတိုင် ခိုကိုးရာ ကျွန်ုပ်ရဲ့ဘုရား
 
-ocifh&JUaus;Zl; ocifu&kPmrsm; vkHavmufcJh uREkfyfb0aeY&ufwkdif;rSm
+သခင့်ရဲ့ကျေးဇူး သခင်ကရုဏာများ လုံလောက်ခဲ့ ကျွန်ုပ်ဘဝနေ့ရက်တိုင်းမှာ
 
-tjrifhqkH;aombk&m; uG,fumocifrsufarSmufawmf XgerSm ae&mus
+အမြင့်ဆုံးသောဘုရား ကွယ်ကာသခင်မျက်မှောက်တော် ဌါနမှာ နေရာကျ
 
-tkd igh0dnmOfukd,fawmfukd csD;rGrf;pOf ukd,fawmfomvQif u,fwifykdif&Sif
+အို ငါ့ဝိညာဉ်ကိုယ်တော်ကို ချီးမွမ်းစဉ် ကိုယ်တော်သာလျှင် ကယ်တင်ပိုင်ရှင်
 
-tkd igh0dnmOf u,fwif&Siftm; csD;rGrf; BuD;jrwfawmfrl BuD;jrwfrlay
+အို ငါ့ဝိညာဉ် ကယ်တင်ရှင်အား ချီးမွမ်း ကြီးမြတ်တော်မူ ကြီးမြတ်မူပေ
 
-toefY&Sif;qkH;aom bkefwefckd;teEÅ vkHavmufcJh uREkfyfb0aeY&ufwkdif;rSm
+အသန့်ရှင်းဆုံးသော ဘုန်တန်ခိုးအနန္တ လုံလောက်ခဲ့ ကျွန်ုပ်ဘဝနေ့ရက်တိုင်းမှာ
 
-tjrifhqkH;aombk&m; uG,fumocifrsufarSmufawmf XgerSmae&mus
+အမြင့်ဆုံးသောဘုရား ကွယ်ကာသခင်မျက်မှောက်တော် ဌါနမှာနေရာကျ

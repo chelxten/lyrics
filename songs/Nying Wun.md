@@ -1,12 +1,11 @@
 ---
-title: ijdrf0yf
-font: win
+title: ငြိမ်ဝပ်
 ---
-tawmifatmufrSm 0Sufxm;rlyg
-apmifhxdef;yg wefckd;BuD;vufawmf0,f
+အတောင်အောက်မှာ ဝှက်ထားမူပါ
+စောင့်ထိန်းပါ တန်ခိုးကြီးလက်တော်ဝယ်
 
-yifv,fvIdif;vkH;&,f rkd;BudK;xefcsdef av[keffpD;tzeJY rkefwkdif;rsm;xuf
+ပင်လယ်လှိုင်းလုံးရယ် မိုးကြိုးထန်ချိန် လေဟုန်စီးအဖနဲ့ မုန်တိုင်းများထက်
 
-ukd,fawmftkyfpkd;&Sif vIdif;vkH;awGtay: ukd,fawmf&SifaMumifhom Nidrf0yfvsuf aernf
+ကိုယ်တော်အုပ်စိုးရှင် လှိုင်းလုံးတွေအပေ: ကိုယ်တော်ရှင်ကြောင့်သာ ငြိမ်ဝပ်လျက် နေမည်
 
-ukd,fawmfüom ckdem;apyg tcufcJcsdef ukd,fawmfwefckd; ,kHMunf
+ကိုယ်တော်၌သာ ခိုနားစေပါ အခက်ခဲချိန် ကိုယ်တော်တန်ခိုး ယုံကြည်

@@ -1,24 +1,23 @@
 ---
-title: tarGcH
-font: win
+title: အမွေခံ
 ---
-um;wdkifxuf tjypf&JUtcudkolay;NyDb0wckvkH;
-topftjzpfajymif;vJap
+ကားတိုင်ထက် အပြစ်ရဲ့အခကိုသူပေးပြီဘဝတခုလုံး
+အသစ်အဖြစ်ပြောင်းလဲစေ
 
-uREkfyf&JJUtjypf taoGG;eJUaq;um
-jzLpifcJhNyDD oefUpifvsufrdk;yGifh
-xufjzLapNyD
+ကျွန်ုပ်ရဲ့အပြစ် အသွေးနဲ့ဆေးကာ
+ဖြူစင်ခဲ့ပြီ သန့်စင်လျက်မိုးပွင့်
+ထက်ဖြူစေပြီ
 
-txHawmfteD;pyfqkH;üaecGifh&NyD
-xm0pOfudk,fawmfeJUtwlaecGifh&NyD
-tdrfawmfom;jzpfcGifh&NyD
-bk&m;om;jzpfNyD
+အထံတော်အနီးစပ်ဆုံး၌နေခွင့်ရပြီ
+ထာဝစဉ်ကိုယ်တော်နဲ့အတူနေခွင့်ရပြီ
+အိမ်တော်သားဖြစ်ခွင့်ရပြီ
+ဘုရားသားဖြစ်ပြီ
 
-0dnmOfem;awGyGifhumtoHawmfMum;
-wwfNyD0dnmOfrsufpdyGifhum
-jrifEdkifpGrf;&NyDxm0&tz&JU
-tarGpm;tarGcHNzpfcGifh&NyD
+ဝိညာဉ်နားတွေပွင့်ကာအသံတော်ကြား
+တတ်ပြီဝိညာဉ်မျက်စိပွင့်ကာ
+မြင်နိုင်စွမ်းရပြီထာဝရအဖရဲ့
+အမွေစားအမွေခံဖြစ်ခွင့်ရပြီ
 
-uREkfyfeYJae&mvGJajymif;ay;ol
-uRefr[kwfbl;om;t&may;ol
-bkef;pnf;pdrftm;vkH;tydkif;ay;ol
+ကျွန်ုပ်နဲ့နေရာလွဲပြောင်းပေးသူ
+ကျွန်မဟုတ်ဘူးသားအရာပေးသူ
+ဘုန်းစည်းစိမ်အားလုံးအပိုင်းပေးသူ

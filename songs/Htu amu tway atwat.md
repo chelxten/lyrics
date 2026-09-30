@@ -1,10 +1,9 @@
 ---
-title: xdktrSkawGtwGuf
-font: win
+title: ထိုအမှုတွေအတွက်
 ---
-u,fwif&Sif uREkfyfudk
-csD;ajr§mufcJh &THUajrBuD;xJrS wefcdk;BuD;&Sif xm0& uREkfyfudkajymif;vJapNyD
+ကယ်တင်ရှင် ကျွန်ုပ်ကို
+ချီးမြှောက်ခဲ့ ရွှံ့မြေကြီးထဲမှ တန်ခိုးကြီးရှင် ထာဝရ ကျွန်ုပ်ကိုပြောင်းလဲစေပြီ
 
-u,fwifzdkY&ef om;awmfjrwf <uqif;vm xm0&t&yfrS þavmu urÇmBuD;rSm
+ကယ်တင်ဖို့ရန် သားတော်မြတ် ကြွဆင်းလာ ထာဝရအရပ်မှ ဤလောက ကမ္ဘာကြီးမှာ
 
-touf&SifNyD taocHNyD xajrmufNyD tjrifhqHk;t&yfrSm toufvrf;wHcg; zGifhay;NyD; urÇmajrBuD; touf&zdkY&ef [mavvk,m xdktrIawGtwGuf
+အသက်ရှင်ပြီ အသေခံပြီ ထမြောက်ပြီ အမြင့်ဆုံးအရပ်မှာ အသက်လမ်းတံခါး ဖွင့်ပေးပြီး ကမ္ဘာမြေကြီး အသက်ရဖို့ရန် ဟာလေလုယာ ထိုအမှုတွေအတွက်

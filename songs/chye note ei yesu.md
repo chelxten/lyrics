@@ -1,33 +1,32 @@
 ---
-title: usGEKfyf\a,&Sk
-font: win
+title: ကျွန်ုပ်၏ယေရှု
 ---
-uRefkyf&JUtouftm; qHk;½IH;jcif;rS
-toufpGefYuma&G;Ekwfol
+ကျွန်ုပ်ရဲ့အသက်အား ဆုံးရှုံးခြင်းမှ
+အသက်စွန့်ကာရွေးနုတ်သူ
 
-qdk;npfvSwJh uREfkyf&JUtjypfawGtm;
-taoG;oGef;um aq;aMumol
+ဆိုးညစ်လှတဲ့ ကျွန်ုပ်ရဲ့အပြစ်တွေအား
+အသွေးသွန်းကာ ဆေးကြောသူ
 
-a,½I udk,fawmfom taumif;qHk;
-a,½I tEIdif;rJh
+ယေရှု ကိုယ်တော်သာ အကောင်းဆုံး
+ယေရှု အနှိုင်းမဲ့
 
-uREkfyf\bk&m; uREfkyf\bk&if
-uREfkyf cGeftm;
+ကျွန်ုပ်၏ဘုရား ကျွန်ုပ်၏ဘုရင်
+ကျွန်ုပ် ခွန်အား
 
-uREfkyfausmufaqmif uREfkyf\vrf;
-uREfkyftvif;a&mif
+ကျွန်ုပ်ကျောက်ဆောင် ကျွန်ုပ်၏လမ်း
+ကျွန်ုပ်အလင်းရောင်
 
-uREkfyf\oDcsif; uREkfyf\tjrJwrf; touf&Sifjcif;taMumif;
+ကျွန်ုပ်၏သီချင်း ကျွန်ုပ်၏အမြဲတမ်း အသက်ရှင်ခြင်းအကြောင်း
 
-udk,fawmfom uREfkyf ausmufaqmif&Jwdkuf
-uREfkyf0dnmOftwGuftjrJwrf; em;cdk&m
+ကိုယ်တော်သာ ကျွန်ုပ် ကျောက်ဆောင်ရဲတိုက်
+ကျွန်ုပ်ဝိညာဉ်အတွက်အမြဲတမ်း နားခိုရာ
 
-aocsif;&JU wHcg;odkU jcdK;zJh eif;ajcjyD; wdkU&JUocifxajrmufjyD
+သေချင်းရဲ့ တံခါးသို့ ခြိုးဖဲ့ နင်းခြေပြီး တို့ရဲ့သခင်ထမြောက်ပြီ
 
-touf&Sd&SdorQ csD;rGrf;a<u;aMumfMu wdkY&JUbk&iftNrJ
+အသက်ရှိရှိသမျှ ချီးမွမ်းကြွေးကြော်ကြ တို့ရဲ့ဘုရင်အမြဲ
 
-touf&Sifa,½Iudk,fawmf xm0&wnf tjrJwrf; rajymif;vJ
+အသက်ရှင်ယေရှုကိုယ်တော် ထာဝရတည် အမြဲတမ်း မပြောင်းလဲ
 
-a,½Iudk,fawmfom taumif;qHk; a,½Iudk,fawmfonf
+ယေရှုကိုယ်တော်သာ အကောင်းဆုံး ယေရှုကိုယ်တော်သည်
 
-tEIdif;rJha,½Iudk,fawmf xm0&wnf tjrJwrf; rajymif;vJ
+အနှိုင်းမဲ့ယေရှုကိုယ်တော် ထာဝရတည် အမြဲတမ်း မပြောင်းလဲ

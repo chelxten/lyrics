@@ -1,13 +1,12 @@
 ---
-title: ukd,fawmfharwåm
-font: win
+title: ကိုယ်တော့်မေတ္တာ
 ---
-xm0&tqkH;xd uREkfyftem;rSm tpOf&Sdr,fhol a,½I ukd,fawmfwpfyg;wnf; t&m&mukd wwfpGrf;Ekdifol
+ထာဝရအဆုံးထိ ကျွန်ုပ်အနားမှာ အစဉ်ရှိမယ့်သူ ယေရှု ကိုယ်တော်တစ်ပါးတည်း အရာရာကို တတ်စွမ်းနိုင်သူ
 
-vkdcsifwmxuf vkdwmawG axmufyHhay;ol a,½I
+လိုချင်တာထက် လိုတာတွေ ထောက်ပံ့ပေးသူ ယေရှု
 
-tm;tifawG ukefcrf;csdef ukd,fawmfxH wkd;0ifvkdufwkdif;rSm csOf;uyfvkdufwkdif;rSm aEG;axG;aom arwåmeJY axG;ayGUay;um cGeftm;ay;
+အားအင်တွေ ကုန်ခမ်းချိန် ကိုယ်တော်ထံ တိုးဝင်လိုက်တိုင်းမှာ ချဉ်းကပ်လိုက်တိုင်းမှာ နွေးထွေးသော မေတ္တာနဲ့ ထွေးပွေ့ပေးကာ ခွန်အားပေး
 
-ukd,fawmfharwåm xm0&tNrJyg arwåmawmfoefY&Sif; opömawmfckdifNrJ
+ကိုယ်တော့်မေတ္တာ ထာဝရအမြဲပါ မေတ္တာတော်သန့်ရှင်း သစ္စာတော်ခိုင်မြဲ
 
-aeY&ufwkdif; uRekfyf aeY&ufwkdif; uRekfyfukd;uG,f tqifajyjcif; tqifrajyjcif; tm;vkH;txufrSm ukd,fawmfukd ukd;uG,f
+နေ့ရက်တိုင်း ကျွန်ုပ် နေ့ရက်တိုင်း ကျွန်ုပ်ကိုးကွယ် အဆင်ပြေခြင်း အဆင်မပြေခြင်း အားလုံးအထက်မှာ ကိုယ်တော်ကို ကိုးကွယ်

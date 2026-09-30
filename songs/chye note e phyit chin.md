@@ -1,26 +1,25 @@
 ---
-title: usGEKfyf\jzpfjcif;
-font: win
+title: ကျွန်ုပ်၏ဖြစ်ခြင်း
 ---
-uREkfyfonfbk&m;\taoG;ESifh tzdk;tcay;a&G;cHol
-uREkfyfonfbk&m;om;jzpfíajzmifhrwfjcif;ESifhtarGcHol
+ကျွန်ုပ်သည်ဘုရား၏အသွေးနှင့် အဖိုးအခပေးရွေးခံသူ
+ကျွန်ုပ်သည်ဘုရားသားဖြစ်၍ဖြောင့်မတ်ခြင်းနှင့်အမွေခံသူ
 
-uREkfyfonftjypfvGwfjcif;ESifhxm0pOftqkH;xdtouf&Sifol
-uREkfyfonfaumif;uifEdkifiHom;jzpf&aomol
+ကျွန်ုပ်သည်အပြစ်လွတ်ခြင်းနှင့်ထာဝစဉ်အဆုံးထိအသက်ရှင်သူ
+ကျွန်ုပ်သည်ကောင်းကင်နိုင်ငံသားဖြစ်ရသောသူ
 
-uREkfyfonfbk&m;\aus;Zl;oem;jcif;*½kPmukd
-tNrJcHpm;&&Sdíaumif;BuD;rsm; jynfhvQHaeol
+ကျွန်ုပ်သည်ဘုရား၏ကျေးဇူးသနားခြင်းဂရုဏာကို
+အမြဲခံစားရရှိ၍ကောင်းကြီးများ ပြည့်လျှံနေသူ
 
-uREkfyfonfoefY&Sif;aumif;jrwfpkHvifjcif;ESifhjynfhpkHol
-uREkfyfonf0dnmOfawmftpOfudef;0yfaeaomol
+ကျွန်ုပ်သည်သန့်ရှင်းကောင်းမြတ်စုံလင်ခြင်းနှင့်ပြည့်စုံသူ
+ကျွန်ုပ်သည်ဝိညာဉ်တော်အစဉ်ကိန်းဝပ်နေသောသူ
 
-uREkfyfonfvGwfajrmufjcif;ESihfaeY&ufwdkif;touf&Sifol
-uREkfyfonfbk&m;\bkef;ESifhae&mwdkif;üvif;aeol
+ကျွန်ုပ်သည်လွတ်မြောက်ခြင်းနှင့်နေ့ရက်တိုင်းအသက်ရှင်သူ
+ကျွန်ုပ်သည်ဘုရား၏ဘုန်းနှင့်နေရာတိုင်း၌လင်းနေသူ
 
-uREkfyfonf0rf;ajrmufjcif;ESifhtajctaewdkif;txufü &Sdaeaomol
+ကျွန်ုပ်သည်ဝမ်းမြောက်ခြင်းနှင့်အခြေအနေတိုင်းအထက်၌ ရှိနေသောသူ
 
-uRekfyfonf avmuBuD;udk atmifjrifaomtcGifhydkifol
-uREfkyfonf qkH;½IH;jcif;ESifh xm0pOftNrJuif;vGwfaeol
+ကျွန်ုပ်သည် လောကကြီးကို အောင်မြင်သောအခွင့်ပိုင်သူ
+ကျွန်ုပ်သည် ဆုံးရှုံးခြင်းနှင့် ထာဝစဉ်အမြဲကင်းလွတ်နေသူ
 
-uREkfyfonf tBuD;jrwfqkH;ESifh xm0&tqkH;r&SdwJh
-toufESifh&SifwJhol
+ကျွန်ုပ်သည် အကြီးမြတ်ဆုံးနှင့် ထာဝရအဆုံးမရှိတဲ့
+အသက်နှင့်ရှင်တဲ့သူ

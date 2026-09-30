@@ -1,11 +1,10 @@
 ---
-title: &SdorQt&mxuf
-font: win
+title: ရှိသမျှအရာထက်
 ---
-csD;rGrf;xdkufaom udk;uG,fxdkufaom bkef;BuD;ocif a,½Sk
+ချီးမွမ်းထိုက်သော ကိုးကွယ်ထိုက်သော ဘုန်းကြီးသခင် ယေရှု
 
-udk,fawmf&JU a&SUawmfodkYwdkk;0ifyg\ BuD;jrwfaomocif a,½Sk
+ကိုယ်တော်ရဲ့ ရှေ့တော်သို့တိုးဝင်ပါ၏ ကြီးမြတ်သောသခင် ယေရှု
 
-udk,fawmfudk uREkfyfudk;uG,fyg\ &SdorQt&mxuf cspfonf rsufarSmufawmfodkY wdk;0ifyg\ uREkfyftm; qGJac:yg
+ကိုယ်တော်ကို ကျွန်ုပ်ကိုးကွယ်ပါ၏ ရှိသမျှအရာထက် ချစ်သည် မျက်မှောက်တော်သို့ တိုးဝင်ပါ၏ ကျွန်ုပ်အား ဆွဲခေ:ပါ
 
-udk,fawmfudk uREkfyfudk;uG,fyg\ &SdorQt&mxuf cspfonf rsufarSmufawmfodkY wdk;0ifyg\ uREkfyftm; qGJac:rlyg
+ကိုယ်တော်ကို ကျွန်ုပ်ကိုးကွယ်ပါ၏ ရှိသမျှအရာထက် ချစ်သည် မျက်မှောက်တော်သို့ တိုးဝင်ပါ၏ ကျွန်ုပ်အား ဆွဲခေ:မူပါ

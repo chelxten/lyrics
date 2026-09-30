@@ -1,31 +1,30 @@
 ---
-title: udk;uG,fjcif;eSvHk;om;
-font: win
+title: ကိုးကွယ်ခြင်းနှလုံးသား
 ---
-aw;oGm;rsm;ukefcsdef tm;vkH;
-vGifhaysmufoGm; ESdrfhcswdk;0if&if;
-ocifhtwGGufay;csifol
-BuD;jrwf xdkufwefjcif; ocifh&JU
-oabmtvdkwdkif;
+တေးသွားများကုန်ချိန် အားလုံး
+လွင့်ပျောက်သွား နှိမ့်ချတိုးဝင်ရင်း
+သခင့်အတွက်ပေးချင်သူ
+ကြီးမြတ် ထိုက်တန်ခြင်း သခင့်ရဲ့
+သဘောအလိုတိုင်း
 
-EIwfoufouf csD;rGrf;qdkjcif;
-t[kwfydkav;euf aomt&m
-oD;csif;oufouf rESpfoufolyg
-twGif;ESvkH;rSxGufaom t&mrsm;
-oabmudkMunfhaom bk&m;[m
-uREkfyfESvkH;om; odjrifaomt&Sif
+နှုတ်သက်သက် ချီးမွမ်းဆိုခြင်း
+အဟုတ်ပိုလေးနက် သောအရာ
+သီးချင်းသက်သက် မနှစ်သက်သူပါ
+အတွင်းနှလုံးမှထွက်သော အရာများ
+သဘောကိုကြည့်သော ဘုရားဟာ
+ကျွန်ုပ်နှလုံးသား သိမြင်သောအရှင်
 
-OD;vSnfhvdkU udk;uG,fvdkpdwfwpfck
-wnf;om t&m&mudk,fawmftwGufyJ
-t&m&mtm;vkH; a,½I
-tawG;rSm;orQ ocifhxHrSm
-wdk;vQKd;awmif;yef t&m&mudk,fawmf
-twGufyJ t&m&mtm;vkH;a,½I
+ဉီးလှည့်လို့ ကိုးကွယ်လိုစိတ်တစ်ခု
+တည်းသာ အရာရာကိုယ်တော်အတွက်ပဲ
+အရာရာအားလုံး ယေရှု
+အတွေးမှားသမျှ သခင့်ထံမှာ
+တိုးလျှိုးတောင်းပန် အရာရာကိုယ်တော်
+အတွက်ပဲ အရာရာအားလုံးယေရှု
 
-BuD;jrwfpdk;pH&Sif twkrJhjrwfemr
-BuD;jrwfxdkufwefjcif; EGrf;yg;
-uREkfyfb0xJ tm;vkH;ay;oem;rl
-xGufoufESifh0ifouf
+ကြီးမြတ်စိုးစံရှင် အတုမဲ့မြတ်နာမ
+ကြီးမြတ်ထိုက်တန်ခြင်း နွမ်းပါး
+ကျွန်ုပ်ဘဝထဲ အားလုံးပေးသနားမူ
+ထွက်သက်နှင့်ဝင်သက်
 
-(ESvkH;om;xJrSm csD;rGrf;udk;uG,f
-t&m&mtm;vkH;a,½I)3
+(နှလုံးသားထဲမှာ ချီးမွမ်းကိုးကွယ်
+အရာရာအားလုံးယေရှု)၃

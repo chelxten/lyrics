@@ -1,30 +1,29 @@
 ---
-title: ae&mwumcsD;rGrf;
-font: win
+title: နေရာတကာချီးမွမ်း
 ---
-([kdrSmvnf;csD;rGrf; 'DrSmvnf;csD;rGrf;
-ae&mwumcsD;rGrf;r,f)2
+(ဟိုမှာလည်းချီးမွမ်း ဒီမှာလည်းချီးမွမ်း
+နေရာတကာချီးမွမ်းမယ်)၂
 
-(acgif;av;vkyfum csD;rGrf;vdkufygvm;)2
-vufawmfeJU zefqif;xm;wJht&mrsm;
-bk&m;&SifcsD;rGrf;yg
+(ခေါင်းလေးလုပ်ကာ ချီးမွမ်းလိုက်ပါလား)၂
+လက်တော်နဲ့ ဖန်ဆင်းထားတဲ့အရာများ
+ဘုရားရှင်ချီးမွမ်းပါ
 
-(yckH;av;vkyfum csD;rGrf;vdkufygvm;)
-vufawmfeJU zefqif;xm;wJht&mrsm;
-bk&m;&SifcsD;rGrf;yg
+(ပခုံးလေးလုပ်ကာ ချီးမွမ်းလိုက်ပါလား)
+လက်တော်နဲ့ ဖန်ဆင်းထားတဲ့အရာများ
+ဘုရားရှင်ချီးမွမ်းပါ
 
-(cg;av;vkyfum csD;rGrf;vkdufygvm;)
-vufawmfeJU zefqif;xm;wJht&mrsm;
-bk&m;&SifcsD;rGrf;yg
+(ခါးလေးလုပ်ကာ ချီးမွမ်းလိုက်ပါလား)
+လက်တော်နဲ့ ဖန်ဆင်းထားတဲ့အရာများ
+ဘုရားရှင်ချီးမွမ်းပါ
 
-('l;av;vkyfum csD;rGrf;vkdufygvm;)
-vufawmfeJU zefqif;xm;wJht&mrsm;
-bk&m;&SifcsD;rGrf;yg
+(ဒူးလေးလုပ်ကာ ချီးမွမ်းလိုက်ပါလား)
+လက်တော်နဲ့ ဖန်ဆင်းထားတဲ့အရာများ
+ဘုရားရှင်ချီးမွမ်းပါ
 
-(ajcaxmufav;vkyfum csD;rGrf;vkdufygvm;)
-vufawmfeJU zefqif;xm;wJht&mrsm;
-bk&m;&SifcsD;rGrf;yg
+(ခြေထောက်လေးလုပ်ကာ ချီးမွမ်းလိုက်ပါလား)
+လက်တော်နဲ့ ဖန်ဆင်းထားတဲ့အရာများ
+ဘုရားရှင်ချီးမွမ်းပါ
 
-(udk,fvkH;av;vSnfhum csD;rGrf;vdkufygvm;)
-vufawmfeJU zefqif;xm;wJht&mrsm;
-bk&m;&SifcsD;rGrf;yg
+(ကိုယ်လုံးလေးလှည့်ကာ ချီးမွမ်းလိုက်ပါလား)
+လက်တော်နဲ့ ဖန်ဆင်းထားတဲ့အရာများ
+ဘုရားရှင်ချီးမွမ်းပါ

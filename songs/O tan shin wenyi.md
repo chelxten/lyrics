@@ -1,11 +1,10 @@
 ---
-title: tkd oefY&Sif;0dnmOf
-font: win
+title: အို သန့်ရှင်းဝိညာဉ်
 ---
-tkd oefY&Sif;0dnmOfqif;<urlyg ukd,fawmfcspfjcif;arwåm jynhf0apyg
+အို သန့်ရှင်းဝိညာဉ်ဆင်းကြွမူပါ ကိုယ်တော်ချစ်ခြင်းမေတ္တာ ပြည့်ဝစေပါ
 
-ukd,fawmfukd uREkfyfcspfonf 0dnmOfawmfqGJac:&m aeY&ufwkdif;om eD;apyg
+ကိုယ်တော်ကို ကျွန်ုပ်ချစ်သည် ဝိညာဉ်တော်ဆွဲခေ:ရာ နေ့ရက်တိုင်းသာ နီးစေပါ
 
-ukd,fawmf\twGif;ESvkH;om;xJ uREkfyfa&muf&SdcsdefrSm 0dnmOfawmfrprlyg uREkfyftoufwmtopfjyKjyifyg
+ကိုယ်တော်၏အတွင်းနှလုံးသားထဲ ကျွန်ုပ်ရောက်ရှိချိန်မှာ ဝိညာဉ်တော်မစမူပါ ကျွန်ုပ်အသက်တာအသစ်ပြုပြင်ပါ
 
-b,ft&mawGeJYrS rvJEkdifaom rsufarSmufawmf uREkfyfa&muf&SdcsdefrSm cE¨mpdwf0dnmOf jyyf0yfukd;uG,f&m
+ဘယ်အရာတွေနဲ့မှ မလဲနိုင်သော မျက်မှောက်တော် ကျွန်ုပ်ရောက်ရှိချိန်မှာ ခန္ဓာစိတ်ဝိညာဉ် ပြပ်ဝပ်ကိုးကွယ်ရာ

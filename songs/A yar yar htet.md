@@ -1,12 +1,11 @@
 ---
-title: t&m&mxuf
-font: win
+title: အရာရာထက်
 ---
-jzLpifjrifhjrwfoefY&Sif; &Sifoef,aeYxufxdwkdif aojcif;ukd atmifjrifcJhNyD
+ဖြူစင်မြင့်မြတ်သန့်ရှင်း ရှင်သန်ယနေ့ထက်ထိတိုင် သေခြင်းကို အောင်မြင်ခဲ့ပြီ
 
-t&m&mtxufü
-tkyfpkd;yv’ifjrifhxufpkd;pH xkdufweftm;vkH;txufrSm
+အရာရာအထက်၌
+အုပ်စိုးပလ္လင်မြင့်ထက်စိုးစံ ထိုက်တန်အားလုံးအထက်မှာ
 
-(oefY&Sif;)2 ukd,fawmfoefY&Sif; (csD;ajrmuf)2 t&m&mxuf
+(သန့်ရှင်း)၂ ကိုယ်တော်သန့်ရှင်း (ချီးမြောက်)၂ အရာရာထက်
 
-(ukd,fawmfom BuD;jrwfjcif; csD;ajrmufjcif;ay;tyfyg\ jrifhjrwfjcif; bkef;wefckd;eJY xm0&bkef;BuD;bk&iftm;) [mavvk,m
+(ကိုယ်တော်သာ ကြီးမြတ်ခြင်း ချီးမြောက်ခြင်းပေးအပ်ပါ၏ မြင့်မြတ်ခြင်း ဘုန်းတန်ခိုးနဲ့ ထာဝရဘုန်းကြီးဘုရင်အား) ဟာလေလုယာ

@@ -1,24 +1,23 @@
 ---
-title: vif;apNyD
-font: win
+title: လင်းစေပြီ
 ---
-a,½I&Sifonf
-uREfkyfvrf;c&D;(vif;apNyD)3
-(a,½I&Sifonf)3
-uREkfyfvrf;c&D; vif;apNyD
+ယေရှုရှင်သည်
+ကျွန်ုပ်လမ်းခရီး(လင်းစေပြီ)၃
+(ယေရှုရှင်သည်)၃
+ကျွန်ုပ်လမ်းခရီး လင်းစေပြီ
 
-(pmwefonf½IH;íxGufajy;)3
-uREkfyfatmifjrifNyD
+(စာတန်သည်ရှုံး၍ထွက်ပြေး)၃
+ကျွန်ုပ်အောင်မြင်ပြီ
 
-a,½I&SifonfuRkEkfyfwdkU\
-(ausmufaqmifBuD;)3
-(a,½I&Sifonf)3
-uREkfyfwdkU\ausmufaqmifBuD;
+ယေရှုရှင်သည်ကျွုန်ုပ်တို့၏
+(ကျောက်ဆောင်ကြီး)၃
+(ယေရှုရှင်သည်)၃
+ကျွန်ုပ်တို့၏ကျောက်ဆောင်ကြီး
 
-vufckyfwD;vQufxm0&bk&m;tm;
-(csD;rGrf;avmh)3
-(vufckyfwD;vQuf)3
-xm&bk&m;tm;csD;rGrf;avmh
+လက်ခုပ်တီးလျှက်ထာဝရဘုရားအား
+(ချီးမွမ်းလော့)၃
+(လက်ခုပ်တီးလျှက်)၃
+ထာရဘုရားအားချီးမွမ်းလော့
 
-uvsufckefvsuf xm0&bk&m;tm; (csD;rGrf;avmh)3
-(uvsufckefvsuf)3 xm&bk&m;tm;csD;rGrf;avmh
+ကလျက်ခုန်လျက် ထာဝရဘုရားအား (ချီးမွမ်းလော့)၃
+(ကလျက်ခုန်လျက်)၃ ထာရဘုရားအားချီးမွမ်းလော့

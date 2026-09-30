@@ -1,20 +1,19 @@
 ---
-title: udk,fawmftm;jzifh
-font: win
+title: ကိုယ်တော်အားဖြင့်
 ---
-&efolrsm;0dkif;&Hxm; tajctaersm;
-b,favmufyif qdk;ygap
-udk,fawmftem;em;½Sd&if at;aq;av;yJ
+ရန်သူများဝိုင်းရံထား အခြေအနေများ
+ဘယ်လောက်ပင် ဆိုးပါစေ
+ကိုယ်တော်အနားနားရှိရင် အေးဆေးလေးပဲ
 
-yifv,fBuD;qD;umxm; tajctaersm;ydwfqdkYxm;vnf; udk,fawmf½Sd&ifvrf;jzpfoGm;NyD
+ပင်လယ်ကြီးဆီးကာထား အခြေအနေများပိတ်ဆို့ထားလည်း ကိုယ်တော်ရှိရင်လမ်းဖြစ်သွားပြီ
 
-eH&Hrsm;b,favmufyifjcm; tajctaersm;
-rjzpfEdkifawmhvnf; udk,fawmfwefcdk;awmftm;jzifh NydKysufoGm;NyD
+နံရံများဘယ်လောက်ပင်ခြား အခြေအနေများ
+မဖြစ်နိုင်တော့လည်း ကိုယ်တော်တန်ခိုးတော်အားဖြင့် ပြိုပျက်သွားပြီ
 
-udk,fawmf&JU*wdawmfrsm; tajctaeeJYroufqdkifbl;av udk,fawmftm;jzifhtvkH;pkHjzpfwnf
+ကိုယ်တော်ရဲ့ဂတိတော်များ အခြေအနေနဲ့မသက်ဆိုင်ဘူးလေ ကိုယ်တော်အားဖြင့်အလုံးစုံဖြစ်တည်
 
-t&m&mudk,fawmftm;jzifhom tajctaetm;vkH;ajymif;vJvm uREfkyftpGrf;tpr[kwf
-t&m&mudk,fawmfaMumifhom
+အရာရာကိုယ်တော်အားဖြင့်သာ အခြေအနေအားလုံးပြောင်းလဲလာ ကျွန်ုပ်အစွမ်းအစမဟုတ်
+အရာရာကိုယ်တော်ကြောင့်သာ
 
-t&m&mrSmcsD;rGrf;jcif;jzifhom tajctaexl;jcm;ajymif;vJvm uREfkyftpGrf;tpr½Sdf
-t&m&mudk,fawmfaMumifhom jzpfwnfaewm
+အရာရာမှာချီးမွမ်းခြင်းဖြင့်သာ အခြေအနေထူးခြားပြောင်းလဲလာ ကျွန်ုပ်အစွမ်းအစမရှိ်
+အရာရာကိုယ်တော်ကြောင့်သာ ဖြစ်တည်နေတာ

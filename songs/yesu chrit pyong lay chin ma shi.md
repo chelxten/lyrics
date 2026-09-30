@@ -1,12 +1,11 @@
 ---
-title: a,½Ic&pfajymif;vJjcif;r½Sd
-font: win
+title: ယေရှုခရစ်ပြောင်းလဲခြင်းမရှိ
 ---
-a,½Ic&pfajymif;vJjcif;r½Sd
-ajymif;vJjcif;r½Sd ajymif;vJjcif;r½Sd
+ယေရှုခရစ်ပြောင်းလဲခြင်းမရှိ
+ပြောင်းလဲခြင်းမရှိ ပြောင်းလဲခြင်းမရှိ
 
-a,½Ic&pfajymif;vJjcif;r½Sd
-raeY ,aeY aemifumv
+ယေရှုခရစ်ပြောင်းလဲခြင်းမရှိ
+မနေ့ ယနေ့ နောင်ကာလ
 
-([mavvk,m [mavvk,m) 3
-[m...av...vk...,m
+(ဟာလေလုယာ ဟာလေလုယာ) ၃
+ဟာ...လေ...လု...ယာ

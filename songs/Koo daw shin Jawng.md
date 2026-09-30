@@ -1,11 +1,10 @@
 ---
-title: ukd,fawmf&Sifaujmifh
-font: win
+title: ကိုယ်တော်ရှင်ကြောင့်
 ---
-ukd,fawmf&SifuREkfyfukd a&G;EIwfcspfavol ukd,fawmf&SifuREkfyfukd toufpGefYcspfavol
+ကိုယ်တော်ရှင်ကျွန်ုပ်ကို ရွေးနှုတ်ချစ်လေသူ ကိုယ်တော်ရှင်ကျွန်ုပ်ကို အသက်စွန့်ချစ်လေသူ
 
-bkef;awmfBuD;jrwfaom ukd,fawmf&Sifwpfyg;om tqkH;rJharwåmeJY vlawGukd cspfcJhwm
+ဘုန်းတော်ကြီးမြတ်သော ကိုယ်တော်ရှင်တစ်ပါးသာ အဆုံးမဲ့မေတ္တာနဲ့ လူတွေကို ချစ်ခဲ့တာ
 
-ukd,fawmfr&SdwJhaeY&uf[m t&m&mtewåtcsOf;ESD;yg
+ကိုယ်တော်မရှိတဲ့နေ့ရက်ဟာ အရာရာအနတ္တအချဉ်းနှီးပါ
 
-ukd,fawmfaMumifhbJ uREkfyfb0[m t&m&mtm;vkH;vSyvm (ukd,fawmf&SifaMumifh)3
+ကိုယ်တော်ကြောင့်ဘဲ ကျွန်ုပ်ဘဝဟာ အရာရာအားလုံးလှပလာ (ကိုယ်တော်ရှင်ကြောင့်)၃

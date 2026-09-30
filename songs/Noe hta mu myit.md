@@ -1,16 +1,15 @@
 ---
-title: Ekd;xrIjrpf
-font: win
+title: နိုးထမှုမြစ်
 ---
-oefY&Sif;aom0dnmOfawmf vIyf&Sm;onfhtcg csnfaESmifaewJh wHwkdif;BuD;rsm; yGifhoGm;
+သန့်ရှင်းသောဝိညာဉ်တော် လှုပ်ရှားသည့်အခါ ချည်နှောင်နေတဲ့ တံတိုင်းကြီးများ ပွင့်သွား
 
-0dnmOfrsufpdyGifh 0dnmOfem;awGMum; edrdwfvu©Pm BuD;rm;pGm xif&Sm;
+ဝိညာဉ်မျက်စိပွင့် ဝိညာဉ်နားတွေကြား နိမိတ်လက္ခဏာ ကြီးမားစွာ ထင်ရှား
 
-zlvIHaygrsm;jcif; <u,f0jcif;rsm; rBuKHpzl; tHhzG,f wefckd;rsm;
+ဖူလှုံပေါများခြင်း ကြွယ်ဝခြင်းများ မကြုံစဖူး အံ့ဖွယ် တန်ခိုးများ
 
-0dnmOfEkd;xjcif; wkdif;EkdifiHxJü
-,ckoufa&mufNyD ,kHMunf0efcH>rufqkd
+ဝိညာဉ်နိုးထခြင်း တိုင်းနိုင်ငံထဲ၌
+ယခုသက်ရောက်ပြီ ယုံကြည်ဝန်ခံမြွက်ဆို
 
-BuD;rm;aom Ekd;xrIjrpf pD;qif;vmNyD xl;qef;aom tawGUtBuKHrsm; cHpm;&vmNyD
+ကြီးမားသော နိုးထမှုမြစ် စီးဆင်းလာပြီ ထူးဆန်းသော အတွေ့အကြုံများ ခံစားရလာပြီ
 
-ikdufjrnf;aom 0dnmOfrsm;pGm Ekd;xvmNyD; Ekd;xrI&JU wefckd;rsm; ul;pufvmNyD
+ငိုက်မြည်းသော ဝိညာဉ်များစွာ နိုးထလာပြီး နိုးထမှုရဲ့ တန်ခိုးများ ကူးစက်လာပြီ

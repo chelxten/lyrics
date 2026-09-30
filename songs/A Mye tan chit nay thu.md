@@ -1,13 +1,12 @@
 ---
-title: trjJwrf;cspfaeol
-font: win
+title: အမြဲတမ်းချစ်နေသူ
 ---
-xm0&bk&m;onf oem;wwfaomoabm aus;Zl;jyKwwfaom oabmESifh jynfhpkH
+ထာဝရဘုရားသည် သနားတတ်သောသဘော ကျေးဇူးပြုတတ်သော သဘောနှင့် ပြည့်စုံ
 
-pdwfawmfvnf; &Snfvsm;rlNyD; cGifhvTwfjcif;ESifh jynfhpkHol u½kPmawmfonf uREkfyfü tpOftNrJ<u,f0rlonf
+စိတ်တော်လည်း ရှည်လျားမူပြီး ခွင့်လွှတ်ခြင်းနှင့် ပြည့်စုံသူ ကရုဏာတော်သည် ကျွန်ုပ်၌ အစဉ်အမြဲကြွယ်ဝမူသည်
 
-tNidK;ukdrxm;bJ uREkfyf&SdorQ tjypfwkdYtwGuf um;wkdiftxufrSm taoG;awmf oGef;emusifrIrsm;ESifh toufukdpaw;
+အငြိုးကိုမထားဘဲ ကျွန်ုပ်ရှိသမျှ အပြစ်တို့အတွက် ကားတိုင်အထက်မှာ အသွေးတော် သွန်းနာကျင်မှုများနှင့် အသက်ကိုစတေး
 
-tEIdif;rJhaom arwåmawmf tEIdif;rJhaom  opömawmf tEIdif;rJhaom  rsufarSmufawmf tEIdif;rJhaom a,½I
+အနှိုင်းမဲ့သော မေတ္တာတော် အနှိုင်းမဲ့သော  သစ္စာတော် အနှိုင်းမဲ့သော  မျက်မှောက်တော် အနှိုင်းမဲ့သော ယေရှု
 
-tEIdif;rJhaom  cGifhvTwfjcif; tEIdif;rJhaom  pGefYvTwfjcif; tEIdif;rJhaom  ay;qyfjcif; tEIdif;rJhaom  a,½I ukd,fawmf
+အနှိုင်းမဲ့သော  ခွင့်လွှတ်ခြင်း အနှိုင်းမဲ့သော  စွန့်လွှတ်ခြင်း အနှိုင်းမဲ့သော  ပေးဆပ်ခြင်း အနှိုင်းမဲ့သော  ယေရှု ကိုယ်တော်

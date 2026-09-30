@@ -1,21 +1,20 @@
 ---
-title: ocifacgfaomt&yf
-font: win
+title: သခင်ခေါ်သောအရပ်
 ---
-ocif&Sdaom&yfrSm uREkfyftNrJ ociftm;udk;uG,f
-ocifbk&m;wyg;om uREkfyf&JU ,Zfyv’ifwnf&m
+သခင်ရှိသောရပ်မှာ ကျွန်ုပ်အမြဲ သခင်အားကိုးကွယ်
+သခင်ဘုရားတပါးသာ ကျွန်ုပ်ရဲ့ ယဇ်ပလ္လင်တည်ရာ
 
-ocif&Sdjcif;aMumifhom uREkfyfb0 jzpfwnf&jcif;yg
-ocifbk&m;wyg;om uRekfyf&JU ,Zfyv’ifwnf&m
+သခင်ရှိခြင်းကြောင့်သာ ကျွန်ုပ်ဘဝ ဖြစ်တည်ရခြင်းပါ
+သခင်ဘုရားတပါးသာ ကျွန်ုပ်ရဲ့ ယဇ်ပလ္လင်တည်ရာ
 
-a&TaiGawGr&Sdvnf; udk;uG,frnf
-uREkfyfb0&JU tcef;ajcmufqkH;aomtcsdef
+ရွှေငွေတွေမရှိလည်း ကိုးကွယ်မည်
+ကျွန်ုပ်ဘဝရဲ့ အခန်းခြောက်ဆုံးသောအချိန်
 
-tem*wf[m arSmifrdkufzkH;vTrf;aevnf;
-udk,fawmfac:aomt&yfü udk;uG,frnf
+အနာဂတ်ဟာ မှောင်မိုက်ဖုံးလွှမ်းနေလည်း
+ကိုယ်တော်ခေ:သောအရပ်၌ ကိုးကွယ်မည်
 
-ocifacgfaqmif&m uREfkyfvdkufygrnf
-uRekfyfb0&JU tcrf;em;qkH;aomt&m
+သခင်ခေါ်ဆောင်ရာ ကျွန်ုပ်လိုက်ပါမည်
+ကျွန်ုပ်ဘဝရဲ့ အခမ်းနားဆုံးသောအရာ
 
-ocifbk&m;om uREkfyfb0&JU tvif;tdrfbJ
-udk,fawmfac:aomt&yfü udk;uG,frnf
+သခင်ဘုရားသာ ကျွန်ုပ်ဘဝရဲ့ အလင်းအိမ်ဘဲ
+ကိုယ်တော်ခေ:သောအရပ်၌ ကိုးကွယ်မည်

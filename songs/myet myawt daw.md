@@ -1,20 +1,19 @@
 ---
-title: rsufarSmufawmf
-font: win
+title: မျက်မှောက်တော်
 ---
-t&mcyfodrf;pD;xGufwJh rsufarSmufawmf
-pkHvifaom xdkrsufarSmufawmf
+အရာခပ်သိမ်းစီးထွက်တဲ့ မျက်မှောက်တော်
+စုံလင်သော ထိုမျက်မှောက်တော်
 
-pdwfESvkH;tvdkjynfh0r,fh rsufarSmufawmf
-xHawmfokdYtcsdefwkdif;arGUavsmf xkdrsufarSmufawmf
+စိတ်နှလုံးအလိုပြည့်ဝမယ့် မျက်မှောက်တော်
+ထံတော်သို့အချိန်တိုင်းမွေ့လျော် ထိုမျက်မှောက်တော်
 
-csnfaESmifjcif; vGwfajrmufr,fh
-rsufarSmufawmf atmifjrifjcif; xkdrsufarSmufawmf
+ချည်နှောင်ခြင်း လွတ်မြောက်မယ့်
+မျက်မှောက်တော် အောင်မြင်ခြင်း ထိုမျက်မှောက်တော်
 
-a0'emrsm; aysmufuif;r,fh rsufarSmufawmf ,kHMunfvkdY arQmfvifh[pfatmf xkdrsufarSmufawmf
+ဝေဒနာများ ပျောက်ကင်းမယ့် မျက်မှောက်တော် ယုံကြည်လို့ မျှော်လင့်ဟစ်အော် ထိုမျက်မှောက်တော်
 
-(rsufarSmufawmfxJrSm rsufarSmufawmfxJrSm ae&aomwpf&uf[m)
+(မျက်မှောက်တော်ထဲမှာ မျက်မှောက်တော်ထဲမှာ နေရသောတစ်ရက်ဟာ)
 
-tjyifurÇmrSm ae&aom&ufwpfaxmifxuf tvkdqE´ykdrkdNyD;jynfhpkHumwefzkd;&Sdvm
+အပြင်ကမ္ဘာမှာ နေရသောရက်တစ်ထောင်ထက် အလိုဆန္ဒပိုမိုပြီးပြည့်စုံကာတန်ဖိုးရှိလာ
 
-rsufarSmufawmfxJrSm
+မျက်မှောက်တော်ထဲမှာ

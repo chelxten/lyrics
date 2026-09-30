@@ -1,25 +1,24 @@
 ---
-title: ausmuf
-font: win
+title: ကျောက်
 ---
-ighajrmfvifhjcif;tjrpfwnf&m
-c&pfawmf\ taoG;jrwfom
+ငါ့မြော်လင့်ခြင်းအမြစ်တည်ရာ
+ခရစ်တော်၏ အသွေးမြတ်သာ
 
-ig\usifh0wfrSDwG,fr&Sd
-emrawmfukodkvfatmifownf;
+ငါ၏ကျင့်ဝတ်မှီတွယ်မရှိ
+နာမတော်ကုသိုလ်အောင်သတည်း
 
-ausmufjrpfc&pfawmf igcdkvIH
-tjcm;wnf&m &Sd&SdoJEkef;
-tjcm;wnf&m &Sd&SdoJEkef;
+ကျောက်မြစ်ခရစ်တော် ငါခိုလှုံ
+အခြားတည်ရာ ရှိရှိသဲနုန်း
+အခြားတည်ရာ ရှိရှိသဲနုန်း
 
-a&TrsufESmawmftvif;uG,fvQif
-wnfjrJu½kPmawmfcdk0if
+ရွှေမျက်နှာတော်အလင်းကွယ်လျှင်
+တည်မြဲကရုဏာတော်ခိုဝင်
 
-avjyif;usí vIdif;xvQifvnf;
-ukvm;umxJausmufpGJaernf
+လေပြင်းကျ၍ လှိုင်းထလျှင်လည်း
+ကုလားကာထဲကျောက်စွဲနေမည်
 
-a&vTrf;tm;BuD; ywfvnfNydKaomf
-*wd y#dnmOfESifhaoG;awmf
+ရေလွှမ်းအားကြီး ပတ်လည်ပြိုသော်
+ဂတိ ပဋိညာဉ်နှင့်သွေးတော်
 
-ighudkaxmufr udk,fawmfomvQif
-ighajrmfvifhjcif;rDS0J&myif
+ငါ့ကိုထောက်မ ကိုယ်တော်သာလျှင်
+ငါ့မြော်လင့်ခြင်းမှီဝဲရာပင်

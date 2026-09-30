@@ -1,23 +1,22 @@
 ---
-title: obm0vGef
-font: win
+title: သဘာဝလွန်
 ---
-avmuoabmeJYuREfkyfqefYusifbuf
-vufawGYruswJhuREfkyfftouf½Sifjcif;eJY
+လောကသဘောနဲ့ကျွန်ုပ်ဆန့်ကျင်ဘက်
+လက်တွေ့မကျတဲ့ကျွန်ုပ်အသက်ရှင်ခြင်းနဲ့
 
-obm0&JUtxufrSmtNrJwrf;uREfkyf½Sifoefr,f
-uREfkyfrSmjzpfwm obm0tvGefBuD;yJ
+သဘာဝရဲ့အထက်မှာအမြဲတမ်းကျွန်ုပ်ရှင်သန်မယ်
+ကျွန်ုပ်မှာဖြစ်တာ သဘာဝအလွန်ကြီးပဲ
 
-trSefw&m;eJY½SifNyD;uREfkyfra½G;cs,fw,f
-or®mw&m;ü&yfum uREfkyf&yfwnfr,f
+အမှန်တရားနဲ့ရှင်ပြီးကျွန်ုပ်မရွေးချယ်တယ်
+သမ္မာတရား၌ရပ်ကာ ကျွန်ုပ်ရပ်တည်မယ်
 
-tqkH;eJYt½IH;rcH taumif;eJYtqdk;udktEdkif,lr,f
-bmaMumifhvJar;&if uREfkyfbk&m;om;jzpfw,f
+အဆုံးနဲ့အရှုံးမခံ အကောင်းနဲ့အဆိုးကိုအနိုင်ယူမယ်
+ဘာကြောင့်လဲမေးရင် ကျွန်ုပ်ဘုရားသားဖြစ်တယ်
 
-0efcHaer,f uREfkyf&JUtxJoljznfhqnf;ay;w,f
-pdwfcsaer,ftqkH;xd wm0ef,lay;r,f
+ဝန်ခံနေမယ် ကျွန်ုပ်ရဲ့အထဲသူဖြည့်ဆည်းပေးတယ်
+စိတ်ချနေမယ်အဆုံးထိ တာဝန်ယူပေးမယ်
 
-aumif;uiftzpkHvifovdkyJ uREfkyfpkHvifzdkYtwGuf
-udk,fawmfhudkyJuREfkyfaeYwdkif;a½G;cs,fr,f
+ကောင်းကင်အဖစုံလင်သလိုပဲ ကျွန်ုပ်စုံလင်ဖို့အတွက်
+ကိုယ်တော့်ကိုပဲကျွန်ုပ်နေ့တိုင်းရွေးချယ်မယ်
 
-ukd,fawmfhukdyJ uREkfyftcsdefwkdif;vkdtyfw,f
+ကိုယ်တော့်ကိုပဲ ကျွန်ုပ်အချိန်တိုင်းလိုအပ်တယ်

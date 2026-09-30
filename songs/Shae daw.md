@@ -1,18 +1,17 @@
 ---
-title: a&Shawmf
-font: win
+title: ရှေ့တော်
 ---
-oeYf&Sif;aom 0dnmOfawmf bkef;wefckd;ESifh <uqif;um ESvkH;om;ukd tkyfpkd;yg
+သန့်ရှင်းသော ဝိညာဉ်တော် ဘုန်းတန်ခိုးနှင့် ကြွဆင်းကာ နှလုံးသားကို အုပ်စိုးပါ
 
-tEl;nHhqkH;pum;csKdeJY tm;tifukd jznfhum twGif;vl ckdifcHhap
+အနူးညံ့ဆုံးစကားချိုနဲ့ အားအင်ကို ဖြည့်ကာ အတွင်းလူ ခိုင်ခံ့စေ
 
-pdwfESvkH;OmPf&SdorQjzifh oefY&Sif;aom 0dnmOfawmfukd uREkfyfukd;uG,f
+စိတ်နှလုံးဉာဏ်ရှိသမျှဖြင့် သန့်ရှင်းသော ဝိညာဉ်တော်ကို ကျွန်ုပ်ကိုးကွယ်
 
-ukd,fawmfbk&m;&JUa&SUawmfrSm b,ftema&m*grS
-rcHEkdif
+ကိုယ်တော်ဘုရားရဲ့ရှေ့တော်မှာ ဘယ်အနာရောဂါမှ
+မခံနိုင်
 
-0rf;enf;p&mawG avmut&mawG bmqkdbmwpfckrS rcHr&yfEkdifbl;
+ဝမ်းနည်းစရာတွေ လောကအရာတွေ ဘာဆိုဘာတစ်ခုမှ မခံမရပ်နိုင်ဘူး
 
-0dnmOfawmfbk&m;&JU a&SUawmfrSm b,f0dnmOfqdk;rS raeEkdif
+ဝိညာဉ်တော်ဘုရားရဲ့ ရှေ့တော်မှာ ဘယ်ဝိညာဉ်ဆိုးမှ မနေနိုင်
 
-txuft&yfa&Tjynf bk&m;a&SUrSmvkd tkdemaojcif;vnf; r&Sdawmhbl; ocifa&SUawmfarSmufawmf0,f
+အထက်အရပ်ရွှေပြည် ဘုရားရှေ့မှာလို အိုနာသေခြင်းလည်း မရှိတော့ဘူး သခင်ရှေ့တော်မှောက်တော်ဝယ်

@@ -1,9 +1,8 @@
 ---
-title: EIwfjzifh>rwfqdkrrDS
-font: win
+title: နှုတ်ဖြင့်မြွတ်ဆိုမမှီ
 ---
-tBuD;jrwfqkH; udk,fawmfbk&m;om taumif;jrwfqkH; a,½Ibk&m;omuRekfyftm; u,fwifa&G;EIwfaombk&m;
+အကြီးမြတ်ဆုံး ကိုယ်တော်ဘုရားသာ အကောင်းမြတ်ဆုံး ယေရှုဘုရားသာကျွန်ုပ်အား ကယ်တင်ရွေးနှုတ်သောဘုရား
 
-qkd;npfwJh 'Dtjypfrsm;twGuf taoG;oGef;NyD; olava&G;cJh tqkH;tpr&SdwJh bk&m;&JU arwåmawmf
+ဆိုးညစ်တဲ့ ဒီအပြစ်များအတွက် အသွေးသွန်းပြီး သူလေရွေးခဲ့ အဆုံးအစမရှိတဲ့ ဘုရားရဲ့ မေတ္တာတော်
 
-udk,fawmf&Sif\cspfjcif;arwåm EIwfjzifh>rwfqdkrrSDDEdkif&m a,½IuREkfyftm; cspfonfudk EIwfjzifh>rwfqdkrrDS
+ကိုယ်တော်ရှင်၏ချစ်ခြင်းမေတ္တာ နှုတ်ဖြင့်မြွတ်ဆိုမမှီနိုင်ရာ ယေရှုကျွန်ုပ်အား ချစ်သည်ကို နှုတ်ဖြင့်မြွတ်ဆိုမမှီ

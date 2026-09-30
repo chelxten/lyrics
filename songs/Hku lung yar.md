@@ -1,17 +1,16 @@
 ---
-title: cdkvSkH&m
-font: win
+title: ခိုလှုံရာ
 ---
-ukd,fawmfbk&m; aumif;jrwfaMumif;ukd pOf;pm;&if rukefEkdifbl; uREkfyf&UJtoufwmxJ
+ကိုယ်တော်ဘုရား ကောင်းမြတ်ကြောင်းကို စဉ်းစားရင် မကုန်နိုင်ဘူး ကျွန်ုပ်ရဲ့အသက်တာထဲ
 
-tcsdefawGwkdif;uRkEkfyf&JUtem;rSm&SdwJhol rjrifEkdifvnf; teD;tem;av;rSmbJ
+အချိန်တွေတိုင်းကျွုန်ုပ်ရဲ့အနားမှာရှိတဲ့သူ မမြင်နိုင်လည်း အနီးအနားလေးမှာဘဲ
 
-'DvkdocifhtcspfrsKd;b,fem; vkdufvkdY&SmrvJ ti,fqkH;ukdvnf; b,fawmhrSrypfy,fcJh
+ဒီလိုသခင့်အချစ်မျိုးဘယ်နား လိုက်လို့ရှာမလဲ အငယ်ဆုံးကိုလည်း ဘယ်တော့မှမပစ်ပယ်ခဲ့
 
-,kHMunfpGm ukd;pm;oltwGuf ukd,fawmf&Sif toifh&SdaetNrJ ra&&mtm;i,faom oltwGuf ausmufaqmifa,½I
+ယုံကြည်စွာ ကိုးစားသူအတွက် ကိုယ်တော်ရှင် အသင့်ရှိနေအမြဲ မရေရာအားငယ်သော သူအတွက် ကျောက်ဆောင်ယေရှု
 
-ckdvIHum qufuyfoltwGuf BudKqkdvufurf;vkdYaeqJ aocsmwJh tem*wfukd ay;pGrf;EkdifwJhol ckdvIH&ma,½I
+ခိုလှုံကာ ဆက်ကပ်သူအတွက် ကြိုဆိုလက်ကမ်းလို့နေဆဲ သေချာတဲ့ အနာဂတ်ကို ပေးစွမ်းနိုင်တဲ့သူ ခိုလှုံရာယေရှု
 
-ukd,fawmfbk&m; jyKwJhtrIawG pOfpm;&if rrSDEkdifbl; vlY&JUtodOmPfeJY
+ကိုယ်တော်ဘုရား ပြုတဲ့အမှုတွေ စဉ်စားရင် မမှီနိုင်ဘူး လူ့ရဲ့အသိဉာဏ်နဲ့
 
-'Dvkdb0tusOf;tMuyfxJrSm cJ,Of;vnf; tcsdefrSDbJ tNrJavmufiSapcJh
+ဒီလိုဘဝအကျဉ်းအကြပ်ထဲမှာ ခဲယဉ်းလည်း အချိန်မှီဘဲ အမြဲလောက်ငှစေခဲ့

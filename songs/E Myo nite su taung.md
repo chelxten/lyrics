@@ -1,25 +1,24 @@
 ---
-title: þNrdKUüqkwamif;
-font: win
+title: ဤမြို့၌ဆုတောင်း
 ---
-þNrdKUtwGuf uREkfyfqkawmif;yg\
-0dnmOfawmfrD;twGuf
+ဤမြို့အတွက် ကျွန်ုပ်ဆုတောင်းပါ၏
+ဝိညာဉ်တော်မီးအတွက်
 
-Ekd;xrIjrpfpD;qif;NyD; 0dnmOfawGvGwfajrmufap
-wkdif;a'owpfckNyD;wpfck
+နိုးထမှုမြစ်စီးဆင်းပြီး ဝိညာဉ်တွေလွတ်မြောက်စေ
+တိုင်းဒေသတစ်ခုပြီးတစ်ခု
 
-0dnmOfrD;vQHrsm; ul;qufapyg
-jynfh0apyg
+ဝိညာဉ်မီးလျှံများ ကူးဆက်စေပါ
+ပြည့်ဝစေပါ
 
-vlrsKd;wdkif;twGuf qkawmif;yg\
-0dnmOfawmfrD;twGuf
+လူမျိုးတိုင်းအတွက် ဆုတောင်းပါ၏
+ဝိညာဉ်တော်မီးအတွက်
 
-Edk;xrIjrpfpD;qif;NyD; 0dnmOfawGvGwfajrmufap
-wkdif;a'owpfckNyD;wpfck 0dnmOfrD;vQHrsm;
-ul;qufapyg jynfh0apyg
+နိုးထမှုမြစ်စီးဆင်းပြီး ဝိညာဉ်တွေလွတ်မြောက်စေ
+တိုင်းဒေသတစ်ခုပြီးတစ်ခု ဝိညာဉ်မီးလျှံများ
+ကူးဆက်စေပါ ပြည့်ဝစေပါ
 
-þNrdKUü þa'oü þt&yfü
-0dnmOfawmfqif;oufaeNyD
+ဤမြို့၌ ဤဒေသ၌ ဤအရပ်၌
+ဝိညာဉ်တော်ဆင်းသက်နေပြီ
 
-þNrdKUü þa'oü þt&yfü
-0dnmOfawmfrD; qif;oufaejyD
+ဤမြို့၌ ဤဒေသ၌ ဤအရပ်၌
+ဝိညာဉ်တော်မီး ဆင်းသက်နေပြီ

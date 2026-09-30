@@ -1,25 +1,24 @@
 ---
-title: vQHxGuf
-font: win
+title: လျှံထွက်
 ---
-b0rSmocif&JU arwÅm*½kPm
-aeY&ufpOfwdkif;rSm vkHavmuf½kHruyg
-aus;Zl;awmf cGufzvm;jynhfvQH aeNrJyg
+ဘဝမှာသခင်ရဲ့ မေတ္တာဂရုဏာ
+နေ့ရက်စဉ်တိုင်းမှာ လုံလောက်ရုံမကပါ
+ကျေးဇူးတော် ခွက်ဖလားပြည့်လျှံ နေမြဲပါ
 
-uGufwdr[kwfyg tNrJwrf; jynhfvQH
-vdkaewm
+ကွက်တိမဟုတ်ပါ အမြဲတမ်း ပြည့်လျှံ
+လိုနေတာ
 
-b,fvdktcuftcJ &Sdygap 'ku©awGUygap
-udk,fawmfeJUtwl jzwfausmfr,f
+ဘယ်လိုအခက်အခဲ ရှိပါစေ ဒုက္ခတွေ့ပါစေ
+ကိုယ်တော်နဲ့အတူ ဖြတ်ကျော်မယ်
 
-b,fvdkt½IyftaxG; &Sdygap csD;rGrf;tkH;r,f
-xm0& uREkfyfudk;uG,fr,f
+ဘယ်လိုအရှုပ်အထွေး ရှိပါစေ ချီးမွမ်းအုံးမယ်
+ထာဝရ ကျွန်ုပ်ကိုးကွယ်မယ်
 
-(vQHxGuf)2 vQHvsuf&Sd cGufzvm;wGuf
-atmf[pfum a<u;aMumfcsD;rGrf;
-a,½Itm;
+(လျှံထွက်)၂ လျှံလျက်ရှိ ခွက်ဖလားတွက်
+အော်ဟစ်ကာ ကြွေးကြော်ချီးမွမ်း
+ယေရှုအား
 
-vufckyfwD;&ifeJU uckefcsD;rGrf;&if;eJU
-udk,fawmfhtaMumif;a<u;aMumfr,f xm0&wdkif
+လက်ခုပ်တီးရင်နဲ့ ကခုန်ချီးမွမ်းရင်းနဲ့
+ကိုယ်တော့်အကြောင်းကြွေးကြော်မယ် ထာဝရတိုင်
 
-em; em; em; em;....
+နား နား နား နား....

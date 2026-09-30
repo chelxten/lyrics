@@ -1,13 +1,12 @@
 ---
-title: touf&Sdoltaygif;
-font: win
+title: အသက်ရှိသူအပေါင်း
 ---
-touf&Sdoltaygif;
+အသက်ရှိသူအပေါင်း
 
-udkawmfonf eH0dnmOf udkawmfonf wefcdk;BuD;t&Sif csD;rGrf; avmuvlom;awGG
+ကိုတော်သည် နံဝိညာဉ် ကိုတော်သည် တန်ခိုးကြီးအရှင် ချီးမွမ်း လောကလူသားတွေ
 
-udk,fawmfonf opöm&Sif udk,fawmfonf arwåm&Sif csD;rGrf; touf&Sdoltaygif;wdkY
+ကိုယ်တော်သည် သစ္စာရှင် ကိုယ်တော်သည် မေတ္တာရှင် ချီးမွမ်း အသက်ရှိသူအပေါင်းတို့
 
-emrawmf csD;ajrmufrnf *kPfawmfudk >rufqdkrnf udk,fawmfudk csD;rGrf; tpOfxm0&
+နာမတော် ချီးမြောက်မည် ဂုဏ်တော်ကို မြွက်ဆိုမည် ကိုယ်တော်ကို ချီးမွမ်း အစဉ်ထာဝရ
 
-touf&Sdoltaygif; udk,fawmfudk csD;rGrf; touf&Sdoltaygif; udk,fawmfudk csD;rGrf touf&Sdoltaygif; udk,fawmfudk csD;rGrf [mavvk,m
+အသက်ရှိသူအပေါင်း ကိုယ်တော်ကို ချီးမွမ်း အသက်ရှိသူအပေါင်း ကိုယ်တော်ကို ချီးမွမ် အသက်ရှိသူအပေါင်း ကိုယ်တော်ကို ချီးမွမ် ဟာလေလုယာ

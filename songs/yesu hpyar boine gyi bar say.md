@@ -1,9 +1,8 @@
 ---
-title: a,½Ibk&m;bkef;BuD;ygap
-font: win
+title: ယေရှုဘုရားဘုန်းကြီးပါစေ
 ---
-(a,½Ibk&m;bkef;BuD;ygap)3 (xm0&)3
+(ယေရှုဘုရားဘုန်းကြီးပါစေ)၃ (ထာဝရ)၃
 
-bkef;BuD;jcif;tvkH;pkH csD;ajrmufjcif;tvkH;pkH csD;rGrf;jcif;tvkH;pkH a,½Iwpfyg;omcHxkduf
+ဘုန်းကြီးခြင်းအလုံးစုံ ချီးမြောက်ခြင်းအလုံးစုံ ချီးမွမ်းခြင်းအလုံးစုံ ယေရှုတစ်ပါးသာခံထိုက်
 
-*kPfjyKjcif;tvkH;pkH xkdufwefjcif;tvkH;pkH wefckd;BuD;jcif;tvkH;pkH a,½Iwpfygom cHxkduf
+ဂုဏ်ပြုခြင်းအလုံးစုံ ထိုက်တန်ခြင်းအလုံးစုံ တန်ခိုးကြီးခြင်းအလုံးစုံ ယေရှုတစ်ပါသာ ခံထိုက်

@@ -1,19 +1,18 @@
 ---
-title: cufcJvdkhr[kwfyg
-font: win
+title: ခက်ခဲလို့မဟုတ်ပါ
 ---
-twm;qD;awGxyfxyfcgcg wpfwdkif;BuD;awG
-xyfxyfcgcg ydwfpdkYaevnf; udk,fawmfudk
-qufcsD;rGrf;aer,f
+အတားဆီးတွေထပ်ထပ်ခါခါ တစ်တိုင်းကြီးတွေ
+ထပ်ထပ်ခါခါ ပိတ်စို့နေလည်း ကိုယ်တော်ကို
+ဆက်ချီးမွမ်းနေမယ်
 
-vIdif;wHydk;awGjyif;jyif;xefxef rkefwdkif;awG
-jyif;jyif;xefxefwdkufcdkufaevnf;
-udk,fawmfudkqufcsD;rGrf;aer,f
+လှိုင်းတံပိုးတွေပြင်းပြင်းထန်ထန် မုန်တိုင်းတွေ
+ပြင်းပြင်းထန်ထန်တိုက်ခိုက်နေလည်း
+ကိုယ်တော်ကိုဆက်ချီးမွမ်းနေမယ်
 
-udk,fawmfudk½SmwmcufcJvdkYr[kwfyg
-udk,fawmfudkacgfwmcufcJvdkYr[kwfyg
+ကိုယ်တော်ကိုရှာတာခက်ခဲလို့မဟုတ်ပါ
+ကိုယ်တော်ကိုခေါ်တာခက်ခဲလို့မဟုတ်ပါ
 
-udk,fawmfudkodyfcspfvfdkY udk,fawmfudkodyfcspfw,f
-udk,fawmfudkodyfcspfvfdkY udk,fawmfudkodyfcspfw,f
+ကိုယ်တော်ကိုသိပ်ချစ်လို့် ကိုယ်တော်ကိုသိပ်ချစ်တယ်
+ကိုယ်တော်ကိုသိပ်ချစ်လို့် ကိုယ်တော်ကိုသိပ်ချစ်တယ်
 
-uREfkyfudkodyfcspfwJhola,½I uREfkyf&JUcspfola,½I
+ကျွန်ုပ်ကိုသိပ်ချစ်တဲ့သူယေရှု ကျွန်ုပ်ရဲ့ချစ်သူယေရှု

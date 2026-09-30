@@ -1,17 +1,16 @@
 ---
-title: c&pfawmfxJü
-font: win
+title: ခရစ်တော်ထဲ၌
 ---
-u,fwifrlaom ociftaoG;awmf vkHNcKHapaom ociftaoG;awmfy#dnmOf xm0&wnfaom pifMu,fajzmifhrwf oufaotaoG;awmf
+ကယ်တင်မူသော သခင်အသွေးတော် လုံခြုံစေသော သခင်အသွေးတော်ပဋိညာဉ် ထာဝရတည်သော စင်ကြယ်ဖြောင့်မတ် သက်သေအသွေးတော်
 
-a0'emawGtwGuf 'Pfcsufawmf ,kHMunfukdifpJG xkdwefckd;awmf
-temawG aysmufapaom
+ဝေဒနာတွေအတွက် ဒဏ်ချက်တော် ယုံကြည်ကိုင်စွဲ ထိုတန်ခိုးတော်
+အနာတွေ ပျောက်စေသော
 
-ukd,fwkdifcsKd;zJhjcif;cHaom 'Pfcsufawmf 'Pfcsufawmf
+ကိုယ်တိုင်ချိုးဖဲ့ခြင်းခံသော ဒဏ်ချက်တော် ဒဏ်ချက်တော်
 
-oGef;avmif;cJhtaoG;awmf
-tjypfvGwfapNyD tqD;twm;r&Sd teD;tyg;txd csOf;uyfEkdifNyD
+သွန်းလောင်းခဲ့အသွေးတော်
+အပြစ်လွတ်စေပြီ အဆီးအတားမရှိ အနီးအပါးအထိ ချဉ်းကပ်နိုင်ပြီ
 
-xajrmufjcif;wefckd;awmftoufjzpfapNyD aeY&ufwkdif;c&pfawmftopfjyKjyifonf
+ထမြောက်ခြင်းတန်ခိုးတော်အသက်ဖြစ်စေပြီ နေ့ရက်တိုင်းခရစ်တော်အသစ်ပြုပြင်သည်
 
-uREkfyf\txJü uREkfyf\txJüc&pfawmf topfjyKjyifonf uREkfyf\txJü
+ကျွန်ုပ်၏အထဲ၌ ကျွန်ုပ်၏အထဲ၌ခရစ်တော် အသစ်ပြုပြင်သည် ကျွန်ုပ်၏အထဲ၌

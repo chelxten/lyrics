@@ -1,16 +1,15 @@
 ---
-title: udk,fawmfudkcspfonf
-font: win
+title: ကိုယ်တော်ကိုချစ်သည်
 ---
-avmuxJ&SdorQ t&mxuf ukd,fawmfukd cspfw,f uRekfyfb0twGuf taumif;qkH;ocifbJ
+လောကထဲရှိသမျှ အရာထက် ကိုယ်တော်ကို ချစ်တယ် ကျွန်ုပ်ဘဝအတွက် အကောင်းဆုံးသခင်ဘဲ
 
-tEIdif;rJhwJh olUtcspfawGtwGuf nDwlrQwJh pum;vkH;rsm; vkdufvkdY&SmrawGUw,f
+အနှိုင်းမဲ့တဲ့ သူ့အချစ်တွေအတွက် ညီတူမျှတဲ့ စကားလုံးများ လိုက်လို့ရှာမတွေ့တယ်
 
-em&Dwkdif; csD;rGrf;ukd;uG,fr,f rukefEkdifaom olU*½kPmtwGuf
+နာရီတိုင်း ချီးမွမ်းကိုးကွယ်မယ် မကုန်နိုင်သော သူ့ဂရုဏာအတွက်
 
-avmu&JUtaumif;qkH;awGxuf avmuxJ&SdorQt&mxuf ukd,fawmfukd cspfw,f
+လောကရဲ့အကောင်းဆုံးတွေထက် လောကထဲရှိသမျှအရာထက် ကိုယ်တော်ကို ချစ်တယ်
 
-raeY,aeYeJY aemufreufjzefvJ rajymif;vJwJh cspfarwåmeJY ukd,fawmf&Sif&Sdw,f
+မနေ့ယနေ့နဲ့ နောက်မနက်ဖြန်လဲ မပြောင်းလဲတဲ့ ချစ်မေတ္တာနဲ့ ကိုယ်တော်ရှင်ရှိတယ်
 
-pum;vkH;eJYEIdif;r&ayr,fh ESvkH;om;xJ txyfxyfqkd nnf;r,f 'DurÇmtqkH;xdwkdif
-ukd,fawmfukd cspfw,f
+စကားလုံးနဲ့နှိုင်းမရပေမယ့် နှလုံးသားထဲ အထပ်ထပ်ဆို ညည်းမယ် ဒီကမ္ဘာအဆုံးထိတိုင်
+ကိုယ်တော်ကို ချစ်တယ်

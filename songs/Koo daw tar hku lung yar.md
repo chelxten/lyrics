@@ -1,12 +1,11 @@
 ---
-title: ukd,fawmfom ckdvIH&m
-font: win
+title: ကိုယ်တော်သာ ခိုလှုံရာ
 ---
-(ukd,fawmf&Sifom uREkfyftvkH;pkH udk,fawmfomjrifawGUcsif ukd,fawmf&Sifom uREkfyf&JUb0 ukd,fawmfomvkdcsifonf)2
+(ကိုယ်တော်ရှင်သာ ကျွန်ုပ်အလုံးစုံ ကိုယ်တော်သာမြင်တွေ့ချင် ကိုယ်တော်ရှင်သာ ကျွန်ုပ်ရဲ့ဘဝ ကိုယ်တော်သာလိုချင်သည်)၂
 
-avrkefwkdif;wkdufcwfaomtcg ukd,fawmfom uREkfyf&JUausmufaqmif &ifcGifxJaxG;ayGUay;um
+လေမုန်တိုင်းတိုက်ခတ်သောအခါ ကိုယ်တော်သာ ကျွန်ုပ်ရဲ့ကျောက်ဆောင် ရင်ခွင်ထဲထွေးပွေ့ပေးကာ
 
-Nidrfoufjcif; ay;aetNrJyg tkd; ..[kd; ..
-ukd,fawmfom ckdvIH&m
+ငြိမ်သက်ခြင်း ပေးနေအမြဲပါ အိုး ..ဟိုး ..
+ကိုယ်တော်သာ ခိုလှုံရာ
 
-(ukd,fawmfukd uREkfyfvkdtyfonf) ukd,fawmfom ckdvIH&m
+(ကိုယ်တော်ကို ကျွန်ုပ်လိုအပ်သည်) ကိုယ်တော်သာ ခိုလှုံရာ

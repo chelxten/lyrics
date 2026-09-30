@@ -1,26 +1,25 @@
 ---
-title: t&mtm;vHk;\t&Sif
-font: win
+title: အရာအားလုံး၏အရှင်
 ---
-udk,fawmffwyg;wnf;om uREkfyf&JUbk&m;yg
-udk,fawmfwyg;wnf;om
-u,fwifEdkifwJhbk&m;
+ကိုယ်တော်တပါးတည်းသာ ကျွန်ုပ်ရဲ့ဘုရားပါ
+ကိုယ်တော်တပါးတည်းသာ
+ကယ်တင်နိုင်တဲ့ဘုရား
 
-teEÅwefcdk;eJYjynfhpkH
-t&m&mudkydkifoaomt&Sif
-udk,fawmfvufrSvGwfwJht&m
-bmwckrSr&Sd
+အနန္တတန်ခိုးနဲ့ပြည့်စုံ
+အရာရာကိုပိုင်သသောအရှင်
+ကိုယ်တော်လက်မှလွတ်တဲ့အရာ
+ဘာတခုမှမရှိ
 
-udk,fawmfhtm; xm0&udk;uG,frnf
-udk,fawmfaMumifh t&m&mtopfjzpfNyD
+ကိုယ်တော့်အား ထာဝရကိုးကွယ်မည်
+ကိုယ်တော်ကြောင့် အရာရာအသစ်ဖြစ်ပြီ
 
-udk,fawmhftm;tpOftNrJ
-csD;rGrf;vdkYEIwfjzifh>rwfqdkrrSD
-bkef;BuD;aombk&if t&mtm;vkH;&JUt&Sif
+ကိုယ်တော့်အားအစဉ်အမြဲ
+ချီးမွမ်းလို့နှုတ်ဖြင့်မြွတ်ဆိုမမှီ
+ဘုန်းကြီးသောဘုရင် အရာအားလုံးရဲ့အရှင်
 
-udk,fawmfuREkfyfudkcspfaMumif; uREkfyfodonf rpHkvifjcif;xJu
-u,fwifa&G;EIwfjcif;
+ကိုယ်တော်ကျွန်ုပ်ကိုချစ်ကြောင်း ကျွန်ုပ်သိသည် မစုံလင်ခြင်းထဲက
+ကယ်တင်ရွေးနှုတ်ခြင်း
 
-udk,fawmfaMumifhajzmifhrwfaomol
-t&m&mpkHvifapcJhNyD udk,fawmftm;jzifh
-uREkfyftoufwmtjypfvGwfjcif;
+ကိုယ်တော်ကြောင့်ဖြောင့်မတ်သောသူ
+အရာရာစုံလင်စေခဲ့ပြီ ကိုယ်တော်အားဖြင့်
+ကျွန်ုပ်အသက်တာအပြစ်လွတ်ခြင်း

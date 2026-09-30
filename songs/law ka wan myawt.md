@@ -1,12 +1,11 @@
 ---
-title: avmu0rf;arjmuf
-font: win
+title: လောကဝမ်းမြောက်
 ---
-avmu0rf;ajr§muf bk&m;<uvm
-ajrBuD;bk&ifcH,l ESvkH;cyfodrf; ae&mjyifxm; (urÇmajrrkd;at;usL;) urÇm urÇmajrrkd;at;usL;
+လောကဝမ်းမြှောက် ဘုရားကြွလာ
+မြေကြီးဘုရင်ခံယူ နှလုံးခပ်သိမ်း နေရာပြင်ထား (ကမ္ဘာမြေမိုးအေးကျူး) ကမ္ဘာ ကမ္ဘာမြေမိုးအေးကျူး
 
-ajrBuD;0rf;ajr§mufa,½Ipkd;pH vlrsm;oDcsif;qkdap v,fjyifyifv,f ausmufawmiftoH (jyefíjrnfMuukefav) jyefí jyefíjrnfMuukefav
+မြေကြီးဝမ်းမြှောက်ယေရှုစိုးစံ လူများသီချင်းဆိုစေ လယ်ပြင်ပင်လယ် ကျောက်တောင်အသံ (ပြန်၍မြည်ကြကုန်လေ) ပြန်၍ ပြန်၍မြည်ကြကုန်လေ
 
-aemufaemiftjypf 'ku©ryGm; ql;yifraESmifh,SufNyD tr*Fvm rS r*Fvm (xkwfazmfatmif<uvmonf)  xkwfazmf xkwfazmfatmif<uvmonf
+နောက်နောင်အပြစ် ဒုက္ခမပွား ဆူးပင်မနှောင့်ယှက်ပြီ အမင်္ဂလာ မှ မင်္ဂလာ (ထုတ်ဖော်အောင်ကြွလာသည်)  ထုတ်ဖော် ထုတ်ဖော်အောင်ကြွလာသည်
 
-or®mw&m; qkaus;Zl;jzifh avmutkyfcsKyfrl\ arwåmawmfbkef; wefckd;oefY&Sif; (vlwkdif;ukdodapNyD) vlwkdif; vlwkdif;ukd odapNyD
+သမ္မာတရား ဆုကျေးဇူးဖြင့် လောကအုပ်ချုပ်မူ၏ မေတ္တာတော်ဘုန်း တန်ခိုးသန့်ရှင်း (လူတိုင်းကိုသိစေပြီ) လူတိုင်း လူတိုင်းကို သိစေပြီ

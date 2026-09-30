@@ -1,19 +1,18 @@
 ---
-title: udk,fawmftem;em;
-font: win
+title: ကိုယ်တော်အနားနား
 ---
-avmuBuD;&JU taumif;qkH;t&mrsm;xuf taumif;jrwfqkH;aom uREkfyf\aumif;uifzcif
-uREkfyfvGwfajrmufjcif; uREkfyf\tNrJwrf; touf&Sifjcif;
+လောကကြီးရဲ့ အကောင်းဆုံးအရာများထက် အကောင်းမြတ်ဆုံးသော ကျွန်ုပ်၏ကောင်းကင်ဖခင်
+ကျွန်ုပ်လွတ်မြောက်ခြင်း ကျွန်ုပ်၏အမြဲတမ်း အသက်ရှင်ခြင်း
 
-twkr&Sd tEIdif;rJh uREkfyf\ocifbk&m;
-ocifha&SUarSmufokdY uREkfyfta&mufvmcJhNyD ocifh&JUbkef;eJY ocifhrsufESmawmf jrifawGUzkdY
+အတုမရှိ အနှိုင်းမဲ့ ကျွန်ုပ်၏သခင်ဘုရား
+သခင့်ရှေ့မှောက်သို့ ကျွန်ုပ်အရောက်လာခဲ့ပြီ သခင့်ရဲ့ဘုန်းနဲ့ သခင့်မျက်နှာတော် မြင်တွေ့ဖို့
 
-ukd,fawmfom uREkfyf&JUESvkH;om; uREkfyf&JUqE´ukd,fawmfom twGif;ESvkH;om;rS wrf;w&m
+ကိုယ်တော်သာ ကျွန်ုပ်ရဲ့နှလုံးသား ကျွန်ုပ်ရဲ့ဆန္ဒကိုယ်တော်သာ အတွင်းနှလုံးသားမှ တမ်းတရာ
 
-tpOfom ocifh&JUrsufarSmuf ocifh&JU&ifcGifxJrSm uREkfyftNrJwrf;&Sdcsif xm0&tcsdefwkdif; em;ckdaecsif ukd,fawmfhtem;rSm
+အစဉ်သာ သခင့်ရဲ့မျက်မှောက် သခင့်ရဲ့ရင်ခွင်ထဲမှာ ကျွန်ုပ်အမြဲတမ်းရှိချင် ထာဝရအချိန်တိုင်း နားခိုနေချင် ကိုယ်တော့်အနားမှာ
 
-tjrifhjrwfqkH;aom bkef;pnf;pdrfeJY taoG;toufpGefYwJh ocifh&JUtcspfomuREkfyfukd
-tjrifhjrwfqkH;aom ocifh&JU a&SUarSmufa&mufapNyD
+အမြင့်မြတ်ဆုံးသော ဘုန်းစည်းစိမ်နဲ့ အသွေးအသက်စွန့်တဲ့ သခင့်ရဲ့အချစ်သာကျွန်ုပ်ကို
+အမြင့်မြတ်ဆုံးသော သခင့်ရဲ့ ရှေ့မှောက်ရောက်စေပြီ
 
-uREkfyf&JUteD;em; tNrJwrf;xm0& rcGJwrf;&SdwJh uREkfyf&JU aumif;uifzcif
-tpGJvef;qkH;aom ocifrsufESmawmfqmiwfvS
+ကျွန်ုပ်ရဲ့အနီးနား အမြဲတမ်းထာဝရ မခွဲတမ်းရှိတဲ့ ကျွန်ုပ်ရဲ့ ကောင်းကင်ဖခင်
+အစွဲလန်းဆုံးသော သခင်မျက်နှာတော်ဆာငတ်လှ

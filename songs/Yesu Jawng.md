@@ -1,13 +1,12 @@
 ---
-title: a,½IaMumifh
-font: win
+title: ယေရှုကြောင့်
 ---
-aumif;uifpnf;pdrf;pGefYNyD; uREkfyf&JUtoufukd ola&G;cJhNyD tEIdif;rJhcspfjcif;eJY
+ကောင်းကင်စည်းစိမ်းစွန့်ပြီး ကျွန်ုပ်ရဲ့အသက်ကို သူရွေးခဲ့ပြီ အနှိုင်းမဲ့ချစ်ခြင်းနဲ့
 
-taoG;awmfaMumifhom oefY&Sif;ajzmifhrwfjcif;awG olay;NyD tEIdif;rJhcspfjcif;eJY
+အသွေးတော်ကြောင့်သာ သန့်ရှင်းဖြောင့်မတ်ခြင်းတွေ သူပေးပြီ အနှိုင်းမဲ့ချစ်ခြင်းနဲ့
 
-uREkfyf&JUb0rSm bmvkdOD;rvJ uREkfyf&JUb0rSm
+ကျွန်ုပ်ရဲ့ဘဝမှာ ဘာလိုဉီးမလဲ ကျွန်ုပ်ရဲ့ဘဝမှာ
 
-a,½IaMumifh vGwfajrmufí oDcsif;qkdr,f a,½IaMumifh vGwfajrmufí uckefr,f t&m&ma,½IaMumifhyJ
+ယေရှုကြောင့် လွတ်မြောက်၍ သီချင်းဆိုမယ် ယေရှုကြောင့် လွတ်မြောက်၍ ကခုန်မယ် အရာရာယေရှုကြောင့်ပဲ
 
-a,½IaMumifh 0rf;ajrmufí oDcsif;qkdr,f a,½IaMumifh 0rf;ajrmufí uckefr,f t&m&ma,½IaMumifhyJ
+ယေရှုကြောင့် ဝမ်းမြောက်၍ သီချင်းဆိုမယ် ယေရှုကြောင့် ဝမ်းမြောက်၍ ကခုန်မယ် အရာရာယေရှုကြောင့်ပဲ

@@ -1,13 +1,12 @@
 ---
-title: tJhovamufcspf&vm;
-font: win
+title: အဲ့သလောက်ချစ်ရလား
 ---
-ig[m taz&JU tcspfeJY toufquf&Sifolyg rpkHvifaomfjim;vnf;yJ olodyfcspfcJhwm
+ငါဟာ အဖေရဲ့ အချစ်နဲ့ အသက်ဆက်ရှင်သူပါ မစုံလင်သော်ငြားလည်းပဲ သူသိပ်ချစ်ခဲ့တာ
 
-tkd; .. ig&JUtjypfxuf olYtcspfykdBuD;rm; pkHvifwJh aus;Zl;*&kPm ightwGuf ykdvQHcJh
+အိုး .. ငါရဲ့အပြစ်ထက် သူ့အချစ်ပိုကြီးမား စုံလင်တဲ့ ကျေးဇူးဂရုဏာ ငါ့အတွက် ပိုလျှံခဲ့
 
-(tkd; .. tJhoavmufcspf&ovm; aumif;uiftz&JU arwåmawmf qGJac:a&G;ESKwfjcif;aMumifh xkdufwefol jzpfNyD)2
+(အိုး .. အဲ့သလောက်ချစ်ရသလား ကောင်းကင်အဖရဲ့ မေတ္တာတော် ဆွဲခေ:ရွေးနှုတ်ခြင်းကြောင့် ထိုက်တန်သူ ဖြစ်ပြီ)၂
 
-ig[m rif;pnf;pdrf&SdaomtrsKd; ykdifxkdufaom taygif;toif; oefY&Sif;aomvlrsKd;
+ငါဟာ မင်းစည်းစိမ်ရှိသောအမျိုး ပိုင်ထိုက်သော အပေါင်းအသင်း သန့်ရှင်းသောလူမျိုး
 
-bkef;pnf;pdrf&Sdaom trsKd; ,Zfyka&m[dwfrif;tEG,f a,&I&JUtaoG;eJY  xyfwlwefzkd;&Sd
+ဘုန်းစည်းစိမ်ရှိသော အမျိုး ယဇ်ပုရောဟိတ်မင်းအနွယ် ယေရှုရဲ့အသွေးနဲ့  ထပ်တူတန်ဖိုးရှိ

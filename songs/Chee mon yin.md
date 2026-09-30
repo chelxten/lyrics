@@ -1,22 +1,21 @@
 ---
-title: csD;rGrf;&if;
-font: win
+title: ချီးမွမ်းရင်း
 ---
-uREkfyftm; a,½Ibk&m; csD;ajrmufcJh &THUajrBuD;xJrS atmifjrifaomolxuf atmifjrifaomol jzpfapNyD
+ကျွန်ုပ်အား ယေရှုဘုရား ချီးမြောက်ခဲ့ ရွှံ့မြေကြီးထဲမှ အောင်မြင်သောသူထက် အောင်မြင်သောသူ ဖြစ်စေပြီ
 
-arSmifrkdufwefckd; pmwef½IH; uREkfyfwdkUajc&if;atmufxJwGif
+မှောင်မိုက်တန်ခိုး စာတန်ရှုံး ကျွန်ုပ်တို့ခြေရင်းအောက်ထဲတွင်
 
-atmifEkdifaomolxuf atmifEkdifaomol jzpfapNyD
+အောင်နိုင်သောသူထက် အောင်နိုင်သောသူ ဖြစ်စေပြီ
 
-t&m&mtm;vkH; a,½Ibk&m;aMumihfjzpfwnf t&m&mtm;vkH; ukd,fawmfay;cJhNyD;
+အရာရာအားလုံး ယေရှုဘုရားကြောင့်ဖြစ်တည် အရာရာအားလုံး ကိုယ်တော်ပေးခဲ့ပြီး
 
-(a[h ..a[h)2
-a&wGuf&if;csD;rGrf;aernf
+(ဟေ့ ..ဟေ့)၂
+ရေတွက်ရင်းချီးမွမ်းနေမည်
 
-(a[h ..a[h)2
-csD;rGrf;&if;uckefaernf
+(ဟေ့ ..ဟေ့)၂
+ချီးမွမ်းရင်းကခုန်နေမည်
 
-(a[h ..a[h)2
-csD;rGrf;&if;touf&Sifaeawmhrnf
+(ဟေ့ ..ဟေ့)၂
+ချီးမွမ်းရင်းအသက်ရှင်နေတော့မည်
 
-a[h
+ဟေ့

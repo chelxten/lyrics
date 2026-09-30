@@ -1,16 +1,15 @@
 ---
-title: udk,fawmfudkusGEkfyfqmiwf
-font: win
+title: ကိုယ်တော်ကိုကျွန်ုပ်ဆာငတ်
 ---
-udk,fawmfhudkuRekfyfqmiwf rsufarSmufawmfwGif
-aecsifvSonf uRekfyf0dnmOfarQmfvifh
+ကိုယ်တော့်ကိုကျွန်ုပ်ဆာငတ် မျက်မှောက်တော်တွင်
+နေချင်လှသည် ကျွန်ုပ်ဝိညာဉ်မျှော်လင့်
 
-omíeD;aprlygeD;aprlyg vSyaom
-udk,fawmfoefY&Sif;jcif;odkY
+သာ၍နီးစေမူပါနီးစေမူပါ လှပသော
+ကိုယ်တော်သန့်ရှင်းခြင်းသို့
 
-uREkfyfapmifharQmfae bkef;BuD;t&Sif
-vSyaom udk,fawmfoefY&Sif;jcif;udk
-uRekfyfukd;uG,frnf bkef;BuD;t&Sif
+ကျွန်ုပ်စောင့်မျှော်နေ ဘုန်းကြီးအရှင်
+လှပသော ကိုယ်တော်သန့်ရှင်းခြင်းကို
+ကျွန်ုပ်ကိုးကွယ်မည် ဘုန်းကြီးအရှင်
 
-oefY&Sif;aom udk,fawmfrsufarSmifawmfü
-vShyaomudk,fawmf rsufarSmufawmfü
+သန့်ရှင်းသော ကိုယ်တော်မျက်မှောင်တော်၌
+လှ့ပသောကိုယ်တော် မျက်မှောက်တော်၌

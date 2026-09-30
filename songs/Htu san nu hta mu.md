@@ -1,11 +1,10 @@
 ---
-title: xl;qef;Ekd;xrI
-font: win
+title: ထူးဆန်းနိုးထမှု
 ---
-(xl;qef;Ekd;xrI)3 jzpfapaomf zsm;emolrsm; usef;rm&apaomf csnfaESmifcHolrsm; vGwfajrmufjcif;&ap
+(ထူးဆန်းနိုးထမှု)၃ ဖြစ်စေသော် ဖျားနာသူများ ကျန်းမာရစေသော် ချည်နှောင်ခံသူများ လွတ်မြောက်ခြင်းရစေ
 
-bkef;wefckd;ESifh atmifjrifjcif; <u,f0jcif; usef;rmjcif; csKyfaESmifcHol vGwfjcif;&ygap
+ဘုန်းတန်ခိုးနှင့် အောင်မြင်ခြင်း ကြွယ်ဝခြင်း ကျန်းမာခြင်း ချုပ်နှောင်ခံသူ လွတ်ခြင်းရပါစေ
 
-(xl;qef;atmifjrifjcif;)3 jzpfapaomf zsm;emolrsm;usef;rm&apaomf
+(ထူးဆန်းအောင်မြင်ခြင်း)၃ ဖြစ်စေသော် ဖျားနာသူများကျန်းမာရစေသော်
 
-csnfaESmifcHolrsm; vGwfajrmufjcif;&ap
+ချည်နှောင်ခံသူများ လွတ်မြောက်ခြင်းရစေ

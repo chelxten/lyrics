@@ -1,27 +1,26 @@
 ---
-title: tEIdif;rJhaus;Zl;awmf
-font: win
+title: အနှိုင်းမဲ့ကျေးဇူးတော်
 ---
-toufay;vdkYcspfcJhol ocif&JUtcspfaMumifhom
-½Sifoefjcif;aMumifh ajzmifhrwfjcif;tcGifh&apNyD
+အသက်ပေးလို့ချစ်ခဲ့သူ သခင်ရဲ့အချစ်ကြောင့်သာ
+ရှင်သန်ခြင်းကြောင့် ဖြောင့်မတ်ခြင်းအခွင့်ရစေပြီ
 
-taoG;eJYa½G;cJhol a,½Ic&pfaMumifhom
-tarGcHom; aumif;uifrSmuREfkyf&JU
-trnfpm&if;½Sd
+အသွေးနဲ့ရွေးခဲ့သူ ယေရှုခရစ်ကြောင့်သာ
+အမွေခံသား ကောင်းကင်မှာကျွန်ုပ်ရဲ့
+အမည်စာရင်းရှိ
 
-uREfkyf\udk;pm;&m a,½Iwpfyg;wnf;om
-toufvrf;c&D; or®mw&m;vnf;jzpfrlonf
+ကျွန်ုပ်၏ကိုးစားရာ ယေရှုတစ်ပါးတည်းသာ
+အသက်လမ်းခရီး သမ္မာတရားလည်းဖြစ်မူသည်
 
-udk,fawmfavmufaumif;jrwfwm
-b,ft&mrSr½Sdawmhyg
+ကိုယ်တော်လောက်ကောင်းမြတ်တာ
+ဘယ်အရာမှမရှိတော့ပါ
 
-csD;rGrf;vQufoDMuL;txHawmfodkYwdk;0if
-[pfa<u;vQuf toHvGifh atmifjrifolwdkY
+ချီးမွမ်းလျှက်သီကြူးအထံတော်သို့တိုးဝင်
+ဟစ်ကြွေးလျှက် အသံလွင့် အောင်မြင်သူတို့
 
-a<u;aMumf½Tifvef;vQuf uckefvQuf
-udk,fawmfbk&m;a½SUawmfrSm
+ကြွေးကြော်ရွှင်လန်းလျှက် ကခုန်လျှက်
+ကိုယ်တော်ဘုရားရှေ့တော်မှာ
 
-udk,fawmfonf tEIdif;rJhaus;Zl;awmf
-t&m&mcyfodrf;xuf BuD;jrwfaomol
-vdktyfcsufvnf;r½Sd ocifbk&m;½Sd&if
-NyD;jynfhpkHNyD
+ကိုယ်တော်သည် အနှိုင်းမဲ့ကျေးဇူးတော်
+အရာရာခပ်သိမ်းထက် ကြီးမြတ်သောသူ
+လိုအပ်ချက်လည်းမရှိ သခင်ဘုရားရှိရင်
+ပြီးပြည့်စုံပြီ

@@ -1,21 +1,20 @@
 ---
-title: wwfpGrf;Edkifw,f
-font: win
+title: တတ်စွမ်းနိုင်တယ်
 ---
-a,½Ibk&m; u,fwifaomt&Sif
-aumif;jrwfrI ukd,fawmfrS wpfyg;r&Sd
-u,fwifaomt&Sif emrawmf
-bkef;BuD;ap urÇmtqufquf
-ukd;uG,frnf
+ယေရှုဘုရား ကယ်တင်သောအရှင်
+ကောင်းမြတ်မှု ကိုယ်တော်မှ တစ်ပါးမရှိ
+ကယ်တင်သောအရှင် နာမတော်
+ဘုန်းကြီးစေ ကမ္ဘာအဆက်ဆက်
+ကိုးကွယ်မည်
 
-oDqkd [mavvk,m
-[mavvk,m
-csD;rGrf;&ef tvGefxkdufwef
-[mavvk,m [mavvk,m
-a,½IociftuGsefkyf\ c&pfawmf&Sif
+သီဆို ဟာလေလုယာ
+ဟာလေလုယာ
+ချီးမွမ်းရန် အလွန်ထိုက်တန်
+ဟာလေလုယာ ဟာလေလုယာ
+ယေရှုသခင်အကျွန်ုပ်၏ ခရစ်တော်ရှင်
 
-Muifemaomt&Sif ,kdpD;cJh
-aoG;pufawG uGsekfyftwGuf
-tjypfvGwfjcif; xHawmfyg;rSm
-xkdarwÅm tEIdif;r&Sdyg u,fEIwfcJh
-olYcpfjcif;
+ကြင်နာသောအရှင် ယိုစီးခဲ့
+သွေးစက်တွေ ကျွန်ုပ်အတွက်
+အပြစ်လွတ်ခြင်း ထံတော်ပါးမှာ
+ထိုမေတ္တာ အနှိုင်းမရှိပါ ကယ်နှုတ်ခဲ့
+သူ့ခစ်ခြင်း

@@ -81,9 +81,10 @@ Each song is a file in `songs/`. The file name is used in the song's web address
 See `songs/_template.md` for the format:
 
 - `title:` is optional. Without it, the site shows the file name.
-- `font: win` means the song was typed with a Win Innwa-style Burmese font. The site converts
-  it to Unicode Burmese (see `scripts/win-to-unicode.mjs`). Put English words in `backticks`
-  so they aren't converted.
+- The songs are stored as Unicode Burmese.
+- `font: win` is still supported for new songs typed with a Win Innwa-style Burmese font (the
+  admin panel's "Typed with the Win font" box). The site converts them to Unicode when it builds
+  (see `scripts/win-to-unicode.mjs`). Put English words in `backticks` so they aren't converted.
 - A line like `[Chorus]` shows up as a section label.
 
 ## Preview on your computer

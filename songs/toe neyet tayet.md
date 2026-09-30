@@ -1,33 +1,32 @@
 ---
-title: xdkaeh&uf wpf&uf
-font: win
+title: ထိုနေ့ရက် တစ်ရက်
 ---
-ocifh&JUa&SUawmfrSm uREkfyf&JUtoufwmtm;
-t<uif;rJhtvkH;pkH;xd ocifhudkykHtyfum
-xm0&&JUtqkH;pGefxd EIdif;wkrJhp&mr&Sd
-uREkfyftwGuf toufudkpGefUol ocifarwÅm
+သခင့်ရဲ့ရှေ့တော်မှာ ကျွန်ုပ်ရဲ့အသက်တာအား
+အကြွင်းမဲ့အလုံးစုံးထိ သခင့်ကိုပုံအပ်ကာ
+ထာဝရရဲ့အဆုံးစွန်ထိ နှိုင်းတုမဲ့စရာမရှိ
+ကျွန်ုပ်အတွက် အသက်ကိုစွန့်သူ သခင်မေတ္တာ
 
-uREkfyfESvkH;om; uREkfyf&JUtoufü 0dnmOfudk
-ay;tyf udk,fawmfwpfyg;wnf;
-uREkfyf&JUxm0&twGuf
+ကျွန်ုပ်နှလုံးသား ကျွန်ုပ်ရဲ့အသက်၌ ဝိညာဉ်ကို
+ပေးအပ် ကိုယ်တော်တစ်ပါးတည်း
+ကျွန်ုပ်ရဲ့ထာဝရအတွက်
 
-udk,fawmfom uREkfyf..vdktif xm0pOf
-uREkfyf&JUocif uREkfyf&JUqE´ twGif;ESvkH;om;udk ydkifpkd;aomt&Sif
-ocifh&JUa&SUawmfom taecsifqkH;aom
-ae&m
+ကိုယ်တော်သာ ကျွန်ုပ်..လိုအင် ထာဝစဉ်
+ကျွန်ုပ်ရဲ့သခင် ကျွန်ုပ်ရဲ့ဆန္ဒ အတွင်းနှလုံးသားကို ပိုင်စိုးသောအရှင်
+သခင့်ရဲ့ရှေ့တော်သာ အနေချင်ဆုံးသော
+နေရာ
 
-tjcm;aomae&mü uREkfyf&JUtoufwm
-0rf;ajrmuf&aomaeU&uf tESpfwaxmif
-umvxufomíaumif;jrwf ..ocifh
-&ifcGifxJü&SdwJh aeU&ufwpf&ufonf
-tpOftEIdif;rJh
+အခြားသောနေရာ၌ ကျွန်ုပ်ရဲ့အသက်တာ
+ဝမ်းမြောက်ရသောနေ့ရက် အနှစ်တထောင်
+ကာလထက်သာ၍ကောင်းမြတ် ..သခင့်
+ရင်ခွင်ထဲ၌ရှိတဲ့ နေ့ရက်တစ်ရက်သည်
+အစဉ်အနှိုင်းမဲ့
 
-pum;vkH;rsm;ukefqkH; aw;wGm;rsm;
-rvkHavmuf vl&JUtodÓPfeJUvkdufrrDEdkif
-aomt&m.. a&SUrqGtcsdefuwnf;u
-uREkfyftwGufcGJcefUxm; ocifh&JU
-bkef;awmftm; zl;arsmfjrifawGU&m
+စကားလုံးများကုန်ဆုံး တေးတွားများ
+မလုံလောက် လူရဲ့အသိဉာဏ်နဲ့လိုက်မမီနိုင်
+သောအရာ.. ရှေ့မဆွအချိန်ကတည်းက
+ကျွန်ုပ်အတွက်ခွဲခန့်ထား သခင့်ရဲ့
+ဘုန်းတော်အား ဖူးမျော်မြင်တွေ့ရာ
 
-uRekfyfESvkH;om; uREkfyf&JUtoufeJU
-pdwf0dnmOftwGif;rS udk,fawmf
-wpfyg;wnf; tjrJwrf;vdkcsifawmifhw
+ကျွန်ုပ်နှလုံးသား ကျွန်ုပ်ရဲ့အသက်နဲ့
+စိတ်ဝိညာဉ်အတွင်းမှ ကိုယ်တော်
+တစ်ပါးတည်း အမြဲတမ်းလိုချင်တောင့်တ

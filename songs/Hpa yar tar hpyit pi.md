@@ -1,12 +1,11 @@
 ---
-title: bk&m;om;jzpfyjD
-font: win
+title: ဘုရားသားဖြစ်ပြီ
 ---
-tjrifhqkH;yv’ifukdpGefY u,fwif&ef <uqif;cJh tjypfom;awG ukd,fpm; taocHcJh
+အမြင့်ဆုံးပလ္လင်ကိုစွန့် ကယ်တင်ရန် ကြွဆင်းခဲ့ အပြစ်သားတွေ ကိုယ်စား အသေခံခဲ့
 
-ocFsKdif;ukd atmifvsuf ukd,fawmfonf xajrmufcJh tjypf&JUtc xkdaojcif;ukday;cJhNyD
+သင်္ချိုင်းကို အောင်လျက် ကိုယ်တော်သည် ထမြောက်ခဲ့ အပြစ်ရဲ့အခ ထိုသေခြင်းကိုပေးခဲ့ပြီ
 
-ukd,fawmfomvQif ocifjzpfaMumif; EIwfjzifh 0efcHaomol ukd,fawmfomvQif &SifjyefxajrmufaMumif; pdwfESvkH;ü ,kHaomol
+ကိုယ်တော်သာလျှင် သခင်ဖြစ်ကြောင်း နှုတ်ဖြင့် ဝန်ခံသောသူ ကိုယ်တော်သာလျှင် ရှင်ပြန်ထမြောက်ကြောင်း စိတ်နှလုံး၌ ယုံသောသူ
 
-tkd;..tkd..[kd; ..tkd; ..tkd
-bk&m;om;jzpfNyD
+အိုး..အို..ဟိုး ..အိုး ..အို
+ဘုရားသားဖြစ်ပြီ

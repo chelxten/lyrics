@@ -1,26 +1,25 @@
 ---
-title: csD;rGrf;rnftpOf
-font: win
+title: ချီးမွမ်းမည်အစဉ်
 ---
-a,½I&JUtaoG;awmftm;jzihf uREkfyfvGwfajrmufNyD
+ယေရှုရဲ့အသွေးတော်အားဖြင့် ကျွန်ုပ်လွတ်မြောက်ပြီ
 
-tjypfta<u;rsm;r&Sdawmhbl;
-a,½Iay;acscJhNyD
+အပြစ်အကြွေးများမရှိတော့ဘူး
+ယေရှုပေးချေခဲ့ပြီ
 
-'DtcrJharwÅmtwGuf
-uGsEkfyfcsD;rGrf;rnf
+ဒီအခမဲ့မေတ္တာအတွက်
+ကျွန်ုပ်ချီးမွမ်းမည်
 
-um;wdkifwGif csdwfxm;cJhuGsEfkyf&JU
-tjypfa<u;rsm;
-(csD;rGrf;rnf)5uREkfyfcsD;rGrf;rnf
+ကားတိုင်တွင် ချိတ်ထားခဲ့ကျွန်ုပ်ရဲ့
+အပြစ်ကြွေးများ
+(ချီးမွမ်းမည်)၅ကျွန်ုပ်ချီးမွမ်းမည်
 
-udk,fawmf&Siftm; csD;rGrf;jcif;rSwpfyg;
-tjcm;aomt&mawG[m uGsEkfyftwGuf
-ta&;ta&;rBuD;yg
+ကိုယ်တော်ရှင်အား ချီးမွမ်းခြင်းမှတစ်ပါး
+အခြားသောအရာတွေဟာ ကျွန်ုပ်အတွက်
+အရေးအရေးမကြီးပါ
 
-udk,fawmfcH&aom
-csKd;zJhjcif;awGeJU ay;qyfrIawGtwGuf
-aus;Zl;csD;rGrf; csD;rGrf;rnftpOf
+ကိုယ်တော်ခံရသော
+ချိုးဖဲ့ခြင်းတွေနဲ့ ပေးဆပ်မှုတွေအတွက်
+ကျေးဇူးချီးမွမ်း ချီးမွမ်းမည်အစဉ်
 
-(bk&ifwumbk&ifa,½I uREkfyfcsD;ajr§mufrnf
-udk,fawmfom t&mcyfodrf;txufüpdk;pH)3
+(ဘုရင်တကာဘုရင်ယေရှု ကျွန်ုပ်ချီးမြှောက်မည်
+ကိုယ်တော်သာ အရာခပ်သိမ်းအထက်၌စိုးစံ)၃

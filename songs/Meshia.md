@@ -1,14 +1,13 @@
 ---
-title: ar½Sd,
-font: win
+title: မေရှိယ
 ---
-avmuom;rsm; 0rf;ajrmufMu
-vufckyfwD;NyD;csD;rGrf;Mu
-vlawGvlawGtm;vkH;twGuf
-ar½Sd, ar½Sd, arG;zGm;NyD
+လောကသားများ ဝမ်းမြောက်ကြ
+လက်ခုပ်တီးပြီးချီးမွမ်းကြ
+လူတွေလူတွေအားလုံးအတွက်
+မေရှိယ မေရှိယ မွေးဖွားပြီ
 
-tjypfrS vGwfajrmufzdkY
-i&JrS vGwfajrmufzdkY
-qif;&Jjcif;rS vGwfajrmufzdkY
-,kHMunfoltm;vkH;
-u,fwifcH&r,f
+အပြစ်မှ လွတ်မြောက်ဖို့
+ငရဲမှ လွတ်မြောက်ဖို့
+ဆင်းရဲခြင်းမှ လွတ်မြောက်ဖို့
+ယုံကြည်သူအားလုံး
+ကယ်တင်ခံရမယ်

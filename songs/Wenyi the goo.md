@@ -1,17 +1,16 @@
 ---
-title: 0dnmOfwefcdk;
-font: win
+title: ဝိညာဉ်တန်ခိုး
 ---
-csD;rGrf;jcif;xJrSm ukd,fawmftwl&Sdaew,f
+ချီးမွမ်းခြင်းထဲမှာ ကိုယ်တော်အတူရှိနေတယ်
 
-aumif;uifwrefrsm;vnf; oDqkdcsD;rGrf;aeNyD
+ကောင်းကင်တမန်များလည်း သီဆိုချီးမွမ်းနေပြီ
 
-csD;rGrf;jcif;xJrSm ukd,fawmf tvkyfvkyfaew,f 0dnmOfrsufpdyGifh 0dnmOfem;awG Mum;&ukefNyD
+ချီးမွမ်းခြင်းထဲမှာ ကိုယ်တော် အလုပ်လုပ်နေတယ် ဝိညာဉ်မျက်စိပွင့် ဝိညာဉ်နားတွေ ကြားရကုန်ပြီ
 
-(pdwfysufjcif;awG cGmcs 0rf;enf;jcif;awGcgcs tcuftcJjyóem uGmusaeNyD;)
+(စိတ်ပျက်ခြင်းတွေ ခွာချ ဝမ်းနည်းခြင်းတွေခါချ အခက်အခဲပြဿနာ ကွာကျနေပြီး)
 
-(0dnmOf&JUtxJrSm)2 EId;xrIawG ul;qufaeNyD;
+(ဝိညာဉ်ရဲ့အထဲမှာ)၂ နှိုးထမှုတွေ ကူးဆက်နေပြီး
 
-(0dnmOfa0[ifxJrSm)2 EId;xrIawG ul;pufaeNyD;
+(ဝိညာဉ်ဝေဟင်ထဲမှာ)၂ နှိုးထမှုတွေ ကူးစက်နေပြီး
 
-tkd; . . tkd; . .
+အိုး . . အိုး . .

@@ -1,16 +1,15 @@
 ---
-title: udk;pm;arsSmfjunfh&m
-font: win
+title: ကိုးစားမျှော်ကြည့်ရာ
 ---
-vlUb0BuD;xJrSm aexdkifvdkYtouf&SifpOf pHkprf;rIawGtNrJwrf;awGGUBuHKr,f
+လူ့ဘဝကြီးထဲမှာ နေထိုင်လို့အသက်ရှင်စဉ် စုံစမ်းမှုတွေအမြဲတမ်းတွေ့ကြုံမယ်
 
-&nfrSef;csufyef;wdkifrsm; eD;vsufeJY a0;&csdef udk,fawmf&Sifudk arQmfMunfhvdkufyg
+ရည်မှန်းချက်ပန်းတိုင်များ နီးလျက်နဲ့ ဝေးရချိန် ကိုယ်တော်ရှင်ကို မျှော်ကြည့်လိုက်ပါ
 
-wa&GUa&GUajymif;vJae 'DurÇmBuD; tusifhp½dkufawG &ifxJEGHae ESvHk;om;NrdKifhavmifuRrf;
+တရွေ့ရွေ့ပြောင်းလဲနေ ဒီကမ္ဘာကြီး အကျင့်စရိုက်တွေ ရင်ထဲနွံနေ နှလုံးသားမြိုင့်လောင်ကျွမ်း
 
-ylaqG;aomupdwfrsm;eJY
-0efxkwfav;armyef;csdef udk,fawmf&Sifudk arQmfMunfhvdkufyg
+ပူဆွေးသောကစိတ်များနဲ့
+ဝန်ထုတ်လေးမောပန်းချိန် ကိုယ်တော်ရှင်ကို မျှော်ကြည့်လိုက်ပါ
 
-vdktyfrIrsm;c&pfawmf&Sifocifay;vdkYae avQmufvSrf;&r,fh b0&JUa&SUc&D; arQmfvifhjcif;cGeftm;
+လိုအပ်မှုများခရစ်တော်ရှင်သခင်ပေးလို့နေ လျှောက်လှမ်းရမယ့် ဘဝရဲ့ရှေ့ခရီး မျှော်လင့်ခြင်းခွန်အား
 
-aMurGaeaomESvHk;om; rsm;twGufat;jroufprf;a& udk,fawmf&Sif c&pfawmfay;aeNyD
+ကြေမွနေသောနှလုံးသား များအတွက်အေးမြသက်စမ်းရေ ကိုယ်တော်ရှင် ခရစ်တော်ပေးနေပြီ

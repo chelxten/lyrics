@@ -1,13 +1,12 @@
 ---
-title: a,½SkaemufvdkufzdkU
-font: win
+title: ယေရှုနောက်လိုက်ဖို့
 ---
-(a,½SkaemufvdkufzdkU pdwfqHk;jzwfcJhjyD)3
+(ယေရှုနောက်လိုက်ဖို့ စိတ်ဆုံးဖြတ်ခဲ့ပြီ)၃
 
-aemufjyefrvSnfh aemufjyefrvSnfh
+နောက်ပြန်မလှည့် နောက်ပြန်မလှည့်
 
-(um;wdkifudka&SU½I avmuudkausmcdkif;)3
+(ကားတိုင်ကိုရှေ့ရှု လောကကိုကျောခိုင်း)၃
 
-(vdkufolr&SdvJ uRekfyfqufvdkufrnf)3
+(လိုက်သူမရှိလဲ ကျွန်ုပ်ဆက်လိုက်မည်)၃
 
-(*kPfawmfudk csD;rGrf; tdk [mavvk,m)3
+(ဂုဏ်တော်ကို ချီးမွမ်း အို ဟာလေလုယာ)၃

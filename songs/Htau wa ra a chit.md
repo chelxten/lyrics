@@ -1,11 +1,10 @@
 ---
-title: xm0&tcspf
-font: win
+title: ထာဝရအချစ်
 ---
-ukd,fawmftem;rSm uREkfyfaecsifw,f ukd,fawmfbkef;ukd uREkfyfjrifcsifw,f uREkfyftouf½IoH ukd,fawmfaMumifhbJ
+ကိုယ်တော်အနားမှာ ကျွန်ုပ်နေချင်တယ် ကိုယ်တော်ဘုန်းကို ကျွန်ုပ်မြင်ချင်တယ် ကျွန်ုပ်အသက်ရှုသံ ကိုယ်တော်ကြောင့်ဘဲ
 
-ukd,fawmfr&SdwJhb0 wpfpuúefYav;awmif t"dyÜm,frJhaew,f udk,fawmftem;rSm omíeD;apyg uRekfyftm;
+ကိုယ်တော်မရှိတဲ့ဘဝ တစ်စက္ကန့်လေးတောင် အဓိပ္ပာယ်မဲ့နေတယ် ကိုယ်တော်အနားမှာ သာ၍နီးစေပါ ကျွန်ုပ်အား
 
-b,ft&meJYrS rvJEkdifbl; udk,fawmfharwåm uREkfyftm; &pfywfxm;w,f taEG;axG;qkH; tvSyqkH;
+ဘယ်အရာနဲ့မှ မလဲနိုင်ဘူး ကိုယ်တော့်မေတ္တာ ကျွန်ုပ်အား ရစ်ပတ်ထားတယ် အနွေးထွေးဆုံး အလှပဆုံး
 
-ukd,fawmfum;wkdifxufrSm taoG;awmfoGef;um uREkfyfukd a&G;cs,fcJhjcif;[m xm0&tcspfyg
+ကိုယ်တော်ကားတိုင်ထက်မှာ အသွေးတော်သွန်းကာ ကျွန်ုပ်ကို ရွေးချယ်ခဲ့ခြင်းဟာ ထာဝရအချစ်ပါ

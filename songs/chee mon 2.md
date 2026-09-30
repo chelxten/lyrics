@@ -1,21 +1,20 @@
 ---
-title: csD;rGrf; 2
-font: win
+title: ချီးမွမ်း ၂
 ---
-uvsufckefvsuf 0rf;ajrmufpGmeJYcsD;rGrf;
-pdwfESvkH;ygvsuf ocifha&SUawmfarSmuf csD;rGrf;
+ကလျက်ခုန်လျက် ဝမ်းမြောက်စွာနဲ့ချီးမွမ်း
+စိတ်နှလုံးပါလျက် သခင့်ရှေ့တော်မှောက် ချီးမွမ်း
 
-ocifhbkef;awmfESifh ocifhvuf&m
-tvGefxl;qef;jcif;awG
-ocifh&JYynmeJY ppfírukefEkdifaom
-trIawGtwGuf
+သခင့်ဘုန်းတော်နှင့် သခင့်လက်ရာ
+အလွန်ထူးဆန်းခြင်းတွေ
+သခင့်ရဲ့ပညာနဲ့ စစ်၍မကုန်နိုင်သော
+အမှုတွေအတွက်
 
-csD;rGrf; csD;rGrf; csD;rGrf; a[h
-0rf;ajrmufuckef csD;rGrf;
-csD;rGrf;csD;rGrf;jcif;jzifh atmifjrifjcif;
-odrf;ykdufrnf
+ချီးမွမ်း ချီးမွမ်း ချီးမွမ်း ဟေ့
+ဝမ်းမြောက်ကခုန် ချီးမွမ်း
+ချီးမွမ်းချီးမွမ်းခြင်းဖြင့် အောင်မြင်ခြင်း
+သိမ်းပိုက်မည်
 
-csD;rGrf; csD;rGrf; csD;rGrf; a[h
-vTwfajrmufuckefcsD;rGrf;
-csD;rGrf;csD;rGrf;&if;eJY
-atmifjrifjcif;&&SdNyD
+ချီးမွမ်း ချီးမွမ်း ချီးမွမ်း ဟေ့
+လွှတ်မြောက်ကခုန်ချီးမွမ်း
+ချီးမွမ်းချီးမွမ်းရင်းနဲ့
+အောင်မြင်ခြင်းရရှိပြီ

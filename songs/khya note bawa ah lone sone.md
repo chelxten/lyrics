@@ -1,23 +1,22 @@
 ---
-title: usGekfyfb0tvHk;qHk;
-font: win
+title: ကျွန်ုပ်ဘဝအလုံးဆုံး
 ---
-aeY&ufwdkif; uREfkyff½SmazGaom aeY&ufwdkif; uREfkyfvdkcsifaom
+နေ့ရက်တိုင်း ကျွန်ုပ်ရှာဖွေသော နေ့ရက်တိုင်း ကျွန်ုပ်လိုချင်သော
 
-aeY&ufwdkif; uREkfyfajrmfvifhaomt&m tewåawGyg
+နေ့ရက်တိုင်း ကျွန်ုပ်မြော်လင့်သောအရာ အနတ္တတွေပါ
 
-avmuDpnf;pdrfOpömawGrsm; avmuDwyfrufjcif;awGursm;
+လောကီစည်းစိမ်ဉစ္စာတွေများ လောကီတပ်မက်ခြင်းတွေကများ
 
-c&pfawmfeJY uREkfyf&JUMum;rSm
-tqD;wm;rjzpfcsifyg
+ခရစ်တော်နဲ့ ကျွန်ုပ်ရဲ့ကြားမှာ
+အဆီးတားမဖြစ်ချင်ပါ
 
-udk,fawmfom uREfkyf\Nidrfoufjcif;t½Sifyg udk,fawmfom uREkfyf\atmifjrifjcif;jzpfapwm
+ကိုယ်တော်သာ ကျွန်ုပ်၏ငြိမ်သက်ခြင်းအရှင်ပါ ကိုယ်တော်သာ ကျွန်ုပ်၏အောင်မြင်ခြင်းဖြစ်စေတာ
 
-udk,fawmfom uREfkyf\<u,f0jcif;t½Sifyg
-udk,fawmfom uREfkyf\t&mcyfodrf;jzpfapwm uREfkyfb0tvkH;pkHyg
+ကိုယ်တော်သာ ကျွန်ုပ်၏ကြွယ်ဝခြင်းအရှင်ပါ
+ကိုယ်တော်သာ ကျွန်ုပ်၏အရာခပ်သိမ်းဖြစ်စေတာ ကျွန်ုပ်ဘဝအလုံးစုံပါ
 
-uREfkyf udk,fawmfrSvGJNyD; vdkcsifwm tm;vkH;tqkH;owfapyg
+ကျွန်ုပ် ကိုယ်တော်မှလွဲပြီး လိုချင်တာ အားလုံးအဆုံးသတ်စေပါ
 
-uREfkyf udk,fawmfrSvGJNyD; usefwmawGtm;vkH; pGefYvGwfapyg
+ကျွန်ုပ် ကိုယ်တော်မှလွဲပြီး ကျန်တာတွေအားလုံး စွန့်လွတ်စေပါ
 
-c&pfawmfeJYuREfkyf&JUMum;rSm tqD;twm;rjzpfcsifyg
+ခရစ်တော်နဲ့ကျွန်ုပ်ရဲ့ကြားမှာ အဆီးအတားမဖြစ်ချင်ပါ

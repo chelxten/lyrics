@@ -1,20 +1,19 @@
 ---
-title: qE´wpfck
-font: win
+title: ဆန္ဒတစ်ခု
 ---
-uREkfyf&JUqE´wpfck udk,fawmfeJYomaecsifol
-twGif;ESvkH;om;rSm awmifhwqmiwf
+ကျွန်ုပ်ရဲ့ဆန္ဒတစ်ခု ကိုယ်တော်နဲ့သာနေချင်သူ
+အတွင်းနှလုံးသားမှာ တောင့်တဆာငတ်
 
-&SdorQt&mcyfodrf; udk,fawmfhudkomay;tyf
-ocifhtwGufjzpfap ay;tyfylaZmf
+ရှိသမျှအရာခပ်သိမ်း ကိုယ်တော့်ကိုသာပေးအပ်
+သခင့်အတွက်ဖြစ်စေ ပေးအပ်ပူဇော်
 
-uREkfyfESvkH;om; ocifbk&m;tm; b0toufqkH;wdkif
-a&G;cs,fzkdY tqifoifhjzpfaeNyD
+ကျွန်ုပ်နှလုံးသား သခင်ဘုရားအား ဘဝအသက်ဆုံးတိုင်
+ရွေးချယ်ဖို့ အဆင်သင့်ဖြစ်နေပြီ
 
-uRekfyfESvkH;om; ocifbk&m;tm; b0oufqkH;wkdif
-a&G;cs,fzdkY tqifoifhjzpfaeNyD
-uRekfyfESvkH;om;
+ကျွန်ုပ်နှလုံးသား သခင်ဘုရားအား ဘဝသက်ဆုံးတိုင်
+ရွေးချယ်ဖို့ အဆင်သင့်ဖြစ်နေပြီ
+ကျွန်ုပ်နှလုံးသား
 
-rmefrmewdkYudk ½kdufcsKd;NyD; uREkfyfESvkH;om;udk
-ykHoGif;NyD; udk,fawmfoabmtwdkif;jzpfap
-uREkfyf&Ju pdwfqE´
+မာန်မာနတို့ကို ရိုက်ချိုးပြီး ကျွန်ုပ်နှလုံးသားကို
+ပုံသွင်းပြီး ကိုယ်တော်သဘောအတိုင်းဖြစ်စေ
+ကျွန်ုပ်ရဲက စိတ်ဆန္ဒ

@@ -1,12 +1,11 @@
 ---
-title: xm0&rqHk;wJhtcspf
-font: win
+title: ထာဝရမဆုံးတဲ့အချစ်
 ---
-(a,½Itm;uREkfyfcsD;rGrf; xm0&rqHk;wJhoDcsif;eJY
-bkef;BuD;jcif; *kPfjyKjcif;
-a,½Iwyg;omcHxdkufonf)2
+(ယေရှုအားကျွန်ုပ်ချီးမွမ်း ထာဝရမဆုံးတဲ့သီချင်းနဲ့
+ဘုန်းကြီးခြင်း ဂုဏ်ပြုခြင်း
+ယေရှုတပါးသာခံထိုက်သည်)၂
 
-bk&ifwumwdkY&JU bk&iftBuD;jrwfqHk;[m
-a,½Iwyg;om twdkifawmfxufrS
-uREkfyf&JUtwGuf udk,fawmfay;qyfwm
-&Sm;rS&Sm;wJh udk,fawmf&JUarwåmw&m;
+ဘုရင်တကာတို့ရဲ့ ဘုရင်အကြီးမြတ်ဆုံးဟာ
+ယေရှုတပါးသာ အတိုင်တော်ထက်မှ
+ကျွန်ုပ်ရဲ့အတွက် ကိုယ်တော်ပေးဆပ်တာ
+ရှားမှရှားတဲ့ ကိုယ်တော်ရဲ့မေတ္တာတရား

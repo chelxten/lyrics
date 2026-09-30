@@ -1,11 +1,10 @@
 ---
-title: bkef;ujD;ygpaaomf
-font: win
+title: ဘုန်းကြီးပါစေသော်
 ---
-xm0&bk&m;ukd csD;rGrf;Mur,f toHukd vGifhNyD; a<u;aMumfr,f tmumoaumif;uif rkd;atmufwcGif bk&m;ocifbkef;BuD;ygap
+ထာဝရဘုရားကို ချီးမွမ်းကြမယ် အသံကို လွင့်ပြီး ကြွေးကြော်မယ် အာကာသကောင်းကင် မိုးအောက်တခွင် ဘုရားသခင်ဘုန်းကြီးပါစေ
 
-t&m&mzefqif;wJh pGrf;tm;&Sif vlawGukd cspfwJh arwåm&Sif tPÖ0gork'´&mukef;xufrSm bk&m;ocifbkef;BuD;ygap
+အရာရာဖန်ဆင်းတဲ့ စွမ်းအားရှင် လူတွေကို ချစ်တဲ့ မေတ္တာရှင် အဏ္ဏဝါသမုဒ္ဒရာကုန်းထက်မှာ ဘုရားသခင်ဘုန်းကြီးပါစေ
 
-([mavvk,m)2 uvsufckefvsuf csD;rGrf;r,fav ([mavvk,m)2 bkef;BuD;aombk&m;
+(ဟာလေလုယာ)၂ ကလျက်ခုန်လျက် ချီးမွမ်းမယ်လေ (ဟာလေလုယာ)၂ ဘုန်းကြီးသောဘုရား
 
-([mavvk,m)2 cyfodrf;aomt&m tm;vkH;wkdYbk&if ([mavvk,m)2 touf&Sdolwkdif; csD;rGrf;wefckd;&Siftm;
+(ဟာလေလုယာ)၂ ခပ်သိမ်းသောအရာ အားလုံးတို့ဘုရင် (ဟာလေလုယာ)၂ အသက်ရှိသူတိုင်း ချီးမွမ်းတန်ခိုးရှင်အား

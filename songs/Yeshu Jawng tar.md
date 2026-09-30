@@ -1,15 +1,14 @@
 ---
-title: a,&Skaujmifhom
-font: win
+title: ယေရှုကြောင့်သာ
 ---
-tBuD;jrwfqHk;'Dcspfjcif;eJYtwl um;wdkifxufudk,fawmftoufpGefYNyD avmuDom;awGem;rvnfEdkifvJ
+အကြီးမြတ်ဆုံးဒီချစ်ခြင်းနဲ့အတူ ကားတိုင်ထက်ကိုယ်တော်အသက်စွန့်ပြီ လောကီသားတွေနားမလည်နိုင်လဲ
 
-taoG;awmfeJYudk,fawmfa&G;cJhNyD toufxm0&udk,fawmfay;cJhNyD vufcHaomoltwGuf 'g[mtcrJh
+အသွေးတော်နဲ့ကိုယ်တော်ရွေးခဲ့ပြီ အသက်ထာဝရကိုယ်တော်ပေးခဲ့ပြီ လက်ခံသောသူအတွက် ဒါဟာအခမဲ့
 
-a,½SkaMumifhom touf&Sifonf a,½SkaMumifhom oDcsif;qdkonf a,½SkaMumifhom jynfhpHkonf a,½SkaMumifhbJ...
+ယေရှုကြောင့်သာ အသက်ရှင်သည် ယေရှုကြောင့်သာ သီချင်းဆိုသည် ယေရှုကြောင့်သာ ပြည့်စုံသည် ယေရှုကြောင့်ဘဲ...
 
-a,½SkaMumifhom vGwfajrmufjcif; a,½SkaMumifhom 0rf;ajrmufjcif; a,½SkaMumifhom ajzmifhrwfjcif; a,½SkaMumifhbJ a,½SkaMumifhbJ
+ယေရှုကြောင့်သာ လွတ်မြောက်ခြင်း ယေရှုကြောင့်သာ ဝမ်းမြောက်ခြင်း ယေရှုကြောင့်သာ ဖြောင့်မတ်ခြင်း ယေရှုကြောင့်ဘဲ ယေရှုကြောင့်ဘဲ
 
-npfaywJh 'Dtjypfqdk;rsm;udk taoG;awmfESifh pifatmifaq;cJhNyD ajzmifhrwfjcif; tarGtm;oltydkifay;cJh
+ညစ်ပေတဲ့ ဒီအပြစ်ဆိုးများကို အသွေးတော်နှင့် စင်အောင်ဆေးခဲ့ပြီ ဖြောင့်မတ်ခြင်း အမွေအားသူအပိုင်ပေးခဲ့
 
-uwdawmftwdkif;ol apvGwfcJhNyD tEl;nHhqHk;tdk oefY&Sif;0dnmOf aeY&ufwdkif; tpOftNrJtwlyg&SdcJh
+ကတိတော်အတိုင်းသူ စေလွတ်ခဲ့ပြီ အနူးညံ့ဆုံးအို သန့်ရှင်းဝိညာဉ် နေ့ရက်တိုင်း အစဉ်အမြဲအတူပါရှိခဲ့

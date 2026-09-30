@@ -1,13 +1,12 @@
 ---
-title: ocif bk&m;\ aeY&uf
-font: win
+title: သခင် ဘုရား၏ နေ့ရက်
 ---
-ocif bk&m;\ aeY&uf
+သခင် ဘုရား၏ နေ့ရက်
 
-(tdk..... tdk..... tdk... tdk... tdk.... tdk.. ..tdk.... tdk. ...)4 tjypf&JU ta<u;awG ay;qyf taoG;eJY toufudkpGefYum cspfwJhocif 'dkY&JUbk&if aojcif;&JU wefcdk;awG csdK;zsuf ocsØKif;wHcg;awG yGifhum 'dkY&JUbk&if xajrmufNyD
+(အို..... အို..... အို... အို... အို.... အို.. ..အို.... အို. ...)၄ အပြစ်ရဲ့ အကြွေးတွေ ပေးဆပ် အသွေးနဲ့ အသက်ကိုစွန့်ကာ ချစ်တဲ့သခင် ဒို့ရဲ့ဘုရင် သေခြင်းရဲ့ တန်ခိုးတွေ ချိုးဖျက် သင်္ချိုင်းတံခါးတွေ ပွင့်ကာ ဒို့ရဲ့ဘုရင် ထမြောက်ပြီ
 
-ewfqdk;&JU vufajcrsm; ½dkufcsdK; tjypf&JUwefcdk;awG tqHk;owfNyD; bkef;BuD;aom bk&ifpdk;pH xm0&txd
+နတ်ဆိုးရဲ့ လက်ခြေများ ရိုက်ချိုး အပြစ်ရဲ့တန်ခိုးတွေ အဆုံးသတ်ပြီး ဘုန်းကြီးသော ဘုရင်စိုးစံ ထာဝရအထိ
 
-(,aeYY)4 onf aeYopf (,aeY)4 rSm vGwfajrmuf (,aeY)4 onf 0rf;ajrmuf&m (,aeY)3 emrawmf csD;ajrmuf (,aeY)3 toHvTifhum a<uaMumf (,aeY)4 onf csD;rGrf;&m ocif bk&m;\ aeY&uf
+(ယနေ့)၄ သည် နေ့သစ် (ယနေ့)၄ မှာ လွတ်မြောက် (ယနေ့)၄ သည် ဝမ်းမြောက်ရာ (ယနေ့)၃ နာမတော် ချီးမြောက် (ယနေ့)၃ အသံလွှင့်ကာ ကြွေကြော် (ယနေ့)၄ သည် ချီးမွမ်းရာ သခင် ဘုရား၏ နေ့ရက်
 
-(&Sifjyef xajrmufwJh wefcdk;eJY aojcif; wHcg;awG csdK;zsuf rm&fewf wefcdk;awG ½SHk;ESdrfhcJhNyD a[h tpOfcsD;rGrf;um a<u;aMumf atmifjcif;&JU toHvTifhvdkY atmf[pfuckef ocifh&JU a&SUawmfarSmuf)2 ([mavvk,m )4
+(ရှင်ပြန် ထမြောက်တဲ့ တန်ခိုးနဲ့ သေခြင်း တံခါးတွေ ချိုးဖျက် မာရ်နတ် တန်ခိုးတွေ ရှုံးနှိမ့်ခဲ့ပြီ ဟေ့ အစဉ်ချီးမွမ်းကာ ကြွေးကြော် အောင်ခြင်းရဲ့ အသံလွှင့်လို့ အော်ဟစ်ကခုန် သခင့်ရဲ့ ရှေ့တော်မှောက်)၂ (ဟာလေလုယာ )၄

@@ -1,22 +1,21 @@
 ---
-title: uREkfyff\jynfhpHk&m
-font: win
+title: ကျွန်ုပ်၏ပြည့်စုံရာ
 ---
-rpHkvifaomESvHk;om;av;
-udk,fawmf&JUrsufarSmufawmf
-wdk;0ifvmylaZmf&efbmrSr&Sdyg
-toefY&Sif;qHk;tBuD;jrwfqHk;
-yvifawmfa&SUjyyf0yfum
-udk;uG,frnf ESdrfhcsum
-udk,fawmf&Sifa&SUawmf
-jyyf0yfumudk,fawmf&Sifa&SUawmf
+မစုံလင်သောနှလုံးသားလေး
+ကိုယ်တော်ရဲ့မျက်မှောက်တော်
+တိုးဝင်လာပူဇော်ရန်ဘာမှမရှိပါ
+အသန့်ရှင်းဆုံးအကြီးမြတ်ဆုံး
+ပလင်တော်ရှေ့ပြပ်ဝပ်ကာ
+ကိုးကွယ်မည် နှိမ့်ချကာ
+ကိုယ်တော်ရှင်ရှေ့တော်
+ပြပ်ဝပ်ကာကိုယ်တော်ရှင်ရှေ့တော်
 
-udk,fawmf\bkef; udk,fawmfomwrf;w
-cyfodrf;aomt&mwdkYxuf
-tvdktyfqHk;a,½I
-rsufarSmufawmfomwrf;wae
-tvSyqHk; pHkvifaomrsufarSmuf
-tuREfkyftwGufjyifqifaom
-xm0&*½kPmawmfyvifawmfom
-uREkfyff\jynfhpHk&m
-(udk,fawmffomuREkfyf\jynfhpHk&m)
+ကိုယ်တော်၏ဘုန်း ကိုယ်တော်သာတမ်းတ
+ခပ်သိမ်းသောအရာတို့ထက်
+အလိုအပ်ဆုံးယေရှု
+မျက်မှောက်တော်သာတမ်းတနေ
+အလှပဆုံး စုံလင်သောမျက်မှောက်
+အကျွန်ုပ်အတွက်ပြင်ဆင်သော
+ထာဝရဂရုဏာတော်ပလင်တော်သာ
+ကျွန်ုပ်၏ပြည့်စုံရာ
+(ကိုယ်တော်သာကျွန်ုပ်၏ပြည့်စုံရာ)

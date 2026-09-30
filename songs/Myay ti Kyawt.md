@@ -1,40 +1,39 @@
 ---
-title: rjJwnfausmuf
-font: win
+title: မြဲတည်ကျောက်
 ---
-ukd,fawmfonf tvif;
-ukd,fawmfonf touf
+ကိုယ်တော်သည် အလင်း
+ကိုယ်တော်သည် အသက်
 
-udk,fawmfor®mw&m; uREkfyfvrf;c&D;
-udk,fawmfyJ uREkfyf\ &Jwdkufausmufaqmif
-u,fvTwfjcif;
+ကိုယ်တော်သမ္မာတရား ကျွန်ုပ်လမ်းခရီး
+ကိုယ်တော်ပဲ ကျွန်ုပ်၏ ရဲတိုက်ကျောက်ဆောင်
+ကယ်လွှတ်ခြင်း
 
-cdkvIH&mt&yf tpOfNidrfoufjcif;
-om,mwJhjrpfem; uREkfyfodk;xdef;
+ခိုလှုံရာအရပ် အစဉ်ငြိမ်သက်ခြင်း
+သာယာတဲ့မြစ်နား ကျွန်ုပ်သိုးထိန်း
 
-xm0&NrJaomausmuf uREkfyfb0\
-tuG,ftum
+ထာဝရမြဲသောကျောက် ကျွန်ုပ်ဘဝ၏
+အကွယ်အကာ
 
-xl;qef;aomaumif;uift&mrsm;eJY
-ajrjyifay: &Sd&SdorQaomt&m
-udk,fawmfom zefqif;vsuf pkd;ydkifol
+ထူးဆန်းသောကောင်းကင်အရာများနဲ့
+မြေပြင်ပေ: ရှိရှိသမျှသောအရာ
+ကိုယ်တော်သာ ဖန်ဆင်းလျက် စိုးပိုင်သူ
 
-tjrifhjrwfqkH;xuf udk,fawmfjrifhjrwf
-t&m&mcyfodrf;xuf BuD;jrwfol
-udk,fawmfom wyg;wnf;aom bk&m;
+အမြင့်မြတ်ဆုံးထက် ကိုယ်တော်မြင့်မြတ်
+အရာရာခပ်သိမ်းထက် ကြီးမြတ်သူ
+ကိုယ်တော်သာ တပါးတည်းသော ဘုရား
 
-bkef;BuD;aom wefcdk;eJY BuD;jrwfol
-udk,fawmfwyg;wnf; touf&SdorQ
-csD;rGrf;udk;uG,fMu tBuD;jrwfqkH;
+ဘုန်းကြီးသော တန်ခိုးနဲ့ ကြီးမြတ်သူ
+ကိုယ်တော်တပါးတည်း အသက်ရှိသမျှ
+ချီးမွမ်းကိုးကွယ်ကြ အကြီးမြတ်ဆုံး
 
-tqkH;rJhocifh&JU ynmxl;qef;
-wkdifawmfrSm ocihf&JUcspfarwÅm
-vlawGay:rqkH;wJh *½kPmw&m;
+အဆုံးမဲ့သခင့်ရဲ့ ပညာထူးဆန်း
+တိုင်တော်မှာ သခင့်ရဲ့ချစ်မေတ္တာ
+လူတွေပေ:မဆုံးတဲ့ ဂရုဏာတရား
 
-jyKcJhaus;Zl;awmf trIrsm;aMumifh
-0dnmOfi&JrS vTwfajrmufNyD
-udk,fawmfom a&G;EIwfvTwfykdifol
+ပြုခဲ့ကျေးဇူးတော် အမှုများကြောင့်
+ဝိညာဉ်ငရဲမှ လွှတ်မြောက်ပြီ
+ကိုယ်တော်သာ ရွေးနှုတ်လွှတ်ပိုင်သူ
 
-ocifh&JU aus;Zl;awmf tvGefBuD;rSm
-xm0&tqufquf csD;rGrf;>rufqdkrnf
-tBuD;jrwfqkH;
+သခင့်ရဲ့ ကျေးဇူးတော် အလွန်ကြီးမှာ
+ထာဝရအဆက်ဆက် ချီးမွမ်းမြွက်ဆိုမည်
+အကြီးမြတ်ဆုံး

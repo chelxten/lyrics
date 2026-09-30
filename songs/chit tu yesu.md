@@ -1,18 +1,17 @@
 ---
-title: cspfola,&SK
-font: win
+title: ချစ်သူယေရှု
 ---
-toefU&Sif;qkH; ocifha&SUawmfrSm
-'l;axmufvsuf uREkfyfjyyf0yfudk;uG,f
-tEl;nhHqkH; ocifh&JU&ifcGifqD
-ayGYzufum uREkfyftm;aEG;axG;apchJ
+အသန့်ရှင်းဆုံး သခင့်ရှေ့တော်မှာ
+ဒူးထောက်လျက် ကျွန်ုပ်ပြပ်ဝပ်ကိုးကွယ်
+အနူးညံ့ဆုံး သခင့်ရဲ့ရင်ခွင်ဆီ
+ပွေ့ဖက်ကာ ကျွန်ုပ်အားနွေးထွေးစေခဲ့
 
-teuf½Idif;qkH; rsufarSmufawmfxJ
-tEIdif;rJhwJh ocifhtcspfawGeJU
-tvSyqkH; ocifh&JU&ifckefoH tjrJMum;csifrd
-uREfkyfESvkH;om;
+အနက်ရှိုင်းဆုံး မျက်မှောက်တော်ထဲ
+အနှိုင်းမဲ့တဲ့ သခင့်အချစ်တွေနဲ့
+အလှပဆုံး သခင့်ရဲ့ရင်ခုန်သံ အမြဲကြားချင်မိ
+ကျွန်ုပ်နှလုံးသား
 
-uREkfyftcspfqkH; uRefkyf&JUcspfola,½I
-tpGJvef;qkH; ocif&JUpum;oH
-twrf;wqkH; ocif&JUem;rSm taecsifqHk;ae&m
-ocifhrsufarSmufawmfxJrSm tNrJ&Sdcsifwm
+ကျွန်ုပ်အချစ်ဆုံး ကျွန်ုပ်ရဲ့ချစ်သူယေရှု
+အစွဲလန်းဆုံး သခင်ရဲ့စကားသံ
+အတမ်းတဆုံး သခင်ရဲ့နားမှာ အနေချင်ဆုံးနေရာ
+သခင့်မျက်မှောက်တော်ထဲမှာ အမြဲရှိချင်တာ

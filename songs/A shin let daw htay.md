@@ -1,13 +1,12 @@
 ---
-title: t&SifvufawmfxJ
-font: win
+title: အရှင်လက်တော်ထဲ
 ---
-t&SifvufawmfxJcE¨m?pdwf?0dnmOf ukd,fawmftwGuf qufuyfNyD; uREkfyf&JUb0 ukd,fawmf&Sif&JUvuf0,f tpOfukdifqGJNyD; xm0&
+အရှင်လက်တော်ထဲခန္ဓာ၊စိတ်၊ဝိညာဉ် ကိုယ်တော်အတွက် ဆက်ကပ်ပြီး ကျွန်ုပ်ရဲ့ဘဝ ကိုယ်တော်ရှင်ရဲ့လက်ဝယ် အစဉ်ကိုင်ဆွဲပြီး ထာဝရ
 
-a,½Iom uREkfyf,kHMunf a,½Iom uREkfyfykdif&Sif ukd,fawmfaMumifhom touf&Sifonf ukd,fawmfaMumifhom csD;rGrf;pdwfESvkH;t<uif;rJh
+ယေရှုသာ ကျွန်ုပ်ယုံကြည် ယေရှုသာ ကျွန်ုပ်ပိုင်ရှင် ကိုယ်တော်ကြောင့်သာ အသက်ရှင်သည် ကိုယ်တော်ကြောင့်သာ ချီးမွမ်းစိတ်နှလုံးအကြွင်းမဲ့
 
-twlavQmufrlrnf b,fae&moGm;ygap 0rf;enf;0rf;om ukd;pm;oGm;rnf ukd,fawmftvkdwkdif; uREkfyfavQmufvSrf;rnf
-*wdawmfrsm;pGm xm0&
+အတူလျှောက်မူမည် ဘယ်နေရာသွားပါစေ ဝမ်းနည်းဝမ်းသာ ကိုးစားသွားမည် ကိုယ်တော်အလိုတိုင်း ကျွန်ုပ်လျှောက်လှမ်းမည်
+ဂတိတော်များစွာ ထာဝရ
 
-uREkfyfukd;uG,f
-(uREkfyfukd;uG,frnf)
+ကျွန်ုပ်ကိုးကွယ်
+(ကျွန်ုပ်ကိုးကွယ်မည်)

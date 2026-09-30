@@ -1,17 +1,16 @@
 ---
-title: euf&Skdif;&modkh
-font: win
+title: နက်ရှိုင်းရာသို့
 ---
-omíwkd;NyD odcsifw,f aeY&ufwkdif;ocifhtvkdawmf omíwkd;NyD Mum;csifw,f ukd,fawmftoH
+သာ၍တိုးပြီ သိချင်တယ် နေ့ရက်တိုင်းသခင့်အလိုတော် သာ၍တိုးပြီ ကြားချင်တယ် ကိုယ်တော်အသံ
 
-ocifjrifwwfovkd uREkfyfjrifapyg ocifajymwJhtwkdif;ajymwwfapyg uREkfyfESvkH;om;a&SUawmfrSm zGifh[NyD;
+သခင်မြင်တတ်သလို ကျွန်ုပ်မြင်စေပါ သခင်ပြောတဲ့အတိုင်းပြောတတ်စေပါ ကျွန်ုပ်နှလုံးသားရှေ့တော်မှာ ဖွင့်ဟပြီး
 
-a&SUarSmufylaZmfrnf uRekfyftpGrf;tp &SdorQjzifh ukd,fawmfhyv’ifawmf ajc&if;rSm ukd;uG,f
+ရှေ့မှောက်ပူဇော်မည် ကျွန်ုပ်အစွမ်းအစ ရှိသမျှဖြင့် ကိုယ်တော့်ပလ္လင်တော် ခြေရင်းမှာ ကိုးကွယ်
 
-euf½Idif;&mokdY uREkfyfukd qGJac:yg ocifarwåmxJ aysmf0ifpD;arQmaecsdef
+နက်ရှိုင်းရာသို့ ကျွန်ုပ်ကို ဆွဲခေ:ပါ သခင်မေတ္တာထဲ ပျော်ဝင်စီးမျှောနေချိန်
 
-qmiwfpGmjzifh uREkfyfatmf[pfawmifhwNyD ocif&JUarwåm uREkfyftxJokdY jznfhrlyg
+ဆာငတ်စွာဖြင့် ကျွန်ုပ်အော်ဟစ်တောင့်တပြီ သခင်ရဲ့မေတ္တာ ကျွန်ုပ်အထဲသို့ ဖြည့်မူပါ
 
-rMum;zl; rawGUzl; rjrifEkdifaom t&yfqDokdY wqifhNyD;wqifh wkd;í qGJac:rlyg
+မကြားဖူး မတွေ့ဖူး မမြင်နိုင်သော အရပ်ဆီသို့ တဆင့်ပြီးတဆင့် တိုး၍ ဆွဲခေ:မူပါ
 
-ocifh&JUESvkH;om;ESifh uREkfyfxyfwlnDap teuf½Idif;qkH;aom ocifrsufarSmufawmfxJ
+သခင့်ရဲ့နှလုံးသားနှင့် ကျွန်ုပ်ထပ်တူညီစေ အနက်ရှိုင်းဆုံးသော သခင်မျက်မှောက်တော်ထဲ

@@ -1,17 +1,16 @@
 ---
-title: aus;Zl;awmfrSwyg;
-font: win
+title: ကျေးဇူးတော်မှတပါး
 ---
-uREkfyftouftwGuf toufay;ol uREkfyftjypftwGuf ukd;pm;xrf;&Gufavol uREkfyfb0&JUtqkd;rsm;vGifhapwhJol
+ကျွန်ုပ်အသက်အတွက် အသက်ပေးသူ ကျွန်ုပ်အပြစ်အတွက် ကိုးစားထမ်းရွက်လေသူ ကျွန်ုပ်ဘဝရဲ့အဆိုးများလွင့်စေတဲ့သူ
 
-ajzmifhrwfjcif;ukd ay;ol ocifh&JU*½kPmw&m; tjynfht0cH,l uREkfyfb0&JUt"dyÜm,f&SdapwJhol
+ဖြောင့်မတ်ခြင်းကို ပေးသူ သခင့်ရဲ့ဂရုဏာတရား အပြည့်အဝခံယူ ကျွန်ုပ်ဘဝရဲ့အဓိပ္ပာယ်ရှိစေတဲ့သူ
 
-tBuD;jrwfqkH;aombk&m; ukd,fawmf&Sifomxm0&yg ajrrIefYxJrS uREkfyftm;
-a&G;EIwfjcif;u ocifhtwGufyg
+အကြီးမြတ်ဆုံးသောဘုရား ကိုယ်တော်ရှင်သာထာဝရပါ မြေမှုန့်ထဲမှ ကျွန်ုပ်အား
+ရွေးနှုတ်ခြင်းက သခင့်အတွက်ပါ
 
-a,½I&Sifukd,fawmfwyg;om urÇmtqufqufbkef;BuD;apyg
+ယေရှုရှင်ကိုယ်တော်တပါးသာ ကမ္ဘာအဆက်ဆက်ဘုန်းကြီးစေပါ
 
-tESdrfhtjrifhtwuftus b,fvkdt&mawG BuKHawGUvm ukd,fawmfuREkfyf&JU
-tem;em;tNrJwrf;&Sdjcif;u woufpm
+အနှိမ့်အမြင့်အတက်အကျ ဘယ်လိုအရာတွေ ကြုံတွေ့လာ ကိုယ်တော်ကျွန်ုပ်ရဲ့
+အနားနားအမြဲတမ်းရှိခြင်းက တသက်စာ
 
-'Db0rSm aus;Zl;awmfrSwyg; tjcm;aomr*Fvm uREkfyfür&Sdyg
+ဒီဘဝမှာ ကျေးဇူးတော်မှတပါး အခြားသောမင်္ဂလာ ကျွန်ုပ်၌မရှိပါ

@@ -1,14 +1,13 @@
 ---
-title: 0rf;ajrmuf
-font: win
+title: ဝမ်းမြောက်
 ---
-tajctaetxufrSm &SdwJhol ,kHMunfjcif;eJY a&SUqufol atmifjrifjcif;eJYpkd;pHol
+အခြေအနေအထက်မှာ ရှိတဲ့သူ ယုံကြည်ခြင်းနဲ့ ရှေ့ဆက်သူ အောင်မြင်ခြင်းနဲ့စိုးစံသူ
 
-taoG;&JUwefckd;awmfjzifh atmifjrifcJhNyD xajrmufum ocifh&JUajzmifhrwfjcif;t&mü wnfap
+အသွေးရဲ့တန်ခိုးတော်ဖြင့် အောင်မြင်ခဲ့ပြီ ထမြောက်ကာ သခင့်ရဲ့ဖြောင့်မတ်ခြင်းအရာ၌ တည်စေ
 
-bkef;Bud;t&Sif c&pfawmfeJY twlwlpkd;pH csD;rGrf;um ocifha&SUü
+ဘုန်းကြိးအရှင် ခရစ်တော်နဲ့ အတူတူစိုးစံ ချီးမွမ်းကာ သခင့်ရှေ့၌
 
-0rf;ajrmufjzpfa&vQHxGuf pD;qif;toufwm vGwfajrmufa<u;aMumf toHvGifh csD;rGrf;Muap
+ဝမ်းမြောက်ဖြစ်ရေလျှံထွက် စီးဆင်းအသက်တာ လွတ်မြောက်ကြွေးကြော် အသံလွင့် ချီးမွမ်းကြစေ
 
-0rf;ajrmuf jrpfa&vQHxGuf pD;qif;toufwm vGwfajrmuf a<u;aMumftoHvGifh csD;rGrf; aumif;uifom;&JUoufao
-&,farmjcif; jynfhvQHae
+ဝမ်းမြောက် မြစ်ရေလျှံထွက် စီးဆင်းအသက်တာ လွတ်မြောက် ကြွေးကြော်အသံလွင့် ချီးမွမ်း ကောင်းကင်သားရဲ့သက်သေ
+ရယ်မောခြင်း ပြည့်လျှံနေ

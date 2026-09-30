@@ -1,19 +1,18 @@
 ---
-title: vGwfjcif;
-font: win
+title: လွတ်ခြင်း
 ---
-tjypf udk,fawmftaoG;eYJ tm;vHk;aq;aMumNyD
-tnpf a,½IaMumifhajzmifhrwfoefYpifNyD
+အပြစ် ကိုယ်တော်အသွေးနဲ့ အားလုံးဆေးကြောပြီ
+အညစ် ယေရှုကြောင့်ဖြောင့်မတ်သန့်စင်ပြီ
 
-usdefjcif;csnfaESmifjcif;tm;vkH;rS vGwfajrmufNyD
-vGwfjcif; ty,fi&JxJrS vGwfapNyD
+ကျိန်ခြင်းချည်နှောင်ခြင်းအားလုံးမှ လွတ်မြောက်ပြီ
+လွတ်ခြင်း အပယ်ငရဲထဲမှ လွတ်စေပြီ
 
-or®mw&m;&JUvGwfjcif; trSefwGufcsD;rGrf;r,f [mavvk,m
-vHkavmufwJh aus;Zl;awmftwGufcsD;rGrf;r,f a&;..a&;
+သမ္မာတရားရဲ့လွတ်ခြင်း အမှန်တွက်ချီးမွမ်းမယ် ဟာလေလုယာ
+လုံလောက်တဲ့ ကျေးဇူးတော်အတွက်ချီးမွမ်းမယ် ရေး..ရေး
 
-wnfNrJwJhopömawmftwGuf csD;rGrf;r,f [mavvk,m
-a,½Itay:&yfwnfNyD;awmh
-csD;rGrf;r,f a&;..a&; ..a,½I
+တည်မြဲတဲ့သစ္စာတော်အတွက် ချီးမွမ်းမယ် ဟာလေလုယာ
+ယေရှုအပေ:ရပ်တည်ပြီးတော့
+ချီးမွမ်းမယ် ရေး..ရေး ..ယေရှု
 
-cHpm;csufeYJr[kwfyg tajctaeeJY roufqdkifyg
-a,½Ic&pftxJrSvm vGwfjcif;tppftrSefyg
+ခံစားချက်နဲ့မဟုတ်ပါ အခြေအနေနဲ့ မသက်ဆိုင်ပါ
+ယေရှုခရစ်အထဲမှလာ လွတ်ခြင်းအစစ်အမှန်ပါ

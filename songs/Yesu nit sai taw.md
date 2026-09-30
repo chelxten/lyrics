@@ -1,9 +1,8 @@
 ---
-title: a,½IESifhqdkifaomaMumifh
-font: win
+title: ယေရှုနှင့်ဆိုင်သောကြောင့်
 ---
-(a,½IESifhqdkifaomaMumifh 0rf;ajrmufonf) 3
-[mavvk,m csD;rGrf;av
+(ယေရှုနှင့်ဆိုင်သောကြောင့် ဝမ်းမြောက်သည်) ၃
+ဟာလေလုယာ ချီးမွမ်းလေ
 
-(csD;rGrf;av...tmrif...tmrif) 6
-[mavvk,m csD;rGrf;av
+(ချီးမွမ်းလေ...အာမင်...အာမင်) ၆
+ဟာလေလုယာ ချီးမွမ်းလေ

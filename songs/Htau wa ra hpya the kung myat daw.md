@@ -1,12 +1,11 @@
 ---
-title: xm0&bk&m;onff aumif;jrwfawmfrlí
-font: win
+title: ထာဝရဘုရားသည် ကောင်းမြတ်တော်မူ၍
 ---
-xm0&bk&m;onff aumif;jrwfawmfrlí
+ထာဝရဘုရားသည် ကောင်းမြတ်တော်မူ၍
 
-*½kPmawmf
-tpOftNrJwnfaomaMumifh
+ဂရုဏာတော်
+အစဉ်အမြဲတည်သောကြောင့်
 
-(*kPfaus;Zl;awmfukd)2 csD;rGrf;yg\
+(ဂုဏ်ကျေးဇူးတော်ကို)၂ ချီးမွမ်းပါ၏
 
-([mavvk,m)3 tmrif (*kPfaus;Zl;awmfukd)2 csD;rGrf;yg\
+(ဟာလေလုယာ)၃ အာမင် (ဂုဏ်ကျေးဇူးတော်ကို)၂ ချီးမွမ်းပါ၏

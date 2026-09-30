@@ -1,17 +1,16 @@
 ---
-title: udk,fawmfajumifhusGEkfyftouf&Sif
-font: win
+title: ကိုယ်တော်ကြောင့်ကျွန်ုပ်အသက်ရှင်
 ---
-tkd; ..[kd; ..[kd
+အိုး ..ဟိုး ..ဟို
 
-0dnmOfvGwfajrmuf 0dnmOfaumif;pm; ukd,fawmf&JU 0dnmOfawmf avjyif;rkefwkdif;vkd vIyf&Sm;
+ဝိညာဉ်လွတ်မြောက် ဝိညာဉ်ကောင်းစား ကိုယ်တော်ရဲ့ ဝိညာဉ်တော် လေပြင်းမုန်တိုင်းလို လှုပ်ရှား
 
-toufwm vGwfajrmufNyD csKyfaESmifjcif;rsm; NydKysufNyD
+အသက်တာ လွတ်မြောက်ပြီ ချုပ်နှောင်ခြင်းများ ပြိုပျက်ပြီ
 
-ukd,fawmfaMumifh uREkfyftouf&Sif ukd,fawmfaMumihfom uREkfyf&yfwnf ukd,fawmfom csD;rGrf;jcif; csD;ajrmufjcif; tpOfcHxkduf
+ကိုယ်တော်ကြောင့် ကျွန်ုပ်အသက်ရှင် ကိုယ်တော်ကြောင့်သာ ကျွန်ုပ်ရပ်တည် ကိုယ်တော်သာ ချီးမွမ်းခြင်း ချီးမြောက်ခြင်း အစဉ်ခံထိုက်
 
-ukd,fawmfaMumifhuREkfyftouf&Sif ukd,fawmfaMumifhomuREkfyf&yfwnf
+ကိုယ်တော်ကြောင့်ကျွန်ုပ်အသက်ရှင် ကိုယ်တော်ကြောင့်သာကျွန်ုပ်ရပ်တည်
 
-ukd,fawmfom t&Sifwumt&Sif bk&ifwumbk&if tkd; ..[kd; ..[kd
+ကိုယ်တော်သာ အရှင်တကာအရှင် ဘုရင်တကာဘုရင် အိုး ..ဟိုး ..ဟို
 
-(oefY&Sif;)6 ukd,fawmfoefY&Sif; ukd,fawmfoefY&Sif;rlonf
+(သန့်ရှင်း)၆ ကိုယ်တော်သန့်ရှင်း ကိုယ်တော်သန့်ရှင်းမူသည်

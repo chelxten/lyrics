@@ -1,15 +1,14 @@
 ---
-title: þaeY&ufonf
-font: win
+title: ဤနေ့ရက်သည်
 ---
-þaeY&ufonf ukd,fawmftm;csD;rGrf;&m
+ဤနေ့ရက်သည် ကိုယ်တော်အားချီးမွမ်းရာ
 
-þaeY&ufonf ukd,fawmftm;ukd;uG,f&m
+ဤနေ့ရက်သည် ကိုယ်တော်အားကိုးကွယ်ရာ
 
-þaeY&ufonf ukd,fawmftm;
-csD;rGrf;ukd;uG,f&m r*FvmaeYopfyg
+ဤနေ့ရက်သည် ကိုယ်တော်အား
+ချီးမွမ်းကိုးကွယ်ရာ မင်္ဂလာနေ့သစ်ပါ
 
-([mavvk,m)2
+(ဟာလေလုယာ)၂
 
-uREkfyf0rf;ajrmufjcif;eJY
-csD;rGrf;ukd;uG,f&m r*FvmaeYopfyg
+ကျွန်ုပ်ဝမ်းမြောက်ခြင်းနဲ့
+ချီးမွမ်းကိုးကွယ်ရာ မင်္ဂလာနေ့သစ်ပါ

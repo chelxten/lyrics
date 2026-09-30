@@ -1,13 +1,12 @@
 ---
-title: ukd,fawmfwpfyg;wnf;om
-font: win
+title: ကိုယ်တော်တစ်ပါးတည်းသာ
 ---
-uREkfyf\ckdvIH&m ckdifjrJaomausmufaqmif uREkffyf\cGeftm;vnf; ocifbk&m;yg
+ကျွန်ုပ်၏ခိုလှုံရာ ခိုင်မြဲသောကျောက်ဆောင် ကျွန်ုပ်၏ခွန်အားလည်း သခင်ဘုရားပါ
 
-uREkfyf\t&mcyfodrf; ocifbk&m;aMumifh jzpfwnf tvkH;pkHykdifovsuf tkyfpkd;ol
+ကျွန်ုပ်၏အရာခပ်သိမ်း သခင်ဘုရားကြောင့် ဖြစ်တည် အလုံးစုံပိုင်သလျက် အုပ်စိုးသူ
 
-(ukd,fawmfwpfyg;wnf;om)3 t&mtm;vkH;
+(ကိုယ်တော်တစ်ပါးတည်းသာ)၃ အရာအားလုံး
 
-(ukd,fawmfwpfyg;wnf;om)3 *kPfjyK&ef xkdufwefonf
+(ကိုယ်တော်တစ်ပါးတည်းသာ)၃ ဂုဏ်ပြုရန် ထိုက်တန်သည်
 
-(xm0&pkd;pH xm0&tBuD;jrwfqkH; xm0&xkdufwef ocifhbkef;awmf)
+(ထာဝရစိုးစံ ထာဝရအကြီးမြတ်ဆုံး ထာဝရထိုက်တန် သခင့်ဘုန်းတော်)

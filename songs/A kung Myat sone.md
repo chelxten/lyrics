@@ -1,12 +1,11 @@
 ---
-title: taumif;jrwfqHk;
-font: win
+title: အကောင်းမြတ်ဆုံး
 ---
-(ukd,fawmfonf aumif;jrwfí u½kPmawmftpOfwnfNrJ\)2
+(ကိုယ်တော်သည် ကောင်းမြတ်၍ ကရုဏာတော်အစဉ်တည်မြဲ၏)၂
 
-urÇmajrwcGif&Sdvlom;wkdif;EIwfjzifh rsKd;qufwpfqufrS aemiftqufquf wkdifatmif
+ကမ္ဘာမြေတခွင်ရှိလူသားတိုင်းနှုတ်ဖြင့် မျိုးဆက်တစ်ဆက်မှ နောင်အဆက်ဆက် တိုင်အောင်
 
-uREkfyfukd;uG,frnf ([mavvk,m)2 uREkfyfukd;uG,frnf bk&m;&Siftm;
+ကျွန်ုပ်ကိုးကွယ်မည် (ဟာလေလုယာ)၂ ကျွန်ုပ်ကိုးကွယ်မည် ဘုရားရှင်အား
 
-taumif;jrwfqkH;
-(taumif;jrwfqkH; tNrJpOfwkdif; tNrJpOfwkdif; taumif;jrwfqkH;)3
+အကောင်းမြတ်ဆုံး
+(အကောင်းမြတ်ဆုံး အမြဲစဉ်တိုင်း အမြဲစဉ်တိုင်း အကောင်းမြတ်ဆုံး)၃

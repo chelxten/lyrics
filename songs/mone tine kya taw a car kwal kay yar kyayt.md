@@ -1,33 +1,32 @@
 ---
-title: rkefwdkif;usaomtcg uG,fum&m usl;
-font: win
+title: မုန်တိုင်းကျသောအခါ ကွယ်ကာရာ ကျူး
 ---
-uG,fum&mausmuf udk,fawmfjzpf\
-rkefwdkif;usaomtcg uG,fum&m
+ကွယ်ကာရာကျောက် ကိုယ်တော်ဖြစ်၏
+မုန်တိုင်းကျသောအခါ ကွယ်ကာရာ
 
-'ku©a&mufpOf vkHNcHKay\
-rkefwdkif;usaomtcg uG,fum&m
+ဒုက္ခရောက်စဉ် လုံခြုံပေ၏
+မုန်တိုင်းကျသောအခါ ကွယ်ကာရာ
 
-tdka,½Ionf avmuc&D;vrf;wGif
-uG,fum&mausmuf jzpfawmfrl\
+အိုယေရှုသည် လောကခရီးလမ်းတွင်
+ကွယ်ကာရာကျောက် ဖြစ်တော်မူ၏
 
-tdka,&Sk&Sifonf avmuc&D;vrf;wGif
-uG,fum&mausmufjzpfawmfrl\
+အိုယေရှုရှင်သည် လောကခရီးလမ်းတွင်
+ကွယ်ကာရာကျောက်ဖြစ်တော်မူ၏
 
-aeUcsdef ncsdefuG,fum&mwnf;
-rkef;wdkif;usaomtcg uG,fum&m
+နေ့ချိန် ညချိန်ကွယ်ကာရာတည်း
+မုန်းတိုင်းကျသောအခါ ကွယ်ကာရာ
 
-&efolajcmufvSef;jcif;? aMumuf&GHUuif;
-rkefwdkif;usaomtcg uG,fum&m?
+ရန်သူခြောက်လှန်းခြင်း၊ ကြောက်ရွံ့ကင်း
+မုန်တိုင်းကျသောအခါ ကွယ်ကာရာ၊
 
-rdk;oufrkefwdkif; ywfvnf0dkif;vsSif
-rkefwdkif;usaomtcguG,fum&m
+မိုးသက်မုန်တိုင်း ပတ်လည်ဝိုင်းလျှင်
+မုန်တိုင်းကျသောအခါကွယ်ကာရာ
 
-vHkjcHK&mb,fcgrsSrcGm
-rkefwdkif;usaomtcg uG,fum&m/
+လုံခြုံရာဘယ်ခါမျှမခွာ
+မုန်တိုင်းကျသောအခါ ကွယ်ကာရာ။
 
-uG,fum&mausmuf udk,fawmfjzpf\
-rkefwdkif;usaomtcg uG,fum&m
+ကွယ်ကာရာကျောက် ကိုယ်တော်ဖြစ်၏
+မုန်တိုင်းကျသောအခါ ကွယ်ကာရာ
 
-teD;aeygpOfr? p&ef
-rkefwdkif;usaomtcguG,fum&m
+အနီးနေပါစဉ်မ၊ စရန်
+မုန်တိုင်းကျသောအခါကွယ်ကာရာ

@@ -1,20 +1,19 @@
 ---
-title: þNrdKUü
-font: win
+title: ဤမြို့၌
 ---
-þNrdKUtwGufqkawmif;yg\
-0dnmOfawmfrD;twGuf
-Ekd;xrIjrpfpD;qif;NyD; 0dnmOfawG vGwfajrmufap
-wkdif;a'owpfckNyD;wpfck
-0dnmOfrD;vQHrsm; ul;qufapyg jynfh0apyg
+ဤမြို့အတွက်ဆုတောင်းပါ၏
+ဝိညာဉ်တော်မီးအတွက်
+နိုးထမှုမြစ်စီးဆင်းပြီး ဝိညာဉ်တွေ လွတ်မြောက်စေ
+တိုင်းဒေသတစ်ခုပြီးတစ်ခု
+ဝိညာဉ်မီးလျှံများ ကူးဆက်စေပါ ပြည့်ဝစေပါ
 
-vlrsKd;wdkif;twGufqkawmif;yg\
-0dnmOfawmfrD;twGuf
-Ekd;xrIjrpfpD;qif;NyD;
-0dnmOfawG vGwfajrmufap
-wdkif;a'owpfckNyD;wpfck
-0dnmOfrD;vQHrsm; ul;qufapyg jynfh0apyg
-þNrdKUü þa'oü þt&yfü
-0dnmOfawmfqif;oufaeNyD
-þNrdKUü þa'oü þt&yfü
-0dnmOfawmfrD;ul;qufaeNyD
+လူမျိုးတိုင်းအတွက်ဆုတောင်းပါ၏
+ဝိညာဉ်တော်မီးအတွက်
+နိုးထမှုမြစ်စီးဆင်းပြီး
+ဝိညာဉ်တွေ လွတ်မြောက်စေ
+တိုင်းဒေသတစ်ခုပြီးတစ်ခု
+ဝိညာဉ်မီးလျှံများ ကူးဆက်စေပါ ပြည့်ဝစေပါ
+ဤမြို့၌ ဤဒေသ၌ ဤအရပ်၌
+ဝိညာဉ်တော်ဆင်းသက်နေပြီ
+ဤမြို့၌ ဤဒေသ၌ ဤအရပ်၌
+ဝိညာဉ်တော်မီးကူးဆက်နေပြီ

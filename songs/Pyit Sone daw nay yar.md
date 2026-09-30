@@ -1,11 +1,10 @@
 ---
-title: jynfhpHkaomae&m
-font: win
+title: ပြည့်စုံသောနေရာ
 ---
-xm0&bk&m;ocifonf uRekfyftm; tvGef;yif xl;jcm; xl;jcm;pGmeJh zefqif;xm;w,f uRekfyf0dnmOf tvGefwefzkd;&Sdw,f
+ထာဝရဘုရားသခင်သည် ကျွန်ုပ်အား အလွန်းပင် ထူးခြား ထူးခြားစွာနဲ့ ဖန်ဆင်းထားတယ် ကျွန်ုပ်ဝိညာဉ် အလွန်တန်ဖိုးရှိတယ်
 
-r*Fvmtaygif;awGxuf r*Fvm&Sdw,f b,ft&meJYrS EIdif;vkdYr&bl; þavmurSm uREkfyf&JUb0 jynfhpkHw,f
+မင်္ဂလာအပေါင်းတွေထက် မင်္ဂလာရှိတယ် ဘယ်အရာနဲ့မှ နှိုင်းလို့မရဘူး ဤလောကမှာ ကျွန်ုပ်ရဲ့ဘဝ ပြည့်စုံတယ်
 
-xm0&bk&m;ocifonf uREkfyfbufü tNrJ&yfwnf &SdaeaomaMumifh uREkfyfb0rSm jynfhpkHw,f vkHNcHKw,f
+ထာဝရဘုရားသခင်သည် ကျွန်ုပ်ဘက်၌ အမြဲရပ်တည် ရှိနေသောကြောင့် ကျွန်ုပ်ဘဝမှာ ပြည့်စုံတယ် လုံခြုံတယ်
 
-aysmf&Tifjcif;awGxuf tcsdefem&Dwkdif;u csD;rGrf;p&m 0rf;ajrmufp&m &SdaeaomaMumifh <u,f0csrf;om uREfkyf&JUb0rSm tvGefjynfhpkHw,f
+ပျော်ရွှင်ခြင်းတွေထက် အချိန်နာရီတိုင်းက ချီးမွမ်းစရာ ဝမ်းမြောက်စရာ ရှိနေသောကြောင့် ကြွယ်ဝချမ်းသာ ကျွန်ုပ်ရဲ့ဘဝမှာ အလွန်ပြည့်စုံတယ်

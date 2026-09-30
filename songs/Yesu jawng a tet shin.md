@@ -1,21 +1,20 @@
 ---
-title: a,½IaMumifhtouf&Sif
-font: win
+title: ယေရှုကြောင့်အသက်ရှင်
 ---
-½IH;edrfhaomol r[kwfbl; a[h
-qkH;½IH;aomol r[kwfbl; a[h
-a,½IaMumifh atmifjrifaomol
+ရှုံးနိမ့်သောသူ မဟုတ်ဘူး ဟေ့
+ဆုံးရှုံးသောသူ မဟုတ်ဘူး ဟေ့
+ယေရှုကြောင့် အောင်မြင်သောသူ
 
-0rf;enf;rnhfol r[kwfbl; a[h
-nnf;wGm;rnhfol r[kwfbl; a[h
-a,½IaMumifh t&m&mudk
-wwfEkdifol
+ဝမ်းနည်းမည့်သူ မဟုတ်ဘူး ဟေ့
+ညည်းတွားမည့်သူ မဟုတ်ဘူး ဟေ့
+ယေရှုကြောင့် အရာရာကို
+တတ်နိုင်သူ
 
-a,½IaMumifhuREkfyf touf&Sifonf
-a,½IaMumifhuREkfyf usef;rmNyD
-a,½IaMumifhuREkfyf [mavvk,m
+ယေရှုကြောင့်ကျွန်ုပ် အသက်ရှင်သည်
+ယေရှုကြောင့်ကျွန်ုပ် ကျန်းမာပြီ
+ယေရှုကြောင့်ကျွန်ုပ် ဟာလေလုယာ
 
-a,½IaMumihfuREkfyf vTwfajrmufNyD
-a,½IaMumifhuREkfyf 0rf;ajrmufNyD
-a,½IaMumifhuREkffyf [mavvk,m
-csD;rGrf;ae&onf
+ယေရှုကြောင့်ကျွန်ုပ် လွှတ်မြောက်ပြီ
+ယေရှုကြောင့်ကျွန်ုပ် ဝမ်းမြောက်ပြီ
+ယေရှုကြောင့်ကျွန်ုပ် ဟာလေလုယာ
+ချီးမွမ်းနေရသည်

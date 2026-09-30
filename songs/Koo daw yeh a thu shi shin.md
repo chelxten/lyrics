@@ -1,19 +1,18 @@
 ---
-title: udk,fawmf&Jhtwl&Sdjcif;
-font: win
+title: ကိုယ်တော်ရဲ့အတူရှိခြင်း
 ---
-aeY&ufwkdif; uREkfyfqmiwf 0dnmOftwGif;xJu awmifhw tjcm;t&m&mawGxufrSm vkdcsifwm
+နေ့ရက်တိုင်း ကျွန်ုပ်ဆာငတ် ဝိညာဉ်အတွင်းထဲက တောင့်တ အခြားအရာရာတွေထက်မှာ လိုချင်တာ
 
-b0wpfckvkH;yHktyf ukd,fawmfbk&m; rsufarSmufawmfrSm a&TESifhaiGawGtxufrSm vkdaewm
+ဘဝတစ်ခုလုံးပုံအပ် ကိုယ်တော်ဘုရား မျက်မှောက်တော်မှာ ရွှေနှင့်ငွေတွေအထက်မှာ လိုနေတာ
 
-ukd,fawmf&JUtwl&Sdjcif; ukd,fawmf&Sif&JUtwl&Sdjcif;
+ကိုယ်တော်ရဲ့အတူရှိခြင်း ကိုယ်တော်ရှင်ရဲ့အတူရှိခြင်း
 
-rsufarSmufawmfrSm rjzpfEkdifwmvJr&Sd rwwfEkdifwmvJr&Sd
+မျက်မှောက်တော်မှာ မဖြစ်နိုင်တာလဲမရှိ မတတ်နိုင်တာလဲမရှိ
 
-ukd,fawmf&JUtwl&Sdjcif; ukd,fawmf&Sif&JUtwl&Sdjcif;
+ကိုယ်တော်ရဲ့အတူရှိခြင်း ကိုယ်တော်ရှင်ရဲ့အတူရှိခြင်း
 
-rsufarSmufawmfrSm pkd;&drfp&muif;rJh ukd,fawmfbkef;eJY jynfhpkHw,f
+မျက်မှောက်တော်မှာ စိုးရိမ်စရာကင်းမဲ့ ကိုယ်တော်ဘုန်းနဲ့ ပြည့်စုံတယ်
 
-atmifjrifjcif; pkHvifjcif; <u,f0jcif;awG (tNrJwrf;jynfhpkH&m)2
+အောင်မြင်ခြင်း စုံလင်ခြင်း ကြွယ်ဝခြင်းတွေ (အမြဲတမ်းပြည့်စုံရာ)၂
 
-Nidrfoufjcif; aysmf&Tifjcif; atmifEkdifjcif;awG (tNrJwrf;jynhfpkH&m)2
+ငြိမ်သက်ခြင်း ပျော်ရွှင်ခြင်း အောင်နိုင်ခြင်းတွေ (အမြဲတမ်းပြည့်စုံရာ)၂

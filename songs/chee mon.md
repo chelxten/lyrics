@@ -1,20 +1,19 @@
 ---
-title: csD;rGrf; 1
-font: win
+title: ချီးမွမ်း ၁
 ---
-csD;rGrf; csD;rGrf;*kPfawmfudk vIdif;wHykd;Mum;xJ vrf;c&D;jzpfapNyD
+ချီးမွမ်း ချီးမွမ်းဂုဏ်တော်ကို လှိုင်းတံပိုးကြားထဲ လမ်းခရီးဖြစ်စေပြီ
 
-csD;rGrf; csD;rGrf;*kPfawmfudk tcuftcJtwm;tqD;
-tm;vkH;Nidrf;apNyD
+ချီးမွမ်း ချီးမွမ်းဂုဏ်တော်ကို အခက်အခဲအတားအဆီး
+အားလုံးငြိမ်းစေပြီ
 
-Munfh½Iavmh trIopfukd igjyKrnf Munfh½Iavmh ,ckay:vmrnf
+ကြည့်ရှုလော့ အမှုသစ်ကို ငါပြုမည် ကြည့်ရှုလော့ ယခုပေ:လာမည်
 
-awmüvrf;ukdvnf; olzefqif;NyD vGifjyifü pD;aoma&ukdvnf; zefqif;NyD
+တော၌လမ်းကိုလည်း သူဖန်ဆင်းပြီ လွင်ပြင်၌ စီးသောရေကိုလည်း ဖန်ဆင်းပြီ
 
-(rwwfEkdifaomt&m r&Sdyg
-rjzpfEkdifaomt&m r&Sdyg)
+(မတတ်နိုင်သောအရာ မရှိပါ
+မဖြစ်နိုင်သောအရာ မရှိပါ)
 
-(csD;rGrf;)
+(ချီးမွမ်း)
 
-vIdif;wHykd;Mum;xJ vrf;c&D;jzpfapNyD
-tcuftcJ twm;tqD;tm;vkH; Nidrf;apNyD
+လှိုင်းတံပိုးကြားထဲ လမ်းခရီးဖြစ်စေပြီ
+အခက်အခဲ အတားအဆီးအားလုံး ငြိမ်းစေပြီ

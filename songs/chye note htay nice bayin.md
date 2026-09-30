@@ -1,11 +1,10 @@
 ---
-title: uREkfyfxJü bk&if
-font: win
+title: ကျွန်ုပ်ထဲ၌ ဘုရင်
 ---
-(uREkfyfbk&m; ukd,fawmfBuD;jrwf ukd,fawmfwwfpGrf; teEÅwefckd;&Sif)2
+(ကျွန်ုပ်ဘုရား ကိုယ်တော်ကြီးမြတ် ကိုယ်တော်တတ်စွမ်း အနန္တတန်ခိုးရှင်)၂
 
-(ukd,fawmf rwwfpGrf;wJht&mr&Sd
-udk,fawmfrwwfpGrf;wJh t&mr&Sdyg)2
+(ကိုယ်တော် မတတ်စွမ်းတဲ့အရာမရှိ
+ကိုယ်တော်မတတ်စွမ်းတဲ့ အရာမရှိပါ)၂
 
-arQmfvifhjcif;jzifh uREkfyfxJ&Sd
-udk,fawmfom uREkfyfxJü bk&if
+မျှော်လင့်ခြင်းဖြင့် ကျွန်ုပ်ထဲရှိ
+ကိုယ်တော်သာ ကျွန်ုပ်ထဲ၌ ဘုရင်

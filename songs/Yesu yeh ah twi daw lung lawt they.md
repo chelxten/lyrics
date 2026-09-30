@@ -1,13 +1,12 @@
 ---
-title: a,½I&JUtaoG;awmf vkHavmufw,f
-font: win
+title: ယေရှုရဲ့အသွေးတော် လုံလောက်တယ်
 ---
-(a,½I&JUtaoG;awmf vkHavmufw,f)3 xm0&twGuf wpfoufvkH;twGuf
+(ယေရှုရဲ့အသွေးတော် လုံလောက်တယ်)၃ ထာဝရအတွက် တစ်သက်လုံးအတွက်
 
-uREkfyfrSm &SdwJhtjypfrsm;pGmtwGuf a,½Ic&pfawmf taoG;eJYtoufukdpGefYum tjypfvGwfjcif;ukd olay;
+ကျွန်ုပ်မှာ ရှိတဲ့အပြစ်များစွာအတွက် ယေရှုခရစ်တော် အသွေးနဲ့အသက်ကိုစွန့်ကာ အပြစ်လွတ်ခြင်းကို သူပေး
 
-uREkfyfrSm &SdwJhtema&m*grsm; aysmufuif;vkdY usef;rmNyD csKyfaESmifjcif;awGxJuvnf; vGwfajrmufapNyD
+ကျွန်ုပ်မှာ ရှိတဲ့အနာရောဂါများ ပျောက်ကင်းလို့ ကျန်းမာပြီ ချုပ်နှောင်ခြင်းတွေထဲကလည်း လွတ်မြောက်စေပြီ
 
-ajzmifhrwfjcif;tykdifay; rkd;yGifhuJhokdY jzLpifap
+ဖြောင့်မတ်ခြင်းအပိုင်ပေး မိုးပွင့်ကဲ့သို့ ဖြူစင်စေ
 
-ajzmifhrwfjcif;ukd tykdifay;cJhNyD a,½I&JU taoG;awmfjrwfjzifh 0rf;ajrmufjcif;ukd tykdifay;cJhNyD a,½I&JUtaoG;awmfjrwfjzifh
+ဖြောင့်မတ်ခြင်းကို အပိုင်ပေးခဲ့ပြီ ယေရှုရဲ့ အသွေးတော်မြတ်ဖြင့် ဝမ်းမြောက်ခြင်းကို အပိုင်ပေးခဲ့ပြီ ယေရှုရဲ့အသွေးတော်မြတ်ဖြင့်

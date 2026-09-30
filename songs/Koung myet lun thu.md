@@ -1,12 +1,11 @@
 ---
-title: aumif;jrwfvGef;ol
-font: win
+title: ကောင်းမြတ်လွန်းသူ
 ---
-aeY&ufpOf*½kPm tNrJwrf;cHpm;ae em&Dwkdif;rSm ajcacsmfcGifhray;olyg
+နေ့ရက်စဉ်ဂရုဏာ အမြဲတမ်းခံစားနေ နာရီတိုင်းမှာ ခြေချော်ခွင့်မပေးသူပါ
 
-vrf;jy&Sif uG,fumvkdY apmifha&Smufay;w,f aeY&ufpOfwkdif; vkHNcKHNidrf0yfcJh
+လမ်းပြရှင် ကွယ်ကာလို့ စောင့်ရှောက်ပေးတယ် နေ့ရက်စဉ်တိုင်း လုံခြုံငြိမ်ဝပ်ခဲ့
 
-(tNrJwrf;aumif;jrwfvGef;wJhbk&m; [mavvk,m
-tNrJwrf; tBuD;jrwfqkH;aombk&m;)
+(အမြဲတမ်းကောင်းမြတ်လွန်းတဲ့ဘုရား ဟာလေလုယာ
+အမြဲတမ်း အကြီးမြတ်ဆုံးသောဘုရား)
 
-tem;rSm c&pfawmfaumif;jrwfvkdYaewm
+အနားမှာ ခရစ်တော်ကောင်းမြတ်လို့နေတာ

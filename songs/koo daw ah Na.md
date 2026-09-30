@@ -1,12 +1,11 @@
 ---
-title: udk,fawmftem;
-font: win
+title: ကိုယ်တော်အနား
 ---
-avmuBuD;&JUtaumif;qHk;t&mrsm;xuf
-taumif;jrwfqHk;aom uREkfyf\aumif;uifzcif
-uREkfyfvGwfajrmufjcif; uREkfyf\tNrJwrf;touf&Sifjcif;
-twkr&Sdyg tEIdkif;rJh uREkfyf&JUocifbk&m;
-ocifha&SUarSmufodkY uREkfyfta&mufvmcJNyD
-ocifh&JUbkef;eJY ocifhrsufESmawmfjrifawGUzdkY
+လောကကြီးရဲ့အကောင်းဆုံးအရာများထက်
+အကောင်းမြတ်ဆုံးသော ကျွန်ုပ်၏ကောင်းကင်ဖခင်
+ကျွန်ုပ်လွတ်မြောက်ခြင်း ကျွန်ုပ်၏အမြဲတမ်းအသက်ရှင်ခြင်း
+အတုမရှိပါ အနှိုင်းမဲ့ ကျွန်ုပ်ရဲ့သခင်ဘုရား
+သခင့်ရှေ့မှောက်သို့ ကျွန်ုပ်အရောက်လာခဲပြီ
+သခင့်ရဲ့ဘုန်းနဲ့ သခင့်မျက်နှာတော်မြင်တွေ့ဖို့
 
-udk,fawmfomuREkfyf&JUESvHk;om; uREkfyf&JUqE
+ကိုယ်တော်သာကျွန်ုပ်ရဲ့နှလုံးသား ကျွန်ုပ်ရဲ့ဆန

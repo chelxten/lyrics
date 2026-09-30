@@ -1,19 +1,18 @@
 ---
-title: [mavvk,m
-font: win
+title: ဟာလေလုယာ
 ---
-[mavvk,m tmhtm
-[mavvk,m tmhtm
-[mavvk,m tmhtm tmrif
+ဟာလေလုယာ အာ့အာ
+ဟာလေလုယာ အာ့အာ
+ဟာလေလုယာ အာ့အာ အာမင်
 
-udk,fawmftm;csD;rGrf;oDcsif;qdk&m
-xm0&oefY½Sif;aomemr
+ကိုယ်တော်အားချီးမွမ်းသီချင်းဆိုရာ
+ထာဝရသန့်ရှင်းသောနာမ
 
-cE¨mpdwfESvkH;om;twGif;0dnmOf
-udk,fawmfudkcsD;rGrf;yg
+ခန္ဓာစိတ်နှလုံးသားအတွင်းဝိညာဉ်
+ကိုယ်တော်ကိုချီးမွမ်းပါ
 
-aumif;uifom;rsm;oDqdk&m
-rdk;ajrMuD;om;0efcH&m
+ကောင်းကင်သားများသီဆိုရာ
+မိုးမြေကြီးသားဝန်ခံရာ
 
-xdkzefqif;t&mrsm;
-tpOfuckefoDusL;&m
+ထိုဖန်ဆင်းအရာများ
+အစဉ်ကခုန်သီကျူးရာ

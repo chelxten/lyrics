@@ -1,17 +1,16 @@
 ---
-title: ydkodjrifcsif
-font: win
+title: ပိုသိမြင်ချင်
 ---
-uREkfyf\0dnmOfonf ukd,fawmftm;awGUcsif pdwfESvkH;t<uif;rJh&SmazG
+ကျွန်ုပ်၏ဝိညာဉ်သည် ကိုယ်တော်အားတွေ့ချင် စိတ်နှလုံးအကြွင်းမဲ့ရှာဖွေ
 
-tuRrf;0ifzefrsm;av ykdícspfav xkdarwÅmawmftm;jzifh aysmf&Gif
+အကျွမ်းဝင်ဖန်များလေ ပို၍ချစ်လေ ထိုမေတ္တာတော်အားဖြင့် ပျော်ရွင်
 
-t&ifu uREkfyfodwJhtodawGxuf t&ifu uREkfyfcspfwJhtcspfawG
+အရင်က ကျွန်ုပ်သိတဲ့အသိတွေထက် အရင်က ကျွန်ုပ်ချစ်တဲ့အချစ်တွေ
 
-ukd,fawmfukdcspfw,faemf avmu&JUpnf;pdrfOpömxuf
+ကိုယ်တော်ကိုချစ်တယ်နော် လောကရဲ့စည်းစိမ်ဉစ္စာထက်
 
-ukd,fawmfukdwpfaeYxufwpfaeY wkd;íuREkfyfjrwfEkd;
+ကိုယ်တော်ကိုတစ်နေ့ထက်တစ်နေ့ တိုး၍ကျွန်ုပ်မြတ်နိုး
 
-ukd,fawmfukd odcsifw,f OD;aESmufESifhodwJh todawGxuf
+ကိုယ်တော်ကို သိချင်တယ် ဉီးနှောက်နှင့်သိတဲ့ အသိတွေထက်
 
-ukd,fawmfukdawGUcsifw,f ykdodcsifw,f tNrJwrf; odjrifcsif
+ကိုယ်တော်ကိုတွေ့ချင်တယ် ပိုသိချင်တယ် အမြဲတမ်း သိမြင်ချင်

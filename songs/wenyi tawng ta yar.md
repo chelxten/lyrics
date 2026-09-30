@@ -1,17 +1,16 @@
 ---
-title: 0dnmOfawmifhw&m
-font: win
+title: ဝိညာဉ်တောင့်တရာ
 ---
-ukd,fawmfom uREkfyf0dnmOfawmifhw&m uEÅm&aoGYajcmufwJhb0xJ ukd,fawmfukd wrf;wvkdYae
+ကိုယ်တော်သာ ကျွန်ုပ်ဝိညာဉ်တောင့်တရာ ကန္တာရသွေ့ခြောက်တဲ့ဘဝထဲ ကိုယ်တော်ကို တမ်းတလို့နေ
 
-ukd,fawmfom uREkfyf0dnmOf toufay;ol [maewJh uREkfyfpdwf0dnmOfxJ ukd,fawmf&Sifwpfyg;om
-jznfhqnf;ay;ol
+ကိုယ်တော်သာ ကျွန်ုပ်ဝိညာဉ် အသက်ပေးသူ ဟာနေတဲ့ ကျွန်ုပ်စိတ်ဝိညာဉ်ထဲ ကိုယ်တော်ရှင်တစ်ပါးသာ
+ဖြည့်ဆည်းပေးသူ
 
-uREkfyftwGif;0dnmOftxJrS
-udk,fawmfudkawmifhwyg\
-aeUwdkif;nwdkif; vGrf;qGwfyg\
+ကျွန်ုပ်အတွင်းဝိညာဉ်အထဲမှ
+ကိုယ်တော်ကိုတောင့်တပါ၏
+နေ့တိုင်းညတိုင်း လွမ်းဆွတ်ပါ၏
 
-uREkfyftwGif;0dnmOftxJrS
-udk,fawmfudkawmifhwyg\
-udk,fawmfomvQif
-uREkfyfpdwf0dnmOfa&mifh&Japol
+ကျွန်ုပ်အတွင်းဝိညာဉ်အထဲမှ
+ကိုယ်တော်ကိုတောင့်တပါ၏
+ကိုယ်တော်သာလျှင်
+ကျွန်ုပ်စိတ်ဝိညာဉ်ရောင့်ရဲစေသူ

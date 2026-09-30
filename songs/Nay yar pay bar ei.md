@@ -1,15 +1,14 @@
 ---
-title: ae&may;yg\
-font: win
+title: နေရာပေးပါ၏
 ---
-cHpm;csufwdkY raumif;&ifvnf; ukd,fawmfhukd ukd;uG,fr,f emMunf;0rf;enf;aevnf;
+ခံစားချက်တို့ မကောင်းရင်လည်း ကိုယ်တော့်ကို ကိုးကွယ်မယ် နာကြည်းဝမ်းနည်းနေလည်း
 
-&ifxJrSm tajctaer[ef&ifvnf; ukd,fawmhfukd tNrJwrf;ukd;uG,fr,f Nidrfoufjcif;&vdrfhr,f
+ရင်ထဲမှာ အခြေအနေမဟန်ရင်လည်း ကိုယ်တော့်ကို အမြဲတမ်းကိုးကွယ်မယ် ငြိမ်သက်ခြင်းရလိမ့်မယ်
 
-&nfrSef;csufwkdYrjynfhpkHvnf; ukd,fawmhfukd ukd;uG,fr,f emMunf;0rf;enf;aevnf;
+ရည်မှန်းချက်တို့မပြည့်စုံလည်း ကိုယ်တော့်ကို ကိုးကွယ်မယ် နာကြည်းဝမ်းနည်းနေလည်း
 
-yef;wkdif&Smav a0;aevnf; ukd,fawmfukd tNrJwrf;zuf&rf;r,f atmifjrifjcif;&vdrfhr,f
+ပန်းတိုင်ရှာလေ ဝေးနေလည်း ကိုယ်တော်ကို အမြဲတမ်းဖက်ရမ်းမယ် အောင်မြင်ခြင်းရလိမ့်မယ်
 
-ae&may;yg\ oefY&Sif;aom 0dnmOfawmf twGif;ESvkH;om;xJü tpOftkyfpkd;rlyg
+နေရာပေးပါ၏ သန့်ရှင်းသော ဝိညာဉ်တော် အတွင်းနှလုံးသားထဲ၌ အစဉ်အုပ်စိုးမူပါ
 
-ae&may;yg\ teuf½Idif;qkH; ESvkH;tdrf0,f cHpm;csufwkdYtxufü tpOftkyfpkd;rlyg 0dnmOfawmf
+နေရာပေးပါ၏ အနက်ရှိုင်းဆုံး နှလုံးအိမ်ဝယ် ခံစားချက်တို့အထက်၌ အစဉ်အုပ်စိုးမူပါ ဝိညာဉ်တော်

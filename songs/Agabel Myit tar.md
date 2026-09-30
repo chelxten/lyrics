@@ -1,19 +1,18 @@
 ---
-title: t*¾gayarwåm
-font: win
+title: အဂ္ဂါပေမေတ္တာ
 ---
-uREkfyftjypfxuf ocifhtcspf omíBuD;w,f tqkH;prJhocifharwåm uREkfyftwGuf tpOfNrJ
+ကျွန်ုပ်အပြစ်ထက် သခင့်အချစ် သာ၍ကြီးတယ် အဆုံးစမဲ့သခင့်မေတ္တာ ကျွန်ုပ်အတွက် အစဉ်မြဲ
 
-tEIdif;rJhyg axG;ayGUqJyg ocifbk&m;&JU arwåm
+အနှိုင်းမဲ့ပါ ထွေးပွေ့ဆဲပါ သခင်ဘုရားရဲ့ မေတ္တာ
 
-a&G;EIwfaus;Zl; u½kPmawmfxJ ocifhtcspfeJY topfjzpfvm rsufarSmufawmfxJ uREkfyfukd;uG,f
+ရွေးနှုတ်ကျေးဇူး ကရုဏာတော်ထဲ သခင့်အချစ်နဲ့ အသစ်ဖြစ်လာ မျက်မှောက်တော်ထဲ ကျွန်ုပ်ကိုးကွယ်
 
-tawmifawmft&dyfatmuf0,f 0Sufxm;cJhtcspfeJY
+အတောင်တော်အရိပ်အောက်ဝယ် ဝှက်ထားခဲ့အချစ်နဲ့
 
-t*¾gayarwåm t*¾gayarwåm uREkfyftm; t<uif;rJhcspfwJh ocif&JUarwåm
+အဂ္ဂါပေမေတ္တာ အဂ္ဂါပေမေတ္တာ ကျွန်ုပ်အား အကြွင်းမဲ့ချစ်တဲ့ သခင်ရဲ့မေတ္တာ
 
-ajrrIefYrS uREkfyftm; ocifcsD;ajrmufrlwm
+မြေမှုန့်မှ ကျွန်ုပ်အား သခင်ချီးမြောက်မူတာ
 
-tajctaewkdif;rSm tcsdeftcgwkdif;rSm tpOfxm0&rajymif;vJwJh wnfNrJwJharwåm
+အခြေအနေတိုင်းမှာ အချိန်အခါတိုင်းမှာ အစဉ်ထာဝရမပြောင်းလဲတဲ့ တည်မြဲတဲ့မေတ္တာ
 
-vkHavmufvsufcHpm; xm0&arwåmw&m; t*¾gayarwåm
+လုံလောက်လျက်ခံစား ထာဝရမေတ္တာတရား အဂ္ဂါပေမေတ္တာ

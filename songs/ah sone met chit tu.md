@@ -1,19 +1,18 @@
 ---
-title: tqHk;rJhcspfol
-font: win
+title: အဆုံးမဲ့ချစ်သူ
 ---
-udk,fawmfuREkfyfb0twGuf
-,kHMunfarQmfvifh&m tdk..b0wpfckvkH;twGuf
-&yfwnfay;ol
+ကိုယ်တော်ကျွန်ုပ်ဘဝအတွက်
+ယုံကြည်မျှော်လင့်ရာ အို..ဘဝတစ်ခုလုံးအတွက်
+ရပ်တည်ပေးသူ
 
-idk,dkcsdefawGrSm olulnDumESpfodrfh
-tcsdefwdkif;tarSmifvrf;paysmufcsdefrSm ukd,fawmftvif;xJqGJac:,l
+ငိုယိုချိန်တွေမှာ သူကူညီကာနှစ်သိမ့်
+အချိန်တိုင်းအမှောင်လမ်းစပျောက်ချိန်မှာ ကိုယ်တော်အလင်းထဲဆွဲခေ:ယူ
 
-yifv,fork'´&mawmif ocihftcspfavmufreufbl; a0[ifaumif;uif,H ocifhtcspfavmufrjrifhrm;bl;
+ပင်လယ်သမုဒ္ဒရာတောင် သခင့်အချစ်လောက်မနက်ဘူး ဝေဟင်ကောင်းကင်ယံ သခင့်အချစ်လောက်မမြင့်မားဘူး
 
-tus,fjyefYqkH;vGifjyif ocifhtcspfukdrrSDbl; ocif[m ightwGuf b0rSmta&;ygqkH;^tvkdtyfqkH;
-(ocif[m ightwGuf b0rSmvkdtyfw,f)
+အကျယ်ပြန့်ဆုံးလွင်ပြင် သခင့်အချစ်ကိုမမှီဘူး သခင်ဟာ ငါ့အတွက် ဘဝမှာအရေးပါဆုံး အလိုအပ်ဆုံး
+(သခင်ဟာ ငါ့အတွက် ဘဝမှာလိုအပ်တယ်)
 
-ukd,fawmfuREkfyfb0twGuf u,fwif&Sifc&pfawmf rukefEkdifBuD;rm;vGef;wJh ocifh&JUcspfjcif;
+ကိုယ်တော်ကျွန်ုပ်ဘဝအတွက် ကယ်တင်ရှင်ခရစ်တော် မကုန်နိုင်ကြီးမားလွန်းတဲ့ သခင့်ရဲ့ချစ်ခြင်း
 
-wu,fqkdtzkd;tcay;NyD; toufukdyif pGefYvGwfcHol (tdk;) rcrf;ajcmufjrpfa&vkd urÇmukefqkH;vnf; cspfaeol
+တကယ်ဆိုအဖိုးအခပေးပြီး အသက်ကိုပင် စွန့်လွတ်ခံသူ (အိုး) မခမ်းခြောက်မြစ်ရေလို ကမ္ဘာကုန်ဆုံးလည်း ချစ်နေသူ

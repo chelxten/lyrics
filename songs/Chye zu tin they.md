@@ -1,17 +1,16 @@
 ---
-title: aus;Zl;wifw,f
-font: win
+title: ကျေးဇူးတင်တယ်
 ---
-&GH&SmzG,f tjypfom;twGuf toufay;0Hhol ukd,fawmf&Sif wpfyg;wnf;&Sdaew,f
+ရွံရှာဖွယ် အပြစ်သားအတွက် အသက်ပေးဝံ့သူ ကိုယ်တော်ရှင် တစ်ပါးတည်းရှိနေတယ်
 
-b,fvkdtajctae b,fvkdvlom;rsKd;rqkd ukd,fawmf&Sif tNrJwrf;cspfaew,f
+ဘယ်လိုအခြေအနေ ဘယ်လိုလူသားမျိုးမဆို ကိုယ်တော်ရှင် အမြဲတမ်းချစ်နေတယ်
 
-jrifhjrwfwJh taoG;awmf olav oGef;um&,f tjypfom;uREkfyftwGuf toufukdpaw;
+မြင့်မြတ်တဲ့ အသွေးတော် သူလေ သွန်းကာရယ် အပြစ်သားကျွန်ုပ်အတွက် အသက်ကိုစတေး
 
-(ukd,fawmfukd odyfaus;Zl;wifw,f tpOfxm0& csD;rGrf;aer,f 'D&ifrSm pum;av;wpfcGef;ukd tcsdefwkdif; tNrJwrf; ajymyg&ap) aus;Zl;wifw,f
+(ကိုယ်တော်ကို သိပ်ကျေးဇူးတင်တယ် အစဉ်ထာဝရ ချီးမွမ်းနေမယ် ဒီရင်မှာ စကားလေးတစ်ခွန်းကို အချိန်တိုင်း အမြဲတမ်း ပြောပါရစေ) ကျေးဇူးတင်တယ်
 
-xkdt&Sifukd ,kHaomol xm0&toufukd udk,fawmf&Sif tcrJhay;aew,f
+ထိုအရှင်ကို ယုံသောသူ ထာဝရအသက်ကို ကိုယ်တော်ရှင် အခမဲ့ပေးနေတယ်
 
-wpfBudrfwcgrS rrSm;wJhbk&m;om;vkd 0dnmOfvlopfvnf; jzpfapw,f
+တစ်ကြိမ်တခါမှ မမှားတဲ့ဘုရားသားလို ဝိညာဉ်လူသစ်လည်း ဖြစ်စေတယ်
 
-ajzmifhrwfjcif;tarGukd oltykdifay;aew,f tpOfrpzkdY 0dnmOfawmfay;cJhw,f
+ဖြောင့်မတ်ခြင်းအမွေကို သူအပိုင်ပေးနေတယ် အစဉ်မစဖို့ ဝိညာဉ်တော်ပေးခဲ့တယ်

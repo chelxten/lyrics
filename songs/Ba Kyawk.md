@@ -1,44 +1,43 @@
 ---
-title: bmaMumifh
-font: win
+title: ဘာကြောင့်
 ---
-bmaMumifhrsm;vJ emusifjcif;;eJY
-wkdifawmfxufESdyfpufnSif;qJjcif;cH a0'emqdk;eJY
+ဘာကြောင့်များလဲ နာကျင်ခြင်းနဲ့
+တိုင်တော်ထက်နှိပ်စက်ညှင်းဆဲခြင်းခံ ဝေဒနာဆိုးနဲ့
 
-bmaMumifhrsm;vJ udk,fawmf&JYtouf
-taocHvdkY tz&JUpGefhypfjcif;cH,l&vJ
+ဘာကြောင့်များလဲ ကိုယ်တော်ရဲ့အသက်
+အသေခံလို့ အဖရဲ့စွန့်ပစ်ခြင်းခံယူရလဲ
 
-'gtcspfawGvm; uREkfyfudk,fpm; ocifay;qyfcJhwmvm;
-uREkfyf&JUb0jynfhpHkzdkY ocifusdK;yJh&wmvm; ..[m
+ဒါအချစ်တွေလား ကျွန်ုပ်ကိုယ်စား သခင်ပေးဆပ်ခဲ့တာလား
+ကျွန်ုပ်ရဲ့ဘဝပြည့်စုံဖို့ သခင်ကျိုးပဲ့ရတာလား ..ဟာ
 
-&ifxJ½dSKufidkrd bmaMumifh
+ရင်ထဲရှိုက်ငိုမိ ဘာကြောင့်
 
-ayawqdk;npf a,mifjcm½l;ESrf; &efvdknpfnL;jcif;
-tjynfheJYuWEkfyfudkbmaMumifhrsm;vJ
+ပေတေဆိုးညစ် ယောင်ခြာရူးနှမ်း ရန်လိုညစ်ညူးခြင်း
+အပြည့်နဲ့ကွှန်ုပ်ကိုဘာကြောင့်များလဲ
 
-ociftvGefaumif;jrwf tpOfoefY&Sif;aom
-xm0&tEdSkif;rJhBuD;jrwfbkef;udk bmaMumifhrsm;vJ
+သခင်အလွန်ကောင်းမြတ် အစဉ်သန့်ရှင်းသော
+ထာဝရအနှိုင်းမဲ့ကြီးမြတ်ဘုန်းကို ဘာကြောင့်များလဲ
 
-u&mukef;ay:uopfwkdiftxd olESdrfhcsjcif;cHcJh
-tJ'Davmufawmifcspf&vm; bmaMumifhrsm;vJajymygtHk;
+ကရာကုန်းပေ:ကသစ်တိုင်အထိ သူနှိမ့်ချခြင်းခံခဲ့
+အဲဒီလောက်တောင်ချစ်ရလား ဘာကြောင့်များလဲပြောပါအုံး
 
-uREkfyf&JYb0wdkYjynfhpHkoGm; ocifh&JYtaoG;pufpGef;xifoGm;
-ocif&JUtoufeJYa&G;wJhuREkfyfrSm&ifemvGef;vdkY
+ကျွန်ုပ်ရဲ့ဘဝတို့ပြည့်စုံသွား သခင့်ရဲ့အသွေးစက်စွန်းထင်သွား
+သခင်ရဲ့အသက်နဲ့ရွေးတဲ့ကျွန်ုပ်မှာရင်နာလွန်းလို့
 
-ocifpD;uscJhwJhaoG;pufrsm; uREkfyftm;a&mufap
-ocifh&JUtem; ESvHk;om;xJucsD;rGrf;rsuf&nf
-woGifoGifpD;us
+သခင်စီးကျခဲ့တဲ့သွေးစက်များ ကျွန်ုပ်အားရောက်စေ
+သခင့်ရဲ့အနား နှလုံးသားထဲကချီးမွမ်းမျက်ရည်
+တသွင်သွင်စီးကျ
 
-b,ft&meJhrSEdSkif;rrSDbl; pum;vHk;rsm;r&Sdawmhbl;
-bmaMumifh uREkfyfudk'Davmufxdcspf&vJ
+ဘယ်အရာနဲ့မှနှိုင်းမမှီဘူး စကားလုံးများမရှိတော့ဘူး
+ဘာကြောင့် ကျွန်ုပ်ကိုဒီလောက်ထိချစ်ရလဲ
 
-ajcawmf&if;em; ½dlaoOD;cs b,fvdkrSpOf;pm;
-awG;awmvdkhrrSD ocifcspfjcif;rsm;
+ခြေတော်ရင်းနား ရိူသေဉီးချ ဘယ်လိုမှစဉ်းစား
+တွေးတောလို့မမှီ သခင်ချစ်ခြင်းများ
 
-Munfndk'l;axmuf udkk,fawmfa&SSUarSmuf
-udk,fawmftm;csD;rGrf;jcif;&JU,Zfudk ylaZmfqufo
+ကြည်ညိုဒူးထောက် ကိုယ်တော်ရှေ့မှောက်
+ကိုယ်တော်အားချီးမွမ်းခြင်းရဲ့ယဇ်ကို ပူဇော်ဆက်သ
 
-udk,fawmf&JUcspfjcif; xm0&wnfjcif;
-rqHk;wJh*½kPmeJh
+ကိုယ်တော်ရဲ့ချစ်ခြင်း ထာဝရတည်ခြင်း
+မဆုံးတဲ့ဂရုဏာနဲ့
 
-uREkfyfacgif;ay:rSm pD;apum xm0&twGufjynfhpHkap
+ကျွန်ုပ်ခေါင်းပေ:မှာ စီးစေကာ ထာဝရအတွက်ပြည့်စုံစေ

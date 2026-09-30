@@ -1,10 +1,9 @@
 ---
-title: ukd,fawmfonfbkef;
-font: win
+title: ကိုယ်တော်သည်ဘုန်း
 ---
-t&mcyfodrf;a,½IaMumifh olUtxJu olUtwGufjzpfapNyD
+အရာခပ်သိမ်းယေရှုကြောင့် သူ့အထဲက သူ့အတွက်ဖြစ်စေပြီ
 
-ukd,fawmfonfbkef; . . BuD;
-ukd,fawmfonfbkef; . . BuD; ygap ukd,fawmfonfbkef;BuD; xm0&quftmrif
+ကိုယ်တော်သည်ဘုန်း . . ကြီး
+ကိုယ်တော်သည်ဘုန်း . . ကြီး ပါစေ ကိုယ်တော်သည်ဘုန်းကြီး ထာဝရဆက်အာမင်
 
-<u,f0jcif;ESifh pnf;pdrfeufeJvS OmPfynmrsm; pD&ifjcif;ESifh wefckd;awmf pD;qif;vm a,½IxHyg;
+ကြွယ်ဝခြင်းနှင့် စည်းစိမ်နက်နဲလှ ဉာဏ်ပညာများ စီရင်ခြင်းနှင့် တန်ခိုးတော် စီးဆင်းလာ ယေရှုထံပါး

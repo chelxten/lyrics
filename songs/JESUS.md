@@ -1,9 +1,8 @@
 ---
-title: `JESUS
-font: win
+title: JESUS
 ---
-`(J..E..S..U..S  J..E..S..U..S   JESUS  JESUS You are my Saviour)`2
+(J..E..S..U..S  J..E..S..U..S   JESUS  JESUS You are my Saviour)၂
 
-taoG;awmfoGef;cJhNyD toufudkpGefYcJhNyD wdkY&JUtjypfawG,laqifoGm;cJhNyD
+အသွေးတော်သွန်းခဲ့ပြီ အသက်ကိုစွန့်ခဲ့ပြီ တို့ရဲ့အပြစ်တွေယူဆေင်သွားခဲ့ပြီ
 
-ocifh&JUtcspfawGeJY ta[mif;rsm; topfjyifcJh csD;rGrf;[pfaMumf xm0&bk&m;jrwfudk tdk...tdk...tdk...
+သခင့်ရဲ့အချစ်တွေနဲ့ အဟောင်းများ အသစ်ပြင်ခဲ့ ချီးမွမ်းဟစ်ကြော် ထာဝရဘုရားမြတ်ကို အို...အို...အို...

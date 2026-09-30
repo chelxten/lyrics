@@ -1,11 +1,10 @@
 ---
-title: jrpfa&[kef
-font: win
+title: မြစ်ရေဟုန်
 ---
-jrpfa&[kef pD;qif;ovkd vufawmfukd qefYawmfrlyg bkef;awmfeJYuREfkyfukd jynhfvQHapyg
+မြစ်ရေဟုန် စီးဆင်းသလို လက်တော်ကို ဆန့်တော်မူပါ ဘုန်းတော်နဲ့ကျွန်ုပ်ကို ပြည့်လျှံစေပါ
 
-BuD;pGmaom bkef;wefckd;awmfeJY uyfumv tqkH;a&mufcsdefrSm bkef;awmfeJY uREfkyfukd jynfhvQHapyg
+ကြီးစွာသော ဘုန်းတန်ခိုးတော်နဲ့ ကပ်ကာလ အဆုံးရောက်ချိန်မှာ ဘုန်းတော်နဲ့ ကျွန်ုပ်ကို ပြည့်လျှံစေပါ
 
-yv’ifawmfrS pD;xGufaom jrpfwpfjrpf&Sdonf urÇmvlom;wkdif; 0rf;ajrmuf usef;rmapzkdY&m
+ပလ္လင်တော်မှ စီးထွက်သော မြစ်တစ်မြစ်ရှိသည် ကမ္ဘာလူသားတိုင်း ဝမ်းမြောက် ကျန်းမာစေဖို့ရာ
 
-&Sd&SdorQtouf&Sifrnf xkdjrpfpD;wJhae&m uREkfyf0dnmOf awmifhw orQ jznhfay;avNyD
+ရှိရှိသမျှအသက်ရှင်မည် ထိုမြစ်စီးတဲ့နေရာ ကျွန်ုပ်ဝိညာဉ် တောင့်တ သမျှ ဖြည့်ပေးလေပြီ

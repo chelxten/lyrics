@@ -1,14 +1,13 @@
 ---
-title: bmrSxyfrvkdawmhyg
-font: win
+title: ဘာမှထပ်မလိုတော့ပါ
 ---
-ukd,fawmftxJürjzpfEkdifwm r&Sdawmhbl;av cGeftm;tpGrf;tpawG vQHxGufae
+ကိုယ်တော်အထဲ၌မဖြစ်နိုင်တာ မရှိတော့ဘူးလေ ခွန်အားအစွမ်းအစတွေ လျှံထွက်နေ
 
-bkef;wefckd;eJYjynfhpkH<u,f0 a,½I&Sif t&mtm;vkH;jzpf&ef wwfpGrf;w,f
+ဘုန်းတန်ခိုးနဲ့ပြည့်စုံကြွယ်ဝ ယေရှုရှင် အရာအားလုံးဖြစ်ရန် တတ်စွမ်းတယ်
 
-(tkd; . . . tkd . . . tkd; . . .)2
+(အိုး . . . အို . . . အိုး . . .)၂
 
-(bmrSxyfrvkdawmhyg)2 a,½I&Sd&if jynfhpkHw,f
+(ဘာမှထပ်မလိုတော့ပါ)၂ ယေရှုရှိရင် ပြည့်စုံတယ်
 
-(bmrSxyfrvkdawmhyg)2 a,½I&Sd&if jzpfEkdifw,f
-tukefvkH;jzpfEkdifw,f . .
+(ဘာမှထပ်မလိုတော့ပါ)၂ ယေရှုရှိရင် ဖြစ်နိုင်တယ်
+အကုန်လုံးဖြစ်နိုင်တယ် . .

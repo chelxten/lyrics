@@ -1,13 +1,12 @@
 ---
-title: xdkarwÅmawmf
-font: win
+title: ထိုမေတ္တာတော်
 ---
-udkk,fawmfharwÅmonf
-ysm;&nfxufcsKdonftpOfwnfNrJ
-oefU&Sif;arwÅmawmf udk,fawmfh
-u½kPmonfazgufjyef jcif;r&Sd
-udk,fawmfaMumifh uREkfyftouf&SifEkdifonf
+ကိုယ်တော့်မေတ္တာသည်
+ပျားရည်ထက်ချိုသည်အစဉ်တည်မြဲ
+သန့်ရှင်းမေတ္တာတော် ကိုယ်တော့်
+ကရုဏာသည်ဖေါက်ပြန် ခြင်းမရှိ
+ကိုယ်တော်ကြောင့် ကျွန်ုပ်အသက်ရှင်နိုင်သည်
 
-ukd,fawmfhopömonf tppfcHíwnfonf urÇmukefvnf; wnfNrJ opömawmf ukd,fawmf*wdawmfonf arhavsmhjcif;r&Sd ukd,fawmfaMumifh uREkfyftouf&SifEkdifonf
+ကိုယ်တော့်သစ္စာသည် အစစ်ခံ၍တည်သည် ကမ္ဘာကုန်လည်း တည်မြဲ သစ္စာတော် ကိုယ်တော်ဂတိတော်သည် မေ့လျော့ခြင်းမရှိ ကိုယ်တော်ကြောင့် ကျွန်ုပ်အသက်ရှင်နိုင်သည်
 
-cyfodrf;aom t&mawG b,fvkdyifcGJjcm;apí r&Edkif xkdarwåmawmfESifh uREkfyfruGmEkdifyg ,aeYxdykdYaqmifol xm0pOfom vrf;jyaetkH; rnfholukd,fawmf aus;Zl;aMumifh touf&SifEkdifonf
+ခပ်သိမ်းသော အရာတွေ ဘယ်လိုပင်ခွဲခြားစေ၍ မရနိုင် ထိုမေတ္တာတော်နှင့် ကျွန်ုပ်မကွာနိုင်ပါ ယနေ့ထိပို့ဆောင်သူ ထာဝစဉ်သာ လမ်းပြနေအုံး မည့်သူကိုယ်တော် ကျေးဇူးကြောင့် အသက်ရှင်နိုင်သည်

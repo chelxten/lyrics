@@ -1,17 +1,16 @@
 ---
-title: atmifyGJ
-font: win
+title: အောင်ပွဲ
 ---
-tajctaeawG qkd;&Gm;aeygap b,fvkdyifjzpfysufaeygap ocifbk&m;yJ zufwG,faer,f
+အခြေအနေတွေ ဆိုးရွားနေပါစေ ဘယ်လိုပင်ဖြစ်ပျက်နေပါစေ သခင်ဘုရားပဲ ဖက်တွယ်နေမယ်
 
-t&m&mysufokef;vkdYaeygap tajctaeukd t½IH;ray;bl;a[h ocifbk&m;vuf tyfESHxm;w,f
+အရာရာပျက်သုန်းလို့နေပါစေ အခြေအနေကို အရှုံးမပေးဘူးဟေ့ သခင်ဘုရားလက် အပ်နှံထားတယ်
 
-(at . . .at; . . .at)
+(အေ . . .အေး . . .အေ)
 
-tqkd;taumif;awG awGUBuKHvnf; wkdYawGr,kdifrvJ tm;vkH;ukd tyfESHxm;w,f ocifbk&m;vufxJ
+အဆိုးအကောင်းတွေ တွေ့ကြုံလည်း တို့တွေမယိုင်မလဲ အားလုံးကို အပ်နှံထားတယ် သခင်ဘုရားလက်ထဲ
 
-tEkwfvu©Pm rjzpfEkdifjcif;awG ocifhrSmr&Sdbl; tqkH;owfrSm c&pfawmfeJYtwl atmifyGJodrf;ykdufr,f
+အနုတ်လက္ခဏာ မဖြစ်နိုင်ခြင်းတွေ သခင့်မှာမရှိဘူး အဆုံးသတ်မှာ ခရစ်တော်နဲ့အတူ အောင်ပွဲသိမ်းပိုက်မယ်
 
-wkdY&JUb0tm;vkH; ocifhvufxJrSm qufuyfNyD;ay;qyfvkdY tqkH;xdavQmufr,f
+တို့ရဲ့ဘဝအားလုံး သခင့်လက်ထဲမှာ ဆက်ကပ်ပြီးပေးဆပ်လို့ အဆုံးထိလျှောက်မယ်
 
-tqkd;taumif;rsm;awGU&vnf; vkH;0raMumuf a,½IeJYwkdYtwlatmifyGJ
+အဆိုးအကောင်းများတွေ့ရလည်း လုံးဝမကြောက် ယေရှုနဲ့တို့အတူအောင်ပွဲ

@@ -1,11 +1,10 @@
 ---
-title: xHwamfyg;
-font: win
+title: ထံတော်ပါး
 ---
-txHawmfyg;rSm jzpfonfhtwkdif; wkd;0ifvm ukd,fawmfa&SUrSm av;aom0efrsm; csum&,f
+အထံတော်ပါးမှာ ဖြစ်သည့်အတိုင်း တိုးဝင်လာ ကိုယ်တော်ရှေ့မှာ လေးသောဝန်များ ချကာရယ်
 
-ukd,fawmf&JUenf;vrf; twkdif;vrf;jyay;yg ajz&Sif;ay;zkdY csOf;uyf txHawmfyg;rSm
+ကိုယ်တော်ရဲ့နည်းလမ်း အတိုင်းလမ်းပြပေးပါ ဖြေရှင်းပေးဖို့ ချဉ်းကပ် အထံတော်ပါးမှာ
 
-(ukd,fawmf rsufarSmufawmfxJrSm)3 tvkH;pkHjynfhpkHNyD
+(ကိုယ်တော် မျက်မှောက်တော်ထဲမှာ)၃ အလုံးစုံပြည့်စုံပြီ
 
-(txHawmfyg;rSm)3 tvkH;pkH jynfhpkHNyD
+(အထံတော်ပါးမှာ)၃ အလုံးစုံ ပြည့်စုံပြီ

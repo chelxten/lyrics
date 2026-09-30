@@ -1,17 +1,16 @@
 ---
-title: rsufarSmufawmfxJrSm
-font: win
+title: မျက်မှောက်တော်ထဲမှာ
 ---
-rsufarSmufawmfxJrSm csD;rGrf;udk;uG,fMur,f touf&Sdoltaygif;wdkY
-twlwlcsD;rGrf;
+မျက်မှောက်တော်ထဲမှာ ချီးမွမ်းကိုးကွယ်ကြမယ် အသက်ရှိသူအပေါင်းတို့
+အတူတူချီးမွမ်း
 
-tuefYowfawGr&Sdbl; rsufarSmufawmfxJrSm
-vGwfvyfpGm[pfa<u;
-oDcsif;rsm;qdk&if;
+အကန့်သတ်တွေမရှိဘူး မျက်မှောက်တော်ထဲမှာ
+လွတ်လပ်စွာဟစ်ကြွေး
+သီချင်းများဆိုရင်း
 
-&SufaMumufwJhpdwfawGz,fxm; igwdkY[m tBuD;jrwfqHk;bk&m; om;orD;awGbJ
+ရှက်ကြောက်တဲ့စိတ်တွေဖယ်ထား ငါတို့ဟာ အကြီးမြတ်ဆုံးဘုရား သားသမီးတွေဘဲ
 
-udk,fawmf&JUtxJrSm ig[matmifjrifaomol ½IH;edrfhaomolr[kwfbl;a[h
+ကိုယ်တော်ရဲ့အထဲမှာ ငါဟာအောင်မြင်သောသူ ရှုံးနိမ့်သောသူမဟုတ်ဘူးဟေ့
 
-udk,fawmf&JUtxJrSm ig[mt&m&mjynfhpHk bfdodufjcif;udkcH&NyD;
-[mavvk,m
+ကိုယ်တော်ရဲ့အထဲမှာ ငါဟာအရာရာပြည့်စုံ ဘိ်သိက်ခြင်းကိုခံရပြီး
+ဟာလေလုယာ

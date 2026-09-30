@@ -1,23 +1,22 @@
 ---
-title: aus;Zl;wamfavmufay\
-font: win
+title: ကျေးဇူးတော်လောက်ပေ၏
 ---
-b0rSmtarSmifqkH;tcsdef tcuftcJawGjzwfoef;tcsdef
-uREfkyf&JUab;em;tNrJwrf;&Sdol a,½I
+ဘဝမှာအမှောင်ဆုံးအချိန် အခက်အခဲတွေဖြတ်သန်းအချိန်
+ကျွန်ုပ်ရဲ့ဘေးနားအမြဲတမ်းရှိသူ ယေရှု
 
-tm;i,fwJhtcsdefwdkif; 0dnmOftwGif;rSpum;ajymw,f
-udk,fawmf&SdaMumif;odapw,f
+အားငယ်တဲ့အချိန်တိုင်း ဝိညာဉ်အတွင်းမှစကားပြောတယ်
+ကိုယ်တော်ရှိကြောင်းသိစေတယ်
 
-arQmfvifhwmawGjzpfrvm qkawmif;wmawGMuefYMum
-ocifhrsufarSmufu ta0;xGufoGm;NyDvm;
+မျှော်လင့်တာတွေဖြစ်မလာ ဆုတောင်းတာတွေကြန့်ကြာ
+သခင့်မျက်မှောက်က အဝေးထွက်သွားပြီလား
 
-awG;aerdygw,f ar;cGef;xkwfrdvnf;
-b,fawmhrStqdk;awmhrBuHpnfbl; ,kHw,f
+တွေးနေမိပါတယ် မေးခွန်းထုတ်မိလည်း
+ဘယ်တော့မှအဆိုးတော့မကြံစည်ဘူး ယုံတယ်
 
-ocifaus;Zl;awmf uREkfyftwGufavmufay\
-ocifaus;Zl;awmf a&wGufvdkYrqkH;Ekdifbl;
+သခင်ကျေးဇူးတော် ကျွန်ုပ်အတွက်လောက်ပေ၏
+သခင်ကျေးဇူးတော် ရေတွက်လို့မဆုံးနိုင်ဘူး
 
-taumif;jrwfqkH;yg tBuD;jrwfqkH;yg
+အကောင်းမြတ်ဆုံးပါ အကြီးမြတ်ဆုံးပါ
 
-omíaumif;wJhtBuHtpnfeJY ydkYaqmifw,f
-ocifhaus;Zl;awmf  uREkfyftwGuf ydkvQHw,f
+သာ၍ကောင်းတဲ့အကြံအစည်နဲ့ ပို့ဆောင်တယ်
+သခင့်ကျေးဇူးတော်  ကျွန်ုပ်အတွက် ပိုလျှံတယ်

@@ -1,22 +1,21 @@
 ---
-title: wdkifawmfxuf
-font: win
+title: တိုင်တော်ထက်
 ---
-um;wdkifaygfrSm taocHcJhw,f
-tjypfr&SdwJh bk&m;jrwfom;awmf
+ကားတိုင်ပေါ်မှာ အသေခံခဲ့တယ်
+အပြစ်မရှိတဲ့ ဘုရားမြတ်သားတော်
 
-um;wdkifaygfrSm ty,fcHcJhw,f
-tz&JUtjrwfEl;qHk;om;awmf
+ကားတိုင်ပေါ်မှာ အပယ်ခံခဲ့တယ်
+အဖရဲ့အမြတ်နူးဆုံးသားတော်
 
-ouf&SdoufrJht&mcyfodrf;zefqif;umtkyfpdk;ol
-tapcHuRef oP²mefaqmif,lNyD; odk;oli,fav;yrm
-taocHcJh
+သက်ရှိသက်မဲ့အရာခပ်သိမ်းဖန်ဆင်းကာအုပ်စိုးသူ
+အစေခံကျွန် သဏ္ဌာန်ဆောင်ယူပြီး သိုးသူငယ်လေးပမာ
+အသေခံခဲ့
 
-wdkifawmfxufrSm a&G;EIwfcJhNyD
-usdefjcif;tjypfrS vTwfajrmufcJhNyD
-'Pf&m'Pfcsuftm;jzifh uREkfyftemay;aysmufNyD
+တိုင်တော်ထက်မှာ ရွေးနှုတ်ခဲ့ပြီ
+ကျိန်ခြင်းအပြစ်မှ လွှတ်မြောက်ခဲ့ပြီ
+ဒဏ်ရာဒဏ်ချက်အားဖြင့် ကျွန်ုပ်အနာပေးပျောက်ပြီ
 
-wdkifawmfxufrSm aq;aMumcJhNyD
-uA®vmvdkeD uREkfyftjypfrsm;udk
-jzLpifapcJhNyD pifMu,fapcJhNyD
-rdk;yGifhyrm xm0&
+တိုင်တော်ထက်မှာ ဆေးကြောခဲ့ပြီ
+ကဗ္မလာလိုနီ ကျွန်ုပ်အပြစ်များကို
+ဖြူစင်စေခဲ့ပြီ စင်ကြယ်စေခဲ့ပြီ
+မိုးပွင့်ပမာ ထာဝရ

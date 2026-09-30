@@ -1,22 +1,21 @@
 ---
-title: taumif;jrwfqHk;a,&SK
-font: win
+title: အကောင်းမြတ်ဆုံးယေရှု
 ---
-rjzpfEkdifaomt&mrsm; rjzpfEdkifaomtcdsefüyif
-jzpfapaombk&m; uREfkyfudk;uG,f
+မဖြစ်နိုင်သောအရာများ မဖြစ်နိုင်သောအချိန်၌ပင်
+ဖြစ်စေသောဘုရား ကျွန်ုပ်ကိုးကွယ်
 
-rvkyfEdkifaomt&mrsm;
-rwwfEdkifaomt&mrsm; jzpfapaom
-bk&m; uREkfyfudk;uG,f
+မလုပ်နိုင်သောအရာများ
+မတတ်နိုင်သောအရာများ ဖြစ်စေသော
+ဘုရား ကျွန်ုပ်ကိုးကွယ်
 
-tm;i,faomolrsm; vJaeaomolrsm;
-az;ray;olbk&m; uREkfyfudk;uG,f
+အားငယ်သောသူများ လဲနေသောသူများ
+ဖေးမပေးသူဘုရား ကျွန်ုပ်ကိုးကွယ်
 
-t&m&mwdkif;wwfEdkifw,f t&m&mvnf;
-vkyfEkdifw,f t&m&mtukefvkH;
-zefqif;íydkifool
+အရာရာတိုင်းတတ်နိုင်တယ် အရာရာလည်း
+လုပ်နိုင်တယ် အရာရာအကုန်လုံး
+ဖန်ဆင်း၍ပိုင်သသူ
 
-t&m&mxufcsD;ajr§mufr,f
-udk,fawmftNrJaumif;jrwfw,f
-tcsdefem&Dwdkif; csD;rGrf;udk;uG,fr,f
-taumif;jrwfqkH;a,½I
+အရာရာထက်ချီးမြှောက်မယ်
+ကိုယ်တော်အမြဲကောင်းမြတ်တယ်
+အချိန်နာရီတိုင်း ချီးမွမ်းကိုးကွယ်မယ်
+အကောင်းမြတ်ဆုံးယေရှု

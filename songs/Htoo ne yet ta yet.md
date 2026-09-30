@@ -1,18 +1,17 @@
 ---
-title: xdkaeh&uf wpf&uf
-font: win
+title: ထိုနေ့ရက် တစ်ရက်
 ---
-ocifha&SUawmfrSm  uREkfyf&JUtoufwmtm; t<uif;rJhtvkH;pkHxd ocifhukd ykHtyfum
+သခင့်ရှေ့တော်မှာ  ကျွန်ုပ်ရဲ့အသက်တာအား အကြွင်းမဲ့အလုံးစုံထိ သခင့်ကို ပုံအပ်ကာ
 
-xm0&&JUtqkH;pGef;xd EIdif;wkrJhp&mr&Sd uREkfyftwGuf toufukd pGefYol ocifharwåm
+ထာဝရရဲ့အဆုံးစွန်းထိ နှိုင်းတုမဲ့စရာမရှိ ကျွန်ုပ်အတွက် အသက်ကို စွန့်သူ သခင့်မေတ္တာ
 
-uREkfyfESvkH;om; uREkfyf&JUtoufeJY 0dnmOfukd ay;tyf ukd,fawmfwyg;wnf; uREkfyf&JUxm0&twGuf
+ကျွန်ုပ်နှလုံးသား ကျွန်ုပ်ရဲ့အသက်နဲ့ ဝိညာဉ်ကို ပေးအပ် ကိုယ်တော်တပါးတည်း ကျွန်ုပ်ရဲ့ထာဝရအတွက်
 
-ukd,fawmfom uREkfyfvkdtif xm0&pOf uREkfyf&JUocif uREkfyf&JUqE´ twGif;ESvkH;om;ukd ykdifpkd;aom t&Skkif
+ကိုယ်တော်သာ ကျွန်ုပ်လိုအင် ထာဝရစဉ် ကျွန်ုပ်ရဲ့သခင် ကျွန်ုပ်ရဲ့ဆန္ဒ အတွင်းနှလုံးသားကို ပိုင်စိုးသော အရှုင်
 
-ocifh&JUa&SUawmfom aecsifqkH;aomae&m tjcm;aomae&mü
-uREkfyf&JUtoufwm 0rf;ajrmuf&aom aeY&ufESpfwpfaxmifumvxuf omíaumif;jrwf ocifh&ifcGifxJü &Sdaom aeY&ufwpf&ufonf tpOftEIdif;rJh
+သခင့်ရဲ့ရှေ့တော်သာ နေချင်ဆုံးသောနေရာ အခြားသောနေရာ၌
+ကျွန်ုပ်ရဲ့အသက်တာ ဝမ်းမြောက်ရသော နေ့ရက်နှစ်တစ်ထောင်ကာလထက် သာ၍ကောင်းမြတ် သခင့်ရင်ခွင်ထဲ၌ ရှိသော နေ့ရက်တစ်ရက်သည် အစဉ်အနှိုင်းမဲ့
 
-pum;vkH;rsm;ukefqkH; aw;oGm;rsm;rvkHavmuf vlY&JUtodOmPfeJY vkdufrrSDEkdifaomt&m a&S;rqGcifuwnf;u uREkfyftwGuf cGJcefYxm; ocifh&JUbkef;awmftm; zl;ajrmfjrifawGUt&m
+စကားလုံးများကုန်ဆုံး တေးသွားများမလုံလောက် လူ့ရဲ့အသိဉာဏ်နဲ့ လိုက်မမှီနိုင်သောအရာ ရှေးမဆွခင်ကတည်းက ကျွန်ုပ်အတွက် ခွဲခန့်ထား သခင့်ရဲ့ဘုန်းတော်အား ဖူးမြော်မြင်တွေ့အရာ
 
-uREfkyfESvkH;om; uREfkyf&JUtoufESifh pdwf0dnmOftwGif;rS ukd,fawmfwyg;wnf; tNrJwrf;vkdcsifawmifhw
+ကျွန်ုပ်နှလုံးသား ကျွန်ုပ်ရဲ့အသက်နှင့် စိတ်ဝိညာဉ်အတွင်းမှ ကိုယ်တော်တပါးတည်း အမြဲတမ်းလိုချင်တောင့်တ

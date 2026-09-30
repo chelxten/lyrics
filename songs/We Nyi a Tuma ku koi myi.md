@@ -1,11 +1,10 @@
 ---
-title: 0dnmOftwGif;rS udk;uG,frnf
-font: win
+title: ဝိညာဉ်အတွင်းမှ ကိုးကွယ်မည်
 ---
-oefY&Sif;aom 0dnmOfawmf uREkfyf&JUb0udkvGrf;rdk;rlyg bdwfodwfrlyg 0dnmOfwefcdk;eJY jynfh0apyg
+သန့်ရှင်းသော ဝိညာဉ်တော် ကျွန်ုပ်ရဲ့ဘဝကိုလွမ်းမိုးမူပါ ဘိတ်သိတ်မူပါ ဝိညာဉ်တန်ခိုးနဲ့ ပြည့်ဝစေပါ
 
-uREfkyf&JUb0udk tem;vnfqHk;ol tm;enf;csufwdkif; em;vnfay;ol uREkfyf&JUtjzpfrSeftodqHk;aomol vJuscsdefwdkif;xlray;ol
+ကျွန်ုပ်ရဲ့ဘဝကို အနားလည်ဆုံးသူ အားနည်းချက်တိုင်း နားလည်ပေးသူ ကျွန်ုပ်ရဲ့အဖြစ်မှန်အသိဆုံးသောသူ လဲကျချိန်တိုင်းထူမပေးသူ
 
-uREfkyfudktcspfqHk;a,½Sk udk,fawmfudk tNrJudk;uG,f
+ကျွန်ုပ်ကိုအချစ်ဆုံးယေရှု ကိုယ်တော်ကို အမြဲကိုးကွယ်
 
-uREkffyfudktcspfqHk;aomol udk,fawmfudk tNrJudk;uG,f 0dnmOftwGif;rS udk;uG,frnf
+ကျွန်ုပ်ကိုအချစ်ဆုံးသောသူ ကိုယ်တော်ကို အမြဲကိုးကွယ် ဝိညာဉ်အတွင်းမှ ကိုးကွယ်မည်

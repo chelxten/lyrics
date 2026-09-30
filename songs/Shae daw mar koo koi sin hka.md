@@ -1,12 +1,11 @@
 ---
-title: a&ShawmfrSmudk;uG,fpOfcg
-font: win
+title: ရှေ့တော်မှာကိုးကွယ်စဉ်ခါ
 ---
-ukd,fawmfukd ukd;uG,fyg\ pdwfESvkH;t<uif;rJhukd;uG,fyg\
+ကိုယ်တော်ကို ကိုးကွယ်ပါ၏ စိတ်နှလုံးအကြွင်းမဲ့ကိုးကွယ်ပါ၏
 
-ukd,fawmfukd jyyf0yfukd;uG,f
-txHawmfrSm wkd;0ifcsOf;uyfpOf
+ကိုယ်တော်ကို ပြပ်ဝပ်ကိုးကွယ်
+အထံတော်မှာ တိုးဝင်ချဉ်းကပ်စဉ်
 
-(0dnmOfawmfqif;<uawmfrlyg)3 a&SUawmfrSm ukd;uG,fpOfcg
+(ဝိညာဉ်တော်ဆင်းကြွတော်မူပါ)၃ ရှေ့တော်မှာ ကိုးကွယ်စဉ်ခါ
 
-(rsufarSmufawmfxJ aeaprlyg) a&SUawmfrSm ukd;uG,fpOfcg
+(မျက်မှောက်တော်ထဲ နေစေမူပါ) ရှေ့တော်မှာ ကိုးကွယ်စဉ်ခါ

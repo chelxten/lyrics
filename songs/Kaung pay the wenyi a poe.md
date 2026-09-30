@@ -1,28 +1,27 @@
 ---
-title: aumif;ayonf0dnmOfzdkh
-font: win
+title: ကောင်းပေသည်ဝိညာဉ်ဖို့
 ---
-Nidrfoufjcif;jrpfvdk uREkfyfudkvrf;jyonf
-0rf;enf;jcif;yifv,ff vIdif;vdrfhvdk
+ငြိမ်သက်ခြင်းမြစ်လို ကျွန်ုပ်ကိုလမ်းပြသည်
+ဝမ်းနည်းခြင်းပင်လယ် လှိုင်းလိမ့်လို
 
-udk,fawmfuREkfyftm; oifaomt&mrsm;onf
-(aumif;ayonf)2 0dnmOfzdkU
+ကိုယ်တော်ကျွန်ုပ်အား သင်သောအရာများသည်
+(ကောင်းပေသည်)၂ ဝိညာဉ်ဖို့
 
-aumif;ayonf 0dnmOfzdkY
-(aumif;ayonf)2 0dnmOfzdkY
+ကောင်းပေသည် ဝိညာဉ်ဖို့
+(ကောင်းပေသည်)၂ ဝိညာဉ်ဖို့
 
-pmwefaESmuf,Sufí
-pkHprf;jcif;a&mufaomfvnf;
-*wdawmfjrwf wnfNrJygap
+စာတန်နှောက်ယှက်၍
+စုံစမ်းခြင်းရောက်သော်လည်း
+ဂတိတော်မြတ် တည်မြဲပါစေ
 
-c&pfawmf uREfkyftm;enf;jcif;
-axmuf½INyD; uREkfyf0dnmOfzdkY
-aoG;awmfoGef;av
+ခရစ်တော် ကျွန်ုပ်အားနည်းခြင်း
+ထောက်ရှုပြီး ကျွန်ုပ်ဝိညာဉ်ဖို့
+သွေးတော်သွန်းလေ
 
-aemufqkH;aeYü udk,fawmf
-oufqif;<uaomtcg
-rdk;wdrf&DarSmifvGifhaysmufvdrfhrnf
+နောက်ဆုံးနေ့၌ ကိုယ်တော်
+သက်ဆင်းကြွသောအခါ
+မိုးတိမ်ရီမှောင်လွင့်ပျောက်လိမ့်မည်
 
-udk,fawmfþavmuodkU
-qif;ouf<uvm&m uREfkyf0dnmOfzdkY
-aumif;vSayonf
+ကိုယ်တော်ဤလောကသို့
+ဆင်းသက်ကြွလာရာ ကျွန်ုပ်ဝိညာဉ်ဖို့
+ကောင်းလှပေသည်

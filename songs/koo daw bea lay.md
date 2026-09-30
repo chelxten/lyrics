@@ -1,24 +1,23 @@
 ---
-title: udk,fawmfyJav
-font: win
+title: ကိုယ်တော်ပဲလေ
 ---
-tcsdefrSDjyifqifay;r,f ,kHMunfw,f
-udk,fawmf&JUtxJü rjzpfEkdifaomt&m
-rwwfEdkifaomt&m r&SdNyDyJ
+အချိန်မှီပြင်ဆင်ပေးမယ် ယုံကြည်တယ်
+ကိုယ်တော်ရဲ့အထဲ၌ မဖြစ်နိုင်သောအရာ
+မတတ်နိုင်သောအရာ မရှိပြီပဲ
 
-ukd,fawmfwwfEdkifw,f aocsmw,f
-okH;q,f&SpfvkH;vkH; tema&m*gvJ usef;rmapw,f
+ကိုယ်တော်တတ်နိုင်တယ် သေချာတယ်
+သုံးဆယ်ရှစ်လုံးလုံး အနာရောဂါလဲ ကျန်းမာစေတယ်
 
-vrf;r&SdwJhawmt&yfü vrf;udkzefqif;
-ajcmufaoGUwJht&yfrSm prf;a&awGpD;xufapwm
-udk,fawmfyJav
+လမ်းမရှိတဲ့တောအရပ်၌ လမ်းကိုဖန်ဆင်း
+ခြောက်သွေ့တဲ့အရပ်မှာ စမ်းရေတွေစီးထက်စေတာ
+ကိုယ်တော်ပဲလေ
 
-aoGYajcmufwJht½dk;pkawG toufudkjyefoGif;
-cdkifcHaomAdkvfajcuJhokdY toGifajymif;vJapwm
-udk,fawmfyJav
+သွေ့ခြောက်တဲ့အရိုးစုတွေ အသက်ကိုပြန်သွင်း
+ခိုင်ခံသောဗိုလ်ခြေကဲ့သို့ အသွင်ပြောင်းလဲစေတာ
+ကိုယ်တော်ပဲလေ
 
-udk,fawmfvkyfEkdifw,f ,kHMunfw,f
-udk,fawmfvkyfay;r,f pdwfcsaer,f
+ကိုယ်တော်လုပ်နိုင်တယ် ယုံကြည်တယ်
+ကိုယ်တော်လုပ်ပေးမယ် စိတ်ချနေမယ်
 
-udk,fawmfwwfEdkifw,f aocsmw,f
-ukd,fawmfvkyfay;r,f pdwfcsaer,f
+ကိုယ်တော်တတ်နိုင်တယ် သေချာတယ်
+ကိုယ်တော်လုပ်ပေးမယ် စိတ်ချနေမယ်

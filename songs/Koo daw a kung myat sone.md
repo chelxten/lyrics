@@ -1,12 +1,11 @@
 ---
-title: udk,fawmftaumif;jrwfqHk;
-font: win
+title: ကိုယ်တော်အကောင်းမြတ်ဆုံး
 ---
-tem;rSmvnf;vlwpfaxmif vuf,mbufvlwpfaomif; twkH;t½kef;vJusaomfvnf;
+အနားမှာလည်းလူတစ်ထောင် လက်ယာဘက်လူတစ်သောင်း အတုံးအရုန်းလဲကျသော်လည်း
 
-ukd,fawmfrpGefY*wdawmf
-uREkfyfü&SdcJhNyD
+ကိုယ်တော်မစွန့်ဂတိတော်
+ကျွန်ုပ်၌ရှိခဲ့ပြီ
 
-ukd,fawmftaumif;jrwfqkH; taumif;jrwfqHk; uREkfyfeJYtwlxm0&taumif;jrwfqkH;
+ကိုယ်တော်အကောင်းမြတ်ဆုံး အကောင်းမြတ်ဆုံး ကျွန်ုပ်နဲ့အတူထာဝရအကောင်းမြတ်ဆုံး
 
-cspfzG,faomocif avmu"H&JU rkefwkdif; awG;&if;0rf;enf;aecJh ,kHMunftm;enf;aevkdY ESpfodrfhay;r,fhol
+ချစ်ဖွယ်သောသခင် လောကဓံရဲ့ မုန်တိုင်း တွေးရင်းဝမ်းနည်းနေခဲ့ ယုံကြည်အားနည်းနေလို့ နှစ်သိမ့်ပေးမယ့်သူ

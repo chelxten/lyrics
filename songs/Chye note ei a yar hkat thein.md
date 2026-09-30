@@ -1,15 +1,14 @@
 ---
-title: usGEKfyf\t&mcyfodrf;
-font: win
+title: ကျွန်ုပ်၏အရာခပ်သိမ်း
 ---
-tBuD;jrwfqkH;bk&m; ocif&JUa&SUawmfrSm uREkfyfonf Avmewådyg taumif;jrwfqkH; bk&m;ocif&JU a&SUawmfrSm uREkfyfonf rpifMu,f qkd;oGrf;ol
+အကြီးမြတ်ဆုံးဘုရား သခင်ရဲ့ရှေ့တော်မှာ ကျွန်ုပ်သည် ဗလာနတ္တိပါ အကောင်းမြတ်ဆုံး ဘုရားသခင်ရဲ့ ရှေ့တော်မှာ ကျွန်ုပ်သည် မစင်ကြယ် ဆိုးသွမ်းသူ
 
-ocifh&JUtcspfom uREkfyftm; ocifhtem;a&mufap ocifh&JU tcspfom tjrifhqkH; yv’ifawmfa&SU uREkfyfa&mufap
+သခင့်ရဲ့အချစ်သာ ကျွန်ုပ်အား သခင့်အနားရောက်စေ သခင့်ရဲ့ အချစ်သာ အမြင့်ဆုံး ပလ္လင်တော်ရှေ့ ကျွန်ုပ်ရောက်စေ
 
-ukd,fawmf&Sifonf uREkfyf\ t&m&mwkdif; ukd,fawmftNrJ touf&Sifjcif;aMumifh uREkfyftouf&Sif
+ကိုယ်တော်ရှင်သည် ကျွန်ုပ်၏ အရာရာတိုင်း ကိုယ်တော်အမြဲ အသက်ရှင်ခြင်းကြောင့် ကျွန်ုပ်အသက်ရှင်
 
-ukd,fawmf&Sifonf uREkfyf\t&mcyfodrf; uREkfyfukd,fawmfa&SUarSmufjyyf0yf 'l;axmufvsuf ukd;uG,f (aumif;uifbkHtz)2 uREkfyf\t&mcyfodrf;
+ကိုယ်တော်ရှင်သည် ကျွန်ုပ်၏အရာခပ်သိမ်း ကျွန်ုပ်ကိုယ်တော်ရှေ့မှောက်ပြပ်ဝပ် ဒူးထောက်လျက် ကိုးကွယ် (ကောင်းကင်ဘုံအဖ)၂ ကျွန်ုပ်၏အရာခပ်သိမ်း
 
-uREkfyff\tpGrf;cGeftm; uREkfyfukd,fü pDrSm r&Sdygt&m&m tewåom uREkfyfwwfpGrf;EkdiforQ ocifhxHyg;qDrSm wefckd;awmfpkHvif aus;Zl;om
+ကျွန်ုပ်၏အစွမ်းခွန်အား ကျွန်ုပ်ကိုယ်၌ စီမှာ မရှိပါအရာရာ အနတ္တသာ ကျွန်ုပ်တတ်စွမ်းနိုင်သမျှ သခင့်ထံပါးဆီမှာ တန်ခိုးတော်စုံလင် ကျေးဇူးသာ
 
-ocifharwåm t&mcyfodrf;wwfpGrf;ap ocifh&JUarwåm aevMu,fawGxuf awmufyae
+သခင့်မေတ္တာ အရာခပ်သိမ်းတတ်စွမ်းစေ သခင့်ရဲ့မေတ္တာ နေလကြယ်တွေထက် တောက်ပနေ

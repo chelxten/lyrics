@@ -1,14 +1,13 @@
 ---
-title: vGwfvGwfvyfvyf
-font: win
+title: လွတ်လွတ်လပ်လပ်
 ---
-touf&Sdtaygif;wkdY aumif;uifwrefrsm;eJY twlwl csD;rGrf;ukd;uG,f xm0&bk&m;ukd
+အသက်ရှိအပေါင်းတို့ ကောင်းကင်တမန်များနဲ့ အတူတူ ချီးမွမ်းကိုးကွယ် ထာဝရဘုရားကို
 
-vuf&SdorQwkdY vufckyfukdwD;vsuf twlwl csD;rGrf;Muavmh zefqif;&Sifukd
+လက်ရှိသမျှတို့ လက်ခုပ်ကိုတီးလျက် အတူတူ ချီးမွမ်းကြလော့ ဖန်ဆင်းရှင်ကို
 
-[mavvk,m tmrif
-[mavvk,m
+ဟာလေလုယာ အာမင်
+ဟာလေလုယာ
 
-vGwfvGwfvyfvyfeJY bk&m;&Sifukd vGwfvGwfvyfvyf uckefcsD;rGrf;
+လွတ်လွတ်လပ်လပ်နဲ့ ဘုရားရှင်ကို လွတ်လွတ်လပ်လပ် ကခုန်ချီးမွမ်း
 
-vGwfvGwfvyfvyf jzpfapaomol a,&Itm; uckefcsD;rGrf;
+လွတ်လွတ်လပ်လပ် ဖြစ်စေသောသူ ယေရှုအား ကခုန်ချီးမွမ်း

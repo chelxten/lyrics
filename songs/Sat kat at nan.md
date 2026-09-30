@@ -1,18 +1,17 @@
 ---
-title: qufuyftyfESH
-font: win
+title: ဆက်ကပ်အပ်နှံ
 ---
-uREfkyfpdwfESvkH;tawG;tac:rsm; tMuHpnftvkH;pkH ukd,fawmf&SifxH0,f tyfESH
+ကျွန်ုပ်စိတ်နှလုံးအတွေးအခေ:များ အကြံစည်အလုံးစုံ ကိုယ်တော်ရှင်ထံဝယ် အပ်နှံ
 
-uREkfyfjyK&mtrIoGm;&mvrf; ukd,fawmfyJhukdifay;yg tpOfnGefjyykdYaqmifyg ^uREkfyft<uif;rJhtyfESH
+ကျွန်ုပ်ပြုရာအမှုသွားရာလမ်း ကိုယ်တော်ပဲ့ကိုင်ပေးပါ အစဉ်ညွန်ပြပို့ဆောင်ပါ  ကျွန်ုပ်အကြွင်းမဲ့အပ်နှံ
 
-0dnmOfawmf oGefoifay;yg uREkfyftoufwm ukd,fawmfütyfESH
+ဝိညာဉ်တော် သွန်သင်ပေးပါ ကျွန်ုပ်အသက်တာ ကိုယ်တော်၌အပ်နှံ
 
-0dnmOfawmf tpOfapmifhryg az;ryg tm;enf;ol uREkfyftm;
+ဝိညာဉ်တော် အစဉ်စောင့်မပါ ဖေးမပါ အားနည်းသူ ကျွန်ုပ်အား
 
-ESvkH;tpGrf;owåd &Sdaomt&m ocifa&SUawmfrSm ylaZmfyg\
+နှလုံးအစွမ်းသတ္တိ ရှိသောအရာ သခင်ရှေ့တော်မှာ ပူဇော်ပါ၏
 
-qufuyfjcif;tm; auseyfrlyg qkawmif;yg\ tzbk&m;
+ဆက်ကပ်ခြင်းအား ကျေနပ်မူပါ ဆုတောင်းပါ၏ အဖဘုရား
 
-vrf;jyyg tm;enf;ol uREkfyftm;
-tm;jznfhygtm;enf;ol uREkfyftm;
+လမ်းပြပါ အားနည်းသူ ကျွန်ုပ်အား
+အားဖြည့်ပါအားနည်းသူ ကျွန်ုပ်အား

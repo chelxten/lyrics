@@ -1,9 +1,8 @@
 ---
-title: csD;rGrf;&if;eJhtouf&Sifrnf
-font: win
+title: ချီးမွမ်းရင်းနဲ့အသက်ရှင်မည်
 ---
-t&m&mtm;vkH;vTrf;rkd;ol a0[iftjrifhqkH;aumif;uif txufüpkd;pHol
+အရာရာအားလုံးလွှမ်းမိုးသူ ဝေဟင်အမြင့်ဆုံးကောင်းကင် အထက်၌စိုးစံသူ
 
-t&m&mcyfodrf;tkyfpkd;ol rnfolrqkdcsD;rGrf;zkdY&ef txkdufwefqkH;bk&m;
+အရာရာခပ်သိမ်းအုပ်စိုးသူ မည်သူမဆိုချီးမွမ်းဖို့ရန် အထိုက်တန်ဆုံးဘုရား
 
-(csD;rGrf;&if;eJY touf&Sifr,f)3 touf&Sdoí
+(ချီးမွမ်းရင်းနဲ့ အသက်ရှင်မယ်)၃ အသက်ရှိသ၍

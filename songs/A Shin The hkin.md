@@ -1,17 +1,16 @@
 ---
-title: t&Sifocif
-font: win
+title: အရှင်သခင်
 ---
-t&m&mtm;vHk;xuf udk,fawmftkyfpdk;rlonf
-udk,fawmfrSwpfyg;
-uREkfyfütjcm;r&Sd
+အရာရာအားလုံးထက် ကိုယ်တော်အုပ်စိုးမူသည်
+ကိုယ်တော်မှတစ်ပါး
+ကျွန်ုပ်၌အခြားမရှိ
 
-xm0pOfaumif;jrwfrlaom
-xm0pOfBuD;jrwfrlaom^oefY&Sif;rlaom
-uREkfyfbk&m;
+ထာဝစဉ်ကောင်းမြတ်မူသော
+ထာဝစဉ်ကြီးမြတ်မူသော သန့်ရှင်းမူသော
+ကျွန်ုပ်ဘုရား
 
-(bkef;wefcdk;teEÅESifhjynfhpHk
-tEIdkif;rJhaombk&m;
-pGrf;tm;&SdorQaeYpOf
-jyyf0yfudk;uG,frnf)
-uREkfyfbk&m;
+(ဘုန်းတန်ခိုးအနန္တနှင့်ပြည့်စုံ
+အနှိုင်းမဲ့သောဘုရား
+စွမ်းအားရှိသမျှနေ့စဉ်
+ပြပ်ဝပ်ကိုးကွယ်မည်)
+ကျွန်ုပ်ဘုရား

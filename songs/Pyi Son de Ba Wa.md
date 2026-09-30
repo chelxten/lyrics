@@ -1,18 +1,17 @@
 ---
-title: jynfhpHkwJhb0
-font: win
+title: ပြည့်စုံတဲ့ဘဝ
 ---
-xm0&bk&m;ocifonf uREkfyftm; tvGefyifxl;jcm;pGmeJY zefqif;w,f
-uREkfyf&JU0dnmOf tvGefwefzdk;&dSw,f
+ထာဝရဘုရားသခင်သည် ကျွန်ုပ်အား အလွန်ပင်ထူးခြားစွာနဲ့ ဖန်ဆင်းတယ်
+ကျွန်ုပ်ရဲ့ဝိညာဉ် အလွန်တန်ဖိုးရှိတယ်
 
-r*Fvmtaygif;awGxuf r*Fvm&Sdw,f
-b,ft&meJYrS EdIif;vdkYr&bl; 'DavmurSm uREkfyf&JUb0[m
-tvGefjynfhpHkw,f
+မင်္ဂလာအပေါင်းတွေထက် မင်္ဂလာရှိတယ်
+ဘယ်အရာနဲ့မှ နှိုင်းလို့မရဘူး ဒီလောကမှာ ကျွန်ုပ်ရဲ့ဘဝဟာ
+အလွန်ပြည့်စုံတယ်
 
-xm0&bk&m;ocifonf uREkfyfbufü
-tNrJ&yfwnfaeaomaMumifh
-uREkfyf&JUb0[m jynfhpHkw,f
-vHkNcHKw,f aysmf&Tifjcif;awGeJY
-tcsdefem&Dwdkif;u csD;rGrf;p&m 0rfajrmufp&m
-<u,f0csrf;om uREkfyf&JUb0[m
-tvGefjynfhpHkw,f
+ထာဝရဘုရားသခင်သည် ကျွန်ုပ်ဘက်၌
+အမြဲရပ်တည်နေသောကြောင့်
+ကျွန်ုပ်ရဲ့ဘဝဟာ ပြည့်စုံတယ်
+လုံခြုံတယ် ပျော်ရွှင်ခြင်းတွေနဲ့
+အချိန်နာရီတိုင်းက ချီးမွမ်းစရာ ဝမ်မြောက်စရာ
+ကြွယ်ဝချမ်းသာ ကျွန်ုပ်ရဲ့ဘဝဟာ
+အလွန်ပြည့်စုံတယ်

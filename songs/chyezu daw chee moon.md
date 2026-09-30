@@ -1,15 +1,14 @@
 ---
-title: uas;Zl;awmfcsD;;rGrf;
-font: win
+title: ကျေးဇူးတော်ချီးမွမ်း
 ---
-tajctaewdkif;rSm csD;rGrf;r,f
-udk,fawmfhudk [mavvk,m
-udk,fawmfaus;Zl;awmfcsD;rGrf;rukef
+အခြေအနေတိုင်းမှာ ချီးမွမ်းမယ်
+ကိုယ်တော့်ကို ဟာလေလုယာ
+ကိုယ်တော်ကျေးဇူးတော်ချီးမွမ်းမကုန်
 
-bmawGbJjzpfygap csD;rGrf;r,f
-tcsdefwdkif;rSm [mavvk,m
-aysmf½Tifjcif;toufwmtpOf&½SdrSm
+ဘာတွေဘဲဖြစ်ပါစေ ချီးမွမ်းမယ်
+အချိန်တိုင်းမှာ ဟာလေလုယာ
+ပျော်ရွှင်ခြင်းအသက်တာအစဉ်ရရှိမှာ
 
-aeY&ufwkdif;rSm t&m&mwkdif;twGuf aus;Zl;awmfcsD;rGrf;
+နေ့ရက်တိုင်းမှာ အရာရာတိုင်းအတွက် ကျေးဇူးတော်ချီးမွမ်း
 
-oDcsif;rsm;tm;jzifh toHukdvTifhum aus;Zl;awmfcsD;rGrf;
+သီချင်းများအားဖြင့် အသံကိုလွှင့်ကာ ကျေးဇူးတော်ချီးမွမ်း

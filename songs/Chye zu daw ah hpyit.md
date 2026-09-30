@@ -1,13 +1,12 @@
 ---
-title: aus;Zl;awmftm;jzifh
-font: win
+title: ကျေးဇူးတော်အားဖြင့်
 ---
-rwwfEkdifaomol a,½IaMumihfwwfEkdifNyD rxkdufwefaomol a,½IaMumihfxkdufwefNyD
+မတတ်နိုင်သောသူ ယေရှုကြောင့်တတ်နိုင်ပြီ မထိုက်တန်သောသူ ယေရှုကြောင့်ထိုက်တန်ပြီ
 
-uREkfyf&JUtxJrSm c&pfawmftouf&Sifae cGeftm;enf;ol uREkfyfukd cGeftm;eJYjynfhapNyD
+ကျွန်ုပ်ရဲ့အထဲမှာ ခရစ်တော်အသက်ရှင်နေ ခွန်အားနည်းသူ ကျွန်ုပ်ကို ခွန်အားနဲ့ပြည့်စေပြီ
 
-a,½I&JUtaoG;awmfaMumifh tjypfrSvGwfuif;NyD a,½I&JU'PfcsufawmfaMumifh tema&m*gaysmufuif;NyD
+ယေရှုရဲ့အသွေးတော်ကြောင့် အပြစ်မှလွတ်ကင်းပြီ ယေရှုရဲ့ဒဏ်ချက်တော်ကြောင့် အနာရောဂါပျောက်ကင်းပြီ
 
-a,½I&JUajzmifhrwfjcif;aMumifh uREkfyfvnf;ajzmifhrwfNyD
+ယေရှုရဲ့ဖြောင့်မတ်ခြင်းကြောင့် ကျွန်ုပ်လည်းဖြောင့်မတ်ပြီ
 
-a,½I&JUjzpfjcif;awG tm;vkH;uREkfyfüjzpfapNyD aus;Zl;awmftm;jzifh
+ယေရှုရဲ့ဖြစ်ခြင်းတွေ အားလုံးကျွန်ုပ်၌ဖြစ်စေပြီ ကျေးဇူးတော်အားဖြင့်

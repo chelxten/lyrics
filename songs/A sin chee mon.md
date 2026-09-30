@@ -1,15 +1,14 @@
 ---
-title: tpOfcsD;rGrf;
-font: win
+title: အစဉ်ချီးမွမ်း
 ---
-aeY&ufpOfwkdif; puúefYcsdefwkdif; ukd,fawmfukd csD;rGrf; touf&Sifrnf
+နေ့ရက်စဉ်တိုင်း စက္ကန့်ချိန်တိုင်း ကိုယ်တော်ကို ချီးမွမ်း အသက်ရှင်မည်
 
-rkd;vif;csdefwkdif; rkd;csKyfcsdefwkdif; ukd,fawmfukd csD;rGrf; touf&Sifrnf
+မိုးလင်းချိန်တိုင်း မိုးချုပ်ချိန်တိုင်း ကိုယ်တော်ကို ချီးမွမ်း အသက်ရှင်မည်
 
-'ku©a&mufwkdif; 0rf;enf;rnfhtpm; ukd,fawmfukd csD;rGrf;touf&Sifrnf
+ဒုက္ခရောက်တိုင်း ဝမ်းနည်းမည့်အစား ကိုယ်တော်ကို ချီးမွမ်းအသက်ရှင်မည်
 
-tcuftcJBuKHwkdif; NiD;wGm;rnfhtpm; ukd,fawmfukd csD;rGrf;touf&Sifrnf
+အခက်အခဲကြုံတိုင်း ငြီးတွားမည့်အစား ကိုယ်တော်ကို ချီးမွမ်းအသက်ရှင်မည်
 
-tpOfcsD;rGrf; csD;rGrf;*kPfawmfukd tpOfcsD;rGrf; aus;Zl;awmftaygif;
+အစဉ်ချီးမွမ်း ချီးမွမ်းဂုဏ်တော်ကို အစဉ်ချီးမွမ်း ကျေးဇူးတော်အပေါင်း
 
-[mavvk,m oefY&Sif;aombk&m; [mavvk,m bkef;BuD;ygapaomf
+ဟာလေလုယာ သန့်ရှင်းသောဘုရား ဟာလေလုယာ ဘုန်းကြီးပါစေသော်

@@ -1,18 +1,17 @@
 ---
-title: xm0&bkef;ujD;ygap
-font: win
+title: ထာဝရဘုန်းကြီးပါစေ
 ---
-wHydk;rIwfjcif;ESifh udk,fawmftm;csD;rGrf;rnf
-oDcsif;topfrsm;ESifh
-udk,fawmftm;csD;ajr§mufrnf
+တံပိုးမှုတ်ခြင်းနှင့် ကိုယ်တော်အားချီးမွမ်းမည်
+သီချင်းအသစ်များနှင့်
+ကိုယ်တော်အားချီးမြှောက်မည်
 
-igywfvnfü&Sdaom
-&efolrsm;tm;vkH;\tay:
-ighOD;acgif;tm; csD;ajr§mufawmfrlNyD
+ငါပတ်လည်၌ရှိသော
+ရန်သူများအားလုံး၏အပေ:
+ငါ့ဉီးခေါင်းအား ချီးမြှောက်တော်မူပြီ
 
-[mavvk,m 0dk; tdk;...
-[mavvk,m uckefcsD;rGrf;
+ဟာလေလုယာ ဝိုး အိုး...
+ဟာလေလုယာ ကခုန်ချီးမွမ်း
 
-[mavvk,m 0dk; tdk;..
-touf&Sifaombk&m;
-xm0&bkef;MuD;ygap
+ဟာလေလုယာ ဝိုး အိုး..
+အသက်ရှင်သောဘုရား
+ထာဝရဘုန်းကြီးပါစေ

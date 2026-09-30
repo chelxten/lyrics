@@ -1,14 +1,13 @@
 ---
-title: raMumuf&GHhbl;
-font: win
+title: မကြောက်ရွံ့ဘူး
 ---
-(&efolrsm;ywfvnf 0kdif;xm;vnf;aMumuf&GHUjcif;r&Sdbl; uREkfyf&JUta&SUrSm pm;yGJukdcif;um jyifqifay;ol
+(ရန်သူများပတ်လည် ဝိုင်းထားလည်းကြောက်ရွံ့ခြင်းမရှိဘူး ကျွန်ုပ်ရဲ့အရှေ့မှာ စားပွဲကိုခင်းကာ ပြင်ဆင်ပေးသူ
 
-tem;rSmvlwpfaxmifvuf,mbufrSm vlwpfaomif;vJvnf; wkefvIyfjcif;r&Sdbl; raMumuf&GHUbl;)2
+အနားမှာလူတစ်ထောင်လက်ယာဘက်မှာ လူတစ်သောင်းလဲလည်း တုန်လှုပ်ခြင်းမရှိဘူး မကြောက်ရွံ့ဘူး)၂
 
-rD;xJrSmjzwfavQmuf&vnf; avmifuRrf;jcif;r&Sdbl; jrpfwkdYukdjzwfavQmuf&vnf;
-ESpfrGef;jcif;r&Sdbl;
+မီးထဲမှာဖြတ်လျှောက်ရလည်း လောင်ကျွမ်းခြင်းမရှိဘူး မြစ်တို့ကိုဖြတ်လျှောက်ရလည်း
+နှစ်မွန်းခြင်းမရှိဘူး
 
-rkefwkdif;xJrSm jzwfoef;&vnf; aMumuf&GHUjcif;r&Sdbl;
+မုန်တိုင်းထဲမှာ ဖြတ်သန်းရလည်း ကြောက်ရွံ့ခြင်းမရှိဘူး
 
-tqkd;qkH;tcsdefem&Dwkdif;rSm ocifvufukdompGJukdif &J&ifhjcif;eJYcGeftm; tNrJay;ol uREkfyf&JUa,½I
+အဆိုးဆုံးအချိန်နာရီတိုင်းမှာ သခင်လက်ကိုသာစွဲကိုင် ရဲရင့်ခြင်းနဲ့ခွန်အား အမြဲပေးသူ ကျွန်ုပ်ရဲ့ယေရှု

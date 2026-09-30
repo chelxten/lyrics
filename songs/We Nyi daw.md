@@ -1,24 +1,23 @@
 ---
-title: 0dnmOfawmf
-font: win
+title: ဝိညာဉ်တော်
 ---
-0dnmOfawmfom tjrifhjrwfqkH;aom
-tEl;nhHqkH;aom tzdk;xdkufqkH;aom
-bk&m;&JUwefcdk;awmf
+ဝိညာဉ်တော်သာ အမြင့်မြတ်ဆုံးသော
+အနူးညံ့ဆုံးသော အဖိုးထိုက်ဆုံးသော
+ဘုရားရဲ့တန်ခိုးတော်
 
-a&SUqufavQmufzdkY pGrf;tm;ay;vdkY
-bkef;ESifhjznfhvdkY  vrff;jyay;ol
-vlom;wdkif;tm; pGefYypfrxm;olyJ
+ရှေ့ဆက်လျှောက်ဖို့ စွမ်းအားပေးလို့
+ဘုန်းနှင့်ဖြည့်လို့  လမ်းပြပေးသူ
+လူသားတိုင်းအား စွန့်ပစ်မထားသူပဲ
 
-0rf;enf;aomoltm; ESpfodrfhay;ol
-tm;i,faomoltm; cGef;tm;ay;ol
+ဝမ်းနည်းသောသူအား နှစ်သိမ့်ပေးသူ
+အားငယ်သောသူအား ခွန်းအားပေးသူ
 
-cdkudk;&mrJholtwGuf cdkvIH&m&Jwdkufjzpfonf
-uREkfyf&JUrdwfaqG 0dnmOfbk&m;yg
+ခိုကိုးရာမဲ့သူအတွက် ခိုလှုံရာရဲတိုက်ဖြစ်သည်
+ကျွန်ုပ်ရဲ့မိတ်ဆွေ ဝိညာဉ်ဘုရားပါ
 
-toufrJhaomoltm; toufESifhjynfh0apol
-topfaomtoufESifh jynfhpkHapomol[m
+အသက်မဲ့သောသူအား အသက်နှင့်ပြည့်ဝစေသူ
+အသစ်သောအသက်နှင့် ပြည့်စုံစေသာသူဟာ
 
-jrifvkdYawmhr&ayrJh 0dnmOfawmf&JU
-pum;ajymjcif;awG wdkYxdjcif;awG
-tNrJcHpm;&ae
+မြင်လို့တော့မရပေမဲ့ ဝိညာဉ်တော်ရဲ့
+စကားပြောခြင်းတွေ တို့ထိခြင်းတွေ
+အမြဲခံစားရနေ

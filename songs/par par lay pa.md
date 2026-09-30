@@ -1,19 +1,18 @@
 ---
-title: yg;yg;av;yg
-font: win
+title: ပါးပါးလေးပါ
 ---
-'Pf&mawGr&Sdawmhbl; ta0;vTifhukefjyD
-udk,fawmfha&SUarSmufrSm t&nfaysmfoGm;NyD
+ဒဏ်ရာတွေမရှိတော့ဘူး အဝေးလွှင့်ကုန်ပြီ
+ကိုယ်တော့်ရှေ့မှောက်မှာ အရည်ပျော်သွားပြီ
 
-tjrifhfqkH;aom bkef;awmfaMumifh t&nfaysmfoGm;NyD
+အမြင့်ဆုံးသော ဘုန်းတော်ကြောင့် အရည်ပျော်သွားပြီ
 
-csnfaESmifp&mr&Sdawmhbl; vGwfajrmufukefNyD
-ocifh&JU rsufarSmufrSm jymjzpfoGm;NyD
+ချည်နှောင်စရာမရှိတော့ဘူး လွတ်မြောက်ကုန်ပြီ
+သခင့်ရဲ့ မျက်မှောက်မှာ ပြာဖြစ်သွားပြီ
 
-ukd,fawmf&SiftwGuf jyóawGu
+ကိုယ်တော်ရှင်အတွက် ပြဿတွေက
 
-yg;yg;av;bJ yg;yg;av;yg
-udk,fawmfha&SUrSm cHEkdifwmr&Sd
-tcufcJjyóem udk,fawmfha&SUrSm
+ပါးပါးလေးဘဲ ပါးပါးလေးပါ
+ကိုယ်တော့်ရှေ့မှာ ခံနိုင်တာမရှိ
+အခက်ခဲပြဿနာ ကိုယ်တော့်ရှေ့မှာ
 
-yg;yg;av;yg
+ပါးပါးလေးပါ

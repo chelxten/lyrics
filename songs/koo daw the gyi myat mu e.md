@@ -1,28 +1,27 @@
 ---
-title: udk,fwamfonfujD;jrwfrl\
-font: win
+title: ကိုယ်တော်သည်ကြီးမြတ်မူ၏
 ---
-tdkzbk&m;uREfkyfrSm tHhbG,f&mrsm;
-atmufarhpOfcg udk,fawmfzefqif;vsufxm;
-eu©wfwm&m rdk;BudK;xpfcsKef;oHrsm;jyif
-cyfodrf;rl&m jyKjyifawmfrlt&Sif
+အိုဖဘုရားကျွန်ုပ်မှာ အံ့ဘွယ်ရာများ
+အောက်မေ့စဉ်ခါ ကိုယ်တော်ဖန်ဆင်းလျက်ထား
+နက္ခတ်တာရာ မိုးကြိုးထစ်ချုန်းသံများပြင်
+ခပ်သိမ်းမူရာ ပြုပြင်တော်မူအရှင်
 
-uREkfyf0dnmOf ukd,fawmfudk csD;rGrf;csif
-ukd,fawmfomvQif u,fwifydkif&Sif
-uREkfyf0dnmOf udk,fawmfudk csD;rGrf;ap
-ukd,fawmfomvQif BuD;jrwfrlay
+ကျွန်ုပ်ဝိညာဉ် ကိုယ်တော်ကို ချီးမွမ်းချင်
+ကိုယ်တော်သာလျှင် ကယ်တင်ပိုင်ရှင်
+ကျွန်ုပ်ဝိညာဉ် ကိုယ်တော်ကို ချီးမွမ်းစေ
+ကိုယ်တော်သာလျှင် ကြီးမြတ်မူပေ
 
-awmtkHawmifMum; uREkfyfc&D;oGm;&mvrf;
-aus;iSufrsm;pGm om,mjrnfwGefysHoef;
-ukef;jrifhawmifxdyf qdwfNidrf&m&yfrSjrifEdkif
-jrufcif;vGifjyif avn§if;wdkufcwf,drf;,kdif
+တောအုံတောင်ကြား ကျွန်ုပ်ခရီးသွားရာလမ်း
+ကျေးငှက်များစွာ သာယာမြည်တွန်ပျံသန်း
+ကုန်းမြင့်တောင်ထိပ် ဆိတ်ငြိမ်ရာရပ်မှမြင်နိုင်
+မြက်ခင်းလွင်ပြင် လေညှင်းတိုက်ခတ်ယိမ်းယိုင်
 
-bk&m;&Sifrsm om;awmfudkyif rn§may
-vlowÅ0gtaygif;wGuf aocHap
-um;wkdifay:0,f aoG;awmfyifoGef;jcif;cH&Sm
-vlwdkUjypfrsm; udk,fawmfaqmif,l<uoGm;
+ဘုရားရှင်မျာ သားတော်ကိုပင် မညှာပေ
+လူသတ္တဝါအပေါင်းတွက် သေခံစေ
+ကားတိုင်ပေ:ဝယ် သွေးတော်ပင်သွန်းခြင်းခံရှာ
+လူတို့ပြစ်များ ကိုယ်တော်ဆောင်ယူကြွသွား
 
-<uvmjcif;udk  uREkfyfwdkUarQmfvifhawmifhw
-aenOfhrysuf 'l;axmufqkawmif;aetyf
-a,½Iocif wzefqif;ouf<uvmyg
-aumif;uifpH&m uRekfyfudk aqmif,lyg
+ကြွလာခြင်းကို  ကျွန်ုပ်တို့မျှော်လင့်တောင့်တ
+နေညဉ့်မပျက် ဒူးထောက်ဆုတောင်းနေအပ်
+ယေရှုသခင် တဖန်ဆင်းသက်ကြွလာပါ
+ကောင်းကင်စံရာ ကျွန်ုပ်ကို ဆောင်ယူပါ

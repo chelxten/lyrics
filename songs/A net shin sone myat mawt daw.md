@@ -1,11 +1,10 @@
 ---
-title: teuf&Skdif;qHk;rsufarSmufawmf
-font: win
+title: အနက်ရှိုင်းဆုံးမျက်မှောက်တော်
 ---
-ukd,fawmfrsufarSmufawmf þt&yfwGif jynfhapyg vlwkdif; tay:oGef;NzdK;rlyg
+ကိုယ်တော်မျက်မှောက်တော် ဤအရပ်တွင် ပြည့်စေပါ လူတိုင်း အပေ:သွန်းဖြိုးမူပါ
 
-ukd,fawmfrsufarSmufom uREkfyf\arGUavQmf&m uREkfyfESvkH;om; tpGJvef;qkH;ae&m
+ကိုယ်တော်မျက်မှောက်သာ ကျွန်ုပ်၏မွေ့လျှော်ရာ ကျွန်ုပ်နှလုံးသား အစွဲလန်းဆုံးနေရာ
 
-twrf;wqkH;t&m teuf½Idif;qkH; ocifhrsufarSmufawmfrSm tjcm;t&mrvkdyg tewå
+အတမ်းတဆုံးအရာ အနက်ရှိုင်းဆုံး သခင့်မျက်မှောက်တော်မှာ အခြားအရာမလိုပါ အနတ္တ
 
-tvGrf;qGwfqkH;t&m teuf½Idif;qkH; ocifhrsufarSmufawmfom awmifhw0dnmOfa&mifh&Japyg
+အလွမ်းဆွတ်ဆုံးအရာ အနက်ရှိုင်းဆုံး သခင့်မျက်မှောက်တော်သာ တောင့်တဝိညာဉ်ရောင့်ရဲစေပါ

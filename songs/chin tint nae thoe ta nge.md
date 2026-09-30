@@ -1,29 +1,28 @@
 ---
-title: jcaoFh ESifh odk;oi,f
-font: win
+title: ခြင်္သေ့ နှင့် သိုးသငယ်
 ---
-tdkY... tdk;tdk;tdkY.. tdk; tdk; tdk;tdk;
+အို့... အိုးအိုးအို့.. အိုး အိုး အိုးအိုး
 
-igjzpfonftwkdif; igjzpfaombk&m;
-tpeJYtqkH;ukd ydkifoaomol
+ငါဖြစ်သည်အတိုင်း ငါဖြစ်သောဘုရား
+အစနဲ့အဆုံးကို ပိုင်သသောသူ
 
-csD;ajr§muf ,Zfyv’ifawmftxufü
-bkef;wefcdk;tvkH;pkH cHxdkufaomol
+ချီးမြှောက် ယဇ်ပလ္လင်တော်အထက်၌
+ဘုန်းတန်ခိုးအလုံးစုံ ခံထိုက်သောသူ
 
-emrwumawGxuf udk,fawmfxdkufwef
-oefY&Sif;olrsm;wdkYcsD;rGrf; *kPfjyK&Sifbk&if
+နာမတကာတွေထက် ကိုယ်တော်ထိုက်တန်
+သန့်ရှင်းသူများတို့ချီးမွမ်း ဂုဏ်ပြုရှင်ဘုရင်
 
-,k'wdkY&JU jcaoFhrif; c&pfawmf
-tkyfpdk;jcif;wefcdk; tmPmpuftvHk;pHk
+ယုဒတို့ရဲ့ ခြင်္သေ့မင်း ခရစ်တော်
+အုပ်စိုးခြင်းတန်ခိုး အာဏာစက်အလုံးစုံ
 
-t&Sifocif taoGG;eJYa&G;cJh u,ffwifaom
-odk;oi,f ajzmifhrwfoefY&Sif; pHkvifvSyol
-a,½Skc&pfawmf a,½Skc&pfawmf
+အရှင်သခင် အသွေးနဲ့ရွေးခဲ့ ကယ်တင်သော
+သိုးသငယ် ဖြောင့်မတ်သန့်ရှင်း စုံလင်လှပသူ
+ယေရှုခရစ်တော် ယေရှုခရစ်တော်
 
-(tmvzeJY MoarC MuD;jrwfaom
-,ma0 ,ma0
+(အာလဖနဲ့ သြမေဃ ကြီးမြတ်သော
+ယာဝေ ယာဝေ
 
-vlom;wdkif; ekwfjzifh0efcH
-'l;axmufjyyf0yfum tdk csD;ajrmuf)3
+လူသားတိုင်း နုတ်ဖြင့်ဝန်ခံ
+ဒူးထောက်ပြပ်ဝပ်ကာ အို ချီးမြောက်)၃
 
-(a,½Skc&pfawmf)4
+(ယေရှုခရစ်တော်)၄

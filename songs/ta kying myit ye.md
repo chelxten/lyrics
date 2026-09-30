@@ -1,14 +1,13 @@
 ---
-title: ocifhjrpfa&
-font: win
+title: သခင့်မြစ်ရေ
 ---
-txufaumif;uifrS t&Sdeft[kefjzifh pD;qif;aom vGwfajrmufapNyD
+အထက်ကောင်းကင်မှ အရှိန်အဟုန်ဖြင့် စီးဆင်းသော လွတ်မြောက်စေပြီ
 
-yv’ifawmfxufu jrpfa& 0rf;ajrmufpGmjzifh
-txHawmfyg; ul;cwfrnf tkd..csD;rGrf; ..
+ပလ္လင်တော်ထက်က မြစ်ရေ ဝမ်းမြောက်စွာဖြင့်
+အထံတော်ပါး ကူးခတ်မည် အို..ချီးမွမ်း ..
 
-ul;cwfrnf ocifh&JUjrpfa& pD;arsmrnf ocifh&JUjrpfa&Ekd;xrI pD;qif; wkdif;EkdifiHtay:
+ကူးခတ်မည် သခင့်ရဲ့မြစ်ရေ စီးမျောမည် သခင့်ရဲ့မြစ်ရေနိုးထမှု စီးဆင်း တိုင်းနိုင်ငံအပေ:
 
-þjrpfa&ü wkdif;EkdifiHEkd;xjcif; þjrpfa&ü wkdif;EkdifiHusef;rmap
+ဤမြစ်ရေ၌ တိုင်းနိုင်ငံနိုးထခြင်း ဤမြစ်ရေ၌ တိုင်းနိုင်ငံကျန်းမာစေ
 
-þjrpfa&ü bkef;a&mifjcnf xGef;vif;jcif; txHawmfü
+ဤမြစ်ရေ၌ ဘုန်းရောင်ခြည် ထွန်းလင်းခြင်း အထံတော်၌

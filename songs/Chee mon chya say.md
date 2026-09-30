@@ -1,14 +1,13 @@
 ---
-title: csD;rGrf;ujap
-font: win
+title: ချီးမွမ်းကြစေ
 ---
-touf&Sdaomoltaygif; ukd,fawmftm; csD;rGrf;Mu *kPfawmfcsD;rGrf;oHrsm; urÇmajrjyifwpfckvkH; ysHUESHYap
+အသက်ရှိသောသူအပေါင်း ကိုယ်တော်အား ချီးမွမ်းကြ ဂုဏ်တော်ချီးမွမ်းသံများ ကမ္ဘာမြေပြင်တစ်ခုလုံး ပျံ့နှံ့စေ
 
-ta&SUeJYtaemufawmifajrmuf yifv,fvIdif;ausmufaqmif oHNydKifusL;{oHrsm; urÇmajrjyifwpfckvkH; ysHUESHYap
+အရှေ့နဲ့အနောက်တောင်မြောက် ပင်လယ်လှိုင်းကျောက်ဆောင် သံပြိုင်ကျူးဧသံများ ကမ္ဘာမြေပြင်တစ်ခုလုံး ပျံ့နှံ့စေ
 
-atmifjrifjcif;eJY xajrmufcJhNyDa[h rm&fewftm; tvJxkd;cJhNyDa[h
+အောင်မြင်ခြင်းနဲ့ ထမြောက်ခဲ့ပြီဟေ့ မာရ်နတ်အား အလဲထိုးခဲ့ပြီဟေ့
 
-xm0&i&JrS
-vGwfajrmufcJhNyDa[h xm0&touf&&SdcJhNyDa[h a,½IaMumifhom
+ထာဝရငရဲမှ
+လွတ်မြောက်ခဲ့ပြီဟေ့ ထာဝရအသက်ရရှိခဲ့ပြီဟေ့ ယေရှုကြောင့်သာ
 
-(tkd; . . vGwfajrmufjcif;eJY uckefr,f 0rf;ajrmufjcif;eJY a<u;aMumfr,f)2 ukd,fawmfa&SUrSm
+(အိုး . . လွတ်မြောက်ခြင်းနဲ့ ကခုန်မယ် ဝမ်းမြောက်ခြင်းနဲ့ ကြွေးကြော်မယ်)၂ ကိုယ်တော်ရှေ့မှာ

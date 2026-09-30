@@ -1,27 +1,26 @@
 ---
-title: usGEkfyfwdkhbk&m;
-font: win
+title: ကျွန်ုပ်တို့ဘုရား
 ---
-tjrifhqkH;aombk&m; wnfNrJajymif;vJjcif;r½Sd
-tm;vkH;wwfpGrf;Edkifol
+အမြင့်ဆုံးသောဘုရား တည်မြဲပြောင်းလဲခြင်းမရှိ
+အားလုံးတတ်စွမ်းနိုင်သူ
 
-tpeJYtqkH;bk&m; tmvzeJYMoarC
-tm;vkH;ydkifotkyfpdk;
+အစနဲ့အဆုံးဘုရား အာလဖနဲ့သြမေဃ
+အားလုံးပိုင်သအုပ်စိုး
 
-ab;a&mufonfhumv ulnDrpaMumif;xif½Sm;
-teD;tem;rSmtNrJ½Sdol
+ဘေးရောက်သည့်ကာလ ကူညီမစကြောင်းထင်ရှား
+အနီးအနားမှာအမြဲရှိသူ
 
-vIdkif;rsm;Murf;xefvnf; awmifrsm;vIyfvQuf
-a½GUaomfvnf; aMumufvefYwkefvIyfjcif;r½Sd
+လှိုင်းများကြမ်းထန်လည်း တောင်များလှုပ်လျှက်
+ရွေ့သော်လည်း ကြောက်လန့်တုန်လှုပ်ခြင်းမရှိ
 
-teEåwefcdk;eJYjynfh0ol urÇmqufquf
-bkef;BuD;ap(a,½I)
+အနန္တတန်ခိုးနဲ့ပြည့်ဝသူ ကမ္ဘာဆက်ဆက်
+ဘုန်းကြီးစေ(ယေရှု)
 
-*kPfjyKcsD;rGrf;jcif;tvkH;pkH urÇmvlom;wdkif;
-ay;tyfap(a,½I)
+ဂုဏ်ပြုချီးမွမ်းခြင်းအလုံးစုံ ကမ္ဘာလူသားတိုင်း
+ပေးအပ်စေ(ယေရှု)
 
-bkef;BuD;aombk&m; ½Sifjyefxajr§mufaombk&m;
-oefY½Sif;bdodufcHol
+ဘုန်းကြီးသောဘုရား ရှင်ပြန်ထမြှောက်သောဘုရား
+သန့်ရှင်းဘိသိက်ခံသူ
 
-,k'rsdK;jcaoFh eHeufrdk;Cf;aomufMu,ftvif;
-wkEIdif;rJhaombk&m;
+ယုဒမျိုးခြင်္သေ့ နံနက်မိုးဃ်းသောက်ကြယ်အလင်း
+တုနှိုင်းမဲ့သောဘုရား

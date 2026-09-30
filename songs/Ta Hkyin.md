@@ -1,21 +1,20 @@
 ---
-title: ocif
-font: win
+title: သခင်
 ---
-rajymif;vJEdkifwJharwåm rcrf;wJhtMuifemw&m; xm0&uREkfyf&JUtwGufyg
+မပြောင်းလဲနိုင်တဲ့မေတ္တာ မခမ်းတဲ့အကြင်နာတရား ထာဝရကျွန်ုပ်ရဲ့အတွက်ပါ
 
-tjcm;aomt&m NyKdvJ bmrSr&Sdawmhvnf; ocifeJYjynfhpkHw,f
+အခြားသောအရာ ပြိုလဲ ဘာမှမရှိတော့လည်း သခင်နဲ့ပြည့်စုံတယ်
 
-ESvkH;om;&JU twGif;qkH;rSm euf½Idif;pGm ckdem;ocifu uREkfyf&JUb0yg
+နှလုံးသားရဲ့ အတွင်းဆုံးမှာ နက်ရှိုင်းစွာ ခိုနားသခင်က ကျွန်ုပ်ရဲ့ဘဝပါ
 
-tm;enf;ol uREkfyftm; tpOftm;jznfhay;wm ocifh&JUtcspfu½kPm
+အားနည်းသူ ကျွန်ုပ်အား အစဉ်အားဖြည့်ပေးတာ သခင့်ရဲ့အချစ်ကရုဏာ
 
-t&m&mawGwkdif;[m ocif&JUtxJu jzpfvm uREkfyf&JU&Sifoefjcif; tcsdefwkdif; ocifhtm;jzifhom
+အရာရာတွေတိုင်းဟာ သခင်ရဲ့အထဲက ဖြစ်လာ ကျွန်ုပ်ရဲ့ရှင်သန်ခြင်း အချိန်တိုင်း သခင့်အားဖြင့်သာ
 
-t&m&mawGwkdif;[m ocifh&JUtzkdYtvkdiSgjzpfwnf aeNrJyg
+အရာရာတွေတိုင်းဟာ သခင့်ရဲ့အဖို့အလိုငှါဖြစ်တည် နေမြဲပါ
 
-ukd,fawmftvkd&Sd&m uREkfyfb0tm; jyKjyifyg uREkfyf&JU tvkdqE´ajrjrKyf aeY&ufwkdif;rSm
+ကိုယ်တော်အလိုရှိရာ ကျွန်ုပ်ဘဝအား ပြုပြင်ပါ ကျွန်ုပ်ရဲ့ အလိုဆန္ဒမြေမြုပ် နေ့ရက်တိုင်းမှာ
 
-t&m&mawGwkdif;[m ocifh&JUbkef;tzkdYom xif&Sm;apyg
+အရာရာတွေတိုင်းဟာ သခင့်ရဲ့ဘုန်းအဖို့သာ ထင်ရှားစေပါ
 
-tuREkfyf&JUb0xJrSm vSnfhjyefMunfhvkdufwkdif;rSm ukd,fawmf&Sifarwåmom tuREkfyfb0rSm vkHavmufaewm
+အကျွန်ုပ်ရဲ့ဘဝထဲမှာ လှည့်ပြန်ကြည့်လိုက်တိုင်းမှာ ကိုယ်တော်ရှင်မေတ္တာသာ အကျွန်ုပ်ဘဝမှာ လုံလောက်နေတာ

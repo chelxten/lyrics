@@ -1,20 +1,19 @@
 ---
-title: aumif;uifcspfol
-font: win
+title: ကောင်းကင်ချစ်သူ
 ---
-tem;rSm½SdwJhuREfkyf&JUcspfol
-vufawmfeJYolayGYydkufzufxm;NyD;
-uREfkyfudkvTrf;NcHKay;
+အနားမှာရှိတဲ့ကျွန်ုပ်ရဲ့ချစ်သူ
+လက်တော်နဲ့သူပွေ့ပိုက်ဖက်ထားပြီး
+ကျွန်ုပ်ကိုလွှမ်းခြုံပေး
 
-tem;rSm½SdwJhuREfkyf&JUcspfol
-vufawmfeJYolayGYydkufzufxm;NyD;
-uREfkyfudk&pfywfay;
+အနားမှာရှိတဲ့ကျွန်ုပ်ရဲ့ချစ်သူ
+လက်တော်နဲ့သူပွေ့ပိုက်ဖက်ထားပြီး
+ကျွန်ုပ်ကိုရစ်ပတ်ပေး
 
-jrifcsifygw,f udk,fawmfbkef;awmf
-vdkcsifaewm udk,fawmfhtcspf
-ocifh&JUrsufarSmufxJrSm uREfkyf,pfrl;
+မြင်ချင်ပါတယ် ကိုယ်တော်ဘုန်းတော်
+လိုချင်နေတာ ကိုယ်တော့်အချစ်
+သခင့်ရဲ့မျက်မှောက်ထဲမှာ ကျွန်ုပ်ယစ်မူး
 
-pGefYypfrxm;ygbl; uREkfyfudk
-ocifh&JUtem;rSm uREfkyfjynfhpkH
-wjcm;t&m rvdkawmhbl;
-aumif;uifcspfol uREfkyfeJY½Sd&if
+စွန့်ပစ်မထားပါဘူး ကျွန်ုပ်ကို
+သခင့်ရဲ့အနားမှာ ကျွန်ုပ်ပြည့်စုံ
+တခြားအရာ မလိုတော့ဘူး
+ကောင်းကင်ချစ်သူ ကျွန်ုပ်နဲ့ရှိရင်

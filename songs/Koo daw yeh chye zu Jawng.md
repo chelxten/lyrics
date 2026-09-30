@@ -1,16 +1,15 @@
 ---
-title: ukd,fawmf&JUaus;Zl;aMumifh
-font: win
+title: ကိုယ်တော်ရဲ့ကျေးဇူးကြောင့်
 ---
-ukd,fawmf&JUaus;Zl;aMumifhygyJ
-tuREkfyftouf&Sif&ygw,f ukd,fawmf&JU aus;Zl;aMumifhygyJ tuREkfyf oGm;vmaecGifh&,f
+ကိုယ်တော်ရဲ့ကျေးဇူးကြောင့်ပါပဲ
+အကျွန်ုပ်အသက်ရှင်ရပါတယ် ကိုယ်တော်ရဲ့ ကျေးဇူးကြောင့်ပါပဲ အကျွန်ုပ် သွားလာနေခွင့်ရယ်
 
-ukd,fawmf&JUaus;Zl;aMumifhygyJ t&m&matmifjcif;cGifh&Sdygw,f ukd,fawmf&JUaus;Zl;w&m;awG twGuf aus;Zl;wifw,f
+ကိုယ်တော်ရဲ့ကျေးဇူးကြောင့်ပါပဲ အရာရာအောင်ခြင်းခွင့်ရှိပါတယ် ကိုယ်တော်ရဲ့ကျေးဇူးတရားတွေ အတွက် ကျေးဇူးတင်တယ်
 
-ukd,fawmf&JUaus;Zl;aMumifhygyJ tuREkfyfusef;rm&ygw,f ukd,fawmf&JUaus;Zl;aMumifhygyJ tuREkfyfcsD;rGrf;EkdifcGifh&,f
+ကိုယ်တော်ရဲ့ကျေးဇူးကြောင့်ပါပဲ အကျွန်ုပ်ကျန်းမာရပါတယ် ကိုယ်တော်ရဲ့ကျေးဇူးကြောင့်ပါပဲ အကျွန်ုပ်ချီးမွမ်းနိုင်ခွင့်ရယ်
 
-ukd,fawmf&JUaus;Zl;aMumifhygyJ t&m&mrSm 0rf;ajrmuf&ygw,f ukd,fawmf&JUaus;Zl;w&m;awG twGuf aus;Zl;wifw,f
+ကိုယ်တော်ရဲ့ကျေးဇူးကြောင့်ပါပဲ အရာရာမှာ ဝမ်းမြောက်ရပါတယ် ကိုယ်တော်ရဲ့ကျေးဇူးတရားတွေ အတွက် ကျေးဇူးတင်တယ်
 
-ukd,fawmf\tMuHtpnf tvkdawmfonf aumif;uifbkHüjynhfpkHovkd uREkfyftoufwmxJü jynhfpkHap
+ကိုယ်တော်၏အကြံအစည် အလိုတော်သည် ကောင်းကင်ဘုံ၌ပြည့်စုံသလို ကျွန်ုပ်အသက်တာထဲ၌ ပြည့်စုံစေ
 
-avmuBuD;ysuf,Gif;oGm; aomfvnf; uREfkyftxJü tNrJwrf;&Sdaer,fh ukd,fawmf&JU aus;Zl;w&m;awGtwGuf aus;Zl;wifw,f
+လောကကြီးပျက်ယွင်းသွား သော်လည်း ကျွန်ုပ်အထဲ၌ အမြဲတမ်းရှိနေမယ့် ကိုယ်တော်ရဲ့ ကျေးဇူးတရားတွေအတွက် ကျေးဇူးတင်တယ်

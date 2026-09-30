@@ -1,15 +1,14 @@
 ---
-title: tpOfcsD;rGrf;
-font: win
+title: အစဉ်ချီးမွမ်း
 ---
-ukd,fawmfryg&ifav b,fvkdtpjyK&rSmvJ 'DavmuBuD;xJrSm b,fvkd&yfwnfEkdifrSmvJ
+ကိုယ်တော်မပါရင်လေ ဘယ်လိုအစပြုရမှာလဲ ဒီလောကကြီးထဲမှာ ဘယ်လိုရပ်တည်နိုင်မှာလဲ
 
-t&m&mrSmav ukd,fawmftwlr&SdcJh&ifav 'Db0yifv,fBuD;xJrSm uREkfyfOD;wnf&mrJhaew,f
+အရာရာမှာလေ ကိုယ်တော်အတူမရှိခဲ့ရင်လေ ဒီဘဝပင်လယ်ကြီးထဲမှာ ကျွန်ုပ်ဉီးတည်ရာမဲ့နေတယ်
 
-tkd; ..a,½I&Sif uREkfyfESifhtNrJtwl&Sdaom {rmaEGv
+အိုး ..ယေရှုရှင် ကျွန်ုပ်နှင့်အမြဲအတူရှိသော ဧမာနွေလ
 
-uREkfyf&JUb0rSm ukd,fawmfjrwfom ukd,fawmfESifhtwl tpOftNrJ&Sdcsifol
+ကျွန်ုပ်ရဲ့ဘဝမှာ ကိုယ်တော်မြတ်သာ ကိုယ်တော်နှင့်အတူ အစဉ်အမြဲရှိချင်သူ
 
-ukd,fawmfay;wJh
-toufeJY touf&Sifol uREkfyftm; tcsdefwkdif;owdESifh Munfh½Iol
-{rmaEGv
+ကိုယ်တော်ပေးတဲ့
+အသက်နဲ့ အသက်ရှင်သူ ကျွန်ုပ်အား အချိန်တိုင်းသတိနှင့် ကြည့်ရှုသူ
+ဧမာနွေလ

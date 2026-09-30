@@ -1,21 +1,20 @@
 ---
-title: usGEkfyfausmufaqmif
-font: win
+title: ကျွန်ုပ်ကျောက်ဆောင်
 ---
-udk,fawmfuREkfyfausmufaqmif touf&JUcdkvIH&m
-u,fwifjcif;ay;olyg
+ကိုယ်တော်ကျွန်ုပ်ကျောက်ဆောင် အသက်ရဲ့ခိုလှုံရာ
+ကယ်တင်ခြင်းပေးသူပါ
 
-udk,fawmfuREkfyfausmufaqmif b0&JUt&if;tjrpfyg
-uREkfyfb0 wnfaqmuf&m uREkfyf&JUcdkifcHh&m
+ကိုယ်တော်ကျွန်ုပ်ကျောက်ဆောင် ဘဝရဲ့အရင်းအမြစ်ပါ
+ကျွန်ုပ်ဘဝ တည်ဆောက်ရာ ကျွန်ုပ်ရဲ့ခိုင်ခံ့ရာ
 
-avjyifawGwkduf&ifvnf; raMumufawmhyg
-rkefwkdif;awG wdkuf&ifvnf; rrIawmhyg
+လေပြင်တွေတိုက်ရင်လည်း မကြောက်တော့ပါ
+မုန်တိုင်းတွေ တိုက်ရင်လည်း မမှုတော့ပါ
 
-tcuftcJawG&Sd&ifvnf; rpdk;&drfawmhyg udk,fawmf&SifuREkfyftm;
-arwÅmeJYayGUzufxm;w,f udk,fawmfuREkfyfausmufaqmif
+အခက်အခဲတွေရှိရင်လည်း မစိုးရိမ်တော့ပါ ကိုယ်တော်ရှင်ကျွန်ုပ်အား
+မေတ္တာနဲ့ပွေ့ဖက်ထားတယ် ကိုယ်တော်ကျွန်ုပ်ကျောက်ဆောင်
 
-ausmufaqmifMum;u &Smzef,kefuJhokdY
-uREkfyf[m tm;tifcsnfheJYvnf;av
+ကျောက်ဆောင်ကြားက ရှာဖန်ယုန်ကဲ့သို့
+ကျွန်ုပ်ဟာ အားအင်ချည့်နဲ့လည်းလေ
 
-vkHNcKHpGm&,f Nidrfoufjcif;&Sdw,f cGeftm;eJYjznfhumay;ol
-ausmufaqmifa,½IaMumifh
+လုံခြုံစွာရယ် ငြိမ်သက်ခြင်းရှိတယ် ခွန်အားနဲ့ဖြည့်ကာပေးသူ
+ကျောက်ဆောင်ယေရှုကြောင့်

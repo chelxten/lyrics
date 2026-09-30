@@ -1,11 +1,10 @@
 ---
-title: aus;Zl;awmfcGufzvm;
-font: win
+title: ကျေးဇူးတော်ခွက်ဖလား
 ---
-aus;Zl;awmfcGufzvm;  vQHvsuf&Sdyg\ aeY&ufpOf*&kPm topfcHpm;&NyD
+ကျေးဇူးတော်ခွက်ဖလား  လျှံလျက်ရှိပါ၏ နေ့ရက်စဉ်ဂရုဏာ အသစ်ခံစားရပြီ
 
-toufwm\vrf;c&D; aeY&ufwkdif;rSm aus;Zl;awmfeJY ywf&pfrlNyD
+အသက်တာ၏လမ်းခရီး နေ့ရက်တိုင်းမှာ ကျေးဇူးတော်နဲ့ ပတ်ရစ်မူပြီ
 
-aumif;jrwfcJhonf raeYu aumif;jrwfonf,ck aumif;jrwftkH;rnf a&SUtem*wfrSm
+ကောင်းမြတ်ခဲ့သည် မနေ့က ကောင်းမြတ်သည်ယခု ကောင်းမြတ်အုံးမည် ရှေ့အနာဂတ်မှာ
 
-csD;rGrf;rnfukd,fawmf aumif;jrwfaMumif;ukd csD;rGrf;aernf aeY&ufpOfwdkif;
+ချီးမွမ်းမည်ကိုယ်တော် ကောင်းမြတ်ကြောင်းကို ချီးမွမ်းနေမည် နေ့ရက်စဉ်တိုင်း

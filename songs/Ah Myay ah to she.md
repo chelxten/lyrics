@@ -1,27 +1,26 @@
 ---
-title: tjrJtwl&Sd
-font: win
+title: အမြဲအတူရှိ
 ---
-tdyfrufawG zefqif;ay;ol
-udk,fawmfonf uREfkyf&JUb0yg
+အိပ်မက်တွေ ဖန်ဆင်းပေးသူ
+ကိုယ်တော်သည် ကျွန်ုပ်ရဲ့ဘဝပါ
 
-arQmfvifhp&m zefwD;ay;ol
-udk,fawmfom udk;pm;,kHMunf
+မျှော်လင့်စရာ ဖန်တီးပေးသူ
+ကိုယ်တော်သာ ကိုးစားယုံကြည်
 
-rkefwdkif;awGxefvnf; raMumufyg
-udk,fawmfonf uREfkyf&JUtem;rSm
+မုန်တိုင်းတွေထန်လည်း မကြောက်ပါ
+ကိုယ်တော်သည် ကျွန်ုပ်ရဲ့အနားမှာ
 
-aorif;&JUt&dyfudkvnf; raMumufyg
-udk,fawmfonf uREkfyfeJYtwl&Sd
+သေမင်းရဲ့အရိပ်ကိုလည်း မကြောက်ပါ
+ကိုယ်တော်သည် ကျွန်ုပ်နဲ့အတူရှိ
 
-udk,fawmfonf uREkfyf&JUtem;rSm
-tpOf&Sdaew,f uREkfyfrjrifEdkifvnf;
+ကိုယ်တော်သည် ကျွန်ုပ်ရဲ့အနားမှာ
+အစဉ်ရှိနေတယ် ကျွန်ုပ်မမြင်နိုင်လည်း
 
-udk,fawmfonf uREfkyfeJYtNrJwrf;
-twl&Sdaew,f
+ကိုယ်တော်သည် ကျွန်ုပ်နဲ့အမြဲတမ်း
+အတူရှိနေတယ်
 
-udk,fawmfonf uREkfyftwGuf
-jyifqifxm;aomt&mrsm;
+ကိုယ်တော်သည် ကျွန်ုပ်အတွက်
+ပြင်ဆင်ထားသောအရာများ
 
-uREkfyfem;rvnfEkdifvnf; udk,fawmfonf
-udk,fawmfonftaumif;qkH; BuHpnfw,f
+ကျွန်ုပ်နားမလည်နိုင်လည်း ကိုယ်တော်သည်
+ကိုယ်တော်သည်အကောင်းဆုံး ကြံစည်တယ်

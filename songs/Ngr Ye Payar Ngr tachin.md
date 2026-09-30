@@ -1,29 +1,28 @@
 ---
-title: ig&JUbk&m; ig&JUoDcsif;
-font: win
+title: ငါရဲ့ဘုရား ငါရဲ့သီချင်း
 ---
-vlrsKd;taygif; vlEG,ftaygif; t&mcyfodrf;wdkYcsD;rGrf;ap
-awmifawGeJYyifv,frsm; tdk&Tifvef;pGmoDcsif;qdkae
+လူမျိုးအပေါင်း လူနွယ်အပေါင်း အရာခပ်သိမ်းတို့ချီးမွမ်းစေ
+တောင်တွေနဲ့ပင်လယ်များ အိုရွှင်လန်းစွာသီချင်းဆိုနေ
 
-udk,fawmfbkef;awmfoufqif; tkdajrBuD;wpfckvkH;zkH;vTrf;ap
-oDqdkvQuf*kPfjyKrnf xm0&txdcsD;rGrf;ygrnf
+ကိုယ်တော်ဘုန်းတော်သက်ဆင်း အိုမြေကြီးတစ်ခုလုံးဖုံးလွှမ်းစေ
+သီဆိုလျှက်ဂုဏ်ပြုမည် ထာဝရအထိချီးမွမ်းပါမည်
 
-0dk;tdk 0dktdktdk;...0dktdk;tdkYtdk;0dk;tdk;tdk
+ဝိုးအို ဝိုအိုအိုး...ဝိုအိုးအို့အိုးဝိုးအိုးအို
 
-[mavvk,m csD;rGrf;ygpkdY
+ဟာလေလုယာ ချီးမွမ်းပါစို့
 
-nOD;,Hidka<u;jcif; vma&mufwnf;cdkaecJhvnf;
-eHeufwdkif;u½kPmawmf jyefvnftopfwzefcHpm;&
+ညဉီးယံငိုကြွေးခြင်း လာရောက်တည်းခိုနေခဲ့လည်း
+နံနက်တိုင်းကရုဏာတော် ပြန်လည်အသစ်တဖန်ခံစားရ
 
-udk,fawmf&JUu,fwifaom tdkrpjcif;awmif½kd;odkY
-igarQmfMunfh txHawmfu tdk0rf;ajrmufjcif;qif;oufvmNyD
+ကိုယ်တော်ရဲ့ကယ်တင်သော အိုမစခြင်းတောင်ရိုးသို့
+ငါမျှော်ကြည့် အထံတော်က အိုဝမ်းမြောက်ခြင်းဆင်းသက်လာပြီ
 
-0dk;tdk 0dktdktdk;...0dktdk;tdkYtdk;0dk;tdk;tdk
+ဝိုးအို ဝိုအိုအိုး...ဝိုအိုးအို့အိုးဝိုးအိုးအို
 
-udk,fawmfonfigh&JU u,fwifrlaomt&Sif
-cdkvIH&mausmufaqmif uG,fum&m&Jwdkuf
+ကိုယ်တော်သည်ငါ့ရဲ့ ကယ်တင်မူသောအရှင်
+ခိုလှုံရာကျောက်ဆောင် ကွယ်ကာရာရဲတိုက်
 
-ighudk;pm;aom tpGrf;owÅd igh&JUNrdKU½dk;
-igh&JYt&Sif ig&JUbk&m; ig&JUoDcsif;
+ငါ့ကိုးစားသော အစွမ်းသတ္တိ ငါ့ရဲ့မြို့ရိုး
+ငါ့ရဲ့အရှင် ငါရဲ့ဘုရား ငါရဲ့သီချင်း
 
-0dk;tdk 0dktdktdk;...0dktdk;tdkYtdk;0dk;tdk;tdk
+ဝိုးအို ဝိုအိုအိုး...ဝိုအိုးအို့အိုးဝိုးအိုးအို

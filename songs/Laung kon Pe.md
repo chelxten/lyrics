@@ -1,30 +1,29 @@
 ---
-title: avmifukefjyD
-font: win
+title: လောင်ကုန်ပြီ
 ---
-csD;rGrf;jcif;&JU wefcdk;rsm;
-avxJrSSm vGifhysHavmifapNyD
+ချီးမွမ်းခြင်းရဲ့ တန်ခိုးများ
+လေထဲမှာ လွင့်ပျံလောင်စေပြီ
 
-csD;rGrf;jcif;&JU avxkxJrSm
-jyóemawG avmifukefNyD
+ချီးမွမ်းခြင်းရဲ့ လေထုထဲမှာ
+ပြဿနာတွေ လောင်ကုန်ပြီ
 
-tjrifhqkH;aom bk&m;BuD;jrwfaMumif; ig[pfa<u;rnf
-csnfaESmifjcif;eJY 0rf;enf;jcif;rsm; r&SdawmhNyD
+အမြင့်ဆုံးသော ဘုရားကြီးမြတ်ကြောင်း ငါဟစ်ကြွေးမည်
+ချည်နှောင်ခြင်းနဲ့ ဝမ်းနည်းခြင်းများ မရှိတော့ပြီ
 
-0dnmOfawmf&JU rD;t&Sdeft[kefrsm; ul;pufvmNyD
+ဝိညာဉ်တော်ရဲ့ မီးအရှိန်အဟုန်များ ကူးစက်လာပြီ
 
-0dk;..tdfk;..tdk;..tdk..tdk;..
+ဝိုး..အို်း..အိုး..အို..အိုး..
 
-avmifukefNyDa[h
-avmifukefNyD[
-avmifukefNyDa[;
+လောင်ကုန်ပြီဟေ့
+လောင်ကုန်ပြီဟ
+လောင်ကုန်ပြီဟေး
 
-rusef;rmjcif;awGtm;vkkH; avmifapNyD
-csnfaESmifrIawGtm;vkH; avmifapNyD
+မကျန်းမာခြင်းတွေအားလုံး လောင်စေပြီ
+ချည်နှောင်မှုတွေအားလုံး လောင်စေပြီ
 
-½IyfaxG;rIawGtm;vkH; avmifapNyD
-rsufarSmufawmfrSm tm;vkH;avmifukefNyD
+ရှုပ်ထွေးမှုတွေအားလုံး လောင်စေပြီ
+မျက်မှောက်တော်မှာ အားလုံးလောင်ကုန်ပြီ
 
-pdwfysufwmawGtm;vkH; avmifapNyD
-rwwfEkdifwmawGtm;vkH; avmifapNyD
-roefU&Sif;rIawGtm;vkH; avmifapNyD
+စိတ်ပျက်တာတွေအားလုံး လောင်စေပြီ
+မတတ်နိုင်တာတွေအားလုံး လောင်စေပြီ
+မသန့်ရှင်းမှုတွေအားလုံး လောင်စေပြီ

@@ -1,18 +1,17 @@
 ---
-title: b,frQBuD;jrwfwamfrlonf usl;
-font: win
+title: ဘယ်မျှကြီးမြတ်တော်မူသည် ကျူး
 ---
-tkdzbk&m; pdwfvIyf&Sm;thHzG,f&mrsm;
-urÇmqufquf vufawmfjzifhzefqif;onf
-aumif;uifMu,fESifh xpfcsLef;aomrkd;BudK;oHvnf;
-wefckd;awmf\ oufaorsm;jzpfMu\
+အိုဖဘုရား စိတ်လှုပ်ရှားအံ့ဖွယ်ရာများ
+ကမ္ဘာဆက်ဆက် လက်တော်ဖြင့်ဖန်ဆင်းသည်
+ကောင်းကင်ကြယ်နှင့် ထစ်ချူန်းသောမိုးကြိုးသံလည်း
+တန်ခိုးတော်၏ သက်သေများဖြစ်ကြ၏
 
-tkd..igh0dnmOf u,fwif&Siftm;csD;rGrf;
-b,frQBuD;jrwf b,frQjrwfonf
-tkd..igh0dnmOf u,fwif&Siftm;csD;rGrf;
-BuD;jrwfawmfrl BuD;jrwfrlonf
+အို..ငါ့ဝိညာဉ် ကယ်တင်ရှင်အားချီးမွမ်း
+ဘယ်မျှကြီးမြတ် ဘယ်မျှမြတ်သည်
+အို..ငါ့ဝိညာဉ် ကယ်တင်ရှင်အားချီးမွမ်း
+ကြီးမြတ်တော်မူ ကြီးမြတ်မူသည်
 
-awmawmifrsm;wGif vSnfhvnfjzwfoGm;MupOfcg
-iSufrsm;aysmfarGY csDD;rGrf;oDqkdoHMum;
-awmifxdyfay:u om,m½Icif;MunfhpOfcg
-a&pD;acsmif;ESifh avajywkdufcwfvmonf
+တောတောင်များတွင် လှည့်လည်ဖြတ်သွားကြစဉ်ခါ
+ငှက်များပျော်မွေ့ ချီးမွမ်းသီဆိုသံကြား
+တောင်ထိပ်ပေ:က သာယာရှုခင်းကြည့်စဉ်ခါ
+ရေစီးချောင်းနှင့် လေပြေတိုက်ခတ်လာသည်

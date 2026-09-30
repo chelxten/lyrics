@@ -1,21 +1,20 @@
 ---
-title: jrefrmjynftwGufc&pfawmfjzpf&r,f
-font: win
+title: မြန်မာပြည်အတွက်ခရစ်တော်ဖြစ်ရမယ်
 ---
-jrefrmjynftwGufc&pfawmfjzpf&r,f
-jrefrmjynfom;wdkif;c&pfawmfudkod&r,f
+မြန်မာပြည်အတွက်ခရစ်တော်ဖြစ်ရမယ်
+မြန်မာပြည်သားတိုင်းခရစ်တော်ကိုသိရမယ်
 
-,kHMunfcsufqkH;jzwfcsufcs&if;aqmif&Gufr,f
-wdkYvufawGnDnGwfpGm½Sdaer,f
+ယုံကြည်ချက်ဆုံးဖြတ်ချက်ချရင်းဆောင်ရွက်မယ်
+တို့လက်တွေညီညွတ်စွာရှိနေမယ်
 
-omoemtwGuftoifh½Sdxm;&r,f
-omoemc&D;twGufwdkYwawGqufuyfr,f
+သာသနာအတွက်အသင့်ရှိထားရမယ်
+သာသနာခရီးအတွက်တို့တတွေဆက်ကပ်မယ်
 
-udk,fawmfbk&m;ay;tyfwJh0wå&m;auszdkYuG,f
-wdkYpdwfawGcdkifNrJpGm½Sdaer,f
+ကိုယ်တော်ဘုရားပေးအပ်တဲ့ဝတ္တရားကျေဖို့ကွယ်
+တို့စိတ်တွေခိုင်မြဲစွာရှိနေမယ်
 
-vlawGarQmfvifhapmifhpm;aecsdef
-ocifh&JUcspfjcif;u,fwifjcif;awGudk
-Mum;&vfdkY&ifrSmxm0&wG,fn§doGm;atmif
-BudK;pm;r,fomoemc&D;rSm^
-qufuyfr,fomoemc&D;rSm
+လူတွေမျှော်လင့်စောင့်စားနေချိန်
+သခင့်ရဲ့ချစ်ခြင်းကယ်တင်ခြင်းတွေကို
+ကြားရလို့်ရင်မှာထာဝရတွယ်ညှိသွားအောင်
+ကြိုးစားမယ်သာသနာခရီးမှာ 
+ဆက်ကပ်မယ်သာသနာခရီးမှာ

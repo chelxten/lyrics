@@ -1,24 +1,23 @@
 ---
-title: xm0&arwåm
-font: win
+title: ထာဝရမေတ္တာ
 ---
-'DurÇmajr ukefqkH;vJukd,fawmfonf tpOfrajymif;vJ
-cspfjcif;eJY wnfaeopöm tEIdif;rJh ocifom tkyfpkd;aom &Sifbk&if xm0& ..
+ဒီကမ္ဘာမြေ ကုန်ဆုံးလဲကိုယ်တော်သည် အစဉ်မပြောင်းလဲ
+ချစ်ခြင်းနဲ့ တည်နေသစ္စာ အနှိုင်းမဲ့ သခင်သာ အုပ်စိုးသော ရှင်ဘုရင် ထာဝရ ..
 
-ocif wyg;wnf;om 0dnmOfxJ ESvkH;om;rSm ukd,fawmfyJ
-uREkfyfb0rSm tvkdtyfqkH;aomol a,½I
+သခင် တပါးတည်းသာ ဝိညာဉ်ထဲ နှလုံးသားမှာ ကိုယ်တော်ပဲ
+ကျွန်ုပ်ဘဝမှာ အလိုအပ်ဆုံးသောသူ ယေရှု
 
-raeY,aeY aemifumvxJ rajymif;vJyg xm0&tNrJ
-rpu,fwif&mausmufaqmif uREkfyf\ ukd;uG,f&m
-(a,½ItEIdif;rJhaom xm0&arwåm)
+မနေ့ယနေ့ နောင်ကာလထဲ မပြောင်းလဲပါ ထာဝရအမြဲ
+မစကယ်တင်ရာကျောက်ဆောင် ကျွန်ုပ်၏ ကိုးကွယ်ရာ
+(ယေရှုအနှိုင်းမဲ့သော ထာဝရမေတ္တာ)
 
-raMuEkdifatmif tjypfrsm;vJ ukd,fawmf&Sif&JU taoG;eJY
-ocifaq;cJh jzLapcJhNyD tEIdif;rJh tpOfwnfNrJ ocifh&JUcspfjcif; xm0&
+မကြေနိုင်အောင် အပြစ်များလဲ ကိုယ်တော်ရှင်ရဲ့ အသွေးနဲ့
+သခင်ဆေးခဲ့ ဖြူစေခဲ့ပြီ အနှိုင်းမဲ့ အစဉ်တည်မြဲ သခင့်ရဲ့ချစ်ခြင်း ထာဝရ
 
-uREkfyf0dnmOfwrf;wjcif; ESvkH;twGif;rS pD;&moDcsif; uREkfyf0dnmOfcspf&m
-wqlwnf;ocif
+ကျွန်ုပ်ဝိညာဉ်တမ်းတခြင်း နှလုံးအတွင်းမှ စီးရာသီချင်း ကျွန်ုပ်ဝိညာဉ်ချစ်ရာ
+တဆူတည်းသခင်
 
-ocifhtcspfom uREkfyfukdqGJ
-ocifha&SUawmfa&mufapcJh ESvkH;om;ukd pkd;pHykdifaom ocif
+သခင့်အချစ်သာ ကျွန်ုပ်ကိုဆွဲ
+သခင့်ရှေ့တော်ရောက်စေခဲ့ နှလုံးသားကို စိုးစံပိုင်သော သခင်
 
-(tEIdif;rJhaom xm0&)2
+(အနှိုင်းမဲ့သော ထာဝရ)၂

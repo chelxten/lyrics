@@ -1,25 +1,24 @@
 ---
-title: rsufarSmufawmfwefcdk;
-font: win
+title: မျက်မှောက်တော်တန်ခိုး
 ---
-t&Sdudkt&Sdwdkif; tjzpfudktjzpfwdkif;
-ocif&JUrsufarSmufwdk;0ifcsdefwdkif;
-uGREkfyfuG,faysmufum
-ocifh&JUrsufESmxGef;vif;awmufyaewm
+အရှိကိုအရှိတိုင်း အဖြစ်ကိုအဖြစ်တိုင်း
+သခင်ရဲ့မျက်မှောက်တိုးဝင်ချိန်တိုင်း
+ကျွန်ုပ်ကွယ်ပျောက်ကာ
+သခင့်ရဲ့မျက်နှာထွန်းလင်းတောက်ပနေတာ
 
-ocif&JUrsufawåmjym;&nfcsdKvdk
-aus;Zl;awmf*½kPmaeY&ufpOfwdkif;
-tpOftNrJtopfjzpfum
-0rf;ajrmufvdkYvm &Sifoefjcif;wdkif;rSm
-t"dyÜg,f&Sdvm
+သခင်ရဲ့မျက်တ္တောပြားရည်ချိုလို
+ကျေးဇူးတော်ဂရုဏာနေ့ရက်စဉ်တိုင်း
+အစဉ်အမြဲအသစ်ဖြစ်ကာ
+ဝမ်းမြောက်လို့လာ ရှင်သန်ခြင်းတိုင်းမှာ
+အဓိပ္ပါယ်ရှိလာ
 
-xif&Sm;aom rsufarSmufawmfxJrSm
-rjzpfEdkifaomt&m vHk;0r&Sdyg
-udk,fawmfwdkYxdrlyg pum;ajymrlyg
-uREkfyftm;
+ထင်ရှားသော မျက်မှောက်တော်ထဲမှာ
+မဖြစ်နိုင်သောအရာ လုံးဝမရှိပါ
+ကိုယ်တော်တို့ထိမူပါ စကားပြောမူပါ
+ကျွန်ုပ်အား
 
-euf½Idif;qHk;aom
-ocifhrsufarSmufawmfxJrSm
-tEkwfvu©PmawGvHk;0r&Sdyg
-obm0xufvGefaom tHhzG,f&mrsm;
-wefcdk;ESifhjzpfwnfae
+နက်ရှိုင်းဆုံးသော
+သခင့်မျက်မှောက်တော်ထဲမှာ
+အနုတ်လက္ခဏာတွေလုံးဝမရှိပါ
+သဘာဝထက်လွန်သော အံ့ဖွယ်ရာများ
+တန်ခိုးနှင့်ဖြစ်တည်နေ

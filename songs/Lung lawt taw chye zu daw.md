@@ -1,17 +1,16 @@
 ---
-title: vHkavmufaomaus;Zl;awmf
-font: win
+title: လုံလောက်သောကျေးဇူးတော်
 ---
-ukd,fawmf&JU aus;Zl;awmf rpkHvifaom om;orD;twGuf vkHavmufw,f rukefcrf;oGm;bl;uG,f
+ကိုယ်တော်ရဲ့ ကျေးဇူးတော် မစုံလင်သော သားသမီးအတွက် လုံလောက်တယ် မကုန်ခမ်းသွားဘူးကွယ်
 
-b,fawmhrSrajymif;vJyg eHeufwkdif; olY*½kPm cHpm;ap wkEIdif;rJharwåm&Sif
+ဘယ်တော့မှမပြောင်းလဲပါ နံနက်တိုင်း သူ့ဂရုဏာ ခံစားစေ တုနှိုင်းမဲ့မေတ္တာရှင်
 
-cufcJcsdefwkdif; uREkfyftem;tNrJa&mufvm ulnDum vrf;jyykdYaqmifw,f
+ခက်ခဲချိန်တိုင်း ကျွန်ုပ်အနားအမြဲရောက်လာ ကူညီကာ လမ်းပြပို့ဆောင်တယ်
 
-0rf;enf;csdefwkdif; uREkfyftem;tNrJ&Sdol ukd,fawmfom uREkfyf&JU tazmfrGefyg
+ဝမ်းနည်းချိန်တိုင်း ကျွန်ုပ်အနားအမြဲရှိသူ ကိုယ်တော်သာ ကျွန်ုပ်ရဲ့ အဖော်မွန်ပါ
 
-uREkfyf&JUtem*wf ukd,fawmf&JUvuf0,f ,kHMunfpGm vkdufavQmuftouf&Sifr,f
+ကျွန်ုပ်ရဲ့အနာဂတ် ကိုယ်တော်ရဲ့လက်ဝယ် ယုံကြည်စွာ လိုက်လျှောက်အသက်ရှင်မယ်
 
-pGefYypfírxm; tBudrfBudrfjypfrSm;rdvnf; uyfurÇmukefonfhwkdif twl&Sdr,f
+စွန့်ပစ်၍မထား အကြိမ်ကြိမ်ပြစ်မှားမိလည်း ကပ်ကမ္ဘာကုန်သည့်တိုင် အတူရှိမယ်
 
-udk,fawmf&Sif\cspfjcif;arwåm EIwfjzifh>rwfqdkrrSDDEdkif&m a,½IuREkfyftm; cspfonfudk EIwfjzifh>rwfqdkrrDS
+ကိုယ်တော်ရှင်၏ချစ်ခြင်းမေတ္တာ နှုတ်ဖြင့်မြွတ်ဆိုမမှီနိုင်ရာ ယေရှုကျွန်ုပ်အား ချစ်သည်ကို နှုတ်ဖြင့်မြွတ်ဆိုမမှီ

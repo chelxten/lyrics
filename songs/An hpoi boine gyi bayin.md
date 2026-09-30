@@ -1,14 +1,13 @@
 ---
-title: tHhzG,fbkef;BuD;bk&if
-font: win
+title: အံ့ဖွယ်ဘုန်းကြီးဘုရင်
 ---
-uRekfyfcspfwm oltodqkH; uREkfyfodcsif [kdt&ifxuf wkd;íodapyg raeYuxufodapyg
+ကျွန်ုပ်ချစ်တာ သူအသိဆုံး ကျွန်ုပ်သိချင် ဟိုအရင်ထက် တိုး၍သိစေပါ မနေ့ကထက်သိစေပါ
 
-tajymr[kwfyg 'Dtqkdrsm; cPr[kwfyg 'DwoufvkH; qufuyftyfESHNyD ukd,fawmftwGufom touf&Sifrnf
+အပြောမဟုတ်ပါ ဒီအဆိုများ ခဏမဟုတ်ပါ ဒီတသက်လုံး ဆက်ကပ်အပ်နှံပြီ ကိုယ်တော်အတွက်သာ အသက်ရှင်မည်
 
-tHhzG,fbkef;BuD;bk&if qE´wpfckawmif;avQmufcsif
+အံ့ဖွယ်ဘုန်းကြီးဘုရင် ဆန္ဒတစ်ခုတောင်းလျှောက်ချင်
 
-ukd,fawmfESifh tNrJwrf;&Sdcsif
-ukd,fawmfESifh tNrJwrf;aecsif
+ကိုယ်တော်နှင့် အမြဲတမ်းရှိချင်
+ကိုယ်တော်နှင့် အမြဲတမ်းနေချင်
 
-a,½IuRekfyftwGufay;qyf a&G;EIwfol tpOfcsD;rGrf;&if; qufcsD;rGrf;aer,f urÇmtqufqufwkdifatmif
+ယေရှုကျွန်ုပ်အတွက်ပေးဆပ် ရွေးနှုတ်သူ အစဉ်ချီးမွမ်းရင်း ဆက်ချီးမွမ်းနေမယ် ကမ္ဘာအဆက်ဆက်တိုင်အောင်

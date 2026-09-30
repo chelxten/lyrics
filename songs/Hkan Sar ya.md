@@ -1,7 +1,6 @@
 ---
-title: cHpm;&
-font: win
+title: ခံစားရ
 ---
-cHpm;&qkaus;Zl;aumif;BuD;r*Fvm a&wGufvkdY csD;rGrf;umoDqkdrnf toufarG;avmufaom tpm;ukd aeY&ufpOfwkdif; ay;oem;awmfrlaomaMumifh aus;Zl;wifonf
+ခံစားရဆုကျေးဇူးကောင်းကြီးမင်္ဂလာ ရေတွက်လို့ ချီးမွမ်းကာသီဆိုမည် အသက်မွေးလောက်သော အစားကို နေ့ရက်စဉ်တိုင်း ပေးသနားတော်မူသောကြောင့် ကျေးဇူးတင်သည်
 
-om,maom jrpfem;okdY vrf;jycJhNyD pdrf;vef;aom t&yfü tdyfaprlonf zsm;a,mif;aoG;aqmifrItaygif;wkdYrS  vGwfajrmufapNyD aus;Zl;awmfumv\aeY&ufrsm;
+သာယာသော မြစ်နားသို့ လမ်းပြခဲ့ပြီ စိမ်းလန်းသော အရပ်၌ အိပ်စေမူသည် ဖျားယောင်းသွေးဆောင်မှုအပေါင်းတို့မှ  လွတ်မြောက်စေပြီ ကျေးဇူးတော်ကာလ၏နေ့ရက်များ

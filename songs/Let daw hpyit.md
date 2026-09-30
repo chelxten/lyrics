@@ -1,21 +1,20 @@
 ---
-title: vufawmfjzifh
-font: win
+title: လက်တော်ဖြင့်
 ---
-aumif;aomol\ajc&mbk&m;&SifyJJhjyifí
-oloGm;&mvrf;ESpfoufrlonf
+ကောင်းသောသူ၏ခြေရာဘုရားရှင်ပဲ့ပြင်၍
+သူသွားရာလမ်းနှစ်သက်မူသည်
 
-xdkolonfvJaomfvnf;
-qkH;&modkUra&muf&
-bk&m;&Sifapmifhxdef;rlrnf
-vufawmfjzifh
+ထိုသူသည်လဲသော်လည်း
+ဆုံးရာသို့မရောက်ရ
+ဘုရားရှင်စောင့်ထိန်းမူမည်
+လက်တော်ဖြင့်
 
-(vufawmfjzifh [mavvk,m)2
+(လက်တော်ဖြင့် ဟာလေလုယာ)၂
 
-bk&m;&Sifapmifhxdef;rlrnf
-vufawmfjzifh xdkolonf
-vJaomfvnf;qkH;&modkUra&muf&
-bk&m;&Sifapmifhxdef;rlrnf
-vufawmfjzifh
+ဘုရားရှင်စောင့်ထိန်းမူမည်
+လက်တော်ဖြင့် ထိုသူသည်
+လဲသော်လည်းဆုံးရာသို့မရောက်ရ
+ဘုရားရှင်စောင့်ထိန်းမူမည်
+လက်တော်ဖြင့်
 
-(vufawmfjzifh [mavvk,m)2
+(လက်တော်ဖြင့် ဟာလေလုယာ)၂

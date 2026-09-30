@@ -1,12 +1,11 @@
 ---
-title: udk,fawmfaus;Zl;csD;rGrf;rukef
-font: win
+title: ကိုယ်တော်ကျေးဇူးချီးမွမ်းမကုန်
 ---
-rukefEkdifaom udk,fawmf\cspfjcif;arwÅm
-rcrf;Ekdifaom oem;jcif;u½kPmawmf
+မကုန်နိုင်သော ကိုယ်တော်၏ချစ်ခြင်းမေတ္တာ
+မခမ်းနိုင်သော သနားခြင်းကရုဏာတော်
 
-eHeufwdkif; u½kPmawmf
-topfcHpm;&onf
+နံနက်တိုင်း ကရုဏာတော်
+အသစ်ခံစားရသည်
 
-opömawmfBuD;jrwfawmfrl\
-opömawmfBuD;jrwf\
+သစ္စာတော်ကြီးမြတ်တော်မူ၏
+သစ္စာတော်ကြီးမြတ်၏

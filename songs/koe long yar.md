@@ -1,23 +1,22 @@
 ---
-title: cdkvSHK&m
-font: win
+title: ခိုလှုံရာ
 ---
-udk,fawmfbk&m;aumif;jrwfaMumif;udk
-pOfpm;&if rukefEkdifbl;uREkfyf&JUtoufwmxJ
-tcsdefawGwdkif; uREkfyf&JUtem;rSm&SdwJhol
-rjrifEdkifvnf; teD;tem;av;rSmbJ 'DvdkocifhtcspfrsKd; b,fem;vdkufvdkU&SmrvJ
-ti,fqkH;udkvnf; b,fawmhrypfy,fcJh
+ကိုယ်တော်ဘုရားကောင်းမြတ်ကြောင်းကို
+စဉ်စားရင် မကုန်နိုင်ဘူးကျွန်ုပ်ရဲ့အသက်တာထဲ
+အချိန်တွေတိုင်း ကျွန်ုပ်ရဲ့အနားမှာရှိတဲ့သူ
+မမြင်နိုင်လည်း အနီးအနားလေးမှာဘဲ ဒီလိုသခင့်အချစ်မျိုး ဘယ်နားလိုက်လို့ရှာမလဲ
+အငယ်ဆုံးကိုလည်း ဘယ်တော့မပစ်ပယ်ခဲ့
 
-,kHMunfpGm udk;pm;oltwGuf udk,fawmf&Sif
-toifh&SdaeNrJ ra&&mtm;i,faomoltwGuf
-ausmufaqmif a,½I cdkvIhHumqufuyf
-oltwGufBudKqdkum vufurf;vdkYaeqJ
-aocsmwJh tem*wfudk ay;pGrf;EdkifwJhol
-cdkvIH&ma,½I
+ယုံကြည်စွာ ကိုးစားသူအတွက် ကိုယ်တော်ရှင်
+အသင့်ရှိနေမြဲ မရေရာအားငယ်သောသူအတွက်
+ကျောက်ဆောင် ယေရှု ခိုလှုံ့ကာဆက်ကပ်
+သူအတွက်ကြိုဆိုကာ လက်ကမ်းလို့နေဆဲ
+သေချာတဲ့ အနာဂတ်ကို ပေးစွမ်းနိုင်တဲ့သူ
+ခိုလှုံရာယေရှု
 
-udk,fawmfbk&m; jyKwJhtrIawG
-pOfpm;&if; rrSDEdkifbl; vl&JUtodÓPfeJU
-'Dvdkb0usOf;tusyfxJrSm cJ,Of;vnf;
-tcsdefrSDbJ tNrJavmufiapcJh
-'DvdkocihfcspfrsKd;b,fem;vdkufvdkU&SmrvJ
-ti,fqkH;udkvnf; v,fawmhrS rypfy,fcJh
+ကိုယ်တော်ဘုရား ပြုတဲ့အမှုတွေ
+စဉ်စားရင်း မမှီနိုင်ဘူး လူရဲ့အသိဉာဏ်နဲ့
+ဒီလိုဘဝကျဉ်းအကျပ်ထဲမှာ ခဲယဉ်းလည်း
+အချိန်မှီဘဲ အမြဲလောက်ငစေခဲ့
+ဒီလိုသခင့်ချစ်မျိုးဘယ်နားလိုက်လို့ရှာမလဲ
+အငယ်ဆုံးကိုလည်း လယ်တော့မှ မပစ်ပယ်ခဲ့

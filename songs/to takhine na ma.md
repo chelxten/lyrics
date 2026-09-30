@@ -1,23 +1,22 @@
 ---
-title: xdkocifemr
-font: win
+title: ထိုသခင်နာမ
 ---
-a,½Ic&pfawmfemr t&mcyfodrf;wwfEdkifw,f
-a,½Ic&pfawmfemr t&mcyfodrf;wwfpGrf;w,f
+ယေရှုခရစ်တော်နာမ အရာခပ်သိမ်းတတ်နိုင်တယ်
+ယေရှုခရစ်တော်နာမ အရာခပ်သိမ်းတတ်စွမ်းတယ်
 
-aumif;uifatmufajrBuD; xdkemruJhodkYr&Sd
-xkdocifemr BuD;jrwfonf
+ကောင်းကင်အောက်မြေကြီး ထိုနာမကဲ့သို့မရှိ
+ထိုသခင်နာမ ကြီးမြတ်သည်
 
-emrusef;aomolrsm; xdkocifaMumifhusef;rmNyD
-arQmfvifhcsufrJholrsm; xdkocifom arQmfvifhjcif;
+နာမကျန်းသောသူများ ထိုသခင်ကြောင့်ကျန်းမာပြီ
+မျှော်လင့်ချက်မဲ့သူများ ထိုသခင်သာ မျှော်လင့်ခြင်း
 
-0rf;enf;olrsm; wzefjyefNyD;0rf;ajrmufjcif;
-xdkocifom t&mtm;vkH;wwfpGrf;Ekdifw,f
+ဝမ်းနည်းသူများ တဖန်ပြန်ပြီးဝမ်းမြောက်ခြင်း
+ထိုသခင်သာ အရာအားလုံးတတ်စွမ်းနိုင်တယ်
 
-xdkocifemr u,fwif&mtjcm;r&Sd
-xdkocifemr t&m&mwwfpGrf;onf
+ထိုသခင်နာမ ကယ်တင်ရာအခြားမရှိ
+ထိုသခင်နာမ အရာရာတတ်စွမ်းသည်
 
-0efcH&Sdcdk; xdkociftm; csD;rGrf;>rufqdk
-xdkocifemrwyg; tjcm;r&Sd
+ဝန်ခံရှိခိုး ထိုသခင်အား ချီးမွမ်းမြွက်ဆို
+ထိုသခင်နာမတပါး အခြားမရှိ
 
-(jrwfemr csKdomvS ajrESifhaumif;uif&TifjrL&m)2
+(မြတ်နာမ ချိုသာလှ မြေနှင့်ကောင်းကင်ရွှင်မြူရာ)၂

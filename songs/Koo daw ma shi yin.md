@@ -1,16 +1,15 @@
 ---
-title: udk,fawmfr&Sd&if
-font: win
+title: ကိုယ်တော်မရှိရင်
 ---
-ajym&r,fhpum; &Sd&r,fhae&m
-0dnmOfawmfukd,fawmf
-oGefoifay;rlyg
+ပြောရမယ့်စကား ရှိရမယ့်နေရာ
+ဝိညာဉ်တော်ကိုယ်တော်
+သွန်သင်ပေးမူပါ
 
-vkyf&r,fht&m oGm;&r,fhae&m 0dnmOfawmfukd,fawmf
-oGefoifay;rlyg
+လုပ်ရမယ့်အရာ သွားရမယ့်နေရာ ဝိညာဉ်တော်ကိုယ်တော်
+သွန်သင်ပေးမူပါ
 
-ukd,fawmf&Sdaomae&m uREkfyf&JUae&m ukd,fawmf&SifoGm;wJhae&m uREkfyfoGm;rnf
+ကိုယ်တော်ရှိသောနေရာ ကျွန်ုပ်ရဲ့နေရာ ကိုယ်တော်ရှင်သွားတဲ့နေရာ ကျွန်ုပ်သွားမည်
 
-uREkfyfb0rSm ukd,fawmfr&Sd&if a&SUqufvkdYr&Ekdifyg aeY&ufwkdif;rSm
+ကျွန်ုပ်ဘဝမှာ ကိုယ်တော်မရှိရင် ရှေ့ဆက်လို့မရနိုင်ပါ နေ့ရက်တိုင်းမှာ
 
-uRekfyfb0[m ukd,fawmfaMumifhom touf&Sifolyg xm0&ukd;uG,f&if;eJY uREkfyftouf&Sifr,f
+ကျွန်ုပ်ဘဝဟာ ကိုယ်တော်ကြောင့်သာ အသက်ရှင်သူပါ ထာဝရကိုးကွယ်ရင်းနဲ့ ကျွန်ုပ်အသက်ရှင်မယ်

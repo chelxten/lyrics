@@ -1,17 +1,16 @@
 ---
 title: အခမဲ့
-font: win
 ---
-&mawGwdkif;rSm vlwdkif; a0'em&JUrsuf&nfawG tvG,fawGudkk&SmazG&if; tjypfEGHUrSm epfrGef;vm ½kef;xGufr&awmhwJhtcsdefrSm tjypfrSu,frJhol tarSmifudk vGefajrmufcsifNyD b,folay;rSmvJ...
+ရာတွေတိုင်းမှာ လူတိုင်း ဝေဒနာရဲ့မျက်ရည်တွေ အလွယ်တွေကိုရှာဖွေရင်း အပြစ်နွံ့မှာ နစ်မွန်းလာ ရုန်းထွက်မရတော့တဲ့အချိန်မှာ အပြစ်မှကယ်မဲ့သူ အမှောင်ကို လွန်မြောက်ချင်ပြီ ဘယ်သူပေးမှာလဲ...
 
-tcrJhaycJhw,f wefzdk;awmhxm;oifhw,f jyefvnfayq,fvdkY r&EdkifwJht&m vlawGudk taoG;eJYa&G;cJhw,f udk,fawmfay;wJh oufprf;a& 'gawGudkjyefawG; jyifqifoifhNyDav ^qufuyf^aeYwdkif;
+အခမဲ့ပေခဲ့တယ် တန်ဖိုးတော့ထားသင့်တယ် ပြန်လည်ပေဆယ်လို့ မရနိုင်တဲ့အရာ လူတွေကို အသွေးနဲ့ရွေးခဲ့တယ် ကိုယ်တော်ပေးတဲ့ သက်စမ်းရေ ဒါတွေကိုပြန်တွေး ပြင်ဆင်သင့်ပြီလေ  ဆက်ကပ် နေ့တိုင်း
 
-tajctaeay;ovdkaecJh&if; ae0ifcsdefeJYeD;vm tjriftm&kHawG a00g; pGef;xif;vmESifhoD;pGm
+အခြေအနေပေးသလိုနေခဲ့ရင်း နေဝင်ချိန်နဲ့နီးလာ အမြင်အာရုံတွေ ဝေဝါး စွန်းထင်းလာနှင့်သီးစွာ
 
-cg;oD;jcif;eJYaemufrSm pGwfwkd;xGufcsifpdwfawG tcsdefawG vGef;oGm;csdefrSm tylawGxJrSmyJ
+ခါးသီးခြင်းနဲ့နောက်မှာ စွတ်တိုးထွက်ချင်စိတ်တွေ အချိန်တွေ လွန်းသွားချိန်မှာ အပူတွေထဲမှာပဲ
 
-cspfjcif;ESifh cGifhvTwfjcif;ukd tcrJhay;aeNyD todrJharhavsmhxm;jcif; jyefNyD; awG;oifhNyDzkdY
+ချစ်ခြင်းနှင့် ခွင့်လွှတ်ခြင်းကို အခမဲ့ပေးနေပြီ အသိမဲ့မေ့လျော့ထားခြင်း ပြန်ပြီး တွေးသင့်ပြီဖို့
 
-tcsdefawGwkdif;rSm vlwkdif; tojymaemufvkdufaea&m cE¨mxufjrwfwJh 'DtoufvGJrSm;pGm okH;av&m
+အချိန်တွေတိုင်းမှာ လူတိုင်း အသပြာနောက်လိုက်နေရော ခန္ဓာထက်မြတ်တဲ့ ဒီအသက်လွဲမှားစွာ သုံးလေရာ
 
-avmuBuD;&JUpnf;pdrf touf&JUvJrSmvm; tajzukd wGufrSm;aeNyD vlawG&JU tBuHtpnfvGJaejcif;
+လောကကြီးရဲ့စည်းစိမ် အသက်ရဲ့လဲမှာလား အဖြေကို တွက်မှားနေပြီ လူတွေရဲ့ အကြံအစည်လွဲနေခြင်း

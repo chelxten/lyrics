@@ -1,16 +1,15 @@
 ---
-title: bkef;ujD;aomt&Sif
-font: win
+title: ဘုန်းကြီးသောအရှင်
 ---
-bkef;wefcdk;awmfESifh vGTrf;NcKHay;
-uRekfyf&JU 0dnmOftm;vGwfajrmufapcJh
+ဘုန်းတန်ခိုးတော်နှင့် လွှမ်းခြုံပေး
+ကျွန်ုပ်ရဲ့ ဝိညာဉ်အားလွတ်မြောက်စေခဲ့
 
-bkef;BuD;t&Siftm; udk;uG,fMu
-ol&JUbkef;awmftm; tpOfcsD;rGrf;
+ဘုန်းကြီးအရှင်အား ကိုးကွယ်ကြ
+သူရဲ့ဘုန်းတော်အား အစဉ်ချီးမွမ်း
 
-bkef;BuD;&SiftvkH;pkH cHxdkufaom
-bk&m;jrwfocif oljyKaomtrIrsm;twGuf
+ဘုန်းကြီးရှင်အလုံးစုံ ခံထိုက်သော
+ဘုရားမြတ်သခင် သူပြုသောအမှုများအတွက်
 
-cufcJcsdefwdkif;rSm uREkfyftem;tNrJ&Sdae
-a&Tvufawmf uREkfyftm;
-tpOfapmifhxdef;rlNyD
+ခက်ခဲချိန်တိုင်းမှာ ကျွန်ုပ်အနားအမြဲရှိနေ
+ရွှေလက်တော် ကျွန်ုပ်အား
+အစဉ်စောင့်ထိန်းမူပြီ

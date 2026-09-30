@@ -1,27 +1,26 @@
 ---
-title: ukd,fawmfeJhtwl
-font: win
+title: ကိုယ်တော်နဲ့အတူ
 ---
-t&m&mrSmpkHvifwmrsufarSmufawmfbJ
-&ifcGifrSmudk,fawmfudkawmifhw
+အရာရာမှာစုံလင်တာမျက်မှောက်တော်ဘဲ
+ရင်ခွင်မှာကိုယ်တော်ကိုတောင့်တ
 
-ajcmufaoGYuREfkyfb0wpfckvkH;
-udk,fawmf&JUrsufarSmufawmftxJ
-ac:aqmifyg
+ခြောက်သွေ့ကျွန်ုပ်ဘဝတစ်ခုလုံး
+ကိုယ်တော်ရဲ့မျက်မှောက်တော်အထဲ
+ခေ:ဆောင်ပါ
 
-jrifcsifw,fudk,fawmf&JUrsufESmawmf
-ESvkH;om;uawmifhwvdkY[pfatmf
+မြင်ချင်တယ်ကိုယ်တော်ရဲ့မျက်နှာတော်
+နှလုံးသားကတောင့်တလို့ဟစ်အော်
 
-udk,fawmf&JUrsufarSmufawmftxJ
-udk,fawmf&JUrsufarSmufawmftxJ
-aecsifqkH;yg
+ကိုယ်တော်ရဲ့မျက်မှောက်တော်အထဲ
+ကိုယ်တော်ရဲ့မျက်မှောက်တော်အထဲ
+နေချင်ဆုံးပါ
 
-udk,fawmf&JUrsufarSmufawmftxJrSm
-taecsifqkH; t½SdcsifqkH;yg
-udk,fawmf&JUtoHawmf
-tMum;csifqkH;yg
+ကိုယ်တော်ရဲ့မျက်မှောက်တော်အထဲမှာ
+အနေချင်ဆုံး အရှိချင်ဆုံးပါ
+ကိုယ်တော်ရဲ့အသံတော်
+အကြားချင်ဆုံးပါ
 
-udk,fawmf&JUrsufarSmufawmftxJrSm
-t&mcyfodrf;uREfkyfb0wGufjynfhpkH
-udk,fawmfeJYtwlwl½Sdaejcif;u
-uREfkyf\vdktif
+ကိုယ်တော်ရဲ့မျက်မှောက်တော်အထဲမှာ
+အရာခပ်သိမ်းကျွန်ုပ်ဘဝတွက်ပြည့်စုံ
+ကိုယ်တော်နဲ့အတူတူရှိနေခြင်းက
+ကျွန်ုပ်၏လိုအင်

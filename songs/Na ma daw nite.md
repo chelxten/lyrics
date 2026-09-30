@@ -1,24 +1,23 @@
 ---
-title: emrawmfü
-font: win
+title: နာမတော်၌
 ---
-waumif;uifAdkvfajc&Sifbk&m;
-emrawmft&rf;bJBuD;jrwfw,f
+တကောင်းကင်ဗိုလ်ခြေရှင်ဘုရား
+နာမတော်အရမ်းဘဲကြီးမြတ်တယ်
 
-aumif;uifAdkvfajc&Sifbk&m;
-emrawmfwefcdk;eJYjynfh0w,f
+ကောင်းကင်ဗိုလ်ခြေရှင်ဘုရား
+နာမတော်တန်ခိုးနဲ့ပြည့်ဝတယ်
 
-aumif;uifAdkvfajc&Sifbk&m;
-emrawmftNrJwrf;csD;rGrf;r,f
+ကောင်းကင်ဗိုလ်ခြေရှင်ဘုရား
+နာမတော်အမြဲတမ်းချီးမွမ်းမယ်
 
-ydwfqdkYwJhvrf;awG zGifhay;EkdifwJha,½Iemr
-tema&m*gtvkH;pkH aysmufuif;apwJha,½Iemr
+ပိတ်ဆို့တဲ့လမ်းတွေ ဖွင့်ပေးနိုင်တဲ့ယေရှုနာမ
+အနာရောဂါအလုံးစုံ ပျောက်ကင်းစေတဲ့ယေရှုနာမ
 
-tNrJwrf;0efcHr,f
-tNrJwrf;a<u;aMumfr,f emrawmfü
+အမြဲတမ်းဝန်ခံမယ်
+အမြဲတမ်းကြွေးကြော်မယ် နာမတော်၌
 
-igonftjypfvTwfaomol ajzmifhrwfaomol
-vTwfajrmufaomolyg
+ငါသည်အပြစ်လွှတ်သောသူ ဖြောင့်မတ်သောသူ
+လွှတ်မြောက်သောသူပါ
 
-igonfusef;rmaomol
-csrf;omaomol ay;urf;aomolyg
+ငါသည်ကျန်းမာသောသူ
+ချမ်းသာသောသူ ပေးကမ်းသောသူပါ

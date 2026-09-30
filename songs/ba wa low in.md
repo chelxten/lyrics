@@ -1,20 +1,19 @@
 ---
-title: b0vdktif
-font: win
+title: ဘဝလိုအင်
 ---
-qmiwfaeaom uREkfyfESvkH;om;wdkUxdrlyg
-arQmfvifhaeaom uRekfyf0dnmOfa&mifh&Japyg
-udk,fawmfudk uREkfyfBudK;pm;íazG&Sm
-ac:aqmifyg udk,fawmf&JUrsufarSmuf0,f
+ဆာငတ်နေသော ကျွန်ုပ်နှလုံးသားတို့ထိမူပါ
+မျှော်လင့်နေသော ကျွန်ုပ်ဝိညာဉ်ရောင့်ရဲစေပါ
+ကိုယ်တော်ကို ကျွန်ုပ်ကြိုးစား၍ဖွေရှာ
+ခေ:ဆောင်ပါ ကိုယ်တော်ရဲ့မျက်မှောက်ဝယ်
 
-cE¨m?pdwf?0dnmOf udk,fawmfudk
-arQmfvifhvdkYaew,f a&r&SdaoGUajcmufvGifjyifrSm
-cE¨m?pdwf?0dnmOf udk,fawmfudk
-wrf;wvdkUaew,f ukd,fawmfom
-uREkfyfb0&JU vdktifyg
+ခန္ဓာ၊စိတ်၊ဝိညာဉ် ကိုယ်တော်ကို
+မျှော်လင့်လို့နေတယ် ရေမရှိသွေ့ခြောက်လွင်ပြင်မှာ
+ခန္ဓာ၊စိတ်၊ဝိညာဉ် ကိုယ်တော်ကို
+တမ်းတလို့နေတယ် ကိုယ်တော်သာ
+ကျွန်ုပ်ဘဝရဲ့ လိုအင်ပါ
 
-idka<u;aeaom uREkfyfESvkH;om;
-atmufarhrlyg arQmfvifhp&mtcGifh
-uREkfyf0dnmOfawGU&Sdapyg udk,fawmfudk
-uREfkyfBudK;pm;íazG&Sm ac:aqmifyg
-udk,fawmf&JUrsufarSmuf0,f
+ငိုကြွေးနေသော ကျွန်ုပ်နှလုံးသား
+အောက်မေ့မူပါ မျှော်လင့်စရာအခွင့်
+ကျွန်ုပ်ဝိညာဉ်တွေ့ရှိစေပါ ကိုယ်တော်ကို
+ကျွန်ုပ်ကြိုးစား၍ဖွေရှာ ခေ:ဆောင်ပါ
+ကိုယ်တော်ရဲ့မျက်မှောက်ဝယ်

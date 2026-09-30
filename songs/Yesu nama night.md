@@ -1,15 +1,14 @@
 ---
-title: a,&Skemrü
-font: win
+title: ယေရှုနာမ၌
 ---
-(emrwumxuf tBuD;jrwfqkH;emrawmf
-tema&m*gxuf MuD;jrwfaomemrawmf
+(နာမတကာထက် အကြီးမြတ်ဆုံးနာမတော်
+အနာရောဂါထက် ကြီးမြတ်သောနာမတော်
 
-a,&Sk a,&Sk a,&Sk t&m&mcyfwdrf; a,&Sk a,&Sk a,&Sk emrawmfü
-t&mtm;vHk; tm;vHk; tm;vHk;jzpfedkifw,f t&mtm;vHk; tm;vHk; tm;vHk;wwfedkifw,f)
+ယေရှု ယေရှု ယေရှု အရာရာခပ်တိမ်း ယေရှု ယေရှု ယေရှု နာမတော်၌
+အရာအားလုံး အားလုံး အားလုံးဖြစ်နိုင်တယ် အရာအားလုံး အားလုံး အားလုံးတတ်နိုင်တယ်)
 
-(a,&Skemrü uRefkyfwdkhusef;rmjyD a,&Skemrü uRefyfwdkhcsrf;omjyD
+(ယေရှုနာမ၌ ကျွန်ုပ်တို့ကျန်းမာပြီ ယေရှုနာမ၌ ကျွန်ပ်တို့ချမ်းသာပြီ
 
-a,&Skemrü rjzpf edkifaomt&m r&SdjyD a,&Skemrü uRefyfwdkhwwfedkifjyD a,&Skemrü uRefyfwdkhtaMuG;aMujyD a,&Iemrürjzpfedkifaomt&mr&Sd jyD )
+ယေရှုနာမ၌ မဖြစ် နိုင်သောအရာ မရှိပြီ ယေရှုနာမ၌ ကျွန်ပ်တို့တတ်နိုင်ပြီ ယေရှုနာမ၌ ကျွန်ပ်တို့အကြွေးကြေပြီ ယေရှုနာမ၌မဖြစ်နိုင်သောအရာမရှိ ပြီ )
 
-`( Nothing is Impossible with God All things are possible with God)`
+( Nothing is Impossible with God All things are possible with God)

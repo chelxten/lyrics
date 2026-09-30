@@ -1,17 +1,16 @@
 ---
-title: tpOfomtvdktyfqHk;
-font: win
+title: အစဉ်သာအလိုအပ်ဆုံး
 ---
-0dnmOfawmf aeY&ufpOfwkdif;rSm ukd,fawmf&Sif vrf;jyykdYaqmifyg
+ဝိညာဉ်တော် နေ့ရက်စဉ်တိုင်းမှာ ကိုယ်တော်ရှင် လမ်းပြပို့ဆောင်ပါ
 
-uREkfyfESvkH;om;topfvkdykHoGif;um ukd,fawmf&JUvrf;okdY ykdYaqmifyg
+ကျွန်ုပ်နှလုံးသားအသစ်လိုပုံသွင်းကာ ကိုယ်တော်ရဲ့လမ်းသို့ ပို့ဆောင်ပါ
 
-ukd,fawmf&SifESpfoufaom ,Zfvkdtouf&SifEkdifzkdY 0dnmOfawmfbk&m;rprlyg
+ကိုယ်တော်ရှင်နှစ်သက်သော ယဇ်လိုအသက်ရှင်နိုင်ဖို့ ဝိညာဉ်တော်ဘုရားမစမူပါ
 
-0dnmOfawmfbk&m;&JUrpjcif; tpOfomvkdtyfqkH;
+ဝိညာဉ်တော်ဘုရားရဲ့မစခြင်း အစဉ်သာလိုအပ်ဆုံး
 
-0dnmOfawmfbk&m;&JUwkdYxdjcif; tpOfomtvkdtyfqkH; tNrJawmifhwaewm
+ဝိညာဉ်တော်ဘုရားရဲ့တို့ထိခြင်း အစဉ်သာအလိုအပ်ဆုံး အမြဲတောင့်တနေတာ
 
-0dnmOfawmfbk&m;&JU pum;ajymjcif; tpOfomvkdtyfqkH;
+ဝိညာဉ်တော်ဘုရားရဲ့ စကားပြောခြင်း အစဉ်သာလိုအပ်ဆုံး
 
-0dnmOfawmfbk&m;&JU bdodwfjcif; tpOfomtvkdtyfqkH; tNrJawmifhwaewm
+ဝိညာဉ်တော်ဘုရားရဲ့ ဘိသိတ်ခြင်း အစဉ်သာအလိုအပ်ဆုံး အမြဲတောင့်တနေတာ

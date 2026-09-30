@@ -1,23 +1,22 @@
 ---
-title: 0dnmOfwefcdk;
-font: win
+title: ဝိညာဉ်တန်ခိုး
 ---
-0dnmOfrkd;&GmoGef;apNyD 0dnmOfwefckd;wufa&mufapNyD
+ဝိညာဉ်မိုးရွာသွန်းစေပြီ ဝိညာဉ်တန်ခိုးတက်ရောက်စေပြီ
 
-rjzpfEkdifawmhwJht&mrsm; 0dnmOfawmfaMumifh jzpfapNyD
+မဖြစ်နိုင်တော့တဲ့အရာများ ဝိညာဉ်တော်ကြောင့် ဖြစ်စေပြီ
 
-0dnmOfrD;avmifuRrf;apNyD 0dnmOfawmfapvTwfrlNyD
+ဝိညာဉ်မီးလောင်ကျွမ်းစေပြီ ဝိညာဉ်တော်စေလွှတ်မူပြီ
 
-0dnmOfwefckd;eJYjznhfum ukd,fawmf&Siftm; csD;rGrf;csdef
+ဝိညာဉ်တန်ခိုးနဲ့ဖြည့်ကာ ကိုယ်တော်ရှင်အား ချီးမွမ်းချိန်
 
-csnfaESmifjcif;wefckd;rsm; ylyefjcif;0efxkwfrsm;
+ချည်နှောင်ခြင်းတန်ခိုးများ ပူပန်ခြင်းဝန်ထုတ်များ
 
-&SufaMumufjcif;?½IH;ESdrfhjcif; tm;vkH; NydKysufNyD
+ရှက်ကြောက်ခြင်း၊ရှုံးနှိမ့်ခြင်း အားလုံး ပြိုပျက်ပြီ
 
-Ekd;xrIjrpf pD;qif;vmNyD ajymif;vJrIrsm; a&muf&SdvmNyD
+နိုးထမှုမြစ် စီးဆင်းလာပြီ ပြောင်းလဲမှုများ ရောက်ရှိလာပြီ
 
-zlvkHaygrsm;jcif; <u,f0jcif; 0rf;ajrmufjcif;rsm;
+ဖူလုံပေါများခြင်း ကြွယ်ဝခြင်း ဝမ်းမြောက်ခြင်းများ
 
-Ekd;xrIjrpf pD;qif;vmNyD 0dnmOfawmfwefckd; oufa&mufapNyD
+နိုးထမှုမြစ် စီးဆင်းလာပြီ ဝိညာဉ်တော်တန်ခိုး သက်ရောက်စေပြီ
 
-Nidrfouf0rf;ajrmufjcif;ESifhtwl atmifjrifjcif;rsm; &&SdapNyD
+ငြိမ်သက်ဝမ်းမြောက်ခြင်းနှင့်အတူ အောင်မြင်ခြင်းများ ရရှိစေပြီ

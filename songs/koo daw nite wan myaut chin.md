@@ -1,27 +1,26 @@
 ---
-title: udk,fawmfü0rf;ajrmufjcif;
-font: win
+title: ကိုယ်တော်၌ဝမ်းမြောက်ခြင်း
 ---
-(udk,fawmfü0rf;ajrmufjcif;onf
-cGeftm;&aponf)3
-0rf;ajrmufjcif;onfcGeftm;
-&aponf
+(ကိုယ်တော်၌ဝမ်းမြောက်ခြင်းသည်
+ခွန်အားရစေသည်)၃
+ဝမ်းမြောက်ခြင်းသည်ခွန်အား
+ရစေသည်
 
-(oifvnf;0rf;ajrmufvdkvQif
-toHjzihfcsD;rGrf;avmh)3
-0rf;ajrmufjcif;onf
-cGGeftm;&aponf
+(သင်လည်းဝမ်းမြောက်လိုလျှင်
+အသံဖြင့်ချီးမွမ်းလော့)၃
+ဝမ်းမြောက်ခြင်းသည်
+ခွန်အားရစေသည်
 
-([m..... [mavvk,m)3
-0rf;ajrmufjcif;onf
-cGGeftm;&aponf
+(ဟာ..... ဟာလေလုယာ)၃
+ဝမ်းမြောက်ခြင်းသည်
+ခွန်အားရစေသည်
 
-(toufprf;a&ay;aomaMumifh
-a&riwfawmhay)3
-0rf;ajrmufjcif;onf
-cGeftm;&aponf
+(အသက်စမ်းရေပေးသောကြောင့်
+ရေမငတ်တော့ပေ)၃
+ဝမ်းမြောက်ခြင်းသည်
+ခွန်အားရစေသည်
 
-(pdwfnpfp&m'ku©awGUvQif
-aus;Zl;awmfcsD;rGrf;)3
-0rf;ajrmufjcif;onf
-cGeftm;&aponf
+(စိတ်ညစ်စရာဒုက္ခတွေ့လျှင်
+ကျေးဇူးတော်ချီးမွမ်း)၃
+ဝမ်းမြောက်ခြင်းသည်
+ခွန်အားရစေသည်

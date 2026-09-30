@@ -1,19 +1,18 @@
 ---
-title: csD;rGrf;cHxdkufoama,&Sk
-font: win
+title: ချီးမွမ်းခံထိုက်သောယေရှု
 ---
-taumif;jrwfqkH;a,½Ibk&m;om
-tBuD;jrwfqkH;a,½Ibk&m;om
-tjrifhjrwfqkH;a,½Iwyg;wnf;om
+အကောင်းမြတ်ဆုံးယေရှုဘုရားသာ
+အကြီးမြတ်ဆုံးယေရှုဘုရားသာ
+အမြင့်မြတ်ဆုံးယေရှုတပါးတည်းသာ
 
-toefY½Sif;qkH;a,½Ibk&m;om
-wefcdk;tBuD;qkH;a,½Ibk&m;om
-csD;rGrf;jcif;cHxdkkufaomocifyg
+အသန့်ရှင်းဆုံးယေရှုဘုရားသာ
+တန်ခိုးအကြီးဆုံးယေရှုဘုရားသာ
+ချီးမွမ်းခြင်းခံထိုက်သောသခင်ပါ
 
-tedrfhtjrihfawGBuHKvnf;csD;rGrf;r,f
-tqdk;taumif;tajctaexuf
-udk;uG,fr,f
+အနိမ့်အမြင့်တွေကြုံလည်းချီးမွမ်းမယ်
+အဆိုးအကောင်းအခြေအနေထက်
+ကိုးကွယ်မယ်
 
-bkef;BuD;jcif;tm;vkH;eJYjynfhpkH
-wef;cdk;BuD;jcif;tm;vHk;eJYjynfhpkH
-csD;rGrf;jcif;cHxdkufaomocifyg
+ဘုန်းကြီးခြင်းအားလုံးနဲ့ပြည့်စုံ
+တန်းခိုးကြီးခြင်းအားလုံးနဲ့ပြည့်စုံ
+ချီးမွမ်းခြင်းခံထိုက်သောသခင်ပါ

@@ -1,22 +1,21 @@
 ---
-title: ,ma0bk&m;
-font: win
+title: ယာဝေဘုရား
 ---
-tem;em;rSm tpOfomtNrJ&Sdol
-udk,fawmfom uREfkyff\cdkem;&m
-rajymif;vJarwÅmeJU uREkfyftm;
-tNrJcspfaeol ukd,fawmfom
-uREkfyf\,ma0bk&m;
+အနားနားမှာ အစဉ်သာအမြဲရှိသူ
+ကိုယ်တော်သာ ကျွန်ုပ်၏ခိုနားရာ
+မပြောင်းလဲမေတ္တာနဲ့ ကျွန်ုပ်အား
+အမြဲချစ်နေသူ ကိုယ်တော်သာ
+ကျွန်ုပ်၏ယာဝေဘုရား
 
-aeU&ufwdkif;rSm uREkfyftm;tNrJ
-ydkUaqmifol om,maom pdrf;vef;&m
-t&yfodkUaorif;&JU t&dyfxJ uREkfyf
-avQmufoGm;&vnf; uREfkyftm;
-tNrJwrf;uG,fumol
+နေ့ရက်တိုင်းမှာ ကျွန်ုပ်အားအမြဲ
+ပို့ဆောင်သူ သာယာသော စိမ်းလန်းရာ
+အရပ်သို့သေမင်းရဲ့ အရိပ်ထဲ ကျွန်ုပ်
+လျှောက်သွားရလည်း ကျွန်ုပ်အား
+အမြဲတမ်းကွယ်ကာသူ
 
-udk,fawmfom uREfkyfudktkyfpkd;aom
-uREkfyfudktpOfcspfaom wpyg;wnf;aom
-bk&m;ocif,ma0 udk,fawmfom
-tNrJwnf&Sdaom bk&m;opömwnfaombk&m;
-uREkfyf\ udk;uG,f&m uREkfyf\rp&m
-udk,fawmfomvQif uREkfyf\ ,ma0bk&m;
+ကိုယ်တော်သာ ကျွန်ုပ်ကိုအုပ်စိုးသော
+ကျွန်ုပ်ကိုအစဉ်ချစ်သော တစပါးတည်းသော
+ဘုရားသခင်ယာဝေ ကိုယ်တော်သာ
+အမြဲတည်ရှိသော ဘုရားသစ္စာတည်သောဘုရား
+ကျွန်ုပ်၏ ကိုးကွယ်ရာ ကျွန်ုပ်၏မစရာ
+ကိုယ်တော်သာလျှင် ကျွန်ုပ်၏ ယာဝေဘုရား

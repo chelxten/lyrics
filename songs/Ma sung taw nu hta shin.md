@@ -1,28 +1,27 @@
 ---
-title: rqHk;aomedk;xrSK
-font: win
+title: မဆုံးသောနိုးထမှု
 ---
-0dnmOfawmfrD;jzifh<uqif;um
-avmufuRrf; Zmwdoabmrsm;
+ဝိညာဉ်တော်မီးဖြင့်ကြွဆင်းကာ
+လောက်ကျွမ်း ဇာတိသဘောများ
 
-ylyef½IH;ESdrfhjcif;rsm;jymus
-aMumuf½GHUjcif;avmif;uRrf;
+ပူပန်ရှုံးနှိမ့်ခြင်းများပြာကျ
+ကြောက်ရွံ့ခြင်းလောင်းကျွမ်း
 
-0dnmOfawmfrD;ESifh<uqif;umjznfhay;
-0dnmOfwefcdk;rsm; ,kHMunfjcif;
+ဝိညာဉ်တော်မီးနှင့်ကြွဆင်းကာဖြည့်ပေး
+ဝိညာဉ်တန်ခိုးများ ယုံကြည်ခြင်း
 
-bdodufjcif;jznfhay;
-0dnmOfvGwfajr®mufjcif;awGay;
+ဘိသိက်ခြင်းဖြည့်ပေး
+ဝိညာဉ်လွတ်မြောက်ခြင်းတွေပေး
 
-0dnmOfawmf,laqmifvmNyD
-0dnmOfawmfo,faqmifvmNyD
+ဝိညာဉ်တော်ယူဆောင်လာပြီ
+ဝိညာဉ်တော်သယ်ဆောင်လာပြီ
 
-tqkH;r½SdaomEdk;xjcif;a&muf½SdvmNyD
-wpfEdkifiHNyD;wpfEdkifiH a'owckNyD;wck
+အဆုံးမရှိသောနိုးထခြင်းရောက်ရှိလာပြီ
+တစ်နိုင်ငံပြီးတစ်နိုင်ငံ ဒေသတခုပြီးတခု
 
-ul;pufaeNyD t½Sdef[kef;jykifpGmeJY
-vlaoawGxajr®muf
+ကူးစက်နေပြီ အရှိန်ဟုန်းပြုင်စွာနဲ့
+လူသေတွေထမြောက်
 
-roefolawG vrf;avQmuf vlemawGyaysmuf
-0dnmOfawmfwefcdk;eJY edrdwfvu©Pmrsm;jynfhvQHae
-uREfkyfwdkYwdkif;EdkifiH
+မသန်သူတွေ လမ်းလျှောက် လူနာတွေပပျောက်
+ဝိညာဉ်တော်တန်ခိုးနဲ့ နိမိတ်လက္ခဏာများပြည့်လျှံနေ
+ကျွန်ုပ်တို့တိုင်းနိုင်ငံ

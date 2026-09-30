@@ -1,33 +1,32 @@
 ---
-title: ajrjuD;qHk;wdkifatmif
-font: win
+title: မြေကြီးဆုံးတိုင်အောင်
 ---
-oefY½Sif;oltaygif;wdkYa<u;aMumfMupdkY
-yifv,fwpfzuftqkH;xdwdkif
+သန့်ရှင်းသူအပေါင်းတို့ကြွေးကြော်ကြစို့
+ပင်လယ်တစ်ဖက်အဆုံးထိတိုင်
 
-udk,fawmf&JUbkef;awmfajrBuD;wpfjyifvkH;rSm
-tqiftNrJvTrf;rdk;ap
-[mavvk,m
+ကိုယ်တော်ရဲ့ဘုန်းတော်မြေကြီးတစ်ပြင်လုံးမှာ
+အဆင်အမြဲလွှမ်းမိုးစေ
+ဟာလေလုယာ
 
-a,½IemrawmftjrifhqkH;odkYcsD;ajr§muf
-ae0ifrdk;csKyfxdwdkif
+ယေရှုနာမတော်အမြင့်ဆုံးသို့ချီးမြှောက်
+နေဝင်မိုးချုပ်ထိတိုင်
 
-aumif;uifyGifhvsuf udk,fawmfh&JUwefcdk;awmf
-ae&mwdkif;qif;oufae
-[mavvk,m
+ကောင်းကင်ပွင့်လျက် ကိုယ်တော့်ရဲ့တန်ခိုးတော်
+နေရာတိုင်းဆင်းသက်နေ
+ဟာလေလုယာ
 
-cyfodrf;aomrsufESmwdkYrSm
-rsuf&nfokwfay;awmfrlNyD
+ခပ်သိမ်းသောမျက်နှာတို့မှာ
+မျက်ရည်သုတ်ပေးတော်မူပြီ
 
-0efxkwfav;aomoltm;
-udk,fawmf½SifvGwfajr§mufapNyD
+ဝန်ထုတ်လေးသောသူအား
+ကိုယ်တော်ရှင်လွတ်မြှောက်စေပြီ
 
-tm;enf;olcGeftm;ESifhjynfhap
-armyef;olNidrfoufjcif;udkay;
+အားနည်းသူခွန်အားနှင့်ပြည့်စေ
+မောပန်းသူငြိမ်သက်ခြင်းကိုပေး
 
-emusifjcif;xJu csnfaESmifjcif;xJu
-udk,fawmfhudkac:ícsD;rGrf;ap
+နာကျင်ခြင်းထဲက ချည်နှောင်ခြင်းထဲက
+ကိုယ်တော့်ကိုခေ:၍ချီးမွမ်းစေ
 
-cufcJjcif;xJu idka<u;jcif;xJu
-ukd,fawmfhudkatmf[pfcsD;rGrf;ap
-[mavvk,m
+ခက်ခဲခြင်းထဲက ငိုကြွေးခြင်းထဲက
+ကိုယ်တော့်ကိုအော်ဟစ်ချီးမွမ်းစေ
+ဟာလေလုယာ

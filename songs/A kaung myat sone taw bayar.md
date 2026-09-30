@@ -1,25 +1,24 @@
 ---
-title: taumif;jrwfqHk;aombk&m;
-font: win
+title: အကောင်းမြတ်ဆုံးသောဘုရား
 ---
-uREkfyf\cGeftm; uREkfyf\b@m uREkfyf\ukd;pm;&m
-uREkfyf\tvif; uREkfyf\oDcsif; uREkfyf\csD;rGrf;&m
+ကျွန်ုပ်၏ခွန်အား ကျွန်ုပ်၏ဘဏ္ဍာ ကျွန်ုပ်၏ကိုးစားရာ
+ကျွန်ုပ်၏အလင်း ကျွန်ုပ်၏သီချင်း ကျွန်ုပ်၏ချီးမွမ်းရာ
 
-(ukd,fawmfwpfyg;wnf;)2
+(ကိုယ်တော်တစ်ပါးတည်း)၂
 
-cufcJaomtcsdeftcg xGufajrmuf&mwHcg; a,&Iwpfyg;wnf;om
+ခက်ခဲသောအချိန်အခါ ထွက်မြောက်ရာတံခါး ယေရှုတစ်ပါးတည်းသာ
 
-uREkfyfa<u;aMumfjcif; uREkfyfuckefjcif; taMumif;&if; wpfckom
+ကျွန်ုပ်ကြွေးကြော်ခြင်း ကျွန်ုပ်ကခုန်ခြင်း အကြောင်းရင်း တစ်ခုသာ
 
-ukd,fawmfwpfyg;wnf; ukd,fawmfwpfyg;wnf;om
+ကိုယ်တော်တစ်ပါးတည်း ကိုယ်တော်တစ်ပါးတည်းသာ
 
-igydwfaomwHcg;ukd b,folrSrzGifhEkdif
-igzGifhaomwHcg;ukd b,folrSrydwfEkdif
+ငါပိတ်သောတံခါးကို ဘယ်သူမှမဖွင့်နိုင်
+ငါဖွင့်သောတံခါးကို ဘယ်သူမှမပိတ်နိုင်
 
-ukd,fawmf&JUa&SUrSm wm;qD;Ekdifwm wpfckrS wpfckrSr&Sdyg
+ကိုယ်တော်ရဲ့ရှေ့မှာ တားဆီးနိုင်တာ တစ်ခုမှ တစ်ခုမှမရှိပါ
 
-ukd,fawmfom uREkfyfbuf&Sd&if b,ft&mukdrS raMumufyg
+ကိုယ်တော်သာ ကျွန်ုပ်ဘက်ရှိရင် ဘယ်အရာကိုမှ မကြောက်ပါ
 
-ukd,fawmfom uREkfyfbuf&Sd&if &efolukdvnf; raMumufyg
+ကိုယ်တော်သာ ကျွန်ုပ်ဘက်ရှိရင် ရန်သူကိုလည်း မကြောက်ပါ
 
-ukd,fawmfom tem;em;&Sd&if t&m&mtm;vkH;jynfhpkH
+ကိုယ်တော်သာ အနားနားရှိရင် အရာရာအားလုံးပြည့်စုံ

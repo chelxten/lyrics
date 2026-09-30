@@ -1,17 +1,16 @@
 ---
-title: a&wGufcsD;rGrf;
-font: win
+title: ရေတွက်ချီးမွမ်း
 ---
-uREkfyftjypfrsm;udkvnf; ajzvTwfcJh
-tema&m*grsm;udkvnf;ol ay;aysmuf
+ကျွန်ုပ်အပြစ်များကိုလည်း ဖြေလွှတ်ခဲ့
+အနာရောဂါများကိုလည်းသူ ပေးပျောက်
 
-zsufqD;jcif;xJuvnf; u,fwifa&G;EIwf
-aus;Zl;awmf u½kPmeJY olywf&pf
+ဖျက်ဆီးခြင်းထဲကလည်း ကယ်တင်ရွေးနှုတ်
+ကျေးဇူးတော် ကရုဏာနဲ့ သူပတ်ရစ်
 
-uRekfyf&JU0dnmOf udk,fawmfudk csD;rGrf;dukd;uG,f
-uREkfyf&JU0dnmOf *kPfawmfudkcsD;rGrf;
+ကျွန်ုပ်ရဲ့ဝိညာဉ် ကိုယ်တော်ကို ချီးမွမိ်းကိုးကွယ်
+ကျွန်ုပ်ရဲ့ဝိညာဉ် ဂုဏ်တော်ကိုချီးမွမ်း
 
-oefY&Sif;aom emrawmftm; tpOfcsD;rGrf;rnf
-aus;Zl;awmf aygif;udkvnf; a&wGufcsD;rGrf;rnf
+သန့်ရှင်းသော နာမတော်အား အစဉ်ချီးမွမ်းမည်
+ကျေးဇူးတော် ပေါင်းကိုလည်း ရေတွက်ချီးမွမ်းမည်
 
-[mavvk,m
+ဟာလေလုယာ

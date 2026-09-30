@@ -1,11 +1,10 @@
 ---
-title: ukd,fawmf&SifukdyJ tNrJvkdw,f
-font: win
+title: ကိုယ်တော်ရှင်ကိုပဲ အမြဲလိုတယ်
 ---
-uREkfyf&JUESvkH;om;tBuHtpnf qkH;jzwfcsufawGeJY vkyf&yfwkdif;onf ocifh&JUoabmeJYtBuHtpnf tvkdawmfwkdif;jzpfvkdonf
+ကျွန်ုပ်ရဲ့နှလုံးသားအကြံအစည် ဆုံးဖြတ်ချက်တွေနဲ့ လုပ်ရပ်တိုင်းသည် သခင့်ရဲ့သဘောနဲ့အကြံအစည် အလိုတော်တိုင်းဖြစ်လိုသည်
 
-uREkfyf&JUESvkH;om;qE´ ocifh&JUoabmtvkdeJY qefYusifcJh&if nifompGm ajrjrKyfypfvkdufyg uRekfyfqE´
+ကျွန်ုပ်ရဲ့နှလုံးသားဆန္ဒ သခင့်ရဲ့သဘောအလိုနဲ့ ဆန့်ကျင်ခဲ့ရင် ညင်သာစွာ မြေမြုပ်ပစ်လိုက်ပါ ကျွန်ုပ်ဆန္ဒ
 
-(ukd,fawmf&SifukdyJ tNrJvkdw,f)2 &nfrSef;csufawGxuf arQmfrSef;csufawGxuf ukd,fawmfomawmifhwygw,f
+(ကိုယ်တော်ရှင်ကိုပဲ အမြဲလိုတယ်)၂ ရည်မှန်းချက်တွေထက် မျှော်မှန်းချက်တွေထက် ကိုယ်တော်သာတောင့်တပါတယ်
 
-t&m&mawGxuf csD;ajr§mufygr,f ukd,fawmfxm0&bkef;BuD;ygw,f cHpm;csufawGxuf qE´rsm;pGmxuf ukd,fawmftm;csD;ajr§mufukd;uG,fr,f
+အရာရာတွေထက် ချီးမြှောက်ပါမယ် ကိုယ်တော်ထာဝရဘုန်းကြီးပါတယ် ခံစားချက်တွေထက် ဆန္ဒများစွာထက် ကိုယ်တော်အားချီးမြှောက်ကိုးကွယ်မယ်

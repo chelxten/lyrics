@@ -1,24 +1,23 @@
 ---
-title: aumif;jrwfonf
-font: win
+title: ကောင်းမြတ်သည်
 ---
-aus;Zl;arwÅm*½kPm rukefcrf;bJighudk
-cspfwJh a,½Ibk&m;&Sif
+ကျေးဇူးမေတ္တာဂရုဏာ မကုန်ခမ်းဘဲငါ့ကို
+ချစ်တဲ့ ယေရှုဘုရားရှင်
 
-aeYESifhn wnforQtcsdef umvywfvkH;rSm
-aumif;jrwfrlaomt&Sif
+နေ့နှင့်ည တည်သမျှအချိန် ကာလပတ်လုံးမှာ
+ကောင်းမြတ်မူသောအရှင်
 
-tESdrfhtjrifh twuftus tm;vkH;xJ ocifu
-b,fawmhrS pGefYypfvkYdrxm;bll;
+အနှိမ့်အမြင့် အတက်အကျ အားလုံးထဲ သခင်က
+ဘယ်တော့မှ စွန့်ပစ်လို့မထားဘူး
 
-BuD;rm;ol&JU tBuHtpnfawmfawGu
-a&wGuf&if csD;rGrf;vkdYrukefEdkif
+ကြီးမားသူရဲ့ အကြံအစည်တော်တွေက
+ရေတွက်ရင် ချီးမွမ်းလို့မကုန်နိုင်
 
-tNrJwrf; aumif;jrwfonf tajctaewkdif;
-aumif;jrwfonf udk,fawmfh&JY aus;ZleJY*½kPm
+အမြဲတမ်း ကောင်းမြတ်သည် အခြေအနေတိုင်း
+ကောင်းမြတ်သည် ကိုယ်တော့်ရဲ့ ကျေးဇူနဲ့ဂရုဏာ
 
-ywf&pfum aESmifwG,fvdkYxm; tcspfppfawGeJY
-aumif;jrwfonf ae0ifrdk;csKyfonfhwkdif
+ပတ်ရစ်ကာ နှောင်တွယ်လို့ထား အချစ်စစ်တွေနဲ့
+ကောင်းမြတ်သည် နေဝင်မိုးချုပ်သည့်တိုင်
 
-udk,fawmfh&JU aumif;jrwfjcif;taMumif;ukd
-csD;rGrf;um ESvkH;om;xJu 0efcHygrnftNrJ
+ကိုယ်တော့်ရဲ့ ကောင်းမြတ်ခြင်းအကြောင်းကို
+ချီးမွမ်းကာ နှလုံးသားထဲက ဝန်ခံပါမည်အမြဲ

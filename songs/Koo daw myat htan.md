@@ -1,19 +1,18 @@
 ---
-title: udk,fawmfjrwfxH
-font: win
+title: ကိုယ်တော်မြတ်ထံ
 ---
-ukd,fawmfjrwfxH aus;Zl;csD;rGrf;rnf toufpmapmifwGif uREkfyftrnf&SdNyD
+ကိုယ်တော်မြတ်ထံ ကျေးဇူးချီးမွမ်းမည် အသက်စာစောင်တွင် ကျွန်ုပ်အမည်ရှိပြီ
 
-ta&mifrrdSef rysufpD;Ekdifaom vufawmf'Pfcsufjzifh a&;rSwfNyD
+အရောင်မမှိန် မပျက်စီးနိုင်သော လက်တော်ဒဏ်ချက်ဖြင့် ရေးမှတ်ပြီ
 
-ukd,fawmfjrwfxH aus;Zl;csD;rGrf;rnf csD;rGrf;ukd;uG,f ,ZfjzifhylaZmfrnf
+ကိုယ်တော်မြတ်ထံ ကျေးဇူးချီးမွမ်းမည် ချီးမွမ်းကိုးကွယ် ယဇ်ဖြင့်ပူဇော်မည်
 
-aus;Zl;csD;rGrf; ,Zf,laqmifvmonf tjrifhqkH;bk&m; uREkfyf0rf;ajrmuf
+ကျေးဇူးချီးမွမ်း ယဇ်ယူဆောင်လာသည် အမြင့်ဆုံးဘုရား ကျွန်ုပ်ဝမ်းမြောက်
 
-om,mjrpfem; okd;oli,fuJhokdY pm;zkdYaomufzkdY 0wfzkdYaezkdYtdrf
+သာယာမြစ်နား သိုးသူငယ်ကဲ့သို့ စားဖို့သောက်ဖို့ ဝတ်ဖို့နေဖို့အိမ်
 
-aeYpOfokH;zkdY vkdtyfaiGaMu;rsm; axmufyHhay;aom uREkfyfbk&m;
+နေ့စဉ်သုံးဖို့ လိုအပ်ငွေကြေးများ ထောက်ပံ့ပေးသော ကျွန်ုပ်ဘုရား
 
-ukd,fawmfhaus;Zl; uREkffyfcsD;rGrf;rnf tcrJhtouf½IzkdYav jyifqifay;
+ကိုယ်တော့်ကျေးဇူး ကျွန်ုပ်ချီးမွမ်းမည် အခမဲ့အသက်ရှုဖို့လေ ပြင်ဆင်ပေး
 
-aeESifhvMu,f aomufokH;zkdY a&rsm; arwåmoufouf okH;cGifhay;onf
+နေနှင့်လကြယ် သောက်သုံးဖို့ ရေများ မေတ္တာသက်သက် သုံးခွင့်ပေးသည်

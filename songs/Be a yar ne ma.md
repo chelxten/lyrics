@@ -1,22 +1,21 @@
 ---
-title: b,ft&meJhrS
-font: win
+title: ဘယ်အရာနဲ့မှ
 ---
-(tjrJwrf;rajymif;vJwJh arwÅmeJYcspfol
-b,fvkdyifqkd;oGGrf;vkdYaevnf;
+(အမြဲတမ်းမပြောင်းလဲတဲ့ မေတ္တာနဲ့ချစ်သူ
+ဘယ်လိုပင်ဆိုးသွမ်းလို့နေလည်း
 
-xm0pOfjrJJwJh tcspfeJU uGGsekfyfukd cspfwJJhol b,favmufyJ tjypfawGrsm;vGef;ygapuG,f)2
+ထာဝစဉ်မြဲတဲ့ အချစ်နဲ့ ကျွန်ုပ်ကို ချစ်တဲ့သူ ဘယ်လောက်ပဲ အပြစ်တွေများလွန်းပါစေကွယ်)၂
 
-b,ft&meJYrS EIdif;qvkdUYr&ekdifw,f
-b,ft&meJJYrS tpm;xkd;vkdYr&ekdifw,f
+ဘယ်အရာနဲ့မှ နှိုင်းဆလို့မရနိုင်တယ်
+ဘယ်အရာနဲ့မှ အစားထိုးလို့မရနိုင်တယ်
 
-b,ft&meJYrS zGJYEGUJjrGwfqkdrrSDekdifw,f
-ukd,fawmfbk&m;&JUeuf½Idif;arwÅm
+ဘယ်အရာနဲ့မှ ဖွဲ့နွဲ့မြွတ်ဆိုမမှီနိုင်တယ်
+ကိုယ်တော်ဘုရားရဲ့နက်ရှိုင်းမေတ္တာ
 
-tjrJwrf;taumif;bufeJY awGYqkHcGifhay;ol
-b,favmufbJ twm;tqD;rsm;aevnf;
+အမြဲတမ်းအကောင်းဘက်နဲ့ တွေ့ဆုံခွင့်ပေးသူ
+ဘယ်လောက်ဘဲ အတားအဆီးများနေလည်း
 
-xGufajrmuf&m vrf;tjrJzefwD;ay;ol
-b,favmufbJ cufxef Murf;wrf; ygapuG,f
+ထွက်မြောက်ရာ လမ်းအမြဲဖန်တီးပေးသူ
+ဘယ်လောက်ဘဲ ခက်ထန် ကြမ်းတမ်း ပါစေကွယ်
 
-ukd,fawmf&Sif\cspfjcif; arwåm EIwfjzifh>rwfqkdrrSDEkdif&m a,½IuREkfyfukd cspfonfukd EIwfjzifh >rwfqkdrrSD
+ကိုယ်တော်ရှင်၏ချစ်ခြင်း မေတ္တာ နှုတ်ဖြင့်မြွတ်ဆိုမမှီနိုင်ရာ ယေရှုကျွန်ုပ်ကို ချစ်သည်ကို နှုတ်ဖြင့် မြွတ်ဆိုမမှီ

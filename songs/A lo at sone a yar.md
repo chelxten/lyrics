@@ -1,13 +1,12 @@
 ---
-title: tvdktyfqHk;t&m
-font: win
+title: အလိုအပ်ဆုံးအရာ
 ---
-ukd,fawmf&Sifom uREkfyftvkdtyfqkH;t&m ukd,fawmfukdyJ uREkfyftNrJwrf;azG&Sm
+ကိုယ်တော်ရှင်သာ ကျွန်ုပ်အလိုအပ်ဆုံးအရာ ကိုယ်တော်ကိုပဲ ကျွန်ုပ်အမြဲတမ်းဖွေရှာ
 
-ESvkH;om;&ifrSm uREkfyftjrwfEkd;qkH;t&m ukd,fawmfESifhtwl rsufarSmufawmfxJrSm
+နှလုံးသားရင်မှာ ကျွန်ုပ်အမြတ်နိုးဆုံးအရာ ကိုယ်တော်နှင့်အတူ မျက်မှောက်တော်ထဲမှာ
 
-tkdtz . . omíeD;apyg ukd,fawmftem;rSm uREkfyftm;omí qGJac:yg ukd,fawmfxH csOf;uyfpOf rsufarSmufawmftem; uREkfyftm; omíeD;apyg
+အိုအဖ . . သာ၍နီးစေပါ ကိုယ်တော်အနားမှာ ကျွန်ုပ်အားသာ၍ ဆွဲခေ:ပါ ကိုယ်တော်ထံ ချဉ်းကပ်စဉ် မျက်မှောက်တော်အနား ကျွန်ုပ်အား သာ၍နီးစေပါ
 
-aeY&ufpOfwkdif; uREkfyftvkdtyfqkH;t&m aeY&ufpOfwkdif; uREkfyftNrJwrf;azG&Sm
+နေ့ရက်စဉ်တိုင်း ကျွန်ုပ်အလိုအပ်ဆုံးအရာ နေ့ရက်စဉ်တိုင်း ကျွန်ုပ်အမြဲတမ်းဖွေရှာ
 
-ESvkH;om;&ifrSm uREkfyftjrwfEkd;qkH;t&m ukd,fawmfESifhtwl rsufarSmufawmfxJrSm
+နှလုံးသားရင်မှာ ကျွန်ုပ်အမြတ်နိုးဆုံးအရာ ကိုယ်တော်နှင့်အတူ မျက်မှောက်တော်ထဲမှာ

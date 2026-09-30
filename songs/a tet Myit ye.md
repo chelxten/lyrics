@@ -1,29 +1,28 @@
 ---
-title: toufjrpfa&
-font: win
+title: အသက်မြစ်ရေ
 ---
-toufjrpfpD;&modkU uREkfyftm;
-qGJac:aew,f ocif&JUtm;eJYudkifqGJ
+အသက်မြစ်စီးရာသို့ ကျွန်ုပ်အား
+ဆွဲခေ:နေတယ် သခင်ရဲ့အားနဲ့ကိုင်ဆွဲ
 
-toefU&Sif;qkH;qDokdU wqifhNyD;wqifh
-vSrf;aeapw,f ocifomuREkfyf&JUtazmfbJ
+အသန့်ရှင်းဆုံးဆီသို့ တဆင့်ပြီးတဆင့်
+လှမ်းနေစေတယ် သခင်သာကျွန်ုပ်ရဲ့အဖော်ဘဲ
 
-tjrifhqkH;txufyv’ifrS toufjrpfpD;
-vmaew,f t&Sdeft[kefjyif;wJhtm;eJY
+အမြင့်ဆုံးအထက်ပလ္လင်မှ အသက်မြစ်စီး
+လာနေတယ် အရှိန်အဟုန်ပြင်းတဲ့အားနဲ့
 
-pGJvrf;rIawGeJU Zmwd&JUoabmtvdkawGudk
-ocifbJ wdkufpm;ay;aew,f
+စွဲလမ်းမှုတွေနဲ့ ဇာတိရဲ့သဘောအလိုတွေကို
+သခင်ဘဲ တိုက်စားပေးနေတယ်
 
-omívSrf;aveufav omíeuf½Idif;aom
-aus;Zl;awmfpD;qif;av
-omívSrf;aveufav toufjrpfa&
+သာ၍လှမ်းလေနက်လေ သာ၍နက်ရှိုင်းသော
+ကျေးဇူးတော်စီးဆင်းလေ
+သာ၍လှမ်းလေနက်လေ အသက်မြစ်ရေ
 
-omívSrf;aveufav omíeuf½Idif;aom
-aus;Zl;awmfpD;qif;av ocifh&JUpD;qif;
-jcif;om uREkfyfudko,faqmifoGm;ygap
+သာ၍လှမ်းလေနက်လေ သာ၍နက်ရှိုင်းသော
+ကျေးဇူးတော်စီးဆင်းလေ သခင့်ရဲ့စီးဆင်း
+ခြင်းသာ ကျွန်ုပ်ကိုသယ်ဆောင်သွားပါစေ
 
-ociftoufpD;&mt&yfü aojcif;rSjyef&SifNyD
-ociftoufpD;&mt&yfü csKdNrdefjcif;jzpfapNyD
+သခင်အသက်စီးရာအရပ်၌ သေခြင်းမှပြန်ရှင်ပြီ
+သခင်အသက်စီးရာအရပ်၌ ချိုမြိန်ခြင်းဖြစ်စေပြီ
 
-ociftoufpD;&mt&yfü usef;rmjcif;jzpfapNyD
-ociftoufpD;&mt&yfü <u,f0jcif;jzpfapNyD
+သခင်အသက်စီးရာအရပ်၌ ကျန်းမာခြင်းဖြစ်စေပြီ
+သခင်အသက်စီးရာအရပ်၌ ကြွယ်ဝခြင်းဖြစ်စေပြီ

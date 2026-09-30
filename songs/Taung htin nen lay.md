@@ -1,27 +1,26 @@
 ---
-title: awmifxdyfüvnf;
-font: win
+title: တောင်ထိပ်၌လည်း
 ---
-ukd,fawmf&Sif&JUtwl&Sdjcif;onf
-uREkfyfb0twGuf tvkdtyfqkH;yg
+ကိုယ်တော်ရှင်ရဲ့အတူရှိခြင်းသည်
+ကျွန်ုပ်ဘဝအတွက် အလိုအပ်ဆုံးပါ
 
-ukd,fawmf&Sif&JUtwl&Sdjcif;onf
-uREkfyfb0twGuf ta&;BuD;qkH;yg
+ကိုယ်တော်ရှင်ရဲ့အတူရှိခြင်းသည်
+ကျွန်ုပ်ဘဝအတွက် အရေးကြီးဆုံးပါ
 
-ukd,fawmf&Sif&JUtwl&Sdjcif;u
-aMumuf&GHUpdwfrsm; z,f&Sm;ay;w,f
+ကိုယ်တော်ရှင်ရဲ့အတူရှိခြင်းက
+ကြောက်ရွံ့စိတ်များ ဖယ်ရှားပေးတယ်
 
-ukd,fawmf&Sif&JUtwl&Sdjcif;u
-uREkfyfb0&JUatmifjrifjcif;yg
+ကိုယ်တော်ရှင်ရဲ့အတူရှိခြင်းက
+ကျွန်ုပ်ဘဝရဲ့အောင်မြင်ခြင်းပါ
 
-awmifxdyfüvnf; ukd,fawmf&Sdw,f
-vGifjyifrSmvnf; ukd,fawmf&Sdaew,f
+တောင်ထိပ်၌လည်း ကိုယ်တော်ရှိတယ်
+လွင်ပြင်မှာလည်း ကိုယ်တော်ရှိနေတယ်
 
-'ku©a&mufcsdef okc&Sdaecsdef
-uREkfyfwkdYeJYtwl ukd,fawmf&Sdw,f
+ဒုက္ခရောက်ချိန် သုခရှိနေချိန်
+ကျွန်ုပ်တို့နဲ့အတူ ကိုယ်တော်ရှိတယ်
 
-aumif;aomol raumif;aomoltm;vkH;tay:rSm
-cGJjcm;jcif;r&Sd aeylrkd;&Gmapw,f
+ကောင်းသောသူ မကောင်းသောသူအားလုံးအပေ:မှာ
+ခွဲခြားခြင်းမရှိ နေပူမိုးရွာစေတယ်
 
-tm;enf;ol tm;BuD;ol om;orD;rsm;tay:
-ajymif;vJjcif;r&Sd ukd,fawmfarwåm
+အားနည်းသူ အားကြီးသူ သားသမီးများအပေ:
+ပြောင်းလဲခြင်းမရှိ ကိုယ်တော်မေတ္တာ

@@ -1,13 +1,12 @@
 ---
-title: rjzpfEkdifaomt&m
-font: win
+title: မဖြစ်နိုင်သောအရာ
 ---
-rjzpfEkdifaomt&mrsm; rjzpfEkdifaom tcsdefrsm;üyif  jzpfapaombk&m; uREkfyfukd;uG,f
+မဖြစ်နိုင်သောအရာများ မဖြစ်နိုင်သော အချိန်များ၌ပင်  ဖြစ်စေသောဘုရား ကျွန်ုပ်ကိုးကွယ်
 
-rvkyfEdkifaomt&mrsm; rwwfEkdifaomt&mrsm; jzpfapaombk&m; uREkfyfukd;uG,f
+မလုပ်နိုင်သောအရာများ မတတ်နိုင်သောအရာများ ဖြစ်စေသောဘုရား ကျွန်ုပ်ကိုးကွယ်
 
-tm;i,faomolrsm; vSJaeaomolrsm; az;ray;ol bk&m; uREkfyfukd;uG,f
+အားငယ်သောသူများ လှဲနေသောသူများ ဖေးမပေးသူ ဘုရား ကျွန်ုပ်ကိုးကွယ်
 
-t&m&mwkdif;wwfEdkifw,f t&m&mvnf;vkyfEkdifw,f t&m&mtukefvkH; zefqif;íykdifool
+အရာရာတိုင်းတတ်နိုင်တယ် အရာရာလည်းလုပ်နိုင်တယ် အရာရာအကုန်လုံး ဖန်ဆင်း၍ပိုင်သသူ
 
-t&m&mxuf csD;ajrmufr,f ukd,fawmftNrJaumif;jrwfw,f tcsdefem&Dwkdif;csD;rGrf;ukd;uG,fr,f taumif;jrwfqkH;a,½I
+အရာရာထက် ချီးမြောက်မယ် ကိုယ်တော်အမြဲကောင်းမြတ်တယ် အချိန်နာရီတိုင်းချီးမွမ်းကိုးကွယ်မယ် အကောင်းမြတ်ဆုံးယေရှု

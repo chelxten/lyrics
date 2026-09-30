@@ -1,13 +1,12 @@
 ---
-title: vGwfajrmufjcif;oDcsif;
-font: win
+title: လွတ်မြောက်ခြင်းသီချင်း
 ---
-csnfaESmifwJh oHBudK;tm;vkH; jywfawmufNyD csKyfaESmifcHolrsm; vGwfjcif;&NyD
+ချည်နှောင်တဲ့ သံကြိုးအားလုံး ပြတ်တောက်ပြီ ချုပ်နှောင်ခံသူများ လွတ်ခြင်းရပြီ
 
-arSmifwefckd;awG tm;vkH;NydKvJNyD &Sifjyefxajrmufjcif;&JU wefckd;awmfjzifh^ukd,fawmf&Sifom uREkffyf&JUatmifjrifjcif;
+မှောင်တန်ခိုးတွေ အားလုံးပြိုလဲပြီ ရှင်ပြန်ထမြောက်ခြင်းရဲ့ တန်ခိုးတော်ဖြင့် ကိုယ်တော်ရှင်သာ ကျွန်ုပ်ရဲ့အောင်မြင်ခြင်း
 
-vGwfajrmufjcif; oDcsif;awG uckef&if;eJY csD;rGrf;r,f 0rf;ajrmufjcif;oDcsif;awG uckef&if;eJY csD;rGrf;r,f
+လွတ်မြောက်ခြင်း သီချင်းတွေ ကခုန်ရင်းနဲ့ ချီးမွမ်းမယ် ဝမ်းမြောက်ခြင်းသီချင်းတွေ ကခုန်ရင်းနဲ့ ချီးမွမ်းမယ်
 
-ajrrIefYxJrS uREkffyfa&G;EIwfqGJwifum xm0&touf&&Sdap atmifjrifaomolxuf atmifjrifaomoljzifh uREkffyftm; a&G;EIwfcJh a,½I&Sif
+မြေမှုန့်ထဲမှ ကျွန်ုပ်ရွေးနှုတ်ဆွဲတင်ကာ ထာဝရအသက်ရရှိစေ အောင်မြင်သောသူထက် အောင်မြင်သောသူဖြင့် ကျွန်ုပ်အား ရွေးနှုတ်ခဲ့ ယေရှုရှင်
 
-(a,½I aojcif; rpÆKrefukd atmifjrifum xajrmuf)4
+(ယေရှု သေခြင်း မစ္ဆုမန်ကို အောင်မြင်ကာ ထမြောက်)၄

@@ -1,23 +1,22 @@
 ---
-title: pdwfESvkH; t<uif;rJh
-font: win
+title: စိတ်နှလုံး အကြွင်းမဲ့
 ---
-t&SifvufawmfxJ cE¨mpdwf0dnmOf
-udk,fawmftwGuf qyfuyfNyDD
+အရှင်လက်တော်ထဲ ခန္ဓာစိတ်ဝိညာဉ်
+ကိုယ်တော်အတွက် ဆပ်ကပ်ပြီ
 
-uREkfyf&JUb0 udk,fawmf&Sif&JUvuf0,f
-tpOfudkifpGJNyD xm0&
+ကျွန်ုပ်ရဲ့ဘဝ ကိုယ်တော်ရှင်ရဲ့လက်ဝယ်
+အစဉ်ကိုင်စွဲပြီ ထာဝရ
 
-a,½Iom uREkfyf,kHMunf
-a,½Iom uREkfyfydkif&Sif
+ယေရှုသာ ကျွန်ုပ်ယုံကြည်
+ယေရှုသာ ကျွန်ုပ်ပိုင်ရှင်
 
-udk,fawmfaMumifhom touf&Sifonf
-udk,fawmfaMumifhom csD;rGrf;
-pdwfESvkH; t<uif;rJh
+ကိုယ်တော်ကြောင့်သာ အသက်ရှင်သည်
+ကိုယ်တော်ကြောင့်သာ ချီးမွမ်း
+စိတ်နှလုံး အကြွင်းမဲ့
 
-twlavQmufrlrnf b,fae&moGm;ygap
-0rf;enf;0rf;om udk;pm;oGm;rnf
+အတူလျှောက်မူမည် ဘယ်နေရာသွားပါစေ
+ဝမ်းနည်းဝမ်းသာ ကိုးစားသွားမည်
 
-udk,fawmftvdktwdkif; uREkfyfavQmufvSrf;rnf uwdawmfrsm;pGm xm0&
+ကိုယ်တော်အလိုအတိုင်း ကျွန်ုပ်လျှောက်လှမ်းမည် ကတိတော်များစွာ ထာဝရ
 
-uREkfyfudk;uG,f uREkfyfudk;uG,frnf
+ကျွန်ုပ်ကိုးကွယ် ကျွန်ုပ်ကိုးကွယ်မည်
