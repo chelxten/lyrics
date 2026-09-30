@@ -16,7 +16,7 @@ function normalize(s) {
     .normalize('NFD')
     .replace(/[̀-ͯ]/g, '')
     .replace(/['’]/g, '')
-    .replace(/[^\p{L}\p{N}\s]/gu, ' ')
+    .replace(/[^\p{L}\p{M}\p{N}\s]/gu, ' ')
     .replace(/\s+/g, ' ')
     .trim();
 }

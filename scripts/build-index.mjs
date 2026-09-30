@@ -4,6 +4,7 @@
 import { readdir, readFile, writeFile } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
+import { winToUnicode } from './win-to-unicode.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const songsDir = path.join(root, 'songs');
@@ -13,7 +14,12 @@ const files = (await readdir(songsDir)).filter((f) => f.endsWith('.md') && !f.st
 
 const songs = [];
 for (const file of files) {
-  const { meta, body } = parse(await readFile(path.join(songsDir, file), 'utf8'));
+  const { meta, body: rawBody } = parse(await readFile(path.join(songsDir, file), 'utf8'));
+  // "font: win" means the song was typed with a Win Innwa-style Burmese font.
+  const legacy = /^win/i.test(meta.font || '');
+  const fix = (s) => (legacy ? winToUnicode(s) : s);
+  for (const key of ['title', 'artist', 'album', 'tags']) if (meta[key]) meta[key] = fix(meta[key]);
+  const body = fix(rawBody);
   if (!meta.title) {
     console.warn(`Skipping ${file}: missing "title:" at the top`);
     continue;

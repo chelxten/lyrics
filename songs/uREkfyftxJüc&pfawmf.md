@@ -1,8 +1,6 @@
 ---
 title: uREkfyftxJüc&pfawmf 
-artist: NONE
-year: NONE
-tags: NONE
+font: win
 ---
 
 touf&Sifonf ukd,fawmftm; uREkfyf,lwif0wfaqmifrnf (t&mcyfodrf;wwfEkdifNyD)2
