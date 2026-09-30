@@ -68,8 +68,8 @@
       tray.innerHTML = `
         <span class="count"></span>
         <button type="button" class="link-button">Clear</button>
-        <a class="tray-button" href="sheet.html">Song sheet →</a>
-        <a class="tray-button" href="slides.html">Slides →</a>`;
+        <a class="tray-button" href="sheet.html">Song sheet<span class="wide-only"> →</span></a>
+        <a class="tray-button" href="slides.html">Slides<span class="wide-only"> →</span></a>`;
       tray.querySelector('button').addEventListener('click', () => {
         if (confirm('Remove all picked songs?')) save([]);
       });
@@ -77,7 +77,7 @@
       const update = () => {
         tray.hidden = !songs.length;
         document.body.classList.toggle('has-tray', songs.length > 0);
-        tray.querySelector('.count').innerHTML = `<b>${songs.length}</b> ${songs.length === 1 ? 'song' : 'songs'} picked`;
+        tray.querySelector('.count').innerHTML = `<b>${songs.length}</b> <span class="wide-only">${songs.length === 1 ? 'song' : 'songs'} </span>picked`;
       };
       listeners.add(update);
       update();

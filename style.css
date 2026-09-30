@@ -299,6 +299,12 @@ mark {
   white-space: nowrap;
 }
 body.has-tray main { padding-bottom: 110px; }
+/* On phones the bar holds two buttons, so it drops the arrows and the word "songs" */
+@media (max-width: 480px) {
+  .sheet-tray { gap: 8px; padding-left: 14px; }
+  .tray-button { padding: 8px 10px; font-size: 0.9rem; }
+  .sheet-tray .wide-only { display: none; }
+}
 
 /* Song sheet page */
 .sheet-layout { display: grid; grid-template-columns: 320px 1fr; gap: 24px; align-items: start; }
