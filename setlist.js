@@ -22,6 +22,7 @@
   let editing = null; // slug open in the editor
   let encodedEdits = ''; // edits packed into the share link
   let page = { update() {}, scheduleUpdate() {}, saveSettings() {} }; // the page's own functions, from start()
+  let viewOnly = false; // opened from a shared view link: leave this browser's own songs and edits alone
 
   function escapeHtml(s) {
     return String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
@@ -107,7 +108,7 @@
       const song = songsBySlug[slug];
       if (!picked.includes(slug) || !song || edits[slug].base !== song.lyrics || edits[slug].text === song.lyrics) delete edits[slug];
     }
-    storageSet(EDITS_KEY, edits);
+    if (!viewOnly) storageSet(EDITS_KEY, edits);
     clearTimeout(editsTimer);
     editsTimer = setTimeout(async () => {
       encodedEdits = await packEdits(edits);
@@ -203,7 +204,7 @@
 
   // If songs change in another tab (e.g. + on the song list), follow along.
   SongSelection.onChange((songs) => {
-    if (songs.join('\n') === picked.join('\n')) return;
+    if (viewOnly || songs.join('\n') === picked.join('\n')) return;
     picked = songs;
     if (editing && !picked.includes(editing)) closeEditor();
     editsChanged();
@@ -211,14 +212,16 @@
   });
 
   // Loads the songs. A shared link brings its own songs and edits; otherwise use this browser's.
+  // A view link (link.viewOnly) shows its songs without saving them over this browser's.
   // pageFunctions are the page's update(), scheduleUpdate() and saveSettings().
   async function start(link, pageFunctions) {
     page = pageFunctions;
+    viewOnly = Boolean(link.viewOnly);
     const data = await fetch('songs.json', { cache: 'no-cache' }).then((r) => r.json());
     songsBySlug = Object.fromEntries(data.map((s) => [s.slug, s]));
     if (link.songs.length) {
       picked = link.songs.filter((slug) => songsBySlug[slug]);
-      SongSelection.set(picked);
+      if (!viewOnly) SongSelection.set(picked);
       edits = (await unpackEdits(link.edits)) || {};
     } else {
       picked = SongSelection.all().filter((slug) => songsBySlug[slug]);

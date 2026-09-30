@@ -465,3 +465,13 @@ body.has-tray main { padding-bottom: 110px; }
 .slide-body { width: 100%; }
 .slide-body.is-title { font-weight: 700; }
 .slide-measure { position: absolute; left: -10000px; top: 0; visibility: hidden; }
+
+/* Shared links ("Copy link") open just the sheet or slides, without the controls */
+.view-bar { display: none; }
+.view-only .site-header,
+.view-only .sheet-controls,
+.view-only .line-editor { display: none; }
+.view-only .sheet-layout { display: block; }
+.view-only .view-bar { display: flex; justify-content: center; gap: 8px; margin: 16px 0; }
+.view-only .sheet-pages { align-items: center; }
+.view-only .slides-grid { grid-template-columns: 1fr; max-width: 960px; margin: 0 auto; }

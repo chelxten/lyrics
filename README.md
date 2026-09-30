@@ -41,7 +41,8 @@ On the sheet page you can also:
 - edit a song's words and line breaks with **✎**. These edits only apply to that sheet: they're
   kept in the browser and in the sheet's link, and the song file in the repository never changes.
 
-**Copy link** shares the exact sheet, including line edits.
+**Copy link** gives a link that opens just the sheet, with your edits and a **Print / Save as PDF**
+button but none of the controls. Opening it doesn't change the songs the other person has picked.
 
 ## Slides
 
@@ -51,6 +52,9 @@ title slide and one slide per verse. You can choose widescreen (16:9) or standar
 on black or black on white, labels on or off, and the text size (**Fit automatically** picks the
 largest size that keeps every verse on one slide). **Download PowerPoint** saves a `.pptx` file that
 opens in PowerPoint, Keynote and Google Slides.
+
+**Copy link** works the same way here: the link opens just the slides, with a **Download PowerPoint**
+button.
 
 The song list and **✎** edits are shared with the song sheet: an edit made on one page shows on the
 other, and never changes the song files.

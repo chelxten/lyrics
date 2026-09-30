@@ -30,13 +30,14 @@ const ui = {
   fit: $('#fit'),
   out: $('#slides-out'),
   measure: $('#measure'),
-  download: $('#download'),
+  downloads: document.querySelectorAll('.download-pptx'),
 };
 
 const { escapeHtml, burmeseNumber } = SetList;
 let manualFont = null; // pt, or null for "Fit automatically"
 let lastFont = 40; // size used by the latest layout
 let deck = null; // the latest layout, used for the download
+let viewOnly = false; // opened from a shared link: show only the slides
 
 const clampFont = (n) => Math.min(MAX_FONT, Math.max(MIN_FONT, Math.round(n / MANUAL_STEP) * MANUAL_STEP));
 const slideFont = (slide, font) => (slide.kind === 'verse' ? font : Math.round(font * TITLE_SCALE));
@@ -53,7 +54,8 @@ function readSettings() {
   ui.title.value = params.get('title') ?? '';
   const font = params.get('font');
   manualFont = font && font !== 'auto' ? clampFont(parseFloat(font)) : null;
-  return { songs: params.getAll('s'), edits: params.get('edits') };
+  viewOnly = params.get('view') === '1';
+  return { songs: params.getAll('s'), edits: params.get('edits'), viewOnly };
 }
 
 function saveSettings() {
@@ -65,8 +67,9 @@ function saveSettings() {
   params.set('labels', ui.labels.checked ? '1' : '0');
   if (ui.title.value.trim()) params.set('title', ui.title.value.trim());
   if (SetList.encodedEdits()) params.set('edits', SetList.encodedEdits());
+  if (viewOnly) params.set('view', '1');
   history.replaceState(null, '', `#${params}`);
-  SetList.storageSet('lyrics-slides-settings', { size: ui.size.value, theme: ui.theme.value, labels: ui.labels.checked ? '1' : '0' });
+  if (!viewOnly) SetList.storageSet('lyrics-slides-settings', { size: ui.size.value, theme: ui.theme.value, labels: ui.labels.checked ? '1' : '0' });
 }
 
 // ---- Slides: an optional title slide, then per song a title slide and one slide per verse ----
@@ -158,10 +161,10 @@ function update() {
   SetList.render();
   const songs = SetList.songs();
   ui.autoFont.checked = manualFont === null;
-  ui.download.disabled = !songs.length;
+  ui.downloads.forEach((button) => { button.disabled = !songs.length; });
 
   if (!songs.length) {
-    ui.out.innerHTML = '';
+    ui.out.innerHTML = viewOnly ? '<p class="muted">These slides have no songs.</p>' : '';
     ui.fit.textContent = '';
     ui.fontSize.textContent = manualFont ? `${manualFont} pt` : 'Auto';
     deck = null;
@@ -227,8 +230,10 @@ const fileName = () => (ui.title.value.trim() || 'Songs').replace(/[\\/:*?"<>|]+
 async function downloadPowerPoint() {
   if (!deck) return;
   const { w, h, theme, font, slides } = deck;
-  ui.download.disabled = true;
-  ui.download.textContent = 'Making PowerPoint…';
+  ui.downloads.forEach((button) => {
+    button.disabled = true;
+    button.textContent = 'Making PowerPoint…';
+  });
   try {
     const PptxGenJS = await loadLibrary();
     const pptx = new PptxGenJS();
@@ -260,11 +265,15 @@ async function downloadPowerPoint() {
     }
     await pptx.writeFile({ fileName: `${fileName()}.pptx` });
   } catch {
+    const message = 'Couldn’t make the PowerPoint. Check your connection and try again.';
     ui.fit.className = 'fit warn';
-    ui.fit.textContent = 'Couldn’t make the PowerPoint. Check your connection and try again.';
+    ui.fit.textContent = message;
+    if (viewOnly) alert(message);
   } finally {
-    ui.download.disabled = !deck;
-    ui.download.textContent = 'Download PowerPoint';
+    ui.downloads.forEach((button) => {
+      button.disabled = !deck;
+      button.textContent = 'Download PowerPoint';
+    });
   }
 }
 
@@ -287,16 +296,23 @@ ui.autoFont.addEventListener('change', () => {
   update();
 });
 
-ui.download.addEventListener('click', downloadPowerPoint);
+ui.downloads.forEach((button) => button.addEventListener('click', downloadPowerPoint));
+// "Copy link" gives a link that opens just the slides, without the controls.
+function viewLink() {
+  const params = new URLSearchParams(location.hash.slice(1));
+  params.set('view', '1');
+  return `${location.origin}${location.pathname}#${params}`;
+}
+
 $('#copy').addEventListener('click', async (e) => {
   const button = e.currentTarget;
   await SetList.flushEdits();
   saveSettings();
   try {
-    await navigator.clipboard.writeText(location.href);
+    await navigator.clipboard.writeText(viewLink());
     button.textContent = 'Link copied';
   } catch {
-    prompt('Copy this link:', location.href);
+    prompt('Copy this link:', viewLink());
   }
   setTimeout(() => { button.textContent = 'Copy link'; }, 2000);
 });
@@ -305,6 +321,10 @@ window.addEventListener('resize', scalePreview);
 // ---- Start ----
 
 const fromLink = readSettings();
+if (viewOnly) {
+  document.body.classList.add('view-only');
+  if (ui.title.value.trim()) document.title = ui.title.value.trim();
+}
 SetList.start(fromLink, { update, scheduleUpdate, saveSettings })
   .then(update)
   .catch(() => {

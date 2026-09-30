@@ -41,6 +41,7 @@ const { escapeHtml, burmeseNumber } = SetList;
 let manualFont = null; // pt, or null for "Fit to pages"
 let lastFont = 11; // size used by the latest layout
 let lastLayout = null;
+let viewOnly = false; // opened from a shared link: show only the sheet
 
 const clampPages = (n) => Math.min(MAX_PAGES, Math.max(1, parseInt(n, 10) || 1));
 const clampFont = (n) => Math.min(MAX_FONT, Math.max(MIN_FONT, Math.round(n / MANUAL_STEP) * MANUAL_STEP));
@@ -59,7 +60,8 @@ function readSettings() {
   ui.title.value = params.get('title') ?? '';
   const font = params.get('font');
   manualFont = font && font !== 'auto' ? clampFont(parseFloat(font)) : null;
-  return { songs: params.getAll('s'), edits: params.get('edits') };
+  viewOnly = params.get('view') === '1';
+  return { songs: params.getAll('s'), edits: params.get('edits'), viewOnly };
 }
 
 function saveSettings() {
@@ -73,8 +75,9 @@ function saveSettings() {
   params.set('labels', ui.labels.checked ? '1' : '0');
   if (ui.title.value.trim()) params.set('title', ui.title.value.trim());
   if (SetList.encodedEdits()) params.set('edits', SetList.encodedEdits());
+  if (viewOnly) params.set('view', '1');
   history.replaceState(null, '', `#${params}`);
-  SetList.storageSet('lyrics-sheet-settings', { size: ui.size.value, orient: ui.orient.value, cols: ui.cols.value, labels: ui.labels.checked ? '1' : '0' });
+  if (!viewOnly) SetList.storageSet('lyrics-sheet-settings', { size: ui.size.value, orient: ui.orient.value, cols: ui.cols.value, labels: ui.labels.checked ? '1' : '0' });
 }
 
 // ---- Building blocks: a song title with its first verse, then each further verse ----
@@ -212,7 +215,7 @@ function update() {
   [ui.pages, ui.fewer, ui.more].forEach((el) => { el.disabled = manualFont !== null; });
 
   if (!songs.length) {
-    ui.out.innerHTML = '';
+    ui.out.innerHTML = viewOnly ? '<p class="muted">This song sheet has no songs.</p>' : '';
     ui.fit.textContent = '';
     ui.fontSize.textContent = manualFont ? `${manualFont} pt` : 'Auto';
     lastLayout = null;
@@ -306,16 +309,23 @@ ui.autoFont.addEventListener('change', () => {
   update();
 });
 
-$('#print').addEventListener('click', () => window.print());
+[$('#print'), $('#view-print')].forEach((button) => button.addEventListener('click', () => window.print()));
+// "Copy link" gives a link that opens just the sheet, without the controls.
+function viewLink() {
+  const params = new URLSearchParams(location.hash.slice(1));
+  params.set('view', '1');
+  return `${location.origin}${location.pathname}#${params}`;
+}
+
 $('#copy').addEventListener('click', async (e) => {
   const button = e.currentTarget;
   await SetList.flushEdits();
   saveSettings();
   try {
-    await navigator.clipboard.writeText(location.href);
+    await navigator.clipboard.writeText(viewLink());
     button.textContent = 'Link copied';
   } catch {
-    prompt('Copy this link:', location.href);
+    prompt('Copy this link:', viewLink());
   }
   setTimeout(() => { button.textContent = 'Copy link'; }, 2000);
 });
@@ -324,6 +334,10 @@ window.addEventListener('resize', scalePreview);
 // ---- Start ----
 
 const fromLink = readSettings();
+if (viewOnly) {
+  document.body.classList.add('view-only');
+  if (ui.title.value.trim()) document.title = ui.title.value.trim();
+}
 measurePxPerMm();
 SetList.start(fromLink, { update, scheduleUpdate, saveSettings })
   .then(update)
