@@ -40,7 +40,7 @@ const ZIP_LIBRARY_INTEGRITY = 'sha384-+mbV2IY1Zk/X1p/nWllGySJSUN8uMs+gUAN10Or95U
 const $ = (sel) => document.querySelector(sel);
 const ui = {
   title: $('#deck-title'),
-  format: $('#format'),
+  formats: document.querySelectorAll('input[name="format"]'),
   size: $('#slide-size'),
   fullBg: $('#full-bg'),
   fullText: $('#full-text'),
@@ -71,7 +71,9 @@ let viewOnly = false; // opened from a shared link: show only the slides
 
 const clampFont = (n) => Math.min(MAX_FONT, Math.max(MIN_FONT, Math.round(n / MANUAL_STEP) * MANUAL_STEP));
 const slideFont = (slide, font) => (slide.kind === 'verse' ? font : Math.round(font * TITLE_SCALE));
-const isCaptions = () => ui.format.value === 'captions';
+const currentFormat = () => [...ui.formats].find((input) => input.checked)?.value || 'full';
+const setFormat = (value) => ui.formats.forEach((input) => { input.checked = input.value === value; });
+const isCaptions = () => currentFormat() === 'captions';
 
 // ---- Settings and the share link ----
 
@@ -79,7 +81,7 @@ function readSettings() {
   const params = new URLSearchParams(location.hash.slice(1));
   const saved = SetList.storageGet('lyrics-slides-settings', {});
   const pick = (key, fallback) => params.get(key) ?? saved[key] ?? fallback;
-  ui.format.value = pick('format', 'full') === 'captions' ? 'captions' : 'full';
+  setFormat(pick('format', 'full') === 'captions' ? 'captions' : 'full');
   ui.size.value = SLIDE_SIZES[pick('size', 'wide')] ? pick('size', 'wide') : 'wide';
   ui.lines.value = pick('lines', '2') === '1' ? '1' : '2';
   ui.textStyle.value = pick('style', 'band') === 'outline' ? 'outline' : 'band';
@@ -110,7 +112,7 @@ function saveSettings() {
   const params = new URLSearchParams();
   SetList.slugs().forEach((slug) => params.append('s', slug));
   const settings = {
-    format: ui.format.value,
+    format: currentFormat(),
     size: ui.size.value,
     lines: ui.lines.value,
     style: ui.textStyle.value,
@@ -141,6 +143,10 @@ function showFormatControls() {
   document.querySelectorAll('.band-only').forEach((el) => { el.hidden = !band; });
   document.querySelectorAll('.outline-only').forEach((el) => { el.hidden = band; });
   ui.bandOpacityValue.textContent = `${ui.bandOpacity.value}%`;
+  document.querySelectorAll('.site-nav [data-format]').forEach((link) => {
+    if (link.dataset.format === currentFormat()) link.setAttribute('aria-current', 'page');
+    else link.removeAttribute('aria-current');
+  });
 }
 
 const hex = (input) => input.value.slice(1).toUpperCase(); // #aabbcc -> AABBCC, as PowerPoint wants
@@ -511,7 +517,15 @@ function scheduleUpdate() {
   el.addEventListener('change', update);
 });
 // Each format has its own automatic text size.
-ui.format.addEventListener('change', () => {
+ui.formats.forEach((input) => input.addEventListener('change', () => {
+  manualFont = null;
+  update();
+}));
+// The menu's PowerPoint and Subtitles links only change the address's #format while on this page.
+window.addEventListener('hashchange', () => {
+  const format = new URLSearchParams(location.hash.slice(1)).get('format');
+  if (!format || format === currentFormat()) return;
+  setFormat(format === 'captions' ? 'captions' : 'full');
   manualFont = null;
   update();
 });

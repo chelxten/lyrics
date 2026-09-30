@@ -87,6 +87,10 @@ function route() {
   const match = location.hash.match(/^#\/song\/(.+)$/);
   const view = match ? 'song' : location.hash.startsWith('#/songs') ? 'list' : 'welcome';
   welcomeView.hidden = view !== 'welcome';
+  // Highlight "Songs" in the menu on the song list and song pages.
+  const songsLink = document.querySelector('.site-nav a[href$="#/songs"]');
+  if (view === 'welcome') songsLink.removeAttribute('aria-current');
+  else songsLink.setAttribute('aria-current', 'page');
   listView.hidden = view !== 'list';
   songView.hidden = view !== 'song';
   if (view === 'song') {

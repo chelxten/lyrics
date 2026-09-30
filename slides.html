@@ -9,97 +9,110 @@
 <body class="sheet-body">
   <header class="site-header wide">
     <a href="./" class="brand">Lyrics Library</a>
-    <span class="muted">Slides</span>
+    <nav class="site-nav" aria-label="Main">
+      <a href="./#/songs">Songs</a>
+      <a href="sheet.html">Song sheet</a>
+      <a href="slides.html#format=full" data-format="full">PowerPoint</a>
+      <a href="slides.html#format=captions" data-format="captions">Subtitles</a>
+    </nav>
   </header>
 
   <main class="sheet-layout wide">
     <aside class="sheet-controls ui">
-      <h2>Songs <span class="muted" id="song-count"></span></h2>
-      <ol id="sheet-songs" class="sheet-songs"></ol>
-      <p id="no-songs" class="muted" hidden>
-        No songs yet. Search for songs below, or tap <b>+</b> next to songs in the <a href="./#/songs">song library</a>.
-      </p>
-      <div class="add-songs">
-        <label>Add songs
-          <input id="add-search" type="search" placeholder="Search a title or a line you remember…" autocomplete="off">
-        </label>
-        <ul id="add-results" class="add-results" hidden></ul>
-        <p class="muted add-more"><a href="./#/songs">Or pick songs in the song library →</a></p>
-      </div>
+      <section class="step">
+        <h2><span class="step-number" aria-hidden="true">1</span> Your songs <span class="muted" id="song-count"></span></h2>
+        <ol id="sheet-songs" class="sheet-songs"></ol>
+        <p class="muted song-help">✎ change the words · ↑ ↓ move · ✕ remove</p>
+        <p id="no-songs" class="muted" hidden>No songs yet. Type a song’s title or a line from it below to add it.</p>
+        <div class="add-songs">
+          <label>Add a song
+            <input id="add-search" type="search" placeholder="Type a title or a line you remember…" autocomplete="off">
+          </label>
+          <ul id="add-results" class="add-results" hidden></ul>
+          <p class="muted add-more"><a href="./#/songs">Or browse all songs →</a></p>
+        </div>
+      </section>
 
-      <label>Title slide <small class="muted">Optional, shown first</small>
-        <input id="deck-title" placeholder="e.g. Homecell, 12 October" autocomplete="off">
-      </label>
-      <label>Format
-        <select id="format">
-          <option value="full">Full screen: one verse per slide</option>
-          <option value="captions">Subtitles: lines at the bottom</option>
-        </select>
-      </label>
-      <div class="two-up">
-        <label>Slide size
-          <select id="slide-size">
-            <option value="wide">Widescreen 16:9</option>
-            <option value="standard">Standard 4:3</option>
-          </select>
-        </label>
-        <label class="caption-only" hidden>Lines per slide
-          <select id="caption-lines">
-            <option value="1">1 line</option>
-            <option value="2">2 lines</option>
-          </select>
-        </label>
-      </div>
-      <div class="two-up full-only">
-        <label>Background <input type="color" id="full-bg" value="#000000"></label>
-        <label>Text <input type="color" id="full-text" value="#ffffff"></label>
-      </div>
-      <div class="two-up caption-only" hidden>
-        <label>Text style
-          <select id="caption-style">
-            <option value="band">Band behind the text</option>
-            <option value="outline">Outlined text</option>
-          </select>
-        </label>
-        <label>Text color <input type="color" id="caption-text" value="#ffffff"></label>
-      </div>
-      <div class="two-up caption-only" hidden>
-        <label class="band-only">Band color <input type="color" id="band-color" value="#000000"></label>
-        <label class="band-only">Band opacity <output id="band-opacity-value">60%</output>
+      <section class="step">
+        <h2><span class="step-number" aria-hidden="true">2</span> Choose the look</h2>
+        <div class="format-choice" role="radiogroup" aria-label="What to make">
+          <label class="format-option"><input type="radio" name="format" value="full" checked>
+            <strong>PowerPoint</strong><span>One verse per slide, full screen</span></label>
+          <label class="format-option"><input type="radio" name="format" value="captions">
+            <strong>Subtitles</strong><span>1–2 lines at the bottom, for video</span></label>
+        </div>
+        <div class="two-up full-only">
+          <label>Background <input type="color" id="full-bg" value="#000000"></label>
+          <label>Text color <input type="color" id="full-text" value="#ffffff"></label>
+        </div>
+        <div class="two-up caption-only" hidden>
+          <label>Lines per slide
+            <select id="caption-lines">
+              <option value="1">1 line</option>
+              <option value="2">2 lines</option>
+            </select>
+          </label>
+          <label>Text style
+            <select id="caption-style">
+              <option value="band">On a band</option>
+              <option value="outline">Outlined</option>
+            </select>
+          </label>
+        </div>
+        <div class="two-up caption-only" hidden>
+          <label>Text color <input type="color" id="caption-text" value="#ffffff"></label>
+          <label class="band-only">Band color <input type="color" id="band-color" value="#000000"></label>
+          <label class="outline-only" hidden>Outline color <input type="color" id="outline-color" value="#000000"></label>
+        </div>
+        <label class="caption-only band-only" hidden>Band opacity <output id="band-opacity-value">60%</output>
           <input type="range" id="band-opacity" min="0" max="100" step="5" value="60">
         </label>
-        <label class="outline-only" hidden>Outline color <input type="color" id="outline-color" value="#000000"></label>
-      </div>
-      <div class="two-up caption-only" hidden>
-        <label>Background <input type="color" id="caption-bg" value="#000000">
-          <small class="muted">Green (#00b140) for chroma key</small>
-        </label>
-        <label class="check fit-check"><input type="checkbox" id="caption-transparent" checked> Transparent</label>
-      </div>
-
-      <div class="two-up">
-        <div class="field">
-          <span class="field-label" id="font-label">Text size</span>
-          <div class="stepper" role="group" aria-labelledby="font-label">
-            <button type="button" id="smaller" aria-label="Smaller text">−</button>
-            <output id="font-size" aria-live="polite"></output>
-            <button type="button" id="bigger" aria-label="Bigger text">+</button>
-          </div>
+        <div class="two-up caption-only" hidden>
+          <label>Background <input type="color" id="caption-bg" value="#000000">
+            <small class="muted">Green (#00b140) for chroma key</small>
+          </label>
+          <label class="check fit-check"><input type="checkbox" id="caption-transparent" checked> Transparent</label>
         </div>
-        <label class="check fit-check"><input type="checkbox" id="auto-font" checked> Fit automatically</label>
-      </div>
-      <label class="check"><input type="checkbox" id="labels"> Show labels (V1, CHO:)</label>
+        <details class="more-options">
+          <summary>More options</summary>
+          <label>Title slide <small class="muted">Optional. Shown before the first song.</small>
+            <input id="deck-title" placeholder="e.g. Homecell, 12 October" autocomplete="off">
+          </label>
+          <label>Slide size
+            <select id="slide-size">
+              <option value="wide">Wide (16:9)</option>
+              <option value="standard">Standard (4:3)</option>
+            </select>
+          </label>
+          <div class="two-up">
+            <div class="field">
+              <span class="field-label" id="font-label">Text size</span>
+              <div class="stepper" role="group" aria-labelledby="font-label">
+                <button type="button" id="smaller" aria-label="Smaller text">−</button>
+                <output id="font-size" aria-live="polite"></output>
+                <button type="button" id="bigger" aria-label="Bigger text">+</button>
+              </div>
+            </div>
+            <label class="check fit-check"><input type="checkbox" id="auto-font" checked> Auto size</label>
+          </div>
+          <label class="check"><input type="checkbox" id="labels"> Show section names (V1, CHO:)</label>
+        </details>
+      </section>
 
-      <p id="fit" class="fit" role="status"></p>
-      <div class="actions">
-        <button type="button" class="primary download-pptx" disabled>Download PowerPoint</button>
-        <button type="button" class="download-png" disabled>Download PNGs</button>
-        <button type="button" id="copy" title="Copy a link that opens just these slides">Copy link</button>
-      </div>
-      <p class="muted switch-page"><a href="sheet.html">Make a song sheet with these songs →</a></p>
+      <section class="step">
+        <h2><span class="step-number" aria-hidden="true">3</span> Save or share</h2>
+        <p id="fit" class="fit" role="status"></p>
+        <div class="actions">
+          <button type="button" class="primary download-pptx" disabled>Download PowerPoint</button>
+          <button type="button" class="download-png" disabled>Download PNGs</button>
+        </div>
+        <p class="share-row"><button type="button" id="copy" title="Copy a link that opens just these slides">Copy link</button> <span class="muted">to send these slides to others</span></p>
+        <p class="muted switch-page">Also make: <a href="sheet.html">Song sheet</a></p>
+      </section>
     </aside>
 
     <section class="sheet-preview" aria-label="Slides preview">
+      <h2 class="preview-heading">Preview</h2>
       <div class="view-bar ui">
         <button type="button" class="primary download-pptx" disabled>Download PowerPoint</button>
         <button type="button" class="download-png" disabled>Download PNGs</button>

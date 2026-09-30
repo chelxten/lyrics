@@ -10,91 +10,106 @@
 <body class="sheet-body">
   <header class="site-header wide no-print">
     <a href="./" class="brand">Lyrics Library</a>
-    <span class="muted">Song sheet</span>
+    <nav class="site-nav" aria-label="Main">
+      <a href="./#/songs">Songs</a>
+      <a href="sheet.html" aria-current="page">Song sheet</a>
+      <a href="slides.html#format=full" data-format="full">PowerPoint</a>
+      <a href="slides.html#format=captions" data-format="captions">Subtitles</a>
+    </nav>
   </header>
 
   <main class="sheet-layout wide">
     <aside class="sheet-controls ui no-print">
-      <h2>Songs <span class="muted" id="song-count"></span></h2>
-      <ol id="sheet-songs" class="sheet-songs"></ol>
-      <p id="no-songs" class="muted" hidden>
-        No songs yet. Search for songs below, or tap <b>+</b> next to songs in the <a href="./#/songs">song library</a>.
-      </p>
-      <div class="add-songs">
-        <label>Add songs
-          <input id="add-search" type="search" placeholder="Search a title or a line you remember…" autocomplete="off">
-        </label>
-        <ul id="add-results" class="add-results" hidden></ul>
-        <p class="muted add-more"><a href="./#/songs">Or pick songs in the song library →</a></p>
-      </div>
+      <section class="step">
+        <h2><span class="step-number" aria-hidden="true">1</span> Your songs <span class="muted" id="song-count"></span></h2>
+        <ol id="sheet-songs" class="sheet-songs"></ol>
+        <p class="muted song-help">✎ change the words · ↑ ↓ move · ✕ remove</p>
+        <p id="no-songs" class="muted" hidden>No songs yet. Type a song’s title or a line from it below to add it.</p>
+        <div class="add-songs">
+          <label>Add a song
+            <input id="add-search" type="search" placeholder="Type a title or a line you remember…" autocomplete="off">
+          </label>
+          <ul id="add-results" class="add-results" hidden></ul>
+          <p class="muted add-more"><a href="./#/songs">Or browse all songs →</a></p>
+        </div>
+      </section>
 
-      <label>Title on the sheet <small class="muted">Optional, printed at the top</small>
-        <input id="sheet-title" placeholder="e.g. Homecell, 12 October" autocomplete="off">
-      </label>
-      <div class="two-up">
-        <label>Page size
-          <select id="size">
-            <option value="A4">A4</option>
-            <option value="A5">A5</option>
-            <option value="Letter">Letter</option>
-            <option value="Legal">Legal</option>
-          </select>
+      <section class="step">
+        <h2><span class="step-number" aria-hidden="true">2</span> Set up the page</h2>
+        <label>Title <small class="muted">Optional. Printed at the top of the sheet.</small>
+          <input id="sheet-title" placeholder="e.g. Homecell, 12 October" autocomplete="off">
         </label>
-        <label>Orientation
-          <select id="orient">
-            <option value="portrait">Portrait</option>
-            <option value="landscape">Landscape</option>
-          </select>
-        </label>
-      </div>
-      <div class="two-up">
-        <div class="field">
-          <span class="field-label" id="pages-label">Pages</span>
-          <div class="stepper" role="group" aria-labelledby="pages-label">
-            <button type="button" id="fewer" aria-label="Fewer pages">−</button>
-            <input id="pages" type="number" min="1" max="20" value="1" inputmode="numeric" aria-labelledby="pages-label">
-            <button type="button" id="more" aria-label="More pages">+</button>
+        <div class="two-up">
+          <label>Paper size
+            <select id="size">
+              <option value="A4">A4</option>
+              <option value="A5">A5</option>
+              <option value="Letter">Letter</option>
+              <option value="Legal">Legal</option>
+            </select>
+          </label>
+          <div class="field">
+            <span class="field-label" id="pages-label">Pages</span>
+            <div class="stepper" role="group" aria-labelledby="pages-label">
+              <button type="button" id="fewer" aria-label="Fewer pages">−</button>
+              <input id="pages" type="number" min="1" max="20" value="1" inputmode="numeric" aria-labelledby="pages-label">
+              <button type="button" id="more" aria-label="More pages">+</button>
+            </div>
           </div>
         </div>
-        <label>Columns
-          <select id="cols">
-            <option value="auto">Automatic</option>
-            <option value="1">1</option>
-            <option value="2">2</option>
-            <option value="3">3</option>
-          </select>
-        </label>
-      </div>
-      <label>When a song doesn’t fit in a column
-        <select id="split">
-          <option value="flow">Continue it in the next column</option>
-          <option value="keep">Move the whole song to the next column</option>
-        </select>
-      </label>
-
-      <div class="two-up">
-        <div class="field">
-          <span class="field-label" id="font-label">Text size</span>
-          <div class="stepper" role="group" aria-labelledby="font-label">
-            <button type="button" id="smaller" aria-label="Smaller text">−</button>
-            <output id="font-size" aria-live="polite"></output>
-            <button type="button" id="bigger" aria-label="Bigger text">+</button>
+        <details class="more-options">
+          <summary>More options</summary>
+          <div class="two-up">
+            <label>Orientation
+              <select id="orient">
+                <option value="portrait">Portrait</option>
+                <option value="landscape">Landscape</option>
+              </select>
+            </label>
+            <label>Columns
+              <select id="cols">
+                <option value="auto">Auto</option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+              </select>
+            </label>
           </div>
-        </div>
-        <label class="check fit-check"><input type="checkbox" id="auto-font" checked> Fit to pages</label>
-      </div>
-      <label class="check"><input type="checkbox" id="labels" checked> Show labels (V1, CHO:)</label>
+          <label>If a song doesn’t fit in a column
+            <select id="split">
+              <option value="flow">Continue it in the next column</option>
+              <option value="keep">Move the whole song to the next column</option>
+            </select>
+          </label>
+          <div class="two-up">
+            <div class="field">
+              <span class="field-label" id="font-label">Text size</span>
+              <div class="stepper" role="group" aria-labelledby="font-label">
+                <button type="button" id="smaller" aria-label="Smaller text">−</button>
+                <output id="font-size" aria-live="polite"></output>
+                <button type="button" id="bigger" aria-label="Bigger text">+</button>
+              </div>
+            </div>
+            <label class="check fit-check"><input type="checkbox" id="auto-font" checked> Auto size (fill the pages)</label>
+          </div>
+          <label class="check"><input type="checkbox" id="labels" checked> Show section names (V1, CHO:)</label>
+        </details>
+      </section>
 
-      <p id="fit" class="fit" role="status"></p>
-      <div class="actions">
-        <button type="button" class="primary" id="print">Print / Save as PDF</button>
-        <button type="button" class="download-jpg">Download JPG</button>
-        <button type="button" id="copy" title="Copy a link that opens just this sheet">Copy link</button>
-      </div>
-      <p class="muted switch-page">Also make: <a href="slides.html#format=full">PowerPoint</a> · <a href="slides.html#format=captions">Subtitles</a></p>
+      <section class="step">
+        <h2><span class="step-number" aria-hidden="true">3</span> Save or share</h2>
+        <p id="fit" class="fit" role="status"></p>
+        <div class="actions">
+          <button type="button" class="primary" id="print">Print / Save as PDF</button>
+          <button type="button" class="download-jpg">Download JPG</button>
+        </div>
+        <p class="share-row"><button type="button" id="copy" title="Copy a link that opens just this sheet">Copy link</button> <span class="muted">to send this sheet to others</span></p>
+        <p class="muted switch-page">Also make: <a href="slides.html#format=full">PowerPoint</a> · <a href="slides.html#format=captions">Subtitles</a></p>
+      </section>
     </aside>
 
     <section class="sheet-preview" aria-label="Sheet preview">
+      <h2 class="preview-heading no-print">Preview</h2>
       <div class="view-bar ui no-print">
         <button type="button" class="primary" id="view-print">Print / Save as PDF</button>
         <button type="button" class="download-jpg">Download JPG</button>
