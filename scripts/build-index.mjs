@@ -45,7 +45,7 @@ function parse(raw) {
   for (const line of m[1].split('\n')) {
     const i = line.indexOf(':');
     if (i === -1) continue;
-    meta[line.slice(0, i).trim().toLowerCase()] = line.slice(i + 1).trim().replace(/^["']|["']$/g, '');
+    meta[line.slice(0, i).trim().toLowerCase()] = line.slice(i + 1).trim();
   }
   return { meta, body: m[2] };
 }

@@ -18,15 +18,26 @@ A free, searchable lyrics site. Each song is a text file in `songs/`, and GitHub
 4. After about a minute, the site is live at `https://YOUR-USERNAME.github.io/lyrics/`.
    The **Actions** tab shows the deploy progress.
 
-## Add a song
+## Edit songs in the admin panel
 
-1. Copy `songs/_template.md` to a new file, like `songs/my-song.md`.
-   The file name becomes the song's web address, so use lowercase words and dashes.
-2. Fill in the title, artist and lyrics.
-3. Commit and push, or use **Add file → Create new file** on GitHub's website.
-   The site updates itself within a minute or two.
+Open https://chelxten.github.io/lyrics/admin.html to add, edit and delete songs.
 
-Others can suggest songs by opening a pull request, which you approve before anything goes live.
+- The password only keeps casual visitors out. Anyone can read it in the page's code.
+- Saving needs a GitHub fine-grained token with **Contents: Read and write** access to this
+  repository only. You paste it once on each device, and it's stored only in that browser.
+- Each save is a commit to this repository, so GitHub keeps every earlier version.
+  The website updates about a minute after you save.
+
+## Song files
+
+Each song is a file in `songs/`. The file name is used in the song's web address.
+See `songs/_template.md` for the format:
+
+- `title:` is optional. Without it, the site shows the file name.
+- `font: win` means the song was typed with a Win Innwa-style Burmese font. The site converts
+  it to Unicode Burmese (see `scripts/win-to-unicode.mjs`). Put English words in `backticks`
+  so they aren't converted.
+- A line like `[Chorus]` shows up as a section label.
 
 ## Preview on your computer
 
@@ -39,4 +50,4 @@ Then open http://localhost:8000.
 ## About copyright
 
 Most song lyrics are copyrighted. Only publish lyrics you wrote, have permission for,
-or that are in the public domain, like the three examples included here.
+or that are in the public domain.

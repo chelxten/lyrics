@@ -98,6 +98,11 @@ function renderList() {
     .join('');
 }
 
+// Only show the Edit link on devices connected to the admin panel.
+function isAdmin() {
+  try { return Boolean(localStorage.getItem('lyrics-admin-token')); } catch { return false; }
+}
+
 function renderSong(slug) {
   const song = songs.find((s) => s.slug === slug);
   if (!song) {
@@ -114,7 +119,10 @@ function renderSong(slug) {
     .join('\n');
 
   songView.innerHTML = `
-    <a class="back" href="#/">← All songs</a>
+    <div class="song-tools">
+      <a class="back" href="#/">← All songs</a>
+      ${isAdmin() ? `<a class="back" href="admin.html#/edit/${encodeURIComponent(song.slug)}">Edit</a>` : ''}
+    </div>
     <h1>${escapeHtml(song.title)}</h1>
     ${meta ? `<p class="meta">${meta}</p>` : ''}
     ${song.tags.length ? `<ul class="tags">${song.tags.map((t) => `<li>${escapeHtml(t)}</li>`).join('')}</ul>` : ''}
@@ -140,7 +148,7 @@ function route() {
 input.addEventListener('input', renderList);
 window.addEventListener('hashchange', route);
 
-fetch('songs.json')
+fetch('songs.json', { cache: 'no-cache' })
   .then((r) => {
     if (!r.ok) throw new Error(r.status);
     return r.json();

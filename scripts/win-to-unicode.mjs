@@ -33,8 +33,12 @@ const RANK = { '\u103B': 1, '\u103C': 2, '\u103D': 3, '\u103E': 4, '\u1031': 5, 
   '\u103A': 11, '\u1038': 12 };
 
 // Text inside `backticks` (e.g. an English line) is left as-is; the backticks are removed.
+// Section labels on their own line, like [Chorus], are left as-is too.
 export function winToUnicode(text) {
-  return text.split('`').map((part, i) => (i % 2 ? part : convert(part))).join('');
+  return text
+    .split('`')
+    .map((part, i) => (i % 2 ? part : part.split('\n').map((line) => (/^\s*\[[^\]]*\]\s*$/.test(line) ? line : convert(line))).join('\n')))
+    .join('');
 }
 
 function convert(text) {
