@@ -4,7 +4,7 @@
 // MIN_WHOLE_FONT it splits long verses over two slides instead.
 // "Subtitles": one or two lines per slide at the bottom of the screen, like captions, with each
 // song's title as a caption first. "Fit automatically" uses the largest text that keeps every line
-// on one line.
+// on one line; below MIN_AUTO_CAPTION_FONT it lets long lines wrap instead.
 // The song list and ✎ edits are shared with the song sheet (see setlist.js).
 
 const SLIDE_SIZES = { wide: [13.333, 7.5], standard: [10, 7.5] }; // inches, PowerPoint's 16:9 and 4:3
@@ -26,6 +26,7 @@ const LINE_HEIGHT = 1.5; // same as .slide-text in style.css
 const MIN_FONT = 16; // pt
 const MIN_WHOLE_FONT = 28; // pt, "Fit automatically" splits long verses rather than go smaller
 const MAX_AUTO_FONT = 48; // pt, largest size "Fit automatically" will pick
+const MIN_AUTO_CAPTION_FONT = 28; // pt, "Fit automatically" lets long lines wrap rather than go smaller
 const MAX_AUTO_CAPTION_FONT = 40; // pt, largest subtitle size "Fit automatically" will pick
 const MAX_FONT = 96; // pt, largest size that can be chosen by hand
 const MANUAL_STEP = 2; // pt, one press of − / +
@@ -215,7 +216,7 @@ function buildCaptions(songs) {
   return captions;
 }
 
-// The widest line (px) when no line wraps, and the tallest caption when lines wrap at widthPx.
+// The widest line (px) when no line wraps, and each caption's height when lines wrap at widthPx.
 function measureCaptions(captions, widthPx, fontPt) {
   setMeasureHtml(captions
     .map((c) => `<div class="${c.kind === 'title' ? 'is-title' : ''}">${c.lines.map((line) => `<div><span>${escapeHtml(line)}</span></div>`).join('')}</div>`)
@@ -224,8 +225,8 @@ function measureCaptions(captions, widthPx, fontPt) {
   ui.measure.style.width = 'max-content';
   const widest = Math.max(...[...ui.measure.querySelectorAll('span')].map((span) => span.getBoundingClientRect().width));
   ui.measure.style.width = `${widthPx}px`;
-  const tallest = Math.max(...[...ui.measure.children].map((caption) => caption.getBoundingClientRect().height));
-  return { widest, tallest };
+  const heights = [...ui.measure.children].map((caption) => caption.getBoundingClientRect().height);
+  return { widest, heights };
 }
 
 function captionLayout(captions, w) {
@@ -233,9 +234,9 @@ function captionLayout(captions, w) {
   const fitsOnOneLine = (f) => measureCaptions(captions, widthPx, f).widest <= widthPx * SAFETY;
   let font = manualFont;
   if (font === null) {
-    font = MIN_FONT;
+    font = MIN_AUTO_CAPTION_FONT;
     if (fitsOnOneLine(font)) {
-      let lo = MIN_FONT;
+      let lo = MIN_AUTO_CAPTION_FONT;
       let hi = MAX_AUTO_CAPTION_FONT;
       while (lo < hi) {
         const mid = Math.ceil((lo + hi) / 2);
@@ -245,9 +246,10 @@ function captionLayout(captions, w) {
       font = lo;
     }
   }
-  const { widest, tallest } = measureCaptions(captions, widthPx, font);
-  // Every caption uses the same band, tall enough for the tallest one.
-  return { font, slides: captions, wraps: widest > widthPx * SAFETY, bandPx: tallest + 2 * CAPTION_PAD * PX_PER_IN };
+  const { widest, heights } = measureCaptions(captions, widthPx, font);
+  // Each caption's band fits its own text, and grows upwards from the bottom.
+  const slides = captions.map((caption, i) => ({ ...caption, bandPx: heights[i] + 2 * CAPTION_PAD * PX_PER_IN }));
+  return { font, slides, wraps: widest > widthPx * SAFETY };
 }
 
 // ---- Rendering ----
@@ -261,10 +263,10 @@ function fullSlideHtml(slide, { w, h, font, theme }) {
     </div>`;
 }
 
-function captionSlideHtml(slide, { w, h, font, bandPx, background, band }) {
+function captionSlideHtml(slide, { w, h, font, background, band }) {
   return `
     <div class="slide slide-text caption-slide ${band ? 'has-band' : 'has-outline'}" style="width:${px(w)}px;height:${px(h)}px;background:${background.css};font-size:${font}pt">
-      <div class="caption" style="bottom:${px(CAPTION_BOTTOM)}px;height:${bandPx}px;padding:0 ${px(CAPTION_SIDE)}px">
+      <div class="caption" style="bottom:${px(CAPTION_BOTTOM)}px;height:${slide.bandPx}px;padding:0 ${px(CAPTION_SIDE)}px">
         <div class="caption-text${slide.kind === 'title' ? ' is-title' : ''}">${slide.lines.map(escapeHtml).join('\n')}</div>
       </div>
     </div>`;
@@ -305,7 +307,6 @@ function update() {
     captions,
     font: result.font,
     slides: result.slides,
-    bandPx: result.bandPx,
     theme: THEMES[ui.theme.value],
     background: BACKGROUNDS[ui.background.value],
     band: ui.textStyle.value === 'band',
@@ -375,8 +376,8 @@ function addFullSlide(s, slide, { w, h, font, theme }) {
   });
 }
 
-function addCaptionSlide(pptx, s, slide, { w, h, font, bandPx, background, band }) {
-  const bandH = bandPx / PX_PER_IN;
+function addCaptionSlide(pptx, s, slide, { w, h, font, background, band }) {
+  const bandH = slide.bandPx / PX_PER_IN;
   const y = h - CAPTION_BOTTOM - bandH;
   s.background = { color: background.pptx };
   if (band) {
