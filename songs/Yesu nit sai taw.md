@@ -2,7 +2,7 @@
 title: a,½IESifhqdkifaomaMumifh
 font: win
 ---
-(a,½IESifhqdkifaomaMumifh 0rf;ajy®mufonf) 3
+(a,½IESifhqdkifaomaMumifh 0rf;ajrmufonf) 3
 [mavvk,m csD;rGrf;av
 
 (csD;rGrf;av...tmrif...tmrif) 6
