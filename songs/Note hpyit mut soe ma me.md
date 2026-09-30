@@ -1,4 +1,5 @@
 ---
+title: EIwfjzifh>rwfqdkrrDS
 font: win
 ---
 tBuD;jrwfqkH; udk,fawmfbk&m;om taumif;jrwfqkH; a,½Ibk&m;omuRekfyftm; u,fwifa&G;EIwfaombk&m;
