@@ -60,9 +60,10 @@ After picking songs with **+**, tap **Slides** (or **Make slides with these song
 sheet page). `slides.html` makes a PowerPoint file: an optional title slide, then for each song a
 title slide and one slide per verse. There are two formats:
 
-- **Full screen**: one verse per slide, white text on black or black on white.
-- **Subtitles**: one or two lines per slide at the bottom of the screen, on a transparent, black or
-  green (chroma key) background, as white text on a dark band or outlined. Each song starts with its
+- **Full screen**: one verse per slide, with a color picker for the background and the text.
+- **Subtitles**: one or two lines per slide at the bottom of the screen, as text on a band (with a
+  band color and an opacity slider) or as outlined text (with an outline color). The text and the
+  background have color pickers too, and the background can be transparent. Each song starts with its
   title as a caption. Transparent PNGs can go straight over video in OBS, vMix or a video editor.
 
 You can choose widescreen (16:9) or standard (4:3), labels on or off, and the text size (**Fit automatically** picks the

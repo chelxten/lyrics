@@ -487,11 +487,10 @@ body.has-tray main { padding-bottom: 110px; }
 .slide-frame.is-transparent { background: repeating-conic-gradient(#d9d9d9 0 25%, #fff 0 50%) 0 0 / 16px 16px; }
 .caption-slide { display: block; }
 .caption { position: absolute; left: 0; right: 0; display: flex; align-items: center; }
-/* opacity matches BAND_OPACITY in slides.js */
-.caption-slide.has-band .caption { background: rgba(0, 0, 0, 0.6); }
-.caption-text { width: 100%; color: #fff; }
+.caption-text { width: 100%; }
 .caption-slide.has-outline .caption-text {
-  text-shadow: -2px -2px 0 #000, 2px -2px 0 #000, -2px 2px 0 #000, 2px 2px 0 #000, 0 0 6px #000;
+  --o: var(--outline, #000);
+  text-shadow: -2px -2px 0 var(--o), 2px -2px 0 var(--o), -2px 2px 0 var(--o), 2px 2px 0 var(--o), 0 0 6px var(--o);
 }
 .caption-text.is-title, .slide-measure .is-title { font-weight: 700; }
 
@@ -563,3 +562,8 @@ body.has-tray main { padding-bottom: 110px; }
 .add-results button[aria-pressed="true"] .add-mark { background: var(--accent); border-color: var(--accent); color: var(--on-accent); }
 .add-note { padding: 8px 10px; font-size: 0.85rem; color: var(--muted); }
 .add-songs .add-more { margin: 8px 0 0; }
+
+/* Slides: color pickers and the band opacity slider */
+.ui label input[type="color"] { height: 42px; padding: 4px; cursor: pointer; }
+.ui label input[type="range"] { padding: 0; border: none; background: none; accent-color: var(--accent); }
+#band-opacity-value { float: right; font-weight: 400; color: var(--muted); }

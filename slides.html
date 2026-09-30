@@ -43,12 +43,6 @@
             <option value="standard">Standard 4:3</option>
           </select>
         </label>
-        <label class="full-only">Colors
-          <select id="theme">
-            <option value="dark">White on black</option>
-            <option value="light">Black on white</option>
-          </select>
-        </label>
         <label class="caption-only" hidden>Lines per slide
           <select id="caption-lines">
             <option value="1">1 line</option>
@@ -56,20 +50,31 @@
           </select>
         </label>
       </div>
+      <div class="two-up full-only">
+        <label>Background <input type="color" id="full-bg" value="#000000"></label>
+        <label>Text <input type="color" id="full-text" value="#ffffff"></label>
+      </div>
       <div class="two-up caption-only" hidden>
-        <label>Background
-          <select id="caption-bg">
-            <option value="transparent">Transparent</option>
-            <option value="black">Black</option>
-            <option value="green">Green (chroma key)</option>
-          </select>
-        </label>
         <label>Text style
           <select id="caption-style">
-            <option value="band">Dark band</option>
-            <option value="outline">Outlined</option>
+            <option value="band">Band behind the text</option>
+            <option value="outline">Outlined text</option>
           </select>
         </label>
+        <label>Text color <input type="color" id="caption-text" value="#ffffff"></label>
+      </div>
+      <div class="two-up caption-only" hidden>
+        <label class="band-only">Band color <input type="color" id="band-color" value="#000000"></label>
+        <label class="band-only">Band opacity <output id="band-opacity-value">60%</output>
+          <input type="range" id="band-opacity" min="0" max="100" step="5" value="60">
+        </label>
+        <label class="outline-only" hidden>Outline color <input type="color" id="outline-color" value="#000000"></label>
+      </div>
+      <div class="two-up caption-only" hidden>
+        <label>Background <input type="color" id="caption-bg" value="#000000">
+          <small class="muted">Green (#00b140) for chroma key</small>
+        </label>
+        <label class="check fit-check"><input type="checkbox" id="caption-transparent" checked> Transparent</label>
       </div>
 
       <div class="two-up">

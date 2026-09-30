@@ -10,17 +10,12 @@
 const SLIDE_SIZES = { wide: [13.333, 7.5], standard: [10, 7.5] }; // inches, PowerPoint's 16:9 and 4:3
 const MARGIN = 0.5; // inches around the text
 const PX_PER_IN = 96;
-const THEMES = { dark: { bg: '000000', text: 'FFFFFF' }, light: { bg: 'FFFFFF', text: '111111' } };
-// Subtitle backgrounds. PowerPoint slides can't be transparent, so the presentation uses black.
-const BACKGROUNDS = {
-  transparent: { css: 'transparent', pptx: '000000' },
-  black: { css: '#000000', pptx: '000000' },
-  green: { css: '#00b140', pptx: '00B140' },
-};
+// Colors of links made before the color pickers: Colors ("theme") and the subtitle Background ("bg").
+const OLD_THEMES = { dark: ['000000', 'ffffff'], light: ['ffffff', '111111'] };
+const OLD_BACKGROUNDS = { black: '000000', green: '00b140' };
 const CAPTION_SIDE = 0.6; // inches from the sides of the screen to the subtitle text
 const CAPTION_BOTTOM = 0.4; // inches from the bottom of the screen to the subtitles
-const CAPTION_PAD = 0.12; // inches of dark band above and below the subtitle text
-const BAND_OPACITY = 0.6; // same as .has-band .caption in style.css
+const CAPTION_PAD = 0.12; // inches of band above and below the subtitle text
 const FONT_FACE = 'Myanmar Text'; // Burmese font that comes with Windows; other systems use their own
 const LINE_HEIGHT = 1.5; // same as .slide-text in style.css
 const MIN_FONT = 16; // pt
@@ -47,10 +42,17 @@ const ui = {
   title: $('#deck-title'),
   format: $('#format'),
   size: $('#slide-size'),
-  theme: $('#theme'),
+  fullBg: $('#full-bg'),
+  fullText: $('#full-text'),
   lines: $('#caption-lines'),
-  background: $('#caption-bg'),
   textStyle: $('#caption-style'),
+  captionText: $('#caption-text'),
+  bandColor: $('#band-color'),
+  bandOpacity: $('#band-opacity'),
+  bandOpacityValue: $('#band-opacity-value'),
+  outlineColor: $('#outline-color'),
+  captionBg: $('#caption-bg'),
+  transparent: $('#caption-transparent'),
   fontSize: $('#font-size'),
   autoFont: $('#auto-font'),
   labels: $('#labels'),
@@ -79,10 +81,23 @@ function readSettings() {
   const pick = (key, fallback) => params.get(key) ?? saved[key] ?? fallback;
   ui.format.value = pick('format', 'full') === 'captions' ? 'captions' : 'full';
   ui.size.value = SLIDE_SIZES[pick('size', 'wide')] ? pick('size', 'wide') : 'wide';
-  ui.theme.value = THEMES[pick('theme', 'dark')] ? pick('theme', 'dark') : 'dark';
   ui.lines.value = pick('lines', '2') === '1' ? '1' : '2';
-  ui.background.value = BACKGROUNDS[pick('bg', 'transparent')] ? pick('bg', 'transparent') : 'transparent';
   ui.textStyle.value = pick('style', 'band') === 'outline' ? 'outline' : 'band';
+  // Colors are saved as hex without the #, e.g. 000000.
+  const color = (key, fallback) => {
+    const value = String(pick(key, fallback)).replace(/^#/, '').toLowerCase();
+    return `#${/^[0-9a-f]{6}$/.test(value) ? value : fallback}`;
+  };
+  const oldTheme = OLD_THEMES[pick('theme', '')];
+  const oldBackground = pick('bg', '');
+  ui.fullBg.value = color('fbg', oldTheme ? oldTheme[0] : '000000');
+  ui.fullText.value = color('ftext', oldTheme ? oldTheme[1] : 'ffffff');
+  ui.captionText.value = color('ctext', 'ffffff');
+  ui.bandColor.value = color('band', '000000');
+  ui.bandOpacity.value = Math.min(100, Math.max(0, parseInt(pick('bandop', '60'), 10) || 0));
+  ui.outlineColor.value = color('outline', '000000');
+  ui.captionBg.value = color('cbg', OLD_BACKGROUNDS[oldBackground] || '000000');
+  ui.transparent.checked = pick('transparent', oldBackground && oldBackground !== 'transparent' ? '0' : '1') !== '0';
   ui.labels.checked = pick('labels', '0') === '1';
   ui.title.value = params.get('title') ?? '';
   const font = params.get('font');
@@ -97,10 +112,16 @@ function saveSettings() {
   const settings = {
     format: ui.format.value,
     size: ui.size.value,
-    theme: ui.theme.value,
     lines: ui.lines.value,
-    bg: ui.background.value,
     style: ui.textStyle.value,
+    fbg: ui.fullBg.value.slice(1),
+    ftext: ui.fullText.value.slice(1),
+    ctext: ui.captionText.value.slice(1),
+    band: ui.bandColor.value.slice(1),
+    bandop: ui.bandOpacity.value,
+    outline: ui.outlineColor.value.slice(1),
+    cbg: ui.captionBg.value.slice(1),
+    transparent: ui.transparent.checked ? '1' : '0',
     labels: ui.labels.checked ? '1' : '0',
   };
   Object.entries(settings).forEach(([key, value]) => params.set(key, value));
@@ -114,9 +135,16 @@ function saveSettings() {
 
 // Show the settings that belong to the chosen format.
 function showFormatControls() {
+  const band = ui.textStyle.value === 'band';
   document.querySelectorAll('.full-only').forEach((el) => { el.hidden = isCaptions(); });
   document.querySelectorAll('.caption-only').forEach((el) => { el.hidden = !isCaptions(); });
+  document.querySelectorAll('.band-only').forEach((el) => { el.hidden = !band; });
+  document.querySelectorAll('.outline-only').forEach((el) => { el.hidden = band; });
+  ui.bandOpacityValue.textContent = `${ui.bandOpacity.value}%`;
 }
+
+const hex = (input) => input.value.slice(1).toUpperCase(); // #aabbcc -> AABBCC, as PowerPoint wants
+const rgba = (color, opacity) => `rgba(${[0, 2, 4].map((i) => parseInt(color.slice(i, i + 2), 16)).join(', ')}, ${opacity})`;
 
 // ---- Full screen: an optional title slide, then per song a title slide and one slide per verse ----
 
@@ -256,17 +284,17 @@ function captionLayout(captions, w) {
 
 const px = (inches) => inches * PX_PER_IN;
 
-function fullSlideHtml(slide, { w, h, font, theme }) {
+function fullSlideHtml(slide, { w, h, font, full }) {
   return `
-    <div class="slide slide-text" style="width:${px(w)}px;height:${px(h)}px;padding:${px(MARGIN)}px;background:#${theme.bg};color:#${theme.text};font-size:${slideFont(slide, font)}pt">
+    <div class="slide slide-text" style="width:${px(w)}px;height:${px(h)}px;padding:${px(MARGIN)}px;background:#${full.bg};color:#${full.text};font-size:${slideFont(slide, font)}pt">
       <div class="slide-body${slide.kind === 'title' ? ' is-title' : ''}">${slide.lines.map(escapeHtml).join('\n')}</div>
     </div>`;
 }
 
-function captionSlideHtml(slide, { w, h, font, background, band }) {
+function captionSlideHtml(slide, { w, h, font, caption: c }) {
   return `
-    <div class="slide slide-text caption-slide ${band ? 'has-band' : 'has-outline'}" style="width:${px(w)}px;height:${px(h)}px;background:${background.css};font-size:${font}pt">
-      <div class="caption" style="bottom:${px(CAPTION_BOTTOM)}px;height:${slide.bandPx}px;padding:0 ${px(CAPTION_SIDE)}px">
+    <div class="slide slide-text caption-slide ${c.band ? 'has-band' : 'has-outline'}" style="width:${px(w)}px;height:${px(h)}px;background:${c.transparent ? 'transparent' : `#${c.bg}`};color:#${c.text};--outline:#${c.outline};font-size:${font}pt">
+      <div class="caption" style="bottom:${px(CAPTION_BOTTOM)}px;height:${slide.bandPx}px;padding:0 ${px(CAPTION_SIDE)}px${c.band ? `;background:${rgba(c.bandColor, c.bandOpacity)}` : ''}">
         <div class="caption-text${slide.kind === 'title' ? ' is-title' : ''}">${slide.lines.map(escapeHtml).join('\n')}</div>
       </div>
     </div>`;
@@ -307,14 +335,21 @@ function update() {
     captions,
     font: result.font,
     slides: result.slides,
-    theme: THEMES[ui.theme.value],
-    background: BACKGROUNDS[ui.background.value],
-    band: ui.textStyle.value === 'band',
+    full: { bg: hex(ui.fullBg), text: hex(ui.fullText) },
+    caption: {
+      band: ui.textStyle.value === 'band',
+      text: hex(ui.captionText),
+      bandColor: hex(ui.bandColor),
+      bandOpacity: Number(ui.bandOpacity.value) / 100,
+      outline: hex(ui.outlineColor),
+      bg: hex(ui.captionBg),
+      transparent: ui.transparent.checked,
+    },
   };
   setButtons(ui.pptxButtons, null, PPTX_LABEL);
   setButtons(ui.pngButtons, null, PNG_LABEL);
 
-  const transparent = captions && ui.background.value === 'transparent';
+  const transparent = captions && ui.transparent.checked;
   ui.out.innerHTML = result.slides
     .map((slide, i) => `
       <figure class="slide-item">
@@ -330,7 +365,7 @@ function update() {
   let note = '';
   if (result.split) note += ' Some verses are too long for one slide at this size, so they continue on the next slide.';
   if (result.wraps) note += ' Some lines are too long for one line at this size, so they wrap.';
-  if (transparent) note += ' PowerPoint slides can’t be transparent, so the presentation has a black background; the PNGs are transparent.';
+  if (transparent) note += ' PowerPoint slides can’t be transparent, so the presentation uses the background color; the PNGs are transparent.';
   ui.fit.className = 'fit';
   ui.fit.textContent = `${count}, text size ${result.font} pt.${note}`;
 }
@@ -356,9 +391,9 @@ const loadLibrary = () => SetList.loadScript(PPTX_LIBRARY, PPTX_LIBRARY_INTEGRIT
 const fileName = () => SetList.fileName(ui.title.value, 'Songs');
 const textRuns = (lines) => lines.map((text, i) => ({ text, options: { breakLine: i < lines.length - 1 } }));
 
-function addFullSlide(s, slide, { w, h, font, theme }) {
+function addFullSlide(s, slide, { w, h, font, full }) {
   const size = slideFont(slide, font);
-  s.background = { color: theme.bg };
+  s.background = { color: full.bg };
   s.addText(textRuns(slide.lines), {
     x: MARGIN,
     y: MARGIN,
@@ -368,7 +403,7 @@ function addFullSlide(s, slide, { w, h, font, theme }) {
     fontFace: FONT_FACE,
     fontSize: size,
     bold: slide.kind === 'title',
-    color: theme.text,
+    color: full.text,
     align: 'center',
     valign: 'middle',
     lineSpacing: size * LINE_HEIGHT,
@@ -376,12 +411,12 @@ function addFullSlide(s, slide, { w, h, font, theme }) {
   });
 }
 
-function addCaptionSlide(pptx, s, slide, { w, h, font, background, band }) {
+function addCaptionSlide(pptx, s, slide, { w, h, font, caption: c }) {
   const bandH = slide.bandPx / PX_PER_IN;
   const y = h - CAPTION_BOTTOM - bandH;
-  s.background = { color: background.pptx };
-  if (band) {
-    s.addShape(pptx.ShapeType.rect, { x: 0, y, w, h: bandH, fill: { color: '000000', transparency: Math.round((1 - BAND_OPACITY) * 100) } });
+  s.background = { color: c.bg }; // also when "Transparent" is ticked: PowerPoint slides can't be transparent
+  if (c.band) {
+    s.addShape(pptx.ShapeType.rect, { x: 0, y, w, h: bandH, fill: { color: c.bandColor, transparency: Math.round((1 - c.bandOpacity) * 100) } });
   }
   s.addText(textRuns(slide.lines), {
     x: CAPTION_SIDE,
@@ -392,11 +427,11 @@ function addCaptionSlide(pptx, s, slide, { w, h, font, background, band }) {
     fontFace: FONT_FACE,
     fontSize: font,
     bold: slide.kind === 'title',
-    color: 'FFFFFF',
+    color: c.text,
     align: 'center',
     valign: 'middle',
     lineSpacing: font * LINE_HEIGHT,
-    ...(band ? {} : { outline: { size: 1.5, color: '000000' } }),
+    ...(c.band ? {} : { outline: { size: 1.5, color: c.outline } }),
   });
 }
 
@@ -466,7 +501,15 @@ function scheduleUpdate() {
   timer = setTimeout(update, 150);
 }
 
-[ui.size, ui.theme, ui.lines, ui.background, ui.textStyle, ui.labels].forEach((el) => el.addEventListener('change', update));
+[ui.size, ui.lines, ui.textStyle, ui.transparent, ui.labels].forEach((el) => el.addEventListener('change', update));
+// Colors and the band opacity redraw while they're being picked or dragged.
+[ui.fullBg, ui.fullText, ui.captionText, ui.bandColor, ui.bandOpacity, ui.outlineColor, ui.captionBg].forEach((el) => {
+  el.addEventListener('input', () => {
+    ui.bandOpacityValue.textContent = `${ui.bandOpacity.value}%`;
+    scheduleUpdate();
+  });
+  el.addEventListener('change', update);
+});
 // Each format has its own automatic text size.
 ui.format.addEventListener('change', () => {
   manualFont = null;
