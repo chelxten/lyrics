@@ -27,6 +27,12 @@ jobs:
         with:
           node-version: 22
       - run: node scripts/build-index.mjs
+      # Stamp this version on script and stylesheet links, so browsers load the new files after
+      # every deploy instead of a saved older copy.
+      - run: |
+          V="${GITHUB_SHA::7}"
+          sed -i -E "s#(src|href)=\"([A-Za-z0-9_./-]+\.(js|mjs|css))\"#\1=\"\2?v=$V\"#g" *.html
+          sed -i -E "s#from '(\./[A-Za-z0-9_./-]+\.m?js)'#from '\1?v=$V'#g" *.js
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
