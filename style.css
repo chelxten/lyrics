@@ -379,7 +379,7 @@ body.has-tray main { padding-bottom: 110px; }
   .sheet-page:last-child { break-after: auto; }
 }
 
-/* Song sheet: text size, labels and line editor */
+/* Song sheet: text size, labels and sheet editor */
 .ui .stepper output {
   flex: 1;
   min-width: 0;
@@ -432,4 +432,3 @@ body.has-tray main { padding-bottom: 110px; }
   outline: none;
 }
 .line-editor textarea:focus { border-color: var(--accent); }
-.edit-hint { margin: 8px 0 0; color: var(--danger); }

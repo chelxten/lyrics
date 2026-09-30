@@ -1,7 +1,7 @@
 // Song sheet: lays the picked songs out on the chosen pages. With "Fit to pages" it uses the
 // largest text that fits; otherwise it uses the chosen text size and as many pages as needed.
 // Songs flow down each column and on to the next; a verse is never split unless it is longer
-// than a whole column. Line edits (Enter / Delete only) apply to this sheet, not the songs.
+// than a whole column. Edits made with ✎ apply to this sheet only, never to the song files.
 
 const PAGE_SIZES = { A4: [210, 297], A5: [148, 210], Letter: [215.9, 279.4], Legal: [215.9, 355.6] }; // mm, portrait
 const MARGIN = 12; // mm around the page
@@ -43,7 +43,6 @@ const ui = {
   editor: $('#line-editor'),
   editTitle: $('#edit-title'),
   editText: $('#edit-text'),
-  editHint: $('#edit-hint'),
 };
 
 let songsBySlug = {};
@@ -51,7 +50,7 @@ let picked = [];
 let edits = {}; // slug -> { text, base } where base is the song's lyrics when it was edited
 let manualFont = null; // pt, or null for "Fit to pages"
 let lastFont = 11; // size used by the latest layout
-let editing = null; // slug open in the line editor
+let editing = null; // slug open in the sheet editor
 let encodedEdits = ''; // edits packed into the share link
 let lastLayout = null;
 
@@ -168,7 +167,7 @@ function renderSongList() {
       <li class="${editing === song.slug ? 'is-editing' : ''}">
         <span class="name">${escapeHtml(song.title)}${edits[song.slug] ? ' <small class="edited">edited</small>' : ''}</span>
         <span class="tools">
-          <button type="button" data-edit="${i}" aria-label="Edit lines of ${escapeHtml(song.title)}" title="Edit lines">✎</button>
+          <button type="button" data-edit="${i}" aria-label="Edit ${escapeHtml(song.title)} for this sheet" title="Edit for this sheet">✎</button>
           <button type="button" data-move="-1" data-i="${i}" aria-label="Move up" ${i === 0 ? 'disabled' : ''}>↑</button>
           <button type="button" data-move="1" data-i="${i}" aria-label="Move down" ${i === songs.length - 1 ? 'disabled' : ''}>↓</button>
           <button type="button" data-remove="${i}" aria-label="Remove">✕</button>
@@ -199,56 +198,14 @@ ui.list.addEventListener('click', (e) => {
   update();
 });
 
-// ---- Line editor: only line breaks can be added or removed, or whole lines deleted ----
+// ---- Sheet editor: change the words or lines of a song for this sheet only ----
 
-const isWhitespace = (s) => /^\s*$/.test(s);
-const isWholeLines = (value, start, end) =>
-  (start === 0 || value[start - 1] === '\n') && (end === value.length || value[end] === '\n' || value[end - 1] === '\n');
-
-function isAllowedEdit(e) {
-  const { value, selectionStart: start, selectionEnd: end } = ui.editText;
-  const type = e.inputType;
-  if (type === 'historyUndo' || type === 'historyRedo') return true;
-  const selected = value.slice(start, end);
-  if (type === 'insertLineBreak' || type === 'insertParagraph') return !selected || isWhitespace(selected) || isWholeLines(value, start, end);
-  if (type.startsWith('delete')) {
-    if (start !== end) return isWhitespace(selected) || isWholeLines(value, start, end);
-    if (type === 'deleteContentBackward') return start > 0 && /\s/.test(value[start - 1]);
-    if (type === 'deleteContentForward') return start < value.length && /\s/.test(value[start]);
-  }
-  return false; // typing, pasting, dropping, deleting words
-}
-
-let hintTimer;
-function showHint() {
-  ui.editHint.hidden = false;
-  clearTimeout(hintTimer);
-  hintTimer = setTimeout(() => { ui.editHint.hidden = true; }, 3500);
-}
-
-let lastGoodText = '';
-ui.editText.addEventListener('beforeinput', (e) => {
-  if (!isAllowedEdit(e)) {
-    e.preventDefault();
-    showHint();
-  }
-});
-ui.editText.addEventListener('input', (e) => {
-  // Some keyboards (e.g. composing text) can't be blocked beforehand, so undo those afterwards.
-  if (e.inputType && e.inputType.includes('Composition')) {
-    ui.editText.value = lastGoodText;
-    showHint();
-    return;
-  }
-  lastGoodText = ui.editText.value;
+ui.editText.addEventListener('input', () => {
   const song = songsBySlug[editing];
   if (!song) return;
   edits[song.slug] = { text: ui.editText.value, base: song.lyrics };
   editsChanged();
   scheduleUpdate();
-});
-ui.editText.addEventListener('compositionend', () => {
-  ui.editText.value = lastGoodText;
 });
 
 function openEditor(slug) {
@@ -256,7 +213,7 @@ function openEditor(slug) {
   if (!song) return;
   editing = slug;
   ui.editTitle.textContent = song.title;
-  ui.editText.value = lastGoodText = sheetText(song);
+  ui.editText.value = sheetText(song);
   ui.editor.hidden = false;
   renderSongList();
   ui.editor.scrollIntoView({ behavior: 'smooth', block: 'start' });
@@ -272,9 +229,9 @@ function closeEditor() {
 $('#edit-done').addEventListener('click', closeEditor);
 $('#edit-reset').addEventListener('click', () => {
   const song = songsBySlug[editing];
-  if (!song || !confirm('Undo all line changes to this song on the sheet?')) return;
+  if (!song || !confirm('Undo all changes to this song on the sheet?')) return;
   delete edits[song.slug];
-  ui.editText.value = lastGoodText = song.lyrics;
+  ui.editText.value = song.lyrics;
   editsChanged();
   update();
 });

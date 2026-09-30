@@ -38,8 +38,8 @@ On the sheet page you can also:
 
 - turn the labels off,
 - set the text size yourself (the sheet then uses as many pages as it needs),
-- change the line breaks of a song with **✎**: only Enter, Backspace/Delete and deleting whole
-  lines are allowed, so the words stay as they are. These edits only apply to that sheet.
+- edit a song's words and line breaks with **✎**. These edits only apply to that sheet: they're
+  kept in the browser and in the sheet's link, and the song file in the repository never changes.
 
 **Copy link** shares the exact sheet, including line edits.
 
