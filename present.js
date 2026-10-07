@@ -196,7 +196,7 @@
   ['mousemove', 'touchstart'].forEach((type) => single.root.addEventListener(type, showControls, { passive: true }));
 
   document.addEventListener('keydown', (e) => {
-    if (!show || e.target.closest('input, textarea, select')) return;
+    if (!show || (e.target instanceof Element && e.target.closest('input, textarea, select'))) return;
     if (e.key === 'Escape') {
       stop();
       return;
