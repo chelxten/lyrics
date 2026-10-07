@@ -82,7 +82,7 @@
       const update = () => {
         tray.hidden = !songs.length;
         document.body.classList.toggle('has-tray', songs.length > 0);
-        tray.querySelector('.count').innerHTML = `<b>${songs.length}</b> <span class="wide-only">${songs.length === 1 ? 'song' : 'songs'} </span>picked`;
+        tray.querySelector('.count').innerHTML = `<b>${songs.length}</b> in your set`;
       };
       listeners.add(update);
       update();

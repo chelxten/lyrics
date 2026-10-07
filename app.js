@@ -21,7 +21,7 @@ const { normalize, highlight } = SongSearch;
 function renderWelcome() {
   if (songs.length) $('#library-count').textContent = `Search all ${songs.length} songs`;
   const picked = SongSelection.all().length;
-  $('#picked-hint').textContent = picked ? `${picked} ${picked === 1 ? 'song' : 'songs'} picked` : '';
+  $('#picked-hint').textContent = picked ? `${picked} in your set` : '';
 }
 
 function renderList() {

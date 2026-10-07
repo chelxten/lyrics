@@ -337,7 +337,7 @@ function fullSlideHtml(slide, { w, h, font, full }) {
 }
 
 // The reference in the corner of Bible slides.
-const footerFont = (font) => Math.max(12, Math.round(font * 0.4));
+const footerFont = (font) => Math.max(16, Math.round(font * 0.55));
 
 function captionSlideHtml(slide, { w, h, font, caption: c }) {
   return `
