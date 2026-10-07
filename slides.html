@@ -104,6 +104,10 @@
           <button type="button" class="primary download-pptx" disabled>Download PowerPoint</button>
           <button type="button" class="download-png" disabled>Download PNGs</button>
         </div>
+        <div class="present-row">
+          <button type="button" class="present-start" data-present="single" disabled>▶ Present</button>
+          <button type="button" class="present-start presenter-only" data-present="presenter" disabled>Presenter view</button>
+        </div>
         <p class="share-row"><button type="button" id="copy" title="Copy a link that opens just these slides">Copy link to share</button></p>
         <p class="muted switch-page">Also make: <a href="sheet.html">Song sheet</a></p>
       </section>
@@ -114,6 +118,7 @@
       <div class="view-bar ui">
         <button type="button" class="primary download-pptx" disabled>Download PowerPoint</button>
         <button type="button" class="download-png" disabled>Download PNGs</button>
+        <button type="button" class="present-start" data-present="single" disabled>▶ Present</button>
       </div>
       <div id="line-editor" class="line-editor ui" hidden>
         <div class="line-editor-head">
@@ -135,9 +140,53 @@
 
   <div id="measure" class="slide-measure slide-text" aria-hidden="true"></div>
 
+  <!-- Presenting: full screen in this window -->
+  <div id="present" class="present" hidden>
+    <div class="present-stage" id="present-stage"></div>
+    <div class="present-controls" role="toolbar" aria-label="Presentation">
+      <button type="button" data-act="prev" aria-label="Previous slide">◀</button>
+      <span id="present-count" class="present-count"></span>
+      <button type="button" data-act="next" aria-label="Next slide">▶</button>
+      <button type="button" data-act="blank" title="Blank the screen (B)">Blank</button>
+      <button type="button" data-act="exit">Exit</button>
+    </div>
+  </div>
+
+  <!-- Presenting: presenter view in this window, slides in an audience window -->
+  <div id="presenter" class="presenter ui" hidden>
+    <header class="presenter-bar">
+      <strong>Presenter view</strong>
+      <button type="button" id="presenter-timer" class="presenter-timer" title="Restart the timer">00:00</button>
+      <span id="presenter-clock" class="muted"></span>
+      <span id="presenter-status" class="muted presenter-status" role="status"></span>
+      <span class="spacer"></span>
+      <button type="button" id="presenter-open">Open audience screen</button>
+      <button type="button" data-act="exit">End</button>
+    </header>
+    <div class="presenter-main">
+      <section class="presenter-now">
+        <h2>Now showing <span id="presenter-count"></span></h2>
+        <div class="present-stage" id="presenter-current"></div>
+      </section>
+      <section class="presenter-side">
+        <h2>Next</h2>
+        <div class="present-stage" id="presenter-next"></div>
+        <h2>All slides <small>Click one to show it</small></h2>
+        <ol class="presenter-list" id="presenter-list"></ol>
+      </section>
+    </div>
+    <footer class="presenter-controls">
+      <button type="button" data-act="prev">◀ Previous</button>
+      <button type="button" data-act="blank" id="presenter-blank">Blank screen (B)</button>
+      <button type="button" class="primary" data-act="next">Next ▶</button>
+    </footer>
+  </div>
+
   <script src="selection.js"></script>
   <script src="search.js"></script>
   <script src="setlist.js"></script>
   <script src="slides.js"></script>
+  <script src="stage.js"></script>
+  <script src="present.js"></script>
 </body>
 </html>

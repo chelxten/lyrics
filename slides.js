@@ -328,6 +328,7 @@ function update() {
     deck = null;
     setButtons(ui.pptxButtons, null, PPTX_LABEL);
     setButtons(ui.pngButtons, null, PNG_LABEL);
+    document.querySelectorAll('.present-start').forEach((button) => { button.disabled = true; });
     return;
   }
 
@@ -355,6 +356,7 @@ function update() {
   };
   setButtons(ui.pptxButtons, null, PPTX_LABEL);
   setButtons(ui.pngButtons, null, PNG_LABEL);
+  document.querySelectorAll('.present-start').forEach((button) => { button.disabled = false; });
 
   const transparent = captions && ui.transparent.checked;
   ui.out.innerHTML = result.slides

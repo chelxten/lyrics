@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex">
+  <title>Audience screen · Lyrics Library</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body class="audience">
+  <div class="present-stage" id="stage"></div>
+  <p class="audience-wait" id="wait">Waiting for the presenter view…</p>
+  <div class="audience-start" id="start">
+    <p>Drag this window to the projector or TV, then:</p>
+    <button type="button" id="fullscreen">Show full screen</button>
+    <p class="audience-note">Move between slides in the presenter view. Arrow keys and clickers work here too.</p>
+  </div>
+
+  <script src="stage.js"></script>
+  <script>
+    // The audience window: shows the slide chosen in the presenter view (present.js), nothing else.
+    (function () {
+      const channel = new BroadcastChannel('lyrics-present');
+      const stage = document.getElementById('stage');
+      let deck = null;
+      let current = { index: 0, blank: false };
+
+      function render() {
+        if (!deck) return;
+        document.getElementById('wait').hidden = true;
+        stage.style.background = deck.background;
+        fitSlide(stage, current.blank ? '' : deck.slides[current.index], deck.w, deck.h);
+      }
+
+      channel.onmessage = ({ data }) => {
+        if (data.type === 'deck') deck = data;
+        else if (data.type === 'show') current = data;
+        else if (data.type === 'end') window.close();
+        render();
+      };
+      channel.postMessage({ type: 'hello' });
+      window.addEventListener('beforeunload', () => channel.postMessage({ type: 'closed' }));
+      window.addEventListener('resize', render);
+
+      document.addEventListener('keydown', (e) => {
+        const action = PRESENT_KEYS[e.key];
+        if (!action) return;
+        e.preventDefault();
+        channel.postMessage({ type: 'nav', action });
+      });
+      document.getElementById('fullscreen').addEventListener('click', () => {
+        document.documentElement.requestFullscreen?.().catch(() => {});
+      });
+      document.addEventListener('fullscreenchange', () => {
+        document.getElementById('start').hidden = Boolean(document.fullscreenElement);
+        render();
+      });
+    })();
+  </script>
+</body>
+</html>

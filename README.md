@@ -75,6 +75,19 @@ transparent background becomes black there). **Download PNGs** saves a zip with 
 **Copy link** works the same way here: the link opens just the slides, with a **Download PowerPoint**
 button.
 
+### Presenting from the browser
+
+Instead of downloading, you can present the slides straight from the slides page (also from a
+shared link):
+
+- **▶ Present** shows them full screen in the same window. Use the arrow keys, Space, Page Up/Down
+  or a clicker, or tap the right or left of the screen (or swipe) on a phone or tablet. **B** blanks
+  the screen, **Esc** ends.
+- **Presenter view** (on a laptop) opens an audience window: drag it to the projector or TV and
+  click **Show full screen**. The laptop then shows the current slide, the next one, the words of
+  every slide (click one to jump to it), a timer and big Previous / Blank / Next buttons. Both
+  windows must be in the same browser on the same computer.
+
 The song list and **✎** edits are shared with the song sheet: an edit made on one page shows on the
 other, and never changes the song files.
 
