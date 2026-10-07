@@ -36,9 +36,13 @@
 
   // ---- The passage on the page ----
 
+  let showing = 0;
   async function show(ref, select = null) {
     ui.status.textContent = '';
+    // Only the latest passage asked for is shown, even if an earlier one finishes loading later.
+    const token = ++showing;
     const verses = await Bible.verses(ref);
+    if (token !== showing) return;
     shown = { ref, verses };
     selection = select;
     choosingEnd = Boolean(select);
