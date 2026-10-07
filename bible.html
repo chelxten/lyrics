@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Bible · Lyrics Library</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="site-header">
+    <a href="./" class="brand">Lyrics Library</a>
+    <nav class="site-nav" aria-label="Main">
+      <a href="./#/songs">Songs</a>
+      <a href="bible.html" aria-current="page">Bible</a>
+      <a href="sheet.html">Song sheet</a>
+      <a href="slides.html#format=full">PowerPoint</a>
+      <a href="slides.html#format=captions">Subtitles</a>
+    </nav>
+  </header>
+
+  <main class="bible-page ui">
+    <h1>Bible</h1>
+    <p class="muted">Judson Burmese Bible (1840) and King James Version. Add a passage to your set, next to your songs.</p>
+
+    <label>Find a passage or words
+      <input id="bible-q" type="search" placeholder="John 3:16-18, ယောဟန် ၃:၁၆, or words…" autocomplete="off">
+    </label>
+    <div class="two-up">
+      <label>Book <select id="bible-book"></select></label>
+      <label>Chapter <select id="bible-chapter"></select></label>
+    </div>
+    <div class="lang-choice" role="radiogroup" aria-label="Language">
+      <label class="check"><input type="radio" name="bible-lang" value="my" checked> Burmese</label>
+      <label class="check"><input type="radio" name="bible-lang" value="en"> English</label>
+      <label class="check"><input type="radio" name="bible-lang" value="both"> Both</label>
+    </div>
+    <p id="bible-status" class="muted bible-status" role="status"></p>
+
+    <section id="bible-passage" class="passage" hidden>
+      <div class="passage-head">
+        <h2 id="passage-title"></h2>
+        <button type="button" class="primary" id="passage-add"></button>
+      </div>
+      <p class="muted passage-hint" id="passage-hint"></p>
+      <ol id="passage-verses" class="passage-verses"></ol>
+    </section>
+
+    <section id="bible-results" class="bible-results" hidden>
+      <h2 id="results-title"></h2>
+      <ol id="results-list" class="passage-verses"></ol>
+    </section>
+  </main>
+
+  <script src="selection.js"></script>
+  <script src="bible.js"></script>
+  <script src="bible-page.js"></script>
+</body>
+</html>

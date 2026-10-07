@@ -121,7 +121,7 @@ fetch('songs.json', { cache: 'no-cache' })
     findSlug = SongSearch.slugResolver(data);
     // Songs picked under an old file name follow the song to its new name.
     const picks = SongSelection.all();
-    const current = [...new Set(picks.map(findSlug).filter(Boolean))];
+    const current = [...new Set(picks.map((slug) => (slug.startsWith('bible:') ? slug : findSlug(slug))).filter(Boolean))];
     if (current.join('\n') !== picks.join('\n')) SongSelection.set(current);
     route();
   })

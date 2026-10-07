@@ -91,6 +91,19 @@ shared link):
 The song list and **✎** edits are shared with the song sheet: an edit made on one page shows on the
 other, and never changes the song files.
 
+## Bible
+
+The **Bible** page has the Judson Burmese Bible (1840) and the King James Version, both public domain
+(see `bible/README.md`). Type a reference in English or Burmese (`John 3:16-18`, `Ps 23`,
+`ယောဟန် ၃:၁၆`), or pick a book and chapter, tap verses to choose some of them, and **+ Add** the
+passage to your set. Press Enter to search the whole Bible for words instead.
+
+A passage can also be added by typing its reference in the **Add a song** box on the song sheet and
+slides pages. Passages sit in the same list as songs and show up on the song sheet, the PowerPoint,
+the subtitles, the PNGs and when presenting. **Bible verses in** chooses Burmese, English or both,
+and on slides **Verses per slide** chooses one or two; PowerPoint slides show the reference in the
+corner.
+
 ## Song files
 
 Each song is a file in `songs/`. The file name is used in the song's web address.

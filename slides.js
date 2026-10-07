@@ -56,6 +56,8 @@ const ui = {
   fontSize: $('#font-size'),
   autoFont: $('#auto-font'),
   labels: $('#labels'),
+  bibleLang: $('#bible-lang'),
+  biblePer: $('#bible-per'),
   fit: $('#fit'),
   out: $('#slides-out'),
   measure: $('#measure'),
@@ -101,6 +103,8 @@ function readSettings() {
   ui.captionBg.value = color('cbg', OLD_BACKGROUNDS[oldBackground] || '000000');
   ui.transparent.checked = pick('transparent', oldBackground && oldBackground !== 'transparent' ? '0' : '1') !== '0';
   ui.labels.checked = pick('labels', '0') === '1';
+  ui.bibleLang.value = ['my', 'en', 'both'].includes(pick('blang', 'my')) ? pick('blang', 'my') : 'my';
+  ui.biblePer.value = pick('bper', '1') === '2' ? '2' : '1';
   ui.title.value = params.get('title') ?? '';
   const font = params.get('font');
   manualFont = font && font !== 'auto' ? clampFont(parseFloat(font)) : null;
@@ -125,6 +129,8 @@ function saveSettings() {
     cbg: ui.captionBg.value.slice(1),
     transparent: ui.transparent.checked ? '1' : '0',
     labels: ui.labels.checked ? '1' : '0',
+    blang: ui.bibleLang.value,
+    bper: ui.biblePer.value,
   };
   Object.entries(settings).forEach(([key, value]) => params.set(key, value));
   params.set('font', manualFont ?? 'auto');
@@ -159,10 +165,33 @@ function buildSlides(songs) {
   const slides = [];
   const title = ui.title.value.trim();
   if (title) slides.push({ kind: 'title', lines: [title] });
-  songs.forEach((song, n) => {
-    slides.push({ kind: 'title', lines: [`${burmeseNumber(n + 1)}။ ${song.title}`] });
+  let number = 0;
+  songs.forEach((song) => {
+    // A Bible passage: its verses, with the reference in the corner of each slide.
+    if (song.kind === 'bible') {
+      slides.push(...bibleSlides(song));
+      return;
+    }
+    number += 1;
+    slides.push({ kind: 'title', lines: [`${burmeseNumber(number)}။ ${song.title}`] });
     SetList.verses(song, ui.labels.checked).forEach((lines) => slides.push({ kind: 'verse', lines }));
   });
+  return slides;
+}
+
+// A Bible passage as verse slides: "Verses per slide" verses each, in the chosen language(s).
+function bibleSlides(passage) {
+  const lang = ui.bibleLang.value;
+  const perSlide = Number(ui.biblePer.value);
+  const slides = [];
+  for (let i = 0; i < passage.verses.length; i += perSlide) {
+    const verses = passage.verses.slice(i, i + perSlide);
+    slides.push({
+      kind: 'verse',
+      lines: verses.flatMap((verse) => Bible.verseLines(verse, lang, passage.ref)),
+      footer: Bible.label(Bible.part(passage.ref, verses), lang),
+    });
+  }
   return slides;
 }
 
@@ -201,7 +230,7 @@ function splitLongVerses(slides, heights, capacity) {
     let used = 0;
     slide.lines.forEach((line, i) => {
       if (part.length && used + lineHeights[i] > capacity) {
-        out.push({ kind: 'verse', lines: part });
+        out.push({ ...slide, lines: part });
         split = true;
         part = [];
         used = 0;
@@ -209,7 +238,7 @@ function splitLongVerses(slides, heights, capacity) {
       part.push(line);
       used += lineHeights[i];
     });
-    out.push({ kind: 'verse', lines: part });
+    out.push({ ...slide, lines: part });
   }
   return { slides: out, split };
 }
@@ -242,8 +271,16 @@ function buildCaptions(songs) {
   const captions = [];
   const title = ui.title.value.trim();
   if (title) captions.push({ kind: 'title', lines: [title] });
-  songs.forEach((song, n) => {
-    captions.push({ kind: 'title', lines: [`${burmeseNumber(n + 1)}။ ${song.title}`] });
+  let number = 0;
+  songs.forEach((song) => {
+    // A Bible passage: its reference first, then its verses.
+    if (song.kind === 'bible') {
+      captions.push({ kind: 'title', lines: [Bible.label(song.ref, ui.bibleLang.value)] });
+      bibleSlides(song).forEach(({ lines }) => captions.push({ kind: 'verse', lines }));
+      return;
+    }
+    number += 1;
+    captions.push({ kind: 'title', lines: [`${burmeseNumber(number)}။ ${song.title}`] });
     for (const verse of SetList.verses(song, ui.labels.checked)) {
       for (let i = 0; i < verse.length; i += perSlide) captions.push({ kind: 'verse', lines: verse.slice(i, i + perSlide) });
     }
@@ -295,8 +332,12 @@ function fullSlideHtml(slide, { w, h, font, full }) {
   return `
     <div class="slide slide-text" style="width:${px(w)}px;height:${px(h)}px;padding:${px(MARGIN)}px;background:#${full.bg};color:#${full.text};font-size:${slideFont(slide, font)}pt">
       <div class="slide-body${slide.kind === 'title' ? ' is-title' : ''}">${slide.lines.map(escapeHtml).join('\n')}</div>
+      ${slide.footer ? `<div class="slide-ref" style="font-size:${footerFont(font)}pt">${escapeHtml(slide.footer)}</div>` : ''}
     </div>`;
 }
+
+// The reference in the corner of Bible slides.
+const footerFont = (font) => Math.max(12, Math.round(font * 0.4));
 
 function captionSlideHtml(slide, { w, h, font, caption: c }) {
   return `
@@ -319,6 +360,7 @@ function update() {
   SetList.render();
   showFormatControls();
   const songs = SetList.songs();
+  document.querySelectorAll('.bible-only').forEach((el) => { el.hidden = !songs.some((song) => song.kind === 'bible'); });
   ui.autoFont.checked = manualFont === null;
 
   if (!songs.length) {
@@ -418,6 +460,20 @@ function addFullSlide(s, slide, { w, h, font, full }) {
     lineSpacing: size * LINE_HEIGHT,
     fit: 'shrink',
   });
+  if (slide.footer) {
+    s.addText(slide.footer, {
+      x: MARGIN,
+      y: h - MARGIN + 0.05,
+      w: w - 2 * MARGIN,
+      h: MARGIN - 0.1,
+      margin: 0,
+      fontFace: FONT_FACE,
+      fontSize: footerFont(font),
+      color: full.text,
+      align: 'right',
+      valign: 'middle',
+    });
+  }
 }
 
 function addCaptionSlide(pptx, s, slide, { w, h, font, caption: c }) {
@@ -510,7 +566,7 @@ function scheduleUpdate() {
   timer = setTimeout(update, 150);
 }
 
-[ui.size, ui.lines, ui.textStyle, ui.transparent, ui.labels].forEach((el) => el.addEventListener('change', update));
+[ui.size, ui.lines, ui.textStyle, ui.transparent, ui.labels, ui.bibleLang, ui.biblePer].forEach((el) => el.addEventListener('change', update));
 // Colors and the band opacity redraw while they're being picked or dragged.
 [ui.fullBg, ui.fullText, ui.captionText, ui.bandColor, ui.bandOpacity, ui.outlineColor, ui.captionBg].forEach((el) => {
   el.addEventListener('input', () => {

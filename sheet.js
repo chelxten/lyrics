@@ -36,6 +36,7 @@ const ui = {
   fontSize: $('#font-size'),
   autoFont: $('#auto-font'),
   labels: $('#labels'),
+  bibleLang: $('#bible-lang'),
   fit: $('#fit'),
   out: $('#pages-out'),
   measure: $('#measure'),
@@ -63,6 +64,7 @@ function readSettings() {
   ui.cols.value = ['auto', '1', '2', '3'].includes(pick('cols', '2')) ? pick('cols', '2') : '2';
   ui.split.value = pick('split', 'flow') === 'keep' ? 'keep' : 'flow';
   ui.labels.checked = pick('labels', '1') !== '0';
+  ui.bibleLang.value = ['my', 'en', 'both'].includes(pick('blang', 'my')) ? pick('blang', 'my') : 'my';
   ui.pages.value = clampPages(params.get('pages') ?? 1);
   ui.title.value = params.get('title') ?? '';
   const font = params.get('font');
@@ -81,20 +83,33 @@ function saveSettings() {
   params.set('pages', ui.pages.value);
   params.set('font', manualFont ?? 'auto');
   params.set('labels', ui.labels.checked ? '1' : '0');
+  params.set('blang', ui.bibleLang.value);
   if (ui.title.value.trim()) params.set('title', ui.title.value.trim());
   if (SetList.encodedEdits()) params.set('edits', SetList.encodedEdits());
   if (viewOnly) params.set('view', '1');
   history.replaceState(null, '', `#${params}`);
-  if (!viewOnly) SetList.storageSet('lyrics-sheet-settings', { size: ui.size.value, orient: ui.orient.value, cols: ui.cols.value, split: ui.split.value, labels: ui.labels.checked ? '1' : '0' });
+  if (!viewOnly) SetList.storageSet('lyrics-sheet-settings', { size: ui.size.value, orient: ui.orient.value, cols: ui.cols.value, split: ui.split.value, labels: ui.labels.checked ? '1' : '0', blang: ui.bibleLang.value });
 }
 
 // ---- Building blocks: a song title with its first verse, then each further verse ----
 
 function buildBlocks(songs) {
   const blocks = [];
-  songs.forEach((song, n) => {
+  let number = 0;
+  songs.forEach((song) => {
+    // A Bible passage: its reference, then each verse with its number.
+    if (song.kind === 'bible') {
+      const lang = ui.bibleLang.value;
+      const title = `<div class="sheet-song-title">${escapeHtml(Bible.label(song.ref, lang))}</div>`;
+      song.verses.forEach((verse, i) => {
+        const body = `<div class="sheet-stanza">${Bible.verseLines(verse, lang, song.ref).map(escapeHtml).join('\n')}</div>`;
+        blocks.push({ html: `<div class="sheet-block">${i === 0 ? title : ''}${body}</div>`, gap: i === 0 ? 'song' : 'stanza' });
+      });
+      return;
+    }
+    number += 1;
     const verses = SetList.verses(song, ui.labels.checked);
-    const title = `<div class="sheet-song-title">${burmeseNumber(n + 1)}။ ${escapeHtml(song.title)}</div>`;
+    const title = `<div class="sheet-song-title">${burmeseNumber(number)}။ ${escapeHtml(song.title)}</div>`;
     if (!verses.length) {
       blocks.push({ html: `<div class="sheet-block">${title}</div>`, gap: 'song' });
       return;
@@ -235,6 +250,7 @@ function update() {
   saveSettings();
   SetList.render();
   const songs = SetList.songs();
+  document.querySelectorAll('.bible-only').forEach((el) => { el.hidden = !songs.some((song) => song.kind === 'bible'); });
   const [pw, ph] = PAGE_SIZES[ui.size.value];
   const [w, h] = ui.orient.value === 'landscape' ? [ph, pw] : [pw, ph];
   ui.pageStyle.textContent = `@page { size: ${w}mm ${h}mm; margin: 0; }
@@ -375,7 +391,7 @@ function scheduleUpdate() {
   timer = setTimeout(update, 150);
 }
 
-[ui.size, ui.orient, ui.cols, ui.split, ui.labels].forEach((el) => el.addEventListener('change', update));
+[ui.size, ui.orient, ui.cols, ui.split, ui.labels, ui.bibleLang].forEach((el) => el.addEventListener('change', update));
 ui.pages.addEventListener('input', scheduleUpdate);
 ui.pages.addEventListener('change', () => { ui.pages.value = clampPages(ui.pages.value); update(); });
 ui.title.addEventListener('input', scheduleUpdate);

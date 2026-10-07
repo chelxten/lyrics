@@ -1,5 +1,5 @@
 // The songs picked for a song sheet or slides, shared by sheet.html and slides.html: loading the
-// songs, the list with ✎ ↑ ↓ ✕, and edits made with ✎. Edits only change a song on the sheet and
+// songs (and Bible passages, see bible.js), the list with ✎ ↑ ↓ ✕, and edits made with ✎. Edits only change a song on the sheet and
 // slides in this browser (and in their share links), never in the song files.
 (function () {
   const BURMESE_DIGITS = '၀၁၂၃၄၅၆၇၈၉';
@@ -20,6 +20,7 @@
   const MAX_ADD_RESULTS = 8;
 
   let songsBySlug = {};
+  let passages = {}; // Bible passages in the set ("bible:…" ids), once loaded
   let searchable = []; // the songs prepared for SongSearch
   let picked = [];
   let edits = {}; // slug -> { text, base } where base is the song's lyrics when it was edited
@@ -33,7 +34,17 @@
   }
 
   const burmeseNumber = (n) => String(n).replace(/\d/g, (d) => BURMESE_DIGITS[d]);
-  const pickedSongs = () => picked.map((slug) => songsBySlug[slug]).filter(Boolean);
+  const isPassage = (slug) => slug.startsWith('bible:');
+  const itemOf = (slug) => songsBySlug[slug] || passages[slug];
+  const pickedSongs = () => picked.map(itemOf).filter(Boolean);
+
+  // Loads the text of the Bible passages in a list (bible.js). Ones that can't be found are skipped.
+  async function loadPassages(slugs) {
+    if (!window.Bible) return;
+    await Promise.all(slugs.filter((slug) => isPassage(slug) && !passages[slug]).map(async (slug) => {
+      try { passages[slug] = await Bible.passage(slug); } catch {}
+    }));
+  }
 
   // The text used for a song: the edited version if there is one.
   function textOf(song) {
@@ -135,9 +146,9 @@
     ui.list.innerHTML = songs
       .map((song, i) => `
         <li class="${editing === song.slug ? 'is-editing' : ''}">
-          <span class="name">${escapeHtml(song.title)}${edits[song.slug] ? ' <small class="edited">edited</small>' : ''}</span>
+          <span class="name">${song.kind === 'bible' ? '📖 ' : ''}${escapeHtml(song.title)}${edits[song.slug] ? ' <small class="edited">edited</small>' : ''}</span>
           <span class="tools">
-            <button type="button" data-edit="${i}" aria-label="Edit ${escapeHtml(song.title)} for the sheet and slides" title="Edit for the sheet and slides">✎</button>
+            ${song.kind === 'bible' ? '<span class="tool-gap"></span>' : `<button type="button" data-edit="${i}" aria-label="Edit ${escapeHtml(song.title)} for the sheet and slides" title="Edit for the sheet and slides">✎</button>`}
             <button type="button" data-move="-1" data-i="${i}" aria-label="Move up" ${i === 0 ? 'disabled' : ''}>↑</button>
             <button type="button" data-move="1" data-i="${i}" aria-label="Move down" ${i === songs.length - 1 ? 'disabled' : ''}>↓</button>
             <button type="button" data-remove="${i}" aria-label="Remove">✕</button>
@@ -150,7 +161,7 @@
   ui.list.addEventListener('click', (e) => {
     const button = e.target.closest('button');
     if (!button) return;
-    const songs = picked.filter((slug) => songsBySlug[slug]);
+    const songs = picked.filter(itemOf);
     if (button.dataset.edit !== undefined) {
       openEditor(songs[Number(button.dataset.edit)]);
       return;
@@ -176,11 +187,13 @@
     ui.addResults.hidden = !query;
     if (!query) {
       ui.addResults.innerHTML = '';
+      passageQuery++;
       return;
     }
     const { words, hits } = SongSearch.search(searchable, query);
     if (!hits.length) {
-      ui.addResults.innerHTML = `<li class="add-note">No songs match “${escapeHtml(query)}”.</li>`;
+      ui.addResults.innerHTML = `<li class="add-note no-match">No songs match “${escapeHtml(query)}”.</li>`;
+      showPassageResult(query);
       return;
     }
     ui.addResults.innerHTML = hits
@@ -197,14 +210,40 @@
           </button></li>`;
       })
       .join('') + (hits.length > MAX_ADD_RESULTS ? `<li class="add-note">${hits.length - MAX_ADD_RESULTS} more: type more words to narrow it down.</li>` : '');
+    showPassageResult(query);
+  }
+
+  // A Bible reference typed in the box ("John 3:16", "ယောဟန် ၃:၁၆") shows the passage as the first result.
+  let passageQuery = 0;
+  function showPassageResult(query) {
+    const token = ++passageQuery;
+    if (!window.Bible) return;
+    Bible.parse(query).then((ref) => {
+      if (!ref || token !== passageQuery) return;
+      const slug = Bible.id(ref);
+      const on = picked.includes(slug);
+      ui.addResults.querySelector('.no-match')?.remove();
+      ui.addResults.insertAdjacentHTML('afterbegin', `
+        <li><button type="button" data-slug="${escapeHtml(slug)}" aria-pressed="${on}" title="${on ? 'Remove' : 'Add'}">
+          <span class="add-text">
+            <span class="title">📖 ${escapeHtml(Bible.label(ref, 'my'))}</span>
+            <span class="snippet">${escapeHtml(Bible.label(ref, 'en'))} · Bible</span>
+          </span>
+          <span class="add-mark" aria-hidden="true">${on ? '✓' : '+'}</span>
+        </button></li>`);
+    }, () => {});
   }
 
   // Adds a song to the end of the list, or removes it if it's already there.
-  function toggleSong(slug) {
+  async function toggleSong(slug) {
     if (picked.includes(slug)) {
       picked = picked.filter((s) => s !== slug);
       if (editing === slug) closeEditor();
     } else {
+      if (isPassage(slug)) {
+        await loadPassages([slug]);
+        if (!passages[slug]) return;
+      }
       picked = [...picked, slug];
     }
     SongSelection.set(picked);
@@ -213,7 +252,7 @@
   }
 
   ui.addSearch.addEventListener('input', renderAddResults);
-  ui.addSearch.addEventListener('keydown', (e) => {
+  ui.addSearch.addEventListener('keydown', async (e) => {
     if (e.key === 'Escape') {
       ui.addSearch.value = '';
       renderAddResults();
@@ -222,6 +261,13 @@
     e.preventDefault();
     // Enter adds the best match that isn't on the list yet.
     if (!ui.addSearch.value.trim()) return;
+    // A Bible reference adds that passage.
+    const ref = window.Bible ? await Bible.parse(ui.addSearch.value).catch(() => null) : null;
+    if (ref && !picked.includes(Bible.id(ref))) {
+      ui.addSearch.value = '';
+      toggleSong(Bible.id(ref));
+      return;
+    }
     const hit = SongSearch.search(searchable, ui.addSearch.value).hits.find(({ song }) => !picked.includes(song.slug));
     if (!hit) return;
     ui.addSearch.value = '';
@@ -273,10 +319,12 @@
   // If songs change in another tab (e.g. + on the song list), follow along.
   SongSelection.onChange((songs) => {
     if (viewOnly || songs.join('\n') === picked.join('\n')) return;
-    picked = songs;
-    if (editing && !picked.includes(editing)) closeEditor();
-    editsChanged();
-    page.update();
+    loadPassages(songs).then(() => {
+      picked = SongSelection.all();
+      if (editing && !picked.includes(editing)) closeEditor();
+      editsChanged();
+      page.update();
+    });
   });
 
   // Saves a file made in the browser (JPG, PNGs, PowerPoint) to the viewer's downloads.
@@ -322,7 +370,7 @@
     searchable = data.map(SongSearch.prepare);
     // Songs linked or saved under an old file name follow the song to its new name.
     const findSlug = SongSearch.slugResolver(data);
-    const current = (slugs) => [...new Set(slugs.map(findSlug).filter(Boolean))];
+    const current = (slugs) => [...new Set(slugs.map((slug) => (isPassage(slug) ? slug : findSlug(slug))).filter(Boolean))];
     const currentEdits = (all) => Object.fromEntries(Object.entries(all || {}).map(([slug, edit]) => [findSlug(slug), edit]).filter(([slug]) => slug));
     if (link.songs.length) {
       picked = current(link.songs);
@@ -333,6 +381,8 @@
       if (picked.join('\n') !== SongSelection.all().join('\n')) SongSelection.set(picked);
       edits = currentEdits(storageGet(EDITS_KEY, {}));
     }
+    await loadPassages(picked);
+    picked = picked.filter(itemOf);
     editsChanged();
     // Wait for fonts so measurements match what gets printed or shown.
     if (document.fonts) await document.fonts.ready;

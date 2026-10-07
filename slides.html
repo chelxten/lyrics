@@ -11,6 +11,7 @@
     <a href="./" class="brand">Lyrics Library</a>
     <nav class="site-nav" aria-label="Main">
       <a href="./#/songs">Songs</a>
+      <a href="bible.html">Bible</a>
       <a href="sheet.html">Song sheet</a>
       <a href="slides.html#format=full" data-format="full">PowerPoint</a>
       <a href="slides.html#format=captions" data-format="captions">Subtitles</a>
@@ -40,6 +41,21 @@
             <strong>PowerPoint</strong><span>One verse per slide, full screen</span></label>
           <label class="format-option"><input type="radio" name="format" value="captions">
             <strong>Subtitles</strong><span>1–2 lines at the bottom, for video</span></label>
+        </div>
+        <div class="two-up bible-only" hidden>
+          <label>Bible verses in
+            <select id="bible-lang">
+              <option value="my">Burmese</option>
+              <option value="en">English</option>
+              <option value="both">Burmese and English</option>
+            </select>
+          </label>
+          <label>Verses per slide
+            <select id="bible-per">
+              <option value="1">1 verse</option>
+              <option value="2">2 verses</option>
+            </select>
+          </label>
         </div>
         <div class="two-up full-only">
           <label>Background <input type="color" id="full-bg" value="#000000"></label>
@@ -184,6 +200,7 @@
 
   <script src="selection.js"></script>
   <script src="search.js"></script>
+  <script src="bible.js"></script>
   <script src="setlist.js"></script>
   <script src="slides.js"></script>
   <script src="stage.js"></script>
